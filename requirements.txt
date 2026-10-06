@@ -1,0 +1,27 @@
+# No third-party Python packages are required.
+#
+# The whole pipeline — text normalization, book assembly, chunking, synthesis
+# and MP3 encoding — uses only the Python standard library (argparse, hashlib,
+# json, os, re, shutil, subprocess, sys, tempfile, pathlib, unicodedata, ...).
+#
+# This file exists so that the absence of dependencies is explicit and so that
+# `python3 -m pip install -r requirements.txt` is a valid, harmless no-op on any
+# machine. scripts/make_all_audio.sh and make_all_audio.ps1 verify the scripts
+# actually run, which is a stronger check than installing anything here.
+#
+# What the pipeline does need is not a Python package:
+#
+#   a speech engine, one of:
+#     say         built into macOS
+#     sapi        built into Windows, through PowerShell and System.Speech
+#     espeak-ng   apt install espeak-ng (or dnf, pacman, zypper)
+#     piper       python3 -m pip install piper-tts, plus a .onnx voice model
+#   ffmpeg/ffprobe
+#     macOS    brew install ffmpeg
+#     Linux    sudo apt-get install -y ffmpeg
+#     Windows  winget install --id Gyan.FFmpeg -e
+#
+# All of them are checked, and with your permission installed, by:
+#
+#   ./scripts/make_all_audio.sh      # macOS, Linux, Windows (Git Bash / MSYS2)
+#   .\scripts\make_all_audio.ps1     # Windows, native PowerShell

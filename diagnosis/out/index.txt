@@ -1,0 +1,84 @@
+# Clinical Diagnosis — A Practical Manual for History, Examination and Differential Reasoning
+
+  1. Chapter 1 — How Diagnosis Works
+  2. Chapter 2 — Cognitive Biases and Diagnostic Error
+  3. Chapter 3 — Building a Differential Diagnosis
+  4. Chapter 4 — Using Tests Wisely
+  5. Chapter 5 — Diagnosis with Limited Resources
+  6. Chapter 6 — Taking the History
+  7. Chapter 7 — Past, Family, Social and Medication History
+  8. Chapter 8 — Communication and Trust
+  9. Chapter 9 — Documentation
+ 10. Chapter 10 — General Inspection
+ 11. Chapter 11 — Vital Signs as Diagnostic Tools
+ 12. Chapter 12 — Cardiovascular Examination
+ 13. Chapter 13 — Respiratory Examination
+ 14. Chapter 14 — Abdominal Examination
+ 15. Chapter 15 — Neurological Examination
+ 16. Chapter 16 — Musculoskeletal Examination
+ 17. Chapter 17 — Head, Eyes, Ears, Nose, Throat and Mouth
+ 18. Chapter 18 — Skin, Hair and Nails
+ 19. Chapter 19 — Genitourinary and Breast Examination
+ 20. Chapter 20 — Mental State Examination
+ 21. Chapter 21 — Fever
+ 22. Chapter 22 — Chest Pain
+ 23. Chapter 23 — Dyspnea and Cough
+ 24. Chapter 24 — Headache and Dizziness
+ 25. Chapter 25 — Abdominal Pain
+ 26. Chapter 26 — Nausea, Vomiting, Diarrhea and Constipation
+ 27. Chapter 27 — Gastrointestinal Bleeding and Jaundice
+ 28. Chapter 28 — Palpitations, Syncope and Collapse
+ 29. Chapter 29 — Back and Joint Pain
+ 30. Chapter 30 — Weight Loss, Fatigue and Anorexia
+ 31. Chapter 31 — Edema, Swelling and Lumps
+ 32. Chapter 32 — Urinary Symptoms and Hematuria
+ 33. Chapter 33 — Altered Consciousness, Confusion and Seizures
+ 34. Chapter 34 — Rash and Skin Complaints
+ 35. Chapter 35 — Bleeding, Bruising and Anemia
+ 36. Chapter 36 — Pain Assessment Across Ages and Cultures
+ 37. Chapter 37 — The First Minute
+ 38. Chapter 38 — Shock
+ 39. Chapter 39 — Sepsis Recognition
+ 40. Chapter 40 — Respiratory Failure and Airway Compromise
+ 41. Chapter 41 — Acute Neurological Emergencies
+ 42. Chapter 42 — Acute Abdomen, Trauma and Hemorrhage
+ 43. Chapter 43 — Metabolic Emergencies
+ 44. Chapter 44 — Deterioration and Early Warning
+ 45. Chapter 45 — Cardiovascular Disease
+ 46. Chapter 46 — Respiratory Disease
+ 47. Chapter 47 — Gastrointestinal and Hepatic Disease
+ 48. Chapter 48 — Endocrine and Metabolic Disease
+ 49. Chapter 49 — Renal and Urological Disease
+ 50. Chapter 50 — Hematology and Oncology
+ 51. Chapter 51 — Neurology
+ 52. Chapter 52 — Musculoskeletal and Rheumatology
+ 53. Chapter 53 — Infectious Diseases
+ 54. Chapter 54 — Dermatology
+ 55. Chapter 55 — ENT and Ophthalmology
+ 56. Chapter 56 — Psychiatry
+ 57. Chapter 57 — Pregnancy and Obstetrics
+ 58. Chapter 58 — Newborns and Infants
+ 59. Chapter 59 — Children
+ 60. Chapter 60 — Adolescents
+ 61. Chapter 61 — Older Adults
+ 62. Chapter 62 — Immunocompromised Patients
+ 63. Chapter 63 — Palliative and End-of-Life Assessment
+ 64. Chapter 64 — Laboratory Tests
+ 65. Chapter 65 — ECG Interpretation
+ 66. Chapter 66 — Chest and Abdominal X-Ray
+ 67. Chapter 67 — Ultrasound at the Bedside
+ 68. Chapter 68 — Point-of-Care and Rapid Tests
+ 69. Chapter 69 — Choosing and Interpreting Tests in Context
+ 70. Chapter 70 — Scoring Systems and Rules
+ 71. Chapter 71 — Flowcharts and Algorithms
+ 72. Chapter 72 — Red Flags and Referral Criteria
+ 73. Chapter 73 — Follow-Up and Safety-Netting
+ 74. Chapter 74 — Case-Based Learning
+ 75. Chapter 75 — Clinical Judgment Under Uncertainty
+ 76. Chapter 76 — Ethics and Patient-Centered Diagnosis
+ 77. Chapter 77 — Teaching and Self-Assessment
+ 78. Appendix A — Examination Checklists by System
+ 79. Appendix B — Differential Diagnosis Tables by Symptom
+ 80. Appendix C — Normal Values and Reference Ranges
+ 81. Appendix D — Red-Flag Summary Cards
+ 82. Appendix E — Glossary and Recommended Reading

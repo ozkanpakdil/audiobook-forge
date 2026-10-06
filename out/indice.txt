@@ -1,0 +1,57 @@
+Anatomia umana - corso narrato
+
+  1. Capitolo 1 — Che cos'è l'anatomia: metodi di studio, piani di riferimento, termini di posizione e movimento
+  2. Capitolo 2 — I tessuti fondamentali: epiteliale, connettivo, muscolare, nervoso
+  3. Capitolo 3 — Lo scheletro nel suo insieme: funzioni dell'osso, tipi di ossa, crescita e rimodellamento
+  4. Capitolo 4 — Il sistema muscolare nel suo insieme: fibra muscolare, contrazione, leve e leve del corpo
+  5. Capitolo 5 — La colonna vertebrale: vertebre, curve, dischi e canale vertebrale
+  6. Capitolo 6 — La gabbia toracica: coste, sterno, articolazioni costo-vertebrali e meccanica del respiro
+  7. Capitolo 7 — Il neurocranio: ossa della volta e della base
+  8. Capitolo 8 — Lo splancnocranio: ossa della faccia, orbita, cavita' nasali e fossa cranica
+  9. Capitolo 9 — Il cingolo scapolare e le ossa del braccio: clavicola, scapola, omero
+ 10. Capitolo 10 — Avambraccio e mano: radio, ulna, carpo, metacarpo, falangi
+ 11. Capitolo 11 — Il cingolo pelvico e il bacino: ileo, ischio, pube, differenze fra i sessi
+ 12. Capitolo 12 — Femore, tibia e perone: architettura dell'arto inferiore
+ 13. Capitolo 13 — Caviglia e piede: tarso, metatarso, falangi, archi plantari
+ 14. Capitolo 14 — Artrologia generale e le grandi articolazioni: spalla, gomito, anca, ginocchio
+ 15. Capitolo 15 — I muscoli del dorso e della nuca: strati, triangoli, estensione del rachide
+ 16. Capitolo 16 — I muscoli del torace e il diaframma: meccanica respiratoria
+ 17. Capitolo 17 — La parete addominale e il canale inguinale: muscoli larghi, guaine, ernie
+ 18. Capitolo 18 — I muscoli dell'arto superiore: spalla, braccio, avambraccio, mano
+ 19. Capitolo 19 — I muscoli dell'arto inferiore: glutei, coscia, gamba, piede
+ 20. Capitolo 20 — I muscoli della testa: masticazione e mimica
+ 21. Capitolo 21 — I muscoli del collo: triangoli, muscoli ioidei, fasce
+ 22. Capitolo 22 — Biomeccanica del movimento: postura, deambulazione, catene muscolari
+ 23. Capitolo 23 — Il sangue: plasma, eritrociti, leucociti, piastrine, emostasi
+ 24. Capitolo 24 — Il cuore: configurazione, camere, valvole, pericardio
+ 25. Capitolo 25 — Il sistema di conduzione e il ciclo cardiaco: dal nodo senoatriale al volume sistolico
+ 26. Capitolo 26 — La circolazione sistemica: aorta, rami, territori di irrorazione
+ 27. Capitolo 27 — La circolazione polmonare e la circolazione fetale
+ 28. Capitolo 28 — Il ritorno venoso e il sistema linfatico
+ 29. Capitolo 29 — Microcircolazione, capillari e regolazione della pressione
+ 30. Capitolo 30 — Vie aeree superiori: naso, cavità paranasali, faringe, laringe
+ 31. Capitolo 31 — Trachea, bronchi e polmoni: albero bronchiale e segmenti
+ 32. Capitolo 32 — Alveoli, scambi gassosi, pleure e meccanica ventilatoria
+ 33. Capitolo 33 — Il mediastino: suddivisioni, contenuto, rapporti
+ 34. Capitolo 34 — Bocca, denti, lingua e ghiandole salivari
+ 35. Capitolo 35 — Faringe ed esofago: la deglutizione
+ 36. Capitolo 36 — Lo stomaco: regioni, parete, ghiandole, funzione
+ 37. Capitolo 37 — Intestino tenue e intestino crasso: peritoneo, mesenteri, assorbimento
+ 38. Capitolo 38 — Fegato, vie biliari e pancreas
+ 39. Capitolo 39 — Rene e vie urinarie: nefrone, filtrazione, ureteri, vescica
+ 40. Capitolo 40 — Ghiandole surrenali, omeostasi e regolazione idrosalina
+ 41. Capitolo 41 — Ipofisi, epifisi, tiroide e paratiroidi
+ 42. Capitolo 42 — L'apparato riproduttivo maschile
+ 43. Capitolo 43 — L'apparato riproduttivo femminile e il ciclo ovarico
+ 44. Capitolo 44 — Pelvi e perineo: pavimento pelvico, triangoli, differenze sessuali
+ 45. Capitolo 45 — Fecondazione, sviluppo embrionale iniziale e annessi embrionali
+ 46. Capitolo 46 — Il neurone, la sinapsi e la neuroglia
+ 47. Capitolo 47 — Midollo spinale e nervi spinali: organizzazione e riflessi
+ 48. Capitolo 48 — Tronco encefalico e cervelletto
+ 49. Capitolo 49 — Diencefalo: talamo, ipotalamo, sistema limbico
+ 50. Capitolo 50 — Telencefalo: corteccia, lobi, aree funzionali, vie
+ 51. Capitolo 51 — Meningi, ventricoli e liquido cerebrospinale
+ 52. Capitolo 52 — Il sistema nervoso autonomo: simpatico, parasimpatico, enterico
+ 53. Capitolo 53 — L'occhio e la vista
+ 54. Capitolo 54 — L'orecchio: udito ed equilibrio
+ 55. Capitolo 55 — Olfatto, gusto, sensibilità somatica e propriocezione

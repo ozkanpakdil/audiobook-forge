@@ -1,0 +1,85 @@
+# Hospital Equipment — A Complete Guide to Devices, Machines, Tools and Consumables
+
+  1. Chapter 1 — How a Hospital Is Organized
+  2. Chapter 2 — Classification of Medical Devices
+  3. Chapter 3 — Safety Principles
+  4. Chapter 4 — The Lifecycle of Equipment
+  5. Chapter 5 — Hospital Beds and Patient Handling
+  6. Chapter 6 — Vital Sign Monitoring
+  7. Chapter 7 — Patient Monitors
+  8. Chapter 8 — Basic Examination Tools
+  9. Chapter 9 — Vascular Access
+ 10. Chapter 10 — Infusion Devices
+ 11. Chapter 11 — Syringes, Needles, and Injection Devices
+ 12. Chapter 12 — Fluids, Blood, and Blood Products
+ 13. Chapter 13 — Medication Management
+ 14. Chapter 14 — Oxygen Systems
+ 15. Chapter 15 — Airway Management
+ 16. Chapter 16 — Ventilation
+ 17. Chapter 17 — Suction, Nebulizers, and Chest Drainage
+ 18. Chapter 18 — Respiratory Diagnostics
+ 19. Chapter 19 — ECG and Cardiac Diagnostics
+ 20. Chapter 20 — Defibrillators and Pacing
+ 21. Chapter 21 — Resuscitation Equipment
+ 22. Chapter 22 — Cardiac Catheterization and Interventional Tools
+ 23. Chapter 23 — Cardiac Surgery and Circulatory Support
+ 24. Chapter 24 — X-Ray and Fluoroscopy
+ 25. Chapter 25 — CT Scanners
+ 26. Chapter 26 — MRI
+ 27. Chapter 27 — Ultrasound
+ 28. Chapter 28 — Nuclear Medicine and PET
+ 29. Chapter 29 — Mammography, DEXA, and Specialized Imaging
+ 30. Chapter 30 — PACS and Imaging Information Technology
+ 31. Chapter 31 — Specimen Collection
+ 32. Chapter 32 — Hematology and Coagulation Analyzers
+ 33. Chapter 33 — Clinical Chemistry and Immunoassay Analyzers
+ 34. Chapter 34 — Microbiology
+ 35. Chapter 35 — Point-of-Care Tests
+ 36. Chapter 36 — Pathology and Blood Bank
+ 37. Chapter 37 — Operating Theatre Layout and Fixed Equipment
+ 38. Chapter 38 — Anesthesia Machines and Monitoring
+ 39. Chapter 39 — Surgical Instruments
+ 40. Chapter 40 — Energy Devices
+ 41. Chapter 41 — Endoscopic and Minimally Invasive Surgery
+ 42. Chapter 42 — Orthopedic Equipment
+ 43. Chapter 43 — Sutures, Staplers, Meshes, and Hemostats
+ 44. Chapter 44 — Surgical Drapes, Gowns, Gloves, and Counting Systems
+ 45. Chapter 45 — Obstetrics and Neonatology
+ 46. Chapter 46 — Pediatrics
+ 47. Chapter 47 — Nephrology
+ 48. Chapter 48 — Gastroenterology
+ 49. Chapter 49 — Ophthalmology, ENT, and Dentistry
+ 50. Chapter 50 — Oncology and Radiotherapy
+ 51. Chapter 51 — Neurology and Neurosurgery
+ 52. Chapter 52 — Urology, Gynecology, and Wound Care
+ 53. Chapter 53 — Rehabilitation and Physiotherapy
+ 54. Chapter 54 — Mental Health Units
+ 55. Chapter 55 — ICU Setup
+ 56. Chapter 56 — Emergency Department Equipment
+ 57. Chapter 57 — Transport and Pre-Hospital Equipment
+ 58. Chapter 58 — Disaster and Mass-Casualty Equipment
+ 59. Chapter 59 — Personal Protective Equipment
+ 60. Chapter 60 — Hand Hygiene and Cleaning
+ 61. Chapter 61 — Sterilization and Reprocessing
+ 62. Chapter 62 — Isolation Rooms and Ventilation Systems
+ 63. Chapter 63 — Waste Management
+ 64. Chapter 64 — Dressings and Wound Care Supplies
+ 65. Chapter 65 — Catheters, Tubes, and Drains
+ 66. Chapter 66 — Collection and Drainage Systems
+ 67. Chapter 67 — Disposable Textiles and Linens
+ 68. Chapter 68 — Labels, Wristbands, and Documentation Supplies
+ 69. Chapter 69 — Stock Categories and Storage
+ 70. Chapter 70 — Medical Gases and Vacuum
+ 71. Chapter 71 — Electrical Systems
+ 72. Chapter 72 — HVAC and Water Systems
+ 73. Chapter 73 — Hospital Information Systems
+ 74. Chapter 74 — Logistics
+ 75. Chapter 75 — Maintenance and Troubleshooting
+ 76. Chapter 76 — Regulation, Standards, and Quality
+ 77. Chapter 77 — Equipment in Low-Resource Settings
+ 78. Chapter 78 — Emerging Technologies
+ 79. Appendix A — Visual Atlas of Equipment by Department
+ 80. Appendix B — Quick-Reference Tables: Tube Colors, Needle Gauges, Catheter Sizes, and Oxygen Delivery Devices
+ 81. Appendix C — Crash Cart and Department Checklists
+ 82. Appendix D — Glossary of Devices and Acronyms
+ 83. Appendix E — Troubleshooting Flowcharts for Common Alarms

@@ -1,0 +1,23 @@
+# Generated audio: never committed, everyone builds their own.
+*.mp3
+*.wav
+audio/
+*/audio/
+*.m3u
+
+# Intermediate WAV chunks kept for resuming a run.
+.cache/
+
+# Downloaded speech models and the tool environment.
+models/
+.tools/
+.venv/
+venv/
+
+# The voice chosen in a previous interactive run.
+.voci-scelte.json
+
+# Python and macOS leftovers.
+__pycache__/
+*.pyc
+.DS_Store
