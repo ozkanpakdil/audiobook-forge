@@ -2,15 +2,20 @@
 #
 # make_all_audio.sh — build every book's text and turn it into MP3 files.
 #
-# One command to go from a fresh clone to three audiobooks. It checks (and, if you
+# One command to go from a fresh clone to five audiobooks. It checks (and, if you
 # let it, installs) everything the pipeline needs, rebuilds each book's text from
 # its chapters, and converts it to MP3 with a speech engine found on the machine.
 #
 # Works on macOS, Linux, and Windows under Git Bash / MSYS2 / Cygwin. On Windows
 # the native alternative is make_all_audio.ps1.
 #
-#   ./scripts/make_all_audio.sh                  # all four books
-#   ./scripts/make_all_audio.sh --book equipment # just one
+# The books are not listed here: books/books.tsv is the single registry that both
+# this launcher and make_all_audio.ps1 read. Every book lives in books/<slug>/ with
+# the same shape (content/, out/, audio/), so nothing here needs to know the
+# particular paths of a particular book.
+#
+#   ./scripts/make_all_audio.sh                  # every book in the registry
+#   ./scripts/make_all_audio.sh --book equipment # just one (slug or alias)
 #   ./scripts/make_all_audio.sh --dry-run        # plan, durations, sizes only
 #   ./scripts/make_all_audio.sh --engine espeak  # pick the speech engine
 #   ./scripts/make_all_audio.sh --prune-cache    # free the WAV cache when done
@@ -62,12 +67,10 @@ ASSUME_YES=0
 WITH_PIP=0
 PRUNE_CACHE=0
 LIST_VOICES=0
+LIST_BOOKS=0
 
-# Acronyms each English book tolerates as spoken short forms (see their PLAN.md).
-TROPICAL_ACRONYMS="CT,MRI,ECG,EEG"
-EQUIPMENT_ACRONYMS="CT,MRI,ECG,EEG,EMG,PET,DEXA,PACS,ICU,PPE,CPR,AED,CPAP,BIPAP,PICC,PCA,CRRT,CSSD,UPS,HVAC,EHR,ISO,IEC,FDA,MSF,VHF,UHF,USB,LED,LCD,PVC,PTFE,RFID,GPS,SIM,AI,DICOM,HL7,BF,CF,ENT"
-DIAGNOSIS_ACRONYMS="CT,MRI,ECG,ENT,ICU,CPR,PPE"
-TRAUMA_ACRONYMS="CT,MRI,CPR,PPE,ICU,ABCDE"
+# The acronyms each book tolerates as spoken short forms used to be hardcoded
+# here. They now live, per book, in books/books.tsv — see the registry section.
 
 # ----------------------------------------------------------------- messages
 info() { printf '\033[1;34m==>\033[0m %s\n' "$*"; }
@@ -94,7 +97,15 @@ Usage:
   ./scripts/make_all_audio.sh [options]
 
 Books:
-  --book NAME        it | tropical | equipment | diagnosis | trauma | all
+  --book NAME        the slug of a book under books/, the slug of its folder,
+                     one of its aliases, or 'all'. The list lives in
+                     books/books.tsv, which is also what the PowerShell
+                     launcher reads; run --list-books to print it.
+                       anatomia-umana         (aliases: it, italiano, anatomia)
+                       tropical-medicine      (alias:   tropical)
+                       hospital-equipment     (alias:   equipment)
+                       clinical-diagnosis     (alias:   diagnosis)
+                       emergency-trauma-care  (aliases: trauma, emergency)
                      With no --book on a terminal, it asks which one; then
                      it asks which engine, and which voice and accent (with
                      a list to listen to, and the Indian English voices
@@ -139,6 +150,7 @@ Common options:
   --dry-run          print the plan, durations and sizes; synthesize nothing
   --prune-cache      delete each book's .cache/ WAV directory after success
   --list-voices      list the engines and voices available, then exit
+  --list-books       list the books in the registry and their folders, then exit
 
 Installation:
   --skip-install     never try to install anything; fail if something is missing
@@ -180,6 +192,7 @@ while [[ $# -gt 0 ]]; do
         --dry-run)      DRY=1; shift ;;
         --prune-cache)  PRUNE_CACHE=1; shift ;;
         --list-voices)  LIST_VOICES=1; shift ;;
+        --list-books)   LIST_BOOKS=1; shift ;;
         --skip-install) SKIP_INSTALL=1; shift ;;
         --install-brew) INSTALL_BREW=1; shift ;;
         --with-pip)     WITH_PIP=1; shift ;;
@@ -191,15 +204,94 @@ done
 
 
 # ----------------------------------------------------------------- book registry
-# text | sources | language | title
+# books/books.tsv is the only place a book is declared. This launcher and
+# make_all_audio.ps1 both read it, so the two can never disagree about which books
+# exist, where they live, or how each one is built. Every book folder has the same
+# shape, which is why nothing below hardcodes a book:
+#
+#   books/<slug>/content/PLAN.md          the style contract
+#   books/<slug>/content/OUTLINE.md       the briefs, one per section
+#   books/<slug>/content/capitoli/*.md    the sections themselves
+#   books/<slug>/content/FRONT_MATTER.md  front matter, when the book has its own
+#   books/<slug>/out/<slug>.txt           the assembled book
+#   books/<slug>/out/index.txt            the readable index
+#   books/<slug>/audio/                   generated MP3s, never committed
+#
+# Registry columns: slug, lang, toc, acronyms, title, aliases.
+REGISTRY="books/books.tsv"
+
+# One validated row per book: header, comments and blank lines removed. awk keeps
+# $0 intact so the tabs survive.
+registry_rows() {
+    [[ -f "$REGISTRY" ]] || die "book registry not found: $REGISTRY"
+    awk -F'\t' 'NR > 1 && $1 != "" && $1 !~ /^[[:space:]]*#/ { print }' "$REGISTRY"
+}
+
+# book_field <slug> <lang|toc|acr|title|aliases> — one column of a book's row.
+# The "-" placeholder means "not set" and prints nothing.
+book_field() {
+    local want="$1" col="$2" slug lang toc acr title aliases
+    while IFS=$'\t' read -r slug lang toc acr title aliases; do
+        [[ "$slug" == "$want" ]] || continue
+        case "$col" in
+            lang)    printf '%s' "$lang" ;;
+            toc)     [[ "$toc" == "-" ]] || printf '%s' "$toc" ;;
+            acr)     [[ "$acr" == "-" ]] || printf '%s' "$acr" ;;
+            title)   printf '%s' "$title" ;;
+            aliases) printf '%s' "$aliases" ;;
+            *)       printf '%s' "$slug" ;;
+        esac
+        return 0
+    done < <(registry_rows)
+    return 1
+}
+
+# All canonical slugs, in registry order.
+book_slugs() {
+    local slug rest
+    while IFS=$'\t' read -r slug rest; do printf '%s\n' "$slug"; done < <(registry_rows)
+}
+
+# Resolves a name typed on the command line — canonical slug or alias, any case —
+# to the canonical slug. Prints nothing and fails when the name is unknown.
+book_canon() {
+    local want slug lang toc acr title aliases a alias_parts
+    want="$(printf '%s' "$1" | tr '[:upper:]' '[:lower:]')"
+    while IFS=$'\t' read -r slug lang toc acr title aliases; do
+        [[ "$slug" == "$want" ]] && { printf '%s' "$slug"; return 0; }
+        IFS=',' read -r -a alias_parts <<<"$aliases"
+        for a in "${alias_parts[@]}"; do
+            a="$(printf '%s' "$a" | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+            [[ -n "$a" && "$a" == "$want" ]] && { printf '%s' "$slug"; return 0; }
+        done
+    done < <(registry_rows)
+    return 1
+}
+
+# Every path of a book, derived from that folder shape. One line, pipe separated:
+#   text | source | lang | title | builder | front | indice | acronyms | toc
 book_paths() {
-    case "$1" in
-        it)        printf 'out/anatomia.txt|content/capitoli|it|Anatomia umana (Italian)' ;;
-        tropical)  printf 'tropical/out/tropical-medicine.txt|tropical/content/capitoli|en|Tropical Medicine (English)' ;;
-        equipment) printf 'equipment/out/hospital-equipment.txt|equipment/content/capitoli|en|Hospital Equipment (English)' ;;
-        diagnosis) printf 'diagnosis/out/clinical-diagnosis.txt|diagnosis/content/capitoli|en|Clinical Diagnosis (English)' ;;
-        trauma)    printf 'trauma/out/emergency-trauma-care.txt|trauma/content/capitoli|en|Emergency Wound and Trauma Care (English)' ;;
-    esac
+    # Note: these must not share a `local` line. On bash 3.2 (the /bin/bash that
+    # macOS still ships) `local a="$1" b="x/$a"` expands $a from the *outer* scope,
+    # so dir would silently pick up a stale value.
+    local slug="$1"
+    local dir; dir="books/$slug"
+    local front=""
+    local builder
+    local lang title toc acr
+    lang="$(book_field "$slug" lang)" || return 1
+    title="$(book_field "$slug" title)"
+    toc="$(book_field "$slug" toc)"
+    acr="$(book_field "$slug" acr)"
+    [[ -f "$dir/content/FRONT_MATTER.md" ]] && front="$dir/content/FRONT_MATTER.md"
+    if [[ "$lang" == "it" ]]; then
+        builder="scripts/build_book.py"
+    else
+        builder="scripts/build_book_en.py"
+    fi
+    printf '%s|%s|%s|%s|%s|%s|%s|%s|%s\n' \
+        "$dir/out/$slug.txt" "$dir/content/capitoli" "$lang" "$title" "$builder" \
+        "$front" "$dir/out/index.txt" "$acr" "$toc"
 }
 
 # Words in a book: the assembled text if it is there, otherwise its chapters.
@@ -238,34 +330,59 @@ human_time() {
 
 # Interactive: asks which book, and prints how much audio there is and how long it will take.
 menu_books() {
-    local nomi=(it tropical equipment diagnosis trauma all)
-    local n i=1 w h titolo risposta=""
+    local slugs=() slug i=1 w h titolo risposta=""
+    while IFS= read -r slug; do slugs+=("$slug"); done < <(book_slugs)
+    (( ${#slugs[@]} > 0 )) || die "the registry $REGISTRY lists no books"
     printf '\n'
     info "which book do you want to convert?"
-    for n in "${nomi[@]}"; do
-        if [[ "$n" == all ]]; then
-            printf '  %2d) %-10s %s\n' "$i" all "all five, one after another"
-        else
-            IFS='|' read -r _ _ _ titolo <<<"$(book_paths "$n")"
-            w="$(book_words "$n")"
-            h="$(awk -v w="$w" 'BEGIN{printf "%.1f", w/170/60}')"
-            printf '  %2d) %-10s %-42s %8s words, about %s hours of audio\n' \
-                   "$i" "$n" "$titolo" "$(migliaia "$w")" "$h"
-        fi
+    for slug in "${slugs[@]}"; do
+        IFS='|' read -r _ _ _ titolo _ _ _ _ _ <<<"$(book_paths "$slug")"
+        w="$(book_words "$slug")"
+        h="$(awk -v w="$w" 'BEGIN{printf "%.1f", w/170/60}')"
+        printf '  %2d) %-24s %-40s %8s words, about %s hours of audio\n' \
+               "$i" "$slug" "$titolo" "$(migliaia "$w")" "$h"
         i=$((i+1))
     done
-    read -r -p "  number [Enter = all five]: " risposta || true
+    printf '  %2d) %-24s %s\n' "$i" all "all ${#slugs[@]} of them, one after another"
+    read -r -p "  number [Enter = all]: " risposta || true
     case "$risposta" in
-        ""|6|all)   BOOKS="all" ;;
-        1)          BOOKS="it" ;;
-        2)          BOOKS="tropical" ;;
-        3)          BOOKS="equipment" ;;
-        4)          BOOKS="diagnosis" ;;
-        5)          BOOKS="trauma" ;;
-        *)          warn "not a choice I know: taking all five"; BOOKS="all" ;;
+        "") BOOKS="all" ;;
+        *[!0-9]*) warn "not a choice I know: taking all of them"; BOOKS="all" ;;
+        *)
+            if [[ "$risposta" -ge 1 && "$risposta" -le "${#slugs[@]}" ]]; then
+                BOOKS="${slugs[$((risposta - 1))]}"
+            elif [[ "$risposta" -eq $(( ${#slugs[@]} + 1 )) ]]; then
+                BOOKS="all"
+            else
+                warn "not a choice I know: taking all of them"; BOOKS="all"
+            fi
+            ;;
     esac
     ok "book: $BOOKS"
 }
+
+# Prints the registry: what exists, where it lives, and under which names.
+menu_list_books() {
+    local slug text src lang title builder front indice acr toc
+    info "books in $REGISTRY"
+    printf '\n  %-24s %-4s %10s  %s\n' SLUG LANG WORDS TITLE
+    while IFS= read -r slug; do
+        IFS='|' read -r text src lang title builder front indice acr toc <<<"$(book_paths "$slug")"
+        printf '  %-24s %-4s %10s  %s\n' \
+               "$slug" "$lang" "$(migliaia "$(book_words "$slug")")" "$title"
+        printf '  %-24s %-4s %10s  %s\n' "" "" "" "$(dirname "$text")/  ->  $(basename "$text")"
+    done < <(book_slugs)
+    printf '\n  aliases: '
+    while IFS= read -r slug; do
+        printf '%s [%s]  ' "$slug" "$(book_field "$slug" aliases)"
+    done < <(book_slugs)
+    printf '\n'
+}
+
+if [[ $LIST_BOOKS -eq 1 ]]; then
+    menu_list_books
+    exit 0
+fi
 
 # Normalise the book selection.
 if [[ -z "$BOOKS" ]]; then
@@ -276,19 +393,28 @@ if [[ -z "$BOOKS" ]]; then
     fi
 fi
 SELECTED=""
+add_book() {
+    # Keeps the selection in registry order and free of duplicates.
+    case " $SELECTED " in *" $1 "*) ;; *) SELECTED="$SELECTED $1" ;; esac
+}
 OLD_IFS="$IFS"; IFS=','
 for b in $BOOKS; do
-    case "$b" in
-        it|italiano|anatomia) SELECTED="$SELECTED it" ;;
-        tropical)             SELECTED="$SELECTED tropical" ;;
-        equipment)            SELECTED="$SELECTED equipment" ;;
-        diagnosis|clinical)   SELECTED="$SELECTED diagnosis" ;;
-        trauma|emergency|wound) SELECTED="$SELECTED trauma" ;;
-        all|"")               SELECTED=" it tropical equipment diagnosis trauma" ;;
-        *) IFS="$OLD_IFS"; die "unknown book: $b (use it, tropical, equipment, diagnosis, trauma or all)" ;;
-    esac
+    if [[ "$b" == "all" || -z "$b" ]]; then
+        while IFS= read -r slug; do add_book "$slug"; done < <(book_slugs)
+    elif slug="$(book_canon "$b")"; then
+        add_book "$slug"
+    else
+        IFS="$OLD_IFS"
+        die "unknown book: $b
+       books in $REGISTRY: $(book_slugs | tr '\n' ' ')
+       or 'all'
+       (each book also answers to its aliases: --list-books shows them)"
+    fi
 done
 IFS="$OLD_IFS"
+SELECTED="${SELECTED# }"
+
+(( ${#SELECTED} > 0 )) || die "no book selected (is $REGISTRY empty?)"
 
 n_books=$(wc -w <<<"$SELECTED" | tr -d ' ')
 if [[ -n "$OUT" && $n_books -ne 1 ]]; then
@@ -724,17 +850,16 @@ if [[ -z "$JOBS" ]]; then
 fi
 [[ "$JOBS" =~ ^[0-9]+$ && "$JOBS" -ge 1 ]] || die "--jobs must be a positive integer"
 
-# Free space: the chunk cache is the big consumer (several GB per book).
+# Free space: the chunk cache is the big consumer (several GB per book). The
+# estimate is derived from the length of each book instead of a hardcoded table,
+# so a book added to the registry is measured like the others: about 44 kB of
+# 16-bit mono WAV per second of speech, plus about 8 kB per second of MP3.
 free_gb="$(df -Pk "$ROOT" 2>/dev/null | awk 'NR==2 {printf "%d", $4/1024/1024}')"
 needed_gb=0
 for book in $SELECTED; do
-    case "$book" in
-        it)        needed_gb=$(( needed_gb + 6 )) ;;
-        tropical)  needed_gb=$(( needed_gb + 6 )) ;;
-        equipment) needed_gb=$(( needed_gb + 7 )) ;;
-        diagnosis) needed_gb=$(( needed_gb + 7 )) ;;
-        trauma)    needed_gb=$(( needed_gb + 7 )) ;;
-    esac
+    gb="$(awk -v w="$(book_words "$book")" 'BEGIN{ printf "%d", (w / 170 * 60 * 52000) / 1e9 + 0.5 }')"
+    [[ "$gb" =~ ^[0-9]+$ && "$gb" -ge 1 ]] || gb=1
+    needed_gb=$(( needed_gb + gb ))
 done
 if [[ "$free_gb" =~ ^[0-9]+$ ]]; then
     info "disk: ${free_gb} GB free, about ${needed_gb} GB needed for the synthesis cache"
@@ -744,7 +869,7 @@ if [[ "$free_gb" =~ ^[0-9]+$ ]]; then
         else
             die "not enough free space. Free some, or re-run with --prune-cache,
        or pass --yes to try anyway. The cache can be deleted afterwards with:
-         rm -rf audio/.cache tropical/audio/.cache equipment/audio/.cache diagnosis/audio/.cache"
+         rm -rf books/*/audio/.cache"
         fi
     fi
 else
@@ -755,36 +880,21 @@ fi
 # ----------------------------------------------------------------- per book
 run_book() {
     local book="$1"
-    local text audio_dir lang_code build_cmd conv_cmd
+    local text src lang_code title builder front indice acr toc
+    local audio_dir build_cmd conv_cmd args
 
-    case "$book" in
-        it)
-            text="out/anatomia.txt"; audio_dir="audio"; lang_code="it"
-            build_cmd="$PY scripts/build_book.py --strict"
-            conv_cmd="$PY scripts/txt2mp3.py $text --lang it"
-            ;;
-        tropical)
-            text="tropical/out/tropical-medicine.txt"; audio_dir="tropical/audio"; lang_code="en"
-            build_cmd="$PY scripts/build_book_en.py --strict --acronyms-ok $TROPICAL_ACRONYMS"
-            conv_cmd="$PY scripts/txt2mp3.py $text --lang en"
-            ;;
-        equipment)
-            text="equipment/out/hospital-equipment.txt"; audio_dir="equipment/audio"; lang_code="en"
-            build_cmd="$PY scripts/build_book_en.py --capitoli equipment/content/capitoli --out equipment/out/hospital-equipment.txt --indice equipment/out/index.txt --front-matter equipment/content/FRONT_MATTER.md --acronyms-ok $EQUIPMENT_ACRONYMS --toc-noun guide --strict"
-            conv_cmd="$PY scripts/txt2mp3.py $text --lang en"
-            ;;
-        diagnosis)
-            text="diagnosis/out/clinical-diagnosis.txt"; audio_dir="diagnosis/audio"; lang_code="en"
-            build_cmd="$PY scripts/build_book_en.py --capitoli diagnosis/content/capitoli --out diagnosis/out/clinical-diagnosis.txt --indice diagnosis/out/index.txt --front-matter diagnosis/content/FRONT_MATTER.md --acronyms-ok $DIAGNOSIS_ACRONYMS --toc-noun manual --strict"
-            conv_cmd="$PY scripts/txt2mp3.py $text --lang en"
-            ;;
-        trauma)
-            text="trauma/out/emergency-trauma-care.txt"; audio_dir="trauma/audio"; lang_code="en"
-            build_cmd="$PY scripts/build_book_en.py --capitoli trauma/content/capitoli --out trauma/out/emergency-trauma-care.txt --indice trauma/out/index.txt --front-matter trauma/content/FRONT_MATTER.md --acronyms-ok $TRAUMA_ACRONYMS --toc-noun manual --strict"
-            conv_cmd="$PY scripts/txt2mp3.py $text --lang en"
-            ;;
-        *) die "internal error: unknown book $book" ;;
-    esac
+    # Everything about this book comes from books/books.tsv and its folder shape.
+    IFS='|' read -r text src lang_code title builder front indice acr toc \
+        <<<"$(book_paths "$book")"
+    [[ -n "$text" && -n "$src" && -n "$lang_code" && -n "$builder" ]] \
+        || die "internal error: could not resolve the paths of '$book' from $REGISTRY"
+    audio_dir="books/$book/audio"
+
+    build_cmd="$PY $builder --capitoli '$src' --out '$text' --indice '$indice' --strict"
+    [[ -n "$front" ]] && build_cmd="$build_cmd --front-matter '$front'"
+    [[ -n "$acr"   ]] && build_cmd="$build_cmd --acronyms-ok $acr"
+    [[ -n "$toc"   ]] && build_cmd="$build_cmd --toc-noun $toc"
+    conv_cmd="$PY scripts/txt2mp3.py '$text' --lang $lang_code"
 
     [[ -n "$OUT" ]] && audio_dir="$OUT"
 

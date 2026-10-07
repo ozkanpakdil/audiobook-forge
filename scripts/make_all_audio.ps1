@@ -7,6 +7,11 @@
     it, installs) what the pipeline needs, rebuilds each book's text from its
     chapter files, and converts it with a speech engine found on the machine.
 
+    The books are not listed here: books/books.tsv is the single registry that
+    both this script and the shell launcher read. Every book lives in
+    books/<slug>/ with the same shape (content/, out/, audio/), so nothing here
+    needs to know the particular paths of a particular book. Use -ListBooks.
+
     Speech engines, in the order the converter prefers them:
       piper   neural voices, the default                 pip install piper-tts
       kokoro  very natural voices, no torch needed       pip install kokoro-onnx
@@ -21,12 +26,18 @@
     library only, plus ffmpeg.
 
 .PARAMETER Book
-    it, tropical, equipment, diagnosis or all. Default: all. May be repeated.
+    The slug of a book under books/, or one of its aliases, or all.
+    Default: all. May be repeated or comma separated. The list lives in
+    books/books.tsv, which is also what make_all_audio.sh reads; -ListBooks
+    prints it. Examples: anatomia-umana (it), tropical-medicine (tropical),
+    hospital-equipment (equipment), clinical-diagnosis (diagnosis),
+    emergency-trauma-care (trauma).
 
 .PARAMETER Engine
     sapi, espeak or piper. Default: the best available.
 
 .EXAMPLE
+    .\scripts\make_all_audio.ps1 -ListBooks
     .\scripts\make_all_audio.ps1 -Book equipment
     .\scripts\make_all_audio.ps1 -DryRun
     .\scripts\make_all_audio.ps1 -Engine piper -PiperModel C:\voices\en_US-lessac-medium.onnx
@@ -34,7 +45,6 @@
 #>
 [CmdletBinding()]
 param(
-    [ValidateSet('it', 'tropical', 'equipment', 'diagnosis', 'all')]
     [string[]]$Book = @('all'),
 
     [ValidateSet('', 'piper', 'kokoro', 'melotts', 'sapi', 'espeak')]
@@ -56,6 +66,7 @@ param(
     [switch]$DryRun,
     [switch]$PruneCache,
     [switch]$ListVoices,
+    [switch]$ListBooks,
     [switch]$PreviewVoices,
     [switch]$NoPrompt,
     [switch]$ResetVoice,
@@ -68,15 +79,93 @@ $ErrorActionPreference = 'Stop'
 $Root = Split-Path -Parent $PSScriptRoot
 Set-Location $Root
 
-# Acronyms each English book tolerates as spoken short forms (see their PLAN.md).
-$TropicalAcronyms = 'CT,MRI,ECG,EEG'
-$EquipmentAcronyms = 'CT,MRI,ECG,EEG,EMG,PET,DEXA,PACS,ICU,PPE,CPR,AED,CPAP,BIPAP,PICC,PCA,CRRT,CSSD,UPS,HVAC,EHR,ISO,IEC,FDA,MSF,VHF,UHF,USB,LED,LCD,PVC,PTFE,RFID,GPS,SIM,AI,DICOM,HL7,BF,CF,ENT'
-$DiagnosisAcronyms = 'CT,MRI,ECG,ENT,ICU,CPR,PPE'
-
+# ------------------------------------------------------------------- messages
 function Write-Info { param([string]$Message) Write-Host "==> $Message" -ForegroundColor Cyan }
 function Write-Ok   { param([string]$Message) Write-Host "  ok $Message" -ForegroundColor Green }
 function Write-Warn { param([string]$Message) Write-Warning $Message }
 function Write-Die  { param([string]$Message) Write-Host "error: $Message" -ForegroundColor Red; exit 1 }
+
+# ------------------------------------------------------------- book registry
+# books/books.tsv is the only place a book is declared; make_all_audio.sh reads
+# the same file, so the two launchers can never disagree about which books exist,
+# where they live, or how each one is built. Every book folder has the same shape,
+# which is why nothing below hardcodes a book:
+#
+#   books/<slug>/content/PLAN.md          the style contract
+#   books/<slug>/content/OUTLINE.md       the briefs, one per section
+#   books/<slug>/content/capitoli/*.md    the sections themselves
+#   books/<slug>/content/FRONT_MATTER.md  front matter, when the book has its own
+#   books/<slug>/out/<slug>.txt           the assembled book
+#   books/<slug>/out/index.txt            the readable index
+#   books/<slug>/audio/                   generated MP3s, never committed
+#
+# Registry columns: slug, lang, toc, acronyms, title, aliases.
+$RegistryPath = Join-Path $Root 'books/books.tsv'
+if (-not (Test-Path $RegistryPath)) { Write-Die 'book registry not found: books/books.tsv' }
+$BookRows = @(Import-Csv -Path $RegistryPath -Delimiter "`t" |
+              Where-Object { $_.slug -and $_.slug -notmatch '^\s*#' })
+if ($BookRows.Count -eq 0) { Write-Die "the registry $RegistryPath lists no books" }
+
+# Returns "-" placeholders as an empty string, meaning "not set for this book".
+function Get-BookField {
+    param($Row, [string]$Name)
+    $value = "$($Row.$Name)".Trim()
+    if ($value -eq '-' -or $value -eq '') { return '' }
+    return $value
+}
+
+# Resolves a name typed on the command line — canonical slug or alias, any case —
+# to the canonical slug, or $null when the name is unknown.
+function Resolve-BookName {
+    param([string]$Name)
+    $want = $Name.Trim().ToLowerInvariant()
+    foreach ($row in $BookRows) {
+        if ($row.slug.ToLowerInvariant() -eq $want) { return $row.slug }
+        foreach ($alias in ((Get-BookField $row 'aliases') -split ',')) {
+            if ($alias.Trim() -and $alias.Trim().ToLowerInvariant() -eq $want) { return $row.slug }
+        }
+    }
+    return $null
+}
+
+# Every path of a book, derived from that folder shape.
+function Get-BookPaths {
+    param([string]$Slug)
+    $row = $BookRows | Where-Object { $_.slug -eq $Slug } | Select-Object -First 1
+    $dir = "books/$Slug"
+    $front = ''
+    if (Test-Path "$dir/content/FRONT_MATTER.md") { $front = "$dir/content/FRONT_MATTER.md" }
+    $builder = 'scripts/build_book_en.py'
+    if ($row.lang -eq 'it') { $builder = 'scripts/build_book.py' }
+    return [pscustomobject]@{
+        slug     = $Slug
+        text     = "$dir/out/$Slug.txt"
+        source   = "$dir/content/capitoli"
+        lang     = $row.lang
+        title    = $row.title
+        builder  = $builder
+        front    = $front
+        index    = "$dir/out/index.txt"
+        acronyms = (Get-BookField $row 'acronyms')
+        toc      = (Get-BookField $row 'toc')
+        audio    = "$dir/audio"
+    }
+}
+
+# Words in a book: the assembled text if it is there, otherwise its sections.
+# Same count as `wc -w` on the shell side: every run of non-whitespace is a word.
+function Get-BookWords {
+    param($Paths)
+    $raw = $null
+    if (Test-Path $Paths.text) {
+        $raw = Get-Content -Path $Paths.text -Raw
+    } elseif (Test-Path $Paths.source) {
+        $raw = (Get-ChildItem -Path $Paths.source -Filter '*.md' |
+                Get-Content -Raw) -join "`n"
+    }
+    if (-not $raw) { return 0 }
+    return [regex]::Matches($raw, '\S+').Count
+}
 
 function Confirm-Action {
     param([string]$Question)
@@ -176,6 +265,24 @@ if ($Engine) { $engineArgs += @('--engine', $Engine) }
 if ($PiperModel) { $engineArgs += @('--piper-model', $PiperModel) }
 if ($PiperDir) { $engineArgs += @('--piper-dir', $PiperDir) }
 
+if ($ListBooks) {
+    Write-Info 'books in books/books.tsv'
+    Write-Host ''
+    Write-Host ('  {0,-24} {1,-4} {2,10}  {3}' -f 'SLUG', 'LANG', 'WORDS', 'TITLE')
+    foreach ($row in $BookRows) {
+        $p = Get-BookPaths $row.slug
+        Write-Host ('  {0,-24} {1,-4} {2,10}  {3}' -f $row.slug, $p.lang,
+                    ('{0:N0}' -f (Get-BookWords $p)), $p.title)
+        Write-Host ('  {0,-24} {1,-4} {2,10}  {3}' -f '', '', '', "$($p.audio)  <-  $($p.text)")
+    }
+    Write-Host ''
+    Write-Host '  aliases:'
+    foreach ($row in $BookRows) {
+        Write-Host ('    {0,-24} {1}' -f $row.slug, (Get-BookField $row 'aliases'))
+    }
+    exit 0
+}
+
 if ($ListVoices) {
     Write-Info 'speech engines on this machine'
     & $pythonExe @pythonPre 'scripts/txt2mp3.py' --list-engines
@@ -274,74 +381,26 @@ if ($Jobs -le 0) {
     $Jobs = [Math]::Min([int]$cores, 8)
 }
 
-# Free space: the synthesis cache is the big consumer (several GB per book).
-$neededGb = 0
-foreach ($b in ($Book | ForEach-Object { $_ -split ',' })) {
-    switch ($b.Trim()) {
-        'equipment' { $neededGb += 7 }
-        'diagnosis' { $neededGb += 7 }
-        default     { $neededGb += 6 }
-    }
-}
-if ($Book -contains 'all' -or $Book.Count -eq 0) { $neededGb = 26 }
-try {
-    $qualifier = (Split-Path -Qualifier $Root).TrimEnd(':')
-    $freeGb = [Math]::Round((Get-PSDrive $qualifier).Free / 1GB)
-    Write-Info "disk: $freeGb GB free, about $neededGb GB needed for the synthesis cache"
-    if ($freeGb -lt $neededGb) {
-        if ($Yes) {
-            Write-Warn 'proceeding anyway because -Yes was given; a full disk will abort the run'
-        } else {
-            Write-Die "not enough free space. Free some, or use -PruneCache, or pass -Yes to try anyway."
-        }
-    }
-} catch {
-    Write-Warn "could not read the free space of $Root; skipping the disk check"
-}
-
 # ------------------------------------------------------------------- per book
 $doSingle = -not $NoSingle
 
 function Invoke-Book {
     param([string]$Name)
 
-    switch ($Name) {
-        'it' {
-            $text = 'out/anatomia.txt'; $audio = 'audio'; $lang = 'it'
-            $build = @('scripts/build_book.py', '--strict')
-        }
-        'tropical' {
-            $text = 'tropical/out/tropical-medicine.txt'; $audio = 'tropical/audio'; $lang = 'en'
-            $build = @('scripts/build_book_en.py', '--strict', '--acronyms-ok', $TropicalAcronyms)
-        }
-        'equipment' {
-            $text = 'equipment/out/hospital-equipment.txt'; $audio = 'equipment/audio'; $lang = 'en'
-            $build = @(
-                'scripts/build_book_en.py',
-                '--capitoli', 'equipment/content/capitoli',
-                '--out', 'equipment/out/hospital-equipment.txt',
-                '--indice', 'equipment/out/index.txt',
-                '--front-matter', 'equipment/content/FRONT_MATTER.md',
-                '--acronyms-ok', $EquipmentAcronyms,
-                '--toc-noun', 'guide',
-                '--strict'
-            )
-        }
-        'diagnosis' {
-            $text = 'diagnosis/out/clinical-diagnosis.txt'; $audio = 'diagnosis/audio'; $lang = 'en'
-            $build = @(
-                'scripts/build_book_en.py',
-                '--capitoli', 'diagnosis/content/capitoli',
-                '--out', 'diagnosis/out/clinical-diagnosis.txt',
-                '--indice', 'diagnosis/out/index.txt',
-                '--front-matter', 'diagnosis/content/FRONT_MATTER.md',
-                '--acronyms-ok', $DiagnosisAcronyms,
-                '--toc-noun', 'manual',
-                '--strict'
-            )
-        }
-        default { Write-Die "unknown book: $Name" }
-    }
+    # Everything about this book comes from books/books.tsv and its folder shape.
+    $p = Get-BookPaths $Name
+    $text = $p.text; $audio = $p.audio; $lang = $p.lang
+
+    $build = @(
+        $p.builder,
+        '--capitoli', $p.source,
+        '--out', $p.text,
+        '--indice', $p.index,
+        '--strict'
+    )
+    if ($p.front)    { $build += @('--front-matter', $p.front) }
+    if ($p.acronyms) { $build += @('--acronyms-ok', $p.acronyms) }
+    if ($p.toc)      { $build += @('--toc-noun', $p.toc) }
 
     if ($Out) { $audio = $Out }
 
@@ -409,22 +468,52 @@ $selected = @()
 foreach ($b in $Book) {
     foreach ($piece in ($b -split ',')) {
         $name = $piece.Trim()
-        if ($name -eq 'all' -or $name -eq '') {
-            $selected = @('it', 'tropical', 'equipment', 'diagnosis')
-        } elseif ($name -in @('it', 'tropical', 'equipment', 'diagnosis')) {
-            $selected += $name
+        if ($name -eq '' -or $name.ToLowerInvariant() -eq 'all') {
+            foreach ($row in $BookRows) { $selected += $row.slug }
         } else {
-            Write-Die "unknown book: $name (use it, tropical, equipment, diagnosis or all)"
+            $slug = Resolve-BookName $name
+            if (-not $slug) {
+                $known = ($BookRows | ForEach-Object { $_.slug }) -join ', '
+                Write-Die "unknown book: $name (books in books/books.tsv: $known, or all; use -ListBooks to see the aliases)"
+            }
+            $selected += $slug
         }
     }
 }
-$selected = $selected | Select-Object -Unique
+$selected = @($selected | Select-Object -Unique)
+if ($selected.Count -eq 0) { Write-Die "no book selected (is books/books.tsv empty?)" }
 
 if ($Out -and $selected.Count -ne 1) {
     Write-Die '-Out needs exactly one -Book (the books have different output folders)'
 }
 if ($Only -and $selected.Count -ne 1) {
     Write-Die '-Only needs exactly one -Book'
+}
+
+# Free space: the chunk cache is the big consumer (several GB per book). The
+# estimate is derived from the length of each book instead of a hardcoded table,
+# so a book added to the registry is measured like the others: about 44 kB of
+# 16-bit mono WAV per second of speech, plus about 8 kB per second of MP3.
+$neededGb = 0
+foreach ($slug in $selected) {
+    $gb = [Math]::Ceiling(((Get-BookWords (Get-BookPaths $slug)) / 170 * 60 * 52000) / 1GB)
+    if ($gb -lt 1) { $gb = 1 }
+    $neededGb += $gb
+}
+try {
+    $qualifier = (Split-Path -Qualifier $Root).TrimEnd(':')
+    $freeGb = [Math]::Round((Get-PSDrive $qualifier).Free / 1GB)
+    Write-Info "disk: $freeGb GB free, about $neededGb GB needed for the synthesis cache"
+    if ($freeGb -lt $neededGb) {
+        if ($Yes) {
+            Write-Warn 'proceeding anyway because -Yes was given; a full disk will abort the run'
+        } else {
+            Write-Die "not enough free space. Free some, or use -PruneCache, or pass -Yes to try anyway."
+        }
+    }
+} catch {
+    Write-Warn "could not read the free space of $Root; skipping the disk check"
+    Write-Warn "the synthesis cache needs about $neededGb GB; -PruneCache frees it afterwards"
 }
 
 foreach ($name in $selected) { Invoke-Book $name }

@@ -22,12 +22,17 @@ What it does:
     English voice; it recognizes "Chapter N" and "Appendix A" besides "Capitolo N".
 
 Examples:
-    python3 scripts/txt2mp3.py out/anatomia.txt --dry-run
-    python3 scripts/txt2mp3.py out/anatomia.txt -v Alice -r 170 --jobs 6
-    python3 scripts/txt2mp3.py out/anatomia.txt --only 1,24 --single
-    python3 scripts/txt2mp3.py tropical/out/tropical-medicine.txt --lang en -o tropical/audio
+    python3 scripts/txt2mp3.py books/anatomia-umana/out/anatomia-umana.txt --dry-run
+    python3 scripts/txt2mp3.py books/anatomia-umana/out/anatomia-umana.txt -v Alice -r 170 --jobs 6
+    python3 scripts/txt2mp3.py books/anatomia-umana/out/anatomia-umana.txt --only 1,24 --single
+    python3 scripts/txt2mp3.py books/tropical-medicine/out/tropical-medicine.txt --lang en \\
+        -o books/tropical-medicine/audio
     python3 scripts/txt2mp3.py libro.txt --engine espeak --list-voices
     python3 scripts/txt2mp3.py libro.txt --engine piper --piper-model en_US-lessac-medium.onnx
+
+In this repository every book lives in books/<slug>/out/<slug>.txt and its audio
+goes to books/<slug>/audio/. Normally you do not call this script directly: the
+launchers in scripts/ read books/books.tsv and call it with the right paths.
 """
 from __future__ import annotations
 

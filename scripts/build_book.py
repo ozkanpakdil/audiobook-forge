@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-"""build_book.py — assembles the chapters into a single speech-ready text.
+"""build_book.py — assembles the Italian anatomy course into one speech-ready text.
 
-Reads the chapters from content/capitoli/NN-slug.md, checks that they respect the
-style contract in content/PLAN.md, orders them, and joins them into out/anatomia.txt
-with front matter and a spoken table of contents. Prints the word, character and
-byte counts, the estimated audio duration, and the distance to the 1 MB target.
+Reads the chapters from books/anatomia-umana/content/capitoli/NN-slug.md, checks that
+they respect the style contract in books/anatomia-umana/content/PLAN.md, orders them,
+and joins them into books/anatomia-umana/out/anatomia-umana.txt with front matter and
+a spoken table of contents. Prints word, character and byte counts, the estimated
+audio duration, and the distance to the 1 MB target.
+
+Every book lives in books/<slug>/, with the same shape; the launchers get the paths
+from books/books.tsv and pass them in, so the defaults below are just a convenience
+for running this script by hand on the one book it was written for.
 
 Examples:
     python3 scripts/build_book.py
@@ -110,10 +115,10 @@ def carica_capitoli(cartella: Path):
 
 
 def main(argv=None) -> int:
-    ap = argparse.ArgumentParser(description="Compone out/anatomia.txt dai capitoli.")
-    ap.add_argument("--capitoli", default="content/capitoli", help="cartella dei capitoli")
-    ap.add_argument("--out", default="out/anatomia.txt", help="file di uscita")
-    ap.add_argument("--indice", default="out/indice.txt", help="indice leggibile")
+    ap = argparse.ArgumentParser(description="Compone books/anatomia-umana/out/anatomia-umana.txt dai capitoli.")
+    ap.add_argument("--capitoli", default="books/anatomia-umana/content/capitoli", help="cartella dei capitoli")
+    ap.add_argument("--out", default="books/anatomia-umana/out/anatomia-umana.txt", help="file di uscita")
+    ap.add_argument("--indice", default="books/anatomia-umana/out/index.txt", help="indice leggibile")
     ap.add_argument("--no-frontespizio", action="store_true", help="omette il frontespizio")
     ap.add_argument("--no-indice", action="store_true", help="omette l'indice parlato")
     ap.add_argument("--strict", action="store_true", help="esce con errore se un capitolo viola lo stile")

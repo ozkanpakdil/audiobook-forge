@@ -160,8 +160,8 @@ pronounceable is a defect.
 
 ## 3. File convention
 
-- One file per chapter: `content/capitoli/NN-slug-del-titolo.md`
+- One file per chapter: `books/anatomia-umana/content/capitoli/NN-slug-del-titolo.md`
 - `NN` is the two-digit number, from `01` to `55`.
 - The file contains exactly one `#` heading and then only prose.
 - The chapters are not rewritten into separate parts: `scripts/build_book.py` reassembles
-  everything into `out/anatomia.txt`, adding a title page, a spoken index and pauses.
+  everything into `books/anatomia-umana/out/anatomia-umana.txt`, adding a title page, a spoken index and pauses.

@@ -1,17 +1,21 @@
 #!/usr/bin/env python3
-"""build_book_en.py — assembles the tropical medicine course into one
-speech-ready text.
+"""build_book_en.py — assembles an English course into one speech-ready text.
 
-Reads the sections from tropical/content/capitoli/*.md, checks each against
-the style contract in tropical/content/PLAN.md, orders them, and joins them
-into tropical/out/tropical-medicine.txt with front matter and a spoken table
-of contents. Prints word, character and byte counts, the estimated audio
-duration, and the distance to the 1 MB target.
+Reads the sections from a book's content/capitoli/*.md, checks each against the style
+contract in that book's content/PLAN.md, orders them, and joins them into
+out/<slug>.txt with front matter and a spoken table of contents. Prints word,
+character and byte counts, the estimated audio duration, and the distance to the
+1 MB target.
+
+Every book lives in books/<slug>/ with the same shape, and the launchers read
+books/books.tsv to find it, so in practice this script is called with explicit
+--capitoli/--out/--indice paths. The defaults below build the tropical medicine
+book, the one this script started life on.
 
 Examples:
     python3 scripts/build_book_en.py
     python3 scripts/build_book_en.py --stats
-    python3 scripts/build_book_en.py --strict
+    python3 scripts/build_book_en.py --strict --acronyms-ok CT,MRI,ECG
 """
 from __future__ import annotations
 
@@ -167,12 +171,12 @@ def carica_capitoli(cartella: Path):
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(
-        description="Assembles tropical/out/tropical-medicine.txt from the sections.")
-    ap.add_argument("--capitoli", default="tropical/content/capitoli",
-                    help="sections folder (default: tropical/content/capitoli)")
-    ap.add_argument("--out", default="tropical/out/tropical-medicine.txt",
+        description="Assembles books/tropical-medicine/out/tropical-medicine.txt from the sections.")
+    ap.add_argument("--capitoli", default="books/tropical-medicine/content/capitoli",
+                    help="sections folder (default: books/tropical-medicine/content/capitoli)")
+    ap.add_argument("--out", default="books/tropical-medicine/out/tropical-medicine.txt",
                     help="output file")
-    ap.add_argument("--indice", default="tropical/out/index.txt",
+    ap.add_argument("--indice", default="books/tropical-medicine/out/index.txt",
                     help="readable index file")
     ap.add_argument("--no-frontespizio", action="store_true", help="omit front matter")
     ap.add_argument("--front-matter", default=None,

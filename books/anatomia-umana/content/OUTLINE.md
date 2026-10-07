@@ -1,13 +1,13 @@
 # Chapter outline — required content
 
 For each chapter: exact title, name of the file to produce and the content points
-that the text must cover. The style contract is in `content/PLAN.md` and is
+that the text must cover. The style contract is in `books/anatomia-umana/content/PLAN.md` and is
 binding for everyone.
 
 ---
 
 ## Capitolo 12 — Femore, tibia e perone: architettura dell'arto inferiore
-File: content/capitoli/12-femore-tibia-e-perone.md
+File: books/anatomia-umana/content/capitoli/12-femore-tibia-e-perone.md
 - femur: head and fovea, neck with angle of inclination and of torsion, trochanters, linea aspera, condyles, intercondylar fossa; why it is the longest and strongest bone
 - patella as a sesamoid bone and pulley that increases the lever arm of the quadriceps
 - tibia as a weight-bearing bone: plateaus, spines, tuberosity, crest, medial malleolus
@@ -17,7 +17,7 @@ File: content/capitoli/12-femore-tibia-e-perone.md
 - how the bony reliefs tell the story of the muscles that insert on them
 
 ## Capitolo 13 — Caviglia e piede: tarso, metatarso, falangi, archi plantari
-File: content/capitoli/13-caviglia-e-piede.md
+File: books/anatomia-umana/content/capitoli/13-caviglia-e-piede.md
 - tarsus: talus, calcaneus, navicular, cuboid, three cuneiforms, and their interlocking governed by weight
 - metatarsus, phalanges, sesamoids beneath the head of the first metatarsal
 - tibiotalar joint as a mortise: malleoli, talus, ligaments, a single axis of movement
@@ -28,7 +28,7 @@ File: content/capitoli/13-caviglia-e-piede.md
 - flat foot, cavus foot and hallux valgus explained mechanically
 
 ## Capitolo 15 — I muscoli del dorso e della nuca: strati, triangoli, estensione del rachide
-File: content/capitoli/15-muscoli-del-dorso-e-della-nuca.md
+File: books/anatomia-umana/content/capitoli/15-muscoli-del-dorso-e-della-nuca.md
 - organization of the back into layers, from the skin to the deep muscles
 - trapezius and latissimus dorsi: origin, insertion, action, relations
 - intermediate muscles and their role in the movement of the ribs
@@ -39,7 +39,7 @@ File: content/capitoli/15-muscoli-del-dorso-e-della-nuca.md
 - eccentric work of the deep muscles when bending over; posture, tone and low back pain
 
 ## Capitolo 17 — La parete addominale e il canale inguinale: muscoli larghi, guaine, ernie
-File: content/capitoli/17-parete-addominale-e-canale-inguinale.md
+File: books/anatomia-umana/content/capitoli/17-parete-addominale-e-canale-inguinale.md
 - boundaries and regions of the abdomen
 - external oblique, internal oblique and transversus: direction of the fibers, aponeuroses, actions
 - rectus abdominis and rectus sheath: linea alba, arcuate line, tendinous intersections
@@ -50,7 +50,7 @@ File: content/capitoli/17-parete-addominale-e-canale-inguinale.md
 - lumbar triangle and lumbar quadrilateral as areas of lesser resistance
 
 ## Capitolo 19 — I muscoli dell'arto inferiore: glutei, coscia, gamba, piede
-File: content/capitoli/19-muscoli-arto-inferiore.md
+File: books/anatomia-umana/content/capitoli/19-muscoli-arto-inferiore.md
 - gluteal muscles: maximus, medius and minimus, with origin, insertion, action; gluteus medius in the balance of the pelvis during the step
 - deep external rotators of the gluteal region
 - thigh: quadriceps and sartorius, adductors, hamstrings, with actions and relations
@@ -61,7 +61,7 @@ File: content/capitoli/19-muscoli-arto-inferiore.md
 - kinetic chain of the lower limb in walking and running
 
 ## Capitolo 20 — I muscoli della testa: masticazione e mimica
-File: content/capitoli/20-muscoli-della-testa.md
+File: books/anatomia-umana/content/capitoli/20-muscoli-della-testa.md
 - muscles of mastication: masseter, temporalis, medial and lateral pterygoid, with origin, insertion, action
 - movements of the mandible: opening, closing, protrusion, retrusion, laterality
 - facial or cutaneous muscles and their peculiarity of inserting into the skin
@@ -71,7 +71,7 @@ File: content/capitoli/20-muscoli-della-testa.md
 - facial innervation and why a lesion of the facial nerve is immediately read on the face
 
 ## Capitolo 21 — I muscoli del collo: triangoli, muscoli ioidei, fasce
-File: content/capitoli/21-muscoli-del-collo.md
+File: books/anatomia-umana/content/capitoli/21-muscoli-del-collo.md
 - anterior triangle with its subtriangles and posterior triangle with its subtriangles
 - sternocleidomastoid and trapezius: origin, insertion, action
 - suprahyoid and infrahyoid muscles and the movement of the hyoid and larynx in swallowing and in phonation
@@ -81,7 +81,7 @@ File: content/capitoli/21-muscoli-del-collo.md
 - the neck as a region of passage between trunk and head
 
 ## Capitolo 22 — Biomeccanica del movimento: postura, deambulazione, catene muscolari
-File: content/capitoli/22-biomeccanica-del-movimento.md
+File: books/anatomia-umana/content/capitoli/22-biomeccanica-del-movimento.md
 - what biomechanics studies and why it integrates anatomy and physics
 - upright posture as controlled unstable equilibrium: center of gravity and base of support
 - curves of the spine and distribution of the load on the discs
@@ -92,7 +92,7 @@ File: content/capitoli/22-biomeccanica-del-movimento.md
 - equilibrium maintained by sight, inner ear and proprioception; running, jumping and lifting as variants
 
 ## Capitolo 23 — Il sangue: plasma, eritrociti, leucociti, piastrine, emostasi
-File: content/capitoli/23-il-sangue.md
+File: books/anatomia-umana/content/capitoli/23-il-sangue.md
 - blood as a fluid connective tissue: plasma, formed elements, hematocrit
 - plasma proteins: albumin, globulins, fibrinogen
 - erythrocytes: biconcave shape, absence of a nucleus, hemoglobin, transport of gases
@@ -103,7 +103,7 @@ File: content/capitoli/23-il-sangue.md
 - dissolution of the clot and control of coagulation
 
 ## Capitolo 25 — Il sistema di conduzione e il ciclo cardiaco
-File: content/capitoli/25-conduzione-e-ciclo-cardiaco.md
+File: books/anatomia-umana/content/capitoli/25-conduzione-e-ciclo-cardiaco.md
 - myocardium as striated involuntary muscle with intercalated discs and functional syncytium
 - specialized cells of the conduction system and spontaneous generation of the potential
 - sinoatrial node as pacemaker; propagation through the internodal tracts
@@ -114,7 +114,7 @@ File: content/capitoli/25-conduzione-e-ciclo-cardiaco.md
 - electrocardiogram as a graphic translation of electrical activity
 
 ## Capitolo 26 — La circolazione sistemica: aorta, rami, territori di irrorazione
-File: content/capitoli/26-circolazione-sistemica.md
+File: books/anatomia-umana/content/capitoli/26-circolazione-sistemica.md
 - general organization: systemic and pulmonary circulation
 - ascending aorta, arch and descending aorta, with the meaning of the changes of direction
 - branches of the arch and their territories; coronary arteries
@@ -125,7 +125,7 @@ File: content/capitoli/26-circolazione-sistemica.md
 - arterial pulse and its mechanical origin; what stops receiving blood when a branch closes
 
 ## Capitolo 27 — La circolazione polmonare e la circolazione fetale
-File: content/capitoli/27-circolazione-polmonare-e-fetale.md
+File: books/anatomia-umana/content/capitoli/27-circolazione-polmonare-e-fetale.md
 - pulmonary circulation as a circuit of exchange and not of distribution
 - pulmonary trunk and pulmonary arteries: arteries that carry blood rich in carbon dioxide
 - pulmonary veins and the logical inversion; low pressure in the pulmonary circuit and why it is essential
@@ -136,7 +136,7 @@ File: content/capitoli/27-circolazione-polmonare-e-fetale.md
 - closure of the ducts at birth, transformation into ligaments and remnants in the adult
 
 ## Capitolo 28 — Il ritorno venoso e il sistema linfatico
-File: content/capitoli/28-ritorno-venoso-e-sistema-linfatico.md
+File: books/anatomia-umana/content/capitoli/28-ritorno-venoso-e-sistema-linfatico.md
 - venous wall, swallow's-nest valves and their function against gravity
 - venous capacity and blood reservoir
 - muscle pump, respiratory pump, arterial pulsation and cardiac suction
@@ -147,7 +147,7 @@ File: content/capitoli/28-ritorno-venoso-e-sistema-linfatico.md
 - spleen, thymus and lymphoid tissue of the mucosae; lymph nodes between filter and defense; edema
 
 ## Capitolo 29 — Microcircolazione, capillari e regolazione della pressione
-File: content/capitoli/29-microcircolazione-e-pressione.md
+File: books/anatomia-umana/content/capitoli/29-microcircolazione-e-pressione.md
 - microcirculation as the true site of exchange
 - arteriole, metarteriole, capillary, venule; precapillary sphincters
 - continuous, fenestrated and sinusoidal capillary, with examples of organs
@@ -159,7 +159,7 @@ File: content/capitoli/29-microcircolazione-e-pressione.md
 - autoregulation of brain, heart and kidney
 
 ## Capitolo 30 — Vie aeree superiori: naso, cavità paranasali, faringe, laringe
-File: content/capitoli/30-vie-aeree-superiori.md
+File: books/anatomia-umana/content/capitoli/30-vie-aeree-superiori.md
 - external nose, bony and cartilaginous parts
 - nasal cavities: vestibule, respiratory and olfactory region, with their different epithelia
 - conchae, meatuses and the path of the air; paranasal sinuses and their drainage
@@ -170,7 +170,7 @@ File: content/capitoli/30-vie-aeree-superiori.md
 - swallowing as protection of the airways; recurrent laryngeal nerve and its course
 
 ## Capitolo 31 — Trachea, bronchi e polmoni: albero bronchiale e segmenti
-File: content/capitoli/31-trachea-bronchi-e-polmoni.md
+File: books/anatomia-umana/content/capitoli/31-trachea-bronchi-e-polmoni.md
 - trachea: incomplete cartilaginous rings and posterior membranous wall
 - bifurcation, carina, angle between the bronchi and why a foreign body tends to end up on the right
 - main, lobar and segmental bronchi; bronchopulmonary segment as a functional unit
@@ -181,7 +181,7 @@ File: content/capitoli/31-trachea-bronchi-e-polmoni.md
 - visceral and parietal pleura, pleural cavity; increasing area and decreasing velocity in the tree
 
 ## Capitolo 32 — Alveoli, scambi gassosi, pleure e meccanica ventilatoria
-File: content/capitoli/32-alveoli-e-meccanica-ventilatoria.md
+File: books/anatomia-umana/content/capitoli/32-alveoli-e-meccanica-ventilatoria.md
 - alveolus: thin wall, type I and type II pneumocytes, macrophages
 - surfactant and why its absence makes the alveoli collapse
 - air-blood barrier and why it must be extremely thin
@@ -193,7 +193,7 @@ File: content/capitoli/32-alveoli-e-meccanica-ventilatoria.md
 - pneumothorax and atelectasis explained mechanically
 
 ## Capitolo 33 — Il mediastino: suddivisioni, contenuto, rapporti
-File: content/capitoli/33-il-mediastino.md
+File: books/anatomia-umana/content/capitoli/33-il-mediastino.md
 - boundaries of the mediastinum and why it is a region of transit
 - division into superior and inferior, and into anterior, middle and posterior
 - contents of the superior mediastinum: thymus, great vessels, trachea, esophagus, thoracic duct, vagus nerves, phrenic nerves, sympathetic chain
@@ -203,7 +203,7 @@ File: content/capitoli/33-il-mediastino.md
 - how the planes are recognized in an imaging study of the chest
 
 ## Capitolo 34 — Bocca, denti, lingua e ghiandole salivari
-File: content/capitoli/34-bocca-denti-lingua-e-ghiandole-salivari.md
+File: books/anatomia-umana/content/capitoli/34-bocca-denti-lingua-e-ghiandole-salivari.md
 - oral cavity: vestibule and cavity proper, boundaries, walls, floor
 - lips and cheeks, muscular structure and mucosa; gums and alveolar arches
 - teeth: crown, neck, root, enamel, dentin, cementum, pulp
@@ -214,7 +214,7 @@ File: content/capitoli/34-bocca-denti-lingua-e-ghiandole-salivari.md
 - major salivary glands with their outlet ducts, minor glands, saliva and its functions; innervation and taste
 
 ## Capitolo 35 — Faringe ed esofago: la deglutizione
-File: content/capitoli/35-faringe-ed-esofago.md
+File: books/anatomia-umana/content/capitoli/35-faringe-ed-esofago.md
 - pharynx as a channel common to the digestive and respiratory tracts: the three parts, boundaries, walls
 - mucous tunic, pharyngobasilar fascia, constrictors and elevators, funnel-shaped arrangement
 - parapharyngeal spaces and their anatomical significance
@@ -225,7 +225,7 @@ File: content/capitoli/35-faringe-ed-esofago.md
 - epiglottis, closure of the glottis, elevation of the larynx; peristalsis; nerve plexuses
 
 ## Capitolo 36 — Lo stomaco: regioni, parete, ghiandole, funzione
-File: content/capitoli/36-lo-stomaco.md
+File: books/anatomia-umana/content/capitoli/36-lo-stomaco.md
 - site and relations with liver, diaphragm, spleen, pancreas, colon; position that changes with posture and filling
 - shape and parts: fundus, body, pyloric part, curvatures; functional meaning of the architecture
 - tunics: mucosa, submucosa, muscular layer with three layers and why the third is oblique, serosa
@@ -236,7 +236,7 @@ File: content/capitoli/36-lo-stomaco.md
 - nervous and hormonal control with gastrin; vomiting as a coordinated act
 
 ## Capitolo 37 — Intestino tenue e intestino crasso: peritoneo, mesenteri, assorbimento
-File: content/capitoli/37-intestino-tenue-e-crasso.md
+File: books/anatomia-umana/content/capitoli/37-intestino-tenue-e-crasso.md
 - peritoneum: parietal and visceral layer, cavity, fluid
 - intraperitoneal, retroperitoneal and secondarily retroperitoneal organs, with examples
 - mesenteries, ligaments, omenta, greater and lesser omentum, omental bursa, epiploic foramen
@@ -248,7 +248,7 @@ File: content/capitoli/37-intestino-tenue-e-crasso.md
 - reabsorption of water and salts, formation of the feces, defecation reflex
 
 ## Capitolo 38 — Fegato, vie biliari e pancreas
-File: content/capitoli/38-fegato-vie-biliari-e-pancreas.md
+File: books/anatomia-umana/content/capitoli/38-fegato-vie-biliari-e-pancreas.md
 - liver: site, shape, surfaces, margin, relation with the thoracic cage
 - anatomical lobes and functional segments; grooves and ligaments, and what they represent
 - hepatic hilum and portal triad: portal vein, hepatic artery, hepatic duct
@@ -259,7 +259,7 @@ File: content/capitoli/38-fegato-vie-biliari-e-pancreas.md
 - pancreatic enzymes and why they remain inactive until the duodenum; pancreatic islets
 
 ## Capitolo 39 — Rene e vie urinarie: nefrone, filtrazione, ureteri, vescica
-File: content/capitoli/39-rene-e-vie-urinarie.md
+File: books/anatomia-umana/content/capitoli/39-rene-e-vie-urinarie.md
 - kidneys in a retroperitoneal site: shape, poles, surfaces, margins; why the right one is lower
 - relations with the suprarenal gland, diaphragm, lumbar muscles, pancreas, duodenum, colon
 - structure on section: capsule, cortex, medulla with the pyramids, columns, sinus, pelvis, calyces
@@ -271,7 +271,7 @@ File: content/capitoli/39-rene-e-vie-urinarie.md
 - ureter with its course and narrowings; bladder with trigone, detrusor, sphincters; urethra in the two sexes; micturition
 
 ## Capitolo 40 — Ghiandole surrenali, omeostasi e regolazione idrosalina
-File: content/capitoli/40-ghiandole-surrenali-e-omeostasi.md
+File: books/anatomia-umana/content/capitoli/40-ghiandole-surrenali-e-omeostasi.md
 - site and relations of the suprarenal glands, renal lodge, rich vascularization
 - cortex and medulla: different embryonic origin and different significance
 - zona glomerulosa, fasciculata and reticularis with their respective hormones
@@ -282,7 +282,7 @@ File: content/capitoli/40-ghiandole-surrenali-e-omeostasi.md
 - water-salt balance, thirst and role of the hypothalamus; acute and chronic stress
 
 ## Capitolo 41 — Ipofisi, epifisi, tiroide e paratiroidi
-File: content/capitoli/41-ipofisi-tiroide-e-paratiroidi.md
+File: books/anatomia-umana/content/capitoli/41-ipofisi-tiroide-e-paratiroidi.md
 - pituitary in the sella turcica, stalk, relations with the hypothalamus; master gland governed by the nervous system
 - adenohypophysis and neurohypophysis, different embryological origin
 - hormones of the adenohypophysis described by action; hormones of the neurohypophysis
@@ -293,7 +293,7 @@ File: content/capitoli/41-ipofisi-tiroide-e-paratiroidi.md
 - parathyroid glands and parathyroid hormone in calcium metabolism, with vitamin D and bone
 
 ## Capitolo 42 — L'apparato riproduttivo maschile
-File: content/capitoli/42-apparato-riproduttivo-maschile.md
+File: books/anatomia-umana/content/capitoli/42-apparato-riproduttivo-maschile.md
 - general organization of the system and distinction between gonads, ducts, accessory glands and external genitalia
 - testis: site in the scrotum, tunica vaginalis, albuginea, lobules, seminiferous tubules, Sertoli and Leydig cells
 - spermatogenesis and maturation of the spermatozoa; blood-testis barrier
@@ -304,7 +304,7 @@ File: content/capitoli/42-apparato-riproduttivo-maschile.md
 - scrotum and thermoregulation; descent pathway of the testis and anatomical remnants; differences with age
 
 ## Capitolo 43 — L'apparato riproduttivo femminile e il ciclo ovarico
-File: content/capitoli/43-apparato-riproduttivo-femminile.md
+File: books/anatomia-umana/content/capitoli/43-apparato-riproduttivo-femminile.md
 - general organization: gonads, ducts, uterus, external genitalia; relations with the pelvis
 - ovary: site, shape, ligaments, structure with cortex and medulla, follicles at different stages
 - ovarian cycle: follicular phase, ovulation, luteal phase, corpus luteum and its involution
@@ -316,7 +316,7 @@ File: content/capitoli/43-apparato-riproduttivo-femminile.md
 - menstrual cycle as integration of ovary, uterus and pituitary hormones; breast as an accessory gland
 
 ## Capitolo 44 — Pelvi e perineo: pavimento pelvico, triangoli, differenze sessuali
-File: content/capitoli/44-pelvi-e-perineo.md
+File: books/anatomia-umana/content/capitoli/44-pelvi-e-perineo.md
 - why the pelvis and the perineum form a functional and not only topographical unit
 - pelvic diaphragm: levator ani muscle with its bundles, and coccygeus muscle
 - perineum and its triangles, urogenital and anal, with their boundaries and contents
@@ -327,7 +327,7 @@ File: content/capitoli/44-pelvi-e-perineo.md
 - birth canal and how the pelvic structures change; laxity, tone and support function
 
 ## Capitolo 45 — Fecondazione, sviluppo embrionale iniziale e annessi embrionali
-File: content/capitoli/45-fecondazione-e-sviluppo-iniziale.md
+File: books/anatomia-umana/content/capitoli/45-fecondazione-e-sviluppo-iniziale.md
 - the path of the spermatozoon from the vagina to the ampulla of the tube and capacitation
 - fertilization, fusion of the pronuclei, diploid zygote and restoration of the chromosome number
 - cleavage, morula, blastocyst with trophoblast and inner cell mass
@@ -339,7 +339,7 @@ File: content/capitoli/45-fecondazione-e-sviluppo-iniziale.md
 - periods of development and main milestones of the first months; why the study of development explains adult anatomy
 
 ## Capitolo 46 — Il neurone, la sinapsi e la neuroglia
-File: content/capitoli/46-neurone-sinapsi-e-neuroglia.md
+File: books/anatomia-umana/content/capitoli/46-neurone-sinapsi-e-neuroglia.md
 - the neuron: body, dendrites, axon, axon hillock, myelin sheath and nodes of Ranvier
 - classification of neurons by shape and by function, sensory, motor and interneurons
 - the resting potential and why the membrane is polarized, explained without formulas
@@ -351,7 +351,7 @@ File: content/capitoli/46-neurone-sinapsi-e-neuroglia.md
 - why adult nervous tissue regenerates little and in a different way from the rest of the body
 
 ## Capitolo 47 — Midollo spinale e nervi spinali: organizzazione e riflessi
-File: content/capitoli/47-midollo-spinale-e-nervi-spinali.md
+File: books/anatomia-umana/content/capitoli/47-midollo-spinale-e-nervi-spinali.md
 - site and shape of the spinal cord, boundaries, cervical and lumbar enlargements, conus medullaris and filum terminale
 - why the cord is shorter than the vertebral canal and what this means for the course of the roots
 - organization on section: H-shaped gray matter, anterior and posterior horns, white matter and funiculi
@@ -363,7 +363,7 @@ File: content/capitoli/47-midollo-spinale-e-nervi-spinali.md
 - spinal meninges, epidural space and cerebrospinal fluid in the canal
 
 ## Capitolo 48 — Tronco encefalico e cervelletto
-File: content/capitoli/48-tronco-encefalico-e-cervelletto.md
+File: books/anatomia-umana/content/capitoli/48-tronco-encefalico-e-cervelletto.md
 - what is meant by brainstem and why it is the seat of the vital functions
 - medulla: shape, grooves, pyramids, olives, and the nuclei of the cranial nerves that have their seat there
 - pons: structure, peduncles, and its role as a link between cerebrum and cerebellum
@@ -375,7 +375,7 @@ File: content/capitoli/48-tronco-encefalico-e-cervelletto.md
 - why a cerebellar lesion produces errors of measure and not paralysis
 
 ## Capitolo 49 — Diencefalo: talamo, ipotalamo, sistema limbico
-File: content/capitoli/49-diencefalo.md
+File: books/anatomia-umana/content/capitoli/49-diencefalo.md
 - the diencephalon and its position between brainstem and telencephalon, with its parts
 - thalamus: shape, nuclei and their role as a sorting station for all the sensory pathways
 - the concept of the thalamo-cortical pathway and why almost everything passes through here except smell
@@ -387,7 +387,7 @@ File: content/capitoli/49-diencefalo.md
 - why the same structure can serve memory and emotion together
 
 ## Capitolo 51 — Meningi, ventricoli e liquido cerebrospinale
-File: content/capitoli/51-meningi-ventricoli-e-liquido-cerebrospinale.md
+File: books/anatomia-umana/content/capitoli/51-meningi-ventricoli-e-liquido-cerebrospinale.md
 - the three meninges: dura mater, arachnoid, pia mater, with their structure and relations
 - subarachnoid spaces, cisterns, and why the cerebrospinal fluid circulates in a real space
 - the cerebral dura mater and the venous sinuses; the spinal dura mater and the epidural space
@@ -399,7 +399,7 @@ File: content/capitoli/51-meningi-ventricoli-e-liquido-cerebrospinale.md
 - blood-brain barrier: site, components and why it exists
 
 ## Capitolo 52 — Il sistema nervoso autonomo: simpatico, parasimpatico, enterico
-File: content/capitoli/52-sistema-nervoso-autonomo.md
+File: books/anatomia-umana/content/capitoli/52-sistema-nervoso-autonomo.md
 - what distinguishes the visceral part from the somatic part, and why it is involuntary
 - general organization in two neurons, with preganglionic and postganglionic neuron
 - sympathetic chain, paravertebral and prevertebral ganglia, and the course of the fibers
@@ -411,7 +411,7 @@ File: content/capitoli/52-sistema-nervoso-autonomo.md
 - why the balance between the two systems is the normal condition, and not the absence of activity
 
 ## Capitolo 53 — L'occhio e la vista
-File: content/capitoli/53-occhio-e-vista.md
+File: books/anatomia-umana/content/capitoli/53-occhio-e-vista.md
 - site of the eye in the orbit, with the extrinsic muscles and their movements
 - fibrous tunic with sclera and cornea, and why the cornea is transparent
 - vascular tunic with choroid, ciliary body and iris; pupil and accommodation
@@ -424,7 +424,7 @@ File: content/capitoli/53-occhio-e-vista.md
 - lacrimal apparatus, eyelids and conjunctiva; why the eye is an organ that protects itself
 
 ## Capitolo 54 — L'orecchio: udito ed equilibrio
-File: content/capitoli/54-orecchio-udito-ed-equilibrio.md
+File: books/anatomia-umana/content/capitoli/54-orecchio-udito-ed-equilibrio.md
 - the external ear: pinna, acoustic meatus, ceruminous glands and tympanic membrane
 - middle ear: tympanic cavity, chain of the ossicles with malleus, incus and stapes, associated muscles
 - the auditory tube and the equalization of pressures
@@ -437,7 +437,7 @@ File: content/capitoli/54-orecchio-udito-ed-equilibrio.md
 - conductive and sensorineural deafness, and vertigo explained as problems of information
 
 ## Capitolo 55 — Olfatto, gusto, sensibilità somatica e propriocezione
-File: content/capitoli/55-olfatto-gusto-e-propriocezione.md
+File: books/anatomia-umana/content/capitoli/55-olfatto-gusto-e-propriocezione.md
 - smell: receptors in the roof of the nasal cavities, olfactory epithelium, and why it is the only sense that does not pass through the thalamus
 - olfactory pathways and their direct relationship with the limbic system, and why a smell recalls a memory
 - taste: papillae and taste buds, the receptors and the five fundamental qualities

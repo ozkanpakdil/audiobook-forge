@@ -1,8 +1,9 @@
 # Generated audio: never committed, everyone builds their own.
+# Every book keeps its MP3s in books/<slug>/audio/.
 *.mp3
 *.wav
 audio/
-*/audio/
+books/*/audio/
 *.m3u
 
 # Intermediate WAV chunks kept for resuming a run.
