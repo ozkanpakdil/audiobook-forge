@@ -22,3 +22,6 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Scratch directory each writer uses to check its own chapter in isolation
+books/*/content/.selfcheck/

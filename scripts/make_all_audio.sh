@@ -893,7 +893,7 @@ run_book() {
     build_cmd="$PY $builder --capitoli '$src' --out '$text' --indice '$indice' --strict"
     [[ -n "$front" ]] && build_cmd="$build_cmd --front-matter '$front'"
     [[ -n "$acr"   ]] && build_cmd="$build_cmd --acronyms-ok $acr"
-    [[ -n "$toc"   ]] && build_cmd="$build_cmd --toc-noun $toc"
+    [[ -n "$toc"   ]] && build_cmd="$build_cmd --toc-noun '$toc'"
     conv_cmd="$PY scripts/txt2mp3.py '$text' --lang $lang_code"
 
     [[ -n "$OUT" ]] && audio_dir="$OUT"

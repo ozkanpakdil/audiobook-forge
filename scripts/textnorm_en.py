@@ -412,9 +412,14 @@ _ORD_U = {1: "first", 2: "second", 3: "third", 4: "fourth", 5: "fifth",
 
 
 def cardinale(n: int) -> str:
-    """English cardinal in words, 0 to 99."""
+    """English cardinal in words, 0 to 999."""
     if n == 0:
         return "zero"
+    if n >= 100:
+        # Chapters of a long book pass 99: "one hundred nine", not a crash.
+        centinaia, resto = divmod(n, 100)
+        base = cardinale(centinaia) + " hundred"
+        return base if resto == 0 else base + " " + cardinale(resto)
     if n in _CARD_U:
         return _CARD_U[n]
     if n in _CARD_T:
