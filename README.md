@@ -1,12 +1,12 @@
-# Five free books, read aloud — and the pipeline that reads them
+# Seven free books, read aloud — and the pipeline that reads them
 
-This repository holds the complete text of five educational books written for
+This repository holds the complete text of seven educational books written for
 listening rather than reading, together with the cross-platform pipeline that
 turns any of them into MP3 audiobooks on your own machine.
 
 **No audio is stored here, on purpose.** Every listener generates it locally, which
-keeps the repository at about 18 MB and lets you pick the voice and the accent you
-like instead of accepting mine.
+keeps the repository at about 30 MB of text and lets you pick the voice and the
+accent you like instead of accepting mine.
 
 ## The books
 
@@ -18,13 +18,18 @@ Every book lives in its own folder under `books/`, with the same shape:
 | Tropical Medicine: A Practical Manual | `books/tropical-medicine/` | English | 65 chapters, 4 appendices | 339,348 | ~33.3 h |
 | Hospital Equipment: A Practical Guide | `books/hospital-equipment/` | English | 78 chapters, 5 appendices | 371,384 | ~36.4 h |
 | Clinical Diagnosis: A Practical Manual | `books/clinical-diagnosis/` | English | 77 chapters, 5 appendices | 349,131 | ~34.2 h |
-| Emergency Wound and Trauma Care | `books/emergency-trauma-care/` | English | 49 chapters, appendices in progress | 221,822 | ~21.7 h |
-| **Total** | | | | **1,489,171** | **~146 h** |
+| Emergency Wound and Trauma Care | `books/emergency-trauma-care/` | English | 49 chapters, 1 of 4 appendices | 221,822 | ~21.7 h |
+| Anatomy: A Narrated Question and Answer Bank | `books/anatomy-question-bank/` | English | 116 chapters, 11,600 questions | 737,942 | ~72.4 h |
+| Fractures and Dislocations: A Practical Course | `books/fractures-and-dislocations/` | English | 66 chapters, 4 appendices | 298,543 | ~29.3 h |
+| **Total** | | | | **2,525,656** | **~248 h** |
 
-The books are written to be understood by ear: chapters of 3,800 to 4,400 words, no
-tables, no bullet points, no symbols, acronyms spelled out letter by letter, and a
-plain summary at the end of every chapter. The writing contracts that enforce this
-are in the repository, next to the chapters they govern.
+The books are written to be understood by ear: no tables, no bullet points, no
+symbols, acronyms spelled out letter by letter, and a plain summary at the end of
+every section. The medical courses run to chapters of 3,800 to 4,400 words, the
+anatomy bank to chapters of 6,200, and its eleven thousand six hundred questions are
+answered out loud one after another so that nothing has to be held in mind. The
+writing contracts that enforce all of this are in the repository, next to the
+chapters they govern.
 
 ## Quick start
 
@@ -40,7 +45,7 @@ git clone <this repository> && cd <this repository>
 
 The launcher guides you through four steps before it spends any of your CPU:
 
-1. **Which book** — it lists the five, with the words and the hours of audio in each.
+1. **Which book** — it lists the seven, with the words and the hours of audio in each.
 2. **Which engine** — it lists them and marks the ones installed on your machine.
 3. **Which voice and accent** — it lists the accents that engine has, can play the
    voices one by one so you can hear them, and takes a name you type. Choosing the
@@ -75,7 +80,7 @@ default. The same launcher runs on Windows as `.\scripts\make_all_audio.ps1`, an
 ## Voices and accents
 
 Voices are chosen per language: Italian for the anatomy course, English for the other
-four. The pipeline knows the language of each book and offers what fits.
+six. The pipeline knows the language of each book and offers what fits.
 
 - **piper** — English voices are `en_GB` and `en_US`; Italian is `it_IT`. There is no
   Indian English voice in its catalogue.
@@ -92,6 +97,8 @@ list of one brief per section named `OUTLINE.md`:
 - `books/anatomia-umana/content/` — the Italian anatomy course
 - `books/tropical-medicine/content/`, `books/hospital-equipment/content/`,
   `books/clinical-diagnosis/content/`, `books/emergency-trauma-care/content/`
+- `books/anatomy-question-bank/content/` — the narrated question and answer bank
+- `books/fractures-and-dislocations/content/` — the fractures and dislocations course
 
 The contracts fix the length of a section, the vocabulary, the numbers that must not
 appear, the acronyms allowed as spoken short forms, and the rules each genre needs.
@@ -111,7 +118,7 @@ to produce them. The Italian anatomy course is laid out in the classical order o
 descriptive anatomy — osteology, arthrology, myology, angiology, splanchnology,
 neurology, the sense organs — the same order used by the 1918 edition of Gray's
 *Anatomy of the Human Body*, which is in the public domain; it is neither a copy nor
-a translation of that work. The four English books follow outlines and writing
+a translation of that work. The six English books follow outlines and writing
 contracts written for the project. Facts about anatomy, disease and equipment are not
 copyrightable; the expression in these pages is ours, and is licensed as described
 below.
@@ -128,6 +135,8 @@ books/
   hospital-equipment/        Hospital Equipment
   clinical-diagnosis/        Clinical Diagnosis
   emergency-trauma-care/     Emergency Wound and Trauma Care
+  anatomy-question-bank/     Anatomy, the narrated question and answer bank
+  fractures-and-dislocations/  Fractures and Dislocations
 requirements.txt             explains that the pipeline needs no third-party packages
 ```
 
@@ -147,7 +156,7 @@ books/<slug>/audio/                   the MP3s you generate (never committed)
 `books/books.tsv` lists, one line per book, the slug, the language, the noun its
 spoken table of contents uses, the short forms it allows, a title and its aliases.
 Both `make_all_audio.sh` and `make_all_audio.ps1` read that file, so the two cannot
-disagree about which books exist or where they are. To add a sixth book: copy a
+disagree about which books exist or where they are. To add another book: copy a
 book folder to `books/<new-slug>/`, add one line to `books/books.tsv`, and both
 launchers pick it up, `--book all` included.
 
