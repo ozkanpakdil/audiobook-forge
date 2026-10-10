@@ -1,0 +1,299 @@
+{
+ "deck": 4,
+ "date": "2025-11-05",
+ "title": "Metabolismo del colesterolo e delle proteine",
+ "slides": [
+  {
+   "n": 1,
+   "text": "A.A. 2025/26\nCorso di Laurea in Infermieristica"
+  },
+  {
+   "n": 2,
+   "text": "RIASSUNTO\n• METABOLISMO dei LIPIDI: digestione e assorbimento\n• LIPOPROTEINE PLASMATICHE: chilomicroni e VLDL\n• CATABOLISMO dei LIPIDI: lipolisi e β-ossidazione\n• ANABOLISMO dei LIPIDI: lipogenesi e glucosio\n• REGOLAZIONE del METABOLISMO dei LIPIDI: insulina, glucagone,\nadrenalina\n• TRIGLICERIDEMIA: metodo di misura e valori del sangue"
+  },
+  {
+   "n": 3,
+   "text": "METABOLISMO del COLESTEROLO\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 4,
+   "text": "➢ Il colesterolo NON può essere catabolizzato, perciò viene escreto come tale o come\nacidi biliari.\n➢ 800 mg/die di colesterolo prodotti dall'organismo + 300 mg/die assunti con la\ndieta = 400 mg sono convertiti in acidi biliari, 50 mg in ormoni steroidei, il resto (450 mg)\nviene eliminato nell'intestino come colesterolo.\n➢ La sintesi endogena di colesterolo è inversamente proporzionale all’uptake della dieta."
+  },
+  {
+   "n": 5,
+   "text": "➢ Il colesterolo della dieta per 2/3 è esterificato, soprattutto con acidi grassi insaturi\n➢ Solo il 30% del colesterolo è libero, il resto è esterificato, cioè è legato ad un acido grasso"
+  },
+  {
+   "n": 6,
+   "text": "DIGESTIONE degli STEROIDI\nINTESTINO"
+  },
+  {
+   "n": 7,
+   "text": "DIGESTIONE • trigliceridi (80-90%)\n• fosfolipidi (7-10%)\n• colesterolo libero (1-2%)\n• colesterolo esterificato (2-4%)\n• proteine (2-3%)\nlinfa\nchilomicrone\nlume intestinale enterocita vasi"
+  },
+  {
+   "n": 8,
+   "text": "LIPOPROTEINE PLASMATICHE\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]\n➢ Oltre ai CHILOMICRONI, che trasportano il COLESTEROLO della dieta,\nle LIPOPROTEINE che trasportano COLESTEROLO sono le LDL e le HDL"
+  },
+  {
+   "n": 9,
+   "text": "LIPOPROTEINE PLASMATICHE e COLESTEROLO"
+  },
+  {
+   "n": 10,
+   "text": "LDL\n➢ Le LDL portano colesterolo alle\ncellule, che ne hanno bisogno per la\ncostruzione delle membrane\n➢ Qualunque eccesso di colesterolo\nviene esterificato e raccolto in\ngocciole lipidiche citosoliche"
+  },
+  {
+   "n": 11,
+   "text": "HDL\n➢ Le HDL contengono 50% lipidi (CE,\nPL, pochi TG) e 50% proteine:\nqueste particelle captano\ncolesterolo dalle membrane e\ndalle altre LP"
+  },
+  {
+   "n": 12,
+   "text": "LDL e HDL derivano dalle VLDL\n➢ Le VLDL dal fegato consentono agli\nepatociti di esportare TG in eccesso\n(derivati dalla lipogenesi, dai NEFA\nplasmatici o dai kµr) e COLESTEROLO"
+  },
+  {
+   "n": 13,
+   "text": "[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 14,
+   "text": "➢ LDL è la principale forma con cui il colesterolo è trasportato ai\ntessuti\n➢ HDL è il modo con cui il colesterolo in eccesso dei tessuti è condotto\nal fegato per essere escreto"
+  },
+  {
+   "n": 15,
+   "text": "[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 16,
+   "text": "TESSUTI EXTRAEPATICI\nLDL\n➢ Gli esteri del colesterolo entrano\nnella cellula per endocitosi\nmediata da un recettore.\n➢ La proteina apoB100 sulle LDL\nviene riconosciuta dagli specifici\nrecettori delle LDL sulla\nsuperficie delle cellule che devono\nassumere colesterolo.\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 17,
+   "text": "HDL\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 18,
+   "text": "HDL"
+  },
+  {
+   "n": 19,
+   "text": "➢ I livelli di HDL (valori normali\nadulti: maschio 45 mg%, femmina\n56 mg%) sono inversamente\ncorrelati con quelli di VLDL e LDL\ne con il rischio di cardiopatia\ncoronarica\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 20,
+   "text": "[Bellini T., Chimica medica e propedeutica biochimica 2E, 2024, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 21,
+   "text": "ATEROSCLEROSI\n➢ Fattori di rischio: aumento\ncolesterolo LDL, diminuzione\ncolesterolo HDL, fumo,\nipertensione, sesso maschile,\ndiabete, obesità, stress,\nmancanza di esercizio fisico"
+  },
+  {
+   "n": 22,
+   "text": "➢ LIPOPROTEINE OSSIDATE: LDL che rimangono circolanti nel sangue"
+  },
+  {
+   "n": 23,
+   "text": "[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 24,
+   "text": "➢ Il trasporto inverso del colesterolo\noperato dalle HDL contrasta la formazione\ndelle placche e l’insorgenza dell’aterosclerosi,\nriducendo il danno potenziale che deriva\ndalla formazione delle cellule schiumose.\n➢ Le HDL svuotate (con basso contenuto di\ncolesterolo) assumono il colesterolo\nconservato all’interno dei tessuti extraepatici,\ncomprese le cellule schiumose presenti nel\nsito in cui si stanno formando le placche, e lo\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]\ntrasportano al fegato."
+  },
+  {
+   "n": 25,
+   "text": "➢ Gli FFA saturi della dieta aumentano il colesterolo LDL: gli FFA\nsaturi aumentano il pool di CL a scapito del CE.\n➢ Gli FFA monoinsaturi abbassano il pool di CL, favorendo la\nsintesi di CE."
+  },
+  {
+   "n": 26,
+   "text": "➢ Diete ricche di grassi saturi aumentano colesterolo-LDL e TG e diminuiscono il\ncolesterolo-HDL\n➢ I livelli di HDL sono inversamente correlati con quelli di VLDL e LDL e con il rischio\ndi cardiopatia coronarica\n• HDL < 35 mg% = fattore di rischio positivo\n• HDL > 60 mg% = fattore di rischio negativo\n➢ Gli estrogeni abbassano il colesterolo LDL ed aumentano il colesterolo HDL"
+  },
+  {
+   "n": 27,
+   "text": "COLESTEROLEMIA\nUomo normale ADULTO:\n• 130 – 200 mg/100 ml (2/3 forma esterificata, 1/3 forma libera)\n• 200 – 240 mg/100 ml → “borderline”"
+  },
+  {
+   "n": 28,
+   "text": "➢ I livelli elevati di colesterolo nel sangue sono correlati con l’incidenza di malattie\ncardiovascolari\n➢ Ha un ruolo cruciale come:\n• componente delle membrane cellulari\n• precursore degli ormoni steroidei\n• precursore degli acidi biliari\n➢ E’ essenziale ma NON è richiesto nella DIETA dei mammiferi perché le cellule animali sono\nin grado di sintetizzarlo a partire da precursori semplici"
+  },
+  {
+   "n": 29,
+   "text": "➢ Ogni giorno l'uomo produce 800 mg di colesterolo e ne introduce 300 mg.\n➢ Circa il 70% del colesterolo assunto con la dieta (circa 500 mg in Occidente) viene\nassimilato.\n➢ La sintesi endogena di colesterolo è inversamente correlata all'apporto di\ncolesterolo esogeno con la dieta."
+  },
+  {
+   "n": 30,
+   "text": "BIOSINTESI del COLESTEROLO\nE’ un processo molto complesso che consuma energia, quindi è\nmolto importante regolarlo in base alla sua quantità nella dieta"
+  },
+  {
+   "n": 31,
+   "text": "SINTESI ENDOGENA di COLESTEROLO\n➢ La sintesi di colesterolo avviene in tutte le cellule, ma è\npreminente in fegato (10-20% del totale), intestino,\ncorteccia surrenale e tessuti riproduttivi (ovaie, testicoli,\nplacenta)\n➢ Nel tessuto nervoso il colesterolo è un importante\ncostituente delle guaine mieliniche, nella pelle è un\nprecursore della vitamina D\n➢ La sintesi di colesterolo richiede 18 acetilCoA, 18 ATP e\n16 NADPH, ed avviene per lo più nel fegato."
+  },
+  {
+   "n": 32,
+   "text": "➢ E' prodotto dal fegato a partire dagli acidi grassi saturi, e la sua sintesi è influenzata\nda fattori genetici, esercizio fisico, stress emotivi, l'assunzione di fibre con la dieta.\n➢ La sintesi di colesterolo ha un ritmo circadiano, che dipende dall’introduzione di\ncolesterolo con la dieta: è minima a mezzogiorno e massima a mezzanotte."
+  },
+  {
+   "n": 33,
+   "text": "La sintesi del colesterolo si svolge in quattro TAPPE:\n1. condensazione di tre unità di acetato, per formare un intermedio a sei atomi di\ncarbonio, il mevalonato\n2. conversione del mevalonato in unità isopreniche attivate\n3. polimerizzazione di unità isopreniche a cinque atomi di carbonio, per formare lo\nsqualene, un composto lineare a 30 atomi di carbonio\n4. ciclizzazione dello squalene per formare il nucleo steroideo a quattro anelli, da cui,\nattraverso una serie di altre modifiche (ossidazioni, rimozione o migrazione di gruppi\nmetilici), si forma il colesterolo"
+  },
+  {
+   "n": 34,
+   "text": "Biosintesi del colesterolo:\n4 TAPPE\nCITOSOL"
+  },
+  {
+   "n": 35,
+   "text": "➢ La sintesi del colesterolo è un processo molto complesso che consuma energia.\n➢ L’eccesso di colesterolo non può essere catabolizzato come combustibile\nmetabolico e deve quindi essere escreto.\n➢ Perciò, è chiaramente vantaggioso per un organismo regolare la sintesi del\ncolesterolo in modo da integrare la quantità di questo lipide assunta nella dieta."
+  },
+  {
+   "n": 36,
+   "text": "REGOLAZIONE\nSINTESI ENDOGENA\ndi COLESTEROLO\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 37,
+   "text": "REGOLAZIONE SINTESI ENDOGENA di COLESTEROLO: STATINE\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 38,
+   "text": "Determinazione del COLESTEROLO nel SANGUE:\n➢ Prelievo di sangue\n➢ Metodo enzimatico-colorimetrico: misura il\ncolesterolo tramite una serie di reazioni chimiche che\nproducono un colorante la cui intensità viene misurata\nfotometricamente"
+  },
+  {
+   "n": 39,
+   "text": "Metodo di determinazione del COLESTEROLO nel SANGUE:\n➢ La reazione impiega enzimi come la colesterolo esterasi e\nla colesterolo ossidasi: ossida il colesterolo per produrre\nperossido di idrogeno, che a sua volta reagisce con una\nsostanza per generare un colorante o una fluorescenza,\ndirettamente proporzionale alla concentrazione di colesterolo.\n➢ Il metodo può essere adattato per misurare il colesterolo\nLDL, utilizzando dei \"surfattanti\" che solubilizzano\nselettivamente le LDL e inibiscono le reazioni con altre\nlipoproteine."
+  },
+  {
+   "n": 40,
+   "text": "DERIVATI del COLESTEROLO"
+  },
+  {
+   "n": 41,
+   "text": "Domande?"
+  },
+  {
+   "n": 42,
+   "text": ""
+  },
+  {
+   "n": 43,
+   "text": "METABOLISMO delle PROTEINE"
+  },
+  {
+   "n": 44,
+   "text": "DIGESTIONE PROTEINE\n• Ogni giorno un adulto di 70 kg digerisce 30-100 g di proteine\ndella dieta più 35-200 g di proteine endogene (enzimi digestivi,\ncellule di sfaldamento).\n• La digestione delle proteine nell’uomo è molto efficiente:\nmeno di 1/10 delle proteine ingerite (6-12 g) si ritrova nelle feci.\n• Vengono digerite solo in parte le proteine fibrose (come le\ncheratine) e certe proteine vegetali protette da un involucro di\ncellulosa."
+  },
+  {
+   "n": 45,
+   "text": "DIGESTIONE PROTEINE"
+  },
+  {
+   "n": 46,
+   "text": "▪ Il pH acido del succo gastrico\n(< 2), che contiene HCl 0,2-\n0,5%, serve ad uccidere i\nmicroorganismi e denaturare\nle proteine, che così diventano\npiù suscettibili all’azione delle\nproteasi\nH H H R2\nN C C N C C\nR1 O H O\nproteasi"
+  },
+  {
+   "n": 47,
+   "text": ""
+  },
+  {
+   "n": 48,
+   "text": "oligopeptidi\naminopeptidasi\ndipeptidasi\nproteine endopeptidasi\naminoacidi aminoacidi aminoacidi\npepsina\nATP K+\ntripsina\nchimotripsina Na+ Na+ Na+\nelastasi\ncarbossipeptidasi A e B ADP\n+ Pi\nK+\nlume intestinale enterocita capillare"
+  },
+  {
+   "n": 49,
+   "text": "[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 50,
+   "text": "DEGRADAZIONE AMINOACIDI\n➢ Il maggior sito di degradazione degli aa è il fegato.\n➢ La transaminazione è il modo più utilizzato per togliere l'azoto agli aa.\n➢ Quando nel fegato gli aa hanno transaminato sul Glutammato, il Glu entra nei\nmitocondri e viene deaminato dalla GluDH, presente nella matrice mitocondriale."
+  },
+  {
+   "n": 51,
+   "text": ""
+  },
+  {
+   "n": 52,
+   "text": "TRANSAMINASI: ALT o GPT\n_ _\nCOO Ala aminotransferasi COO\n(Ala transaminasi, ALT)\nCH 2 (Glu-Pir transaminasi, GPT) CH2\nCH 2 CH 3 CH2 CH 3\n+ PLP +\nC O + H C NH 3 H C NH 3 + C O\n_ _ _ _\nCOO COO COO COO\nalfa-chetoglutarato L-alanina (Ala) L-glutamato (Glu) piruvato"
+  },
+  {
+   "n": 53,
+   "text": "TRANSAMINASI: AST o GOT\n_ _\nCOO Asp aminotransferasi COO\n_ (Asp transaminasi, AST) _\nCH 2 COO (Glu-OA transaminasi, GOT) CH2 COO\nCH 2 CH2 CH2 CH2\n+ + + +\nPLP\nC O H C NH 3 H C NH 3 C O\n_ _ _ _\nCOO COO COO COO\nalfa-chetoglutarato L-aspartato (Asp) L-glutamato (Glu) ossalacetato"
+  },
+  {
+   "n": 54,
+   "text": "❑ Transaminasi: hanno bassa affinità per gli aa (si attivano quando il livello di aa è\ntroppo alto)\n❑ Le transaminasi epatiche ed intestinali sono indotte da una dieta iperproteica\n❑ GOT = AST (Asp transaminasi)\n❑ GPT = ALT (Ala transaminasi)"
+  },
+  {
+   "n": 55,
+   "text": "MISURA delle TRANSAMINASI EPATICHE:\n➢ La misura delle transaminasi GOT (AST) e GPT (ALT) viene\nutilizzata principalmente per valutare la salute di fegato\n(GPT), cuore e muscoli (GOT).\n➢ Un aumento dei loro valori può indicare un danno o uno\nstress in questi organi, come in caso di epatiti, infarti o\nproblemi muscolari.\n➢ Il metodo principale per misurare le transaminasi è l'esame\ndel sangue."
+  },
+  {
+   "n": 56,
+   "text": "VALORI delle TRANSAMINASI EPATICHE:\n➢ Dopo il prelievo, il campione di sangue viene analizzato in\nlaboratorio utilizzando principalmente metodi\nspettrofotometrici o enzimatici.\n➢ Valori di riferimento:\n• GPT (ALT): 7-56U/L\n• GOT (AST): 10-40U/L (uomini: <40U/L; donne: <35U/L)"
+  },
+  {
+   "n": 57,
+   "text": "METABOLISMO AMINOACIDI"
+  },
+  {
+   "n": 58,
+   "text": "➢ Il maggior sito di degradazione degli aa è il fegato\n➢ Il muscolo è la maggior sede di proteolisi, soprattutto in corso di digiuno, traumi,\nustioni, setticemia\n➢ Il glucagone in corso di digiuno stimola la captazione epatica di aa plasmatici"
+  },
+  {
+   "n": 59,
+   "text": "➢ I muscoli sottoposti a\ncontrazione vigorosa\nproducono anche\nNH4+ oltre al\nPiruvato, che\nvengono eliminati\nsotto forma di\naminoacido, la\nAlanina\n[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]"
+  },
+  {
+   "n": 60,
+   "text": "FEGATO\nELIMINAZIONE"
+  },
+  {
+   "n": 61,
+   "text": "ELIMINAZIONE NH4+\nCICLO dell’UREA"
+  },
+  {
+   "n": 62,
+   "text": ""
+  },
+  {
+   "n": 63,
+   "text": "➢ L'urea passa nel sangue, raggiunge il rene e\npassa nelle urine"
+  },
+  {
+   "n": 64,
+   "text": "▪ Il ciclo dell’urea aumenta sia dopo un apporto di proteine (per smaltire gli aa\neccesso) che dopo un digiuno prolungato (quando gli aa muscolari cominciano ad\nessere utilizzati a scopo gluconeogenetico ed energetico).\n▪ Una dieta iperproteica e il digiuno inoltre inducono gli enzimi del ciclo dell'urea\ndi 10-20 volte.\n▪ La REGOLAZIONE del ciclo dell’urea è basata sulla disponibilità di SUBSTRATO."
+  },
+  {
+   "n": 65,
+   "text": "VITAMINE nel METABOLISMO degli AA\nACIDO FOLICO (vitamina B9)\nVITAMINA B12"
+  },
+  {
+   "n": 66,
+   "text": "pirimidina pirazina\n_\nCOO\n1 8\nH2 N N 8a N CH2\n7\nACIDO FOLICO\n2\nCH2\n6 9 10 H\nN\n3 4a CH2 N C N CH\n4 5N H _\nO COO\nOH\n• L’acido folico (pteroilglutammato, folacina, vit. Bc, vit. B9), è una vitamina sintetizzata solo dai\nbatteri, ma si chiama così per la6-metilpterina acido p-aminobenzoico\nsua diffusione nelle glutamato\nfoglie (dal latino folia, foglia) di verdure verdi (in\nparticolare spinaci). acido pteroico\nacido pteroilglutamico (acido folico)\n• E’ largamente presente negli alimenti animali (fegato, carni) e vegetali (cereali, verdure, frutta), una\npiccola quota è fornita dalla flora intestinale.\n_\nCOO\nH\nH2 N N N CH2\nH\nH CH2\nH H\nN\nCH2 N C N CH\nN H _\nH COO\nOH O\ntetraidrofolato (FH4 )"
+  },
+  {
+   "n": 67,
+   "text": "➢ La richiesta di folato aumenta in\ngravidanza, essendo necessario per la\ncrescita del feto: la sua somministrazione\nnelle prime settimane di gravidanza previene la\nspina bifida ed altri difetti di sviluppo del\ntubo neurale (però in questo periodo spesso la\nmadre non sa di essere incinta)."
+  },
+  {
+   "n": 68,
+   "text": "non essenziali essenziali\nAla His\nArg* Ile\nAsn Leu\nAsp Lys\nCys*# Met\nGlu Phe\nGln Thr\nGly Trp\nPro Val\nSer\nTyr#\n*: è essenziale nei primi anni di vita\n#: sono sintetizzati a partire da aminoacidi essenziali"
+  },
+  {
+   "n": 69,
+   "text": "ANABOLISMO AMINOACIDI"
+  },
+  {
+   "n": 70,
+   "text": "METABOLISMO INTERMEDIO\nNext Lesson"
+  },
+  {
+   "n": 71,
+   "text": "Domande?"
+  },
+  {
+   "n": 72,
+   "text": "Next Lesson\nLezione 5_Biochimica\n11/11/2025\nA.A. 2025/26\nCorso di Laurea in Infermieristica"
+  },
+  {
+   "n": 73,
+   "text": ""
+  }
+ ]
+}

@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 4,
+  "topic": "Cinetica chimica, soluzioni, solubilità e proprietà dell'acqua",
+  "questions": [
+    {
+      "id": "d01-b04-q001",
+      "q": "Che cosa misura la velocità di una reazione chimica?",
+      "choices": [
+        "La quantità di reagente che si trasforma nell'unità di tempo",
+        "L'energia libera totale rilasciata dalla reazione",
+        "La differenza di energia fra reagenti e prodotti",
+        "Il numero di atomi che compaiono nei prodotti",
+        "La temperatura alla quale la reazione diventa spontanea"
+      ],
+      "answer": 0,
+      "explain": "La velocità di reazione esprime quanto rapidamente i reagenti si consumano o i prodotti si formano per unità di tempo, ed è l'oggetto di studio della cinetica chimica. Le alternative che citano l'energia libera o la differenza di energia appartengono invece alla termodinamica: una reazione può essere molto favorita e restare comunque lentissima.",
+      "slide": 48
+    },
+    {
+      "id": "d01-b04-q002",
+      "q": "Due reazioni hanno lo stesso bilancio energetico complessivo, ma una procede molto più rapidamente dell'altra. Che cosa spiega questa differenza?",
+      "choices": [
+        "La differenza di energia libera fra reagenti e prodotti",
+        "Il numero di atomi di carbonio presenti nei reagenti",
+        "La massa molare complessiva delle molecole dei prodotti finali",
+        "La barriera di attivazione che i reagenti devono superare",
+        "Il volume complessivo della soluzione in cui avviene la reazione"
+      ],
+      "answer": 3,
+      "explain": "La velocità dipende dall'energia di attivazione: quanto più alta è la barriera da superare, tanto più lenta risulta la reazione a parità di temperatura. L'energia libera dei reagenti e dei prodotti stabilisce soltanto la spontaneità e la posizione dell'equilibrio, non la rapidità con cui esso viene raggiunto.",
+      "slide": 48
+    },
+    {
+      "id": "d01-b04-q003",
+      "q": "Che cos'è un catalizzatore?",
+      "choices": [
+        "Una sostanza che viene consumata per fornire energia alla reazione",
+        "Una sostanza che aumenta la velocità di una reazione senza essere consumata",
+        "Una sostanza che aumenta la resa finale spostando l'equilibrio verso i prodotti",
+        "Una sostanza che abbassa l'energia libera dei prodotti",
+        "Una sostanza che impedisce alla reazione di raggiungere l'equilibrio"
+      ],
+      "answer": 1,
+      "explain": "Il catalizzatore accelera la reazione mettendo a disposizione un percorso con energia di attivazione più bassa e, alla fine, si ritrova chimicamente inalterato. L'opzione che parla di resa finale è la più insidiosa, perché il catalizzatore fa raggiungere prima l'equilibrio ma non ne modifica la posizione, che dipende solo dalla differenza di energia libera fra reagenti e prodotti.",
+      "slide": 49
+    },
+    {
+      "id": "d01-b04-q004",
+      "q": "In che modo un catalizzatore accelera una reazione chimica?",
+      "choices": [
+        "Aumentando l'energia interna dei reagenti di partenza",
+        "Aumentando l'energia libera dei prodotti finali",
+        "Eliminando lo stato di transizione dalla via di reazione",
+        "Rendendo la reazione spontaneamente esotermica",
+        "Offrendo un percorso con energia di attivazione inferiore"
+      ],
+      "answer": 4,
+      "explain": "Il catalizzatore non cambia l'energia dei reagenti né quella dei prodotti, ma apre una via di reazione diversa in cui la barriera di attivazione è più bassa, così una frazione maggiore di molecole possiede energia sufficiente a reagire. Lo stato di transizione non può essere eliminato: viene soltanto reso più facilmente raggiungibile.",
+      "slide": 49
+    },
+    {
+      "id": "d01-b04-q005",
+      "q": "Al termine di una reazione catalizzata, in quale forma si ritrova il catalizzatore?",
+      "choices": [
+        "Ossidato e reso definitivamente inattivo dalla reazione",
+        "Trasformato in uno dei prodotti finali della reazione",
+        "Inalterato e presente in quantità praticamente invariata",
+        "Consumato in proporzione alla quantità di prodotto formata",
+        "Distrutto durante la reazione e poi riformato dai prodotti"
+      ],
+      "answer": 2,
+      "explain": "Il catalizzatore partecipa al ciclo catalitico formando intermedi, ma alla fine di ogni ciclo viene rigenerato, perciò è presente in quantità praticamente invariata. Chi lo immagina consumato come un reagente confonde il catalizzatore con il substrato della reazione.",
+      "slide": 49
+    },
+    {
+      "id": "d01-b04-q006",
+      "q": "Perché nelle cellule dei tessuti animali sono necessari migliaia di enzimi diversi?",
+      "choices": [
+        "Perché un solo enzima può catalizzare tutte le reazioni della cellula",
+        "Perché gli enzimi sono privi di specificità per il substrato",
+        "Perché ogni enzima catalizza solo poche delle numerose reazioni dei tessuti",
+        "Perché le reazioni cellulari procedono senza bisogno di catalisi",
+        "Perché gli enzimi sostituiscono l'ATP come fonte di energia della cellula"
+      ],
+      "answer": 2,
+      "explain": "Ogni enzima è una proteina dotata di elevata specificità e riconosce soltanto uno o pochi substrati, quindi occorre un enzima diverso per ciascuna delle numerose reazioni del metabolismo. Un unico enzima aspecifico non potrebbe garantire il controllo selettivo delle vie metaboliche.",
+      "slide": 50
+    },
+    {
+      "id": "d01-b04-q007",
+      "q": "Che cosa significa che un enzima è altamente specifico per il substrato?",
+      "choices": [
+        "Che lega e trasforma in modo selettivo una o poche molecole",
+        "Che agisce su qualunque molecola incontri nella cellula",
+        "Che catalizza esclusivamente reazioni di ossidoriduzione",
+        "Che è sensibile alla temperatura ma non alla natura del substrato",
+        "Che lega soltanto ioni metallici"
+      ],
+      "answer": 0,
+      "explain": "L'elevata specificità significa che l'enzima riconosce con precisione la forma e i gruppi chimici del suo substrato, catalizzando una sola reazione o poche reazioni strettamente correlate. Un enzima che agisse su qualunque molecola renderebbe impossibile la regolazione ordinata del metabolismo.",
+      "slide": 50
+    },
+    {
+      "id": "d01-b04-q008",
+      "q": "Su che cosa si basa il meccanismo generale della catalisi enzimatica?",
+      "choices": [
+        "Sulla dissoluzione completa del substrato nel citoplasma",
+        "Sulla rottura casuale delle molecole d'acqua circostanti",
+        "Sulla sintesi di un nuovo enzima a ogni ciclo catalitico",
+        "Sul trasferimento di elettroni dall'enzima al substrato",
+        "Sull'adsorbimento del substrato sulla superficie dell'enzima"
+      ],
+      "answer": 4,
+      "explain": "Il meccanismo di catalisi si basa sempre sull'adsorbimento, cioè il substrato si lega a una regione della superficie dell'enzima dove avviene la trasformazione. Il trasferimento di elettroni riguarda soltanto alcune classi di enzimi, come le ossidoreduttasi, e non costituisce il meccanismo generale della catalisi.",
+      "slide": 50
+    },
+    {
+      "id": "d01-b04-q009",
+      "q": "Dal punto di vista chimico, che cosa sono gli enzimi?",
+      "choices": [
+        "Lipidi capaci di legare substrati apolari",
+        "Proteine, di cui esistono migliaia di tipi diversi",
+        "Acidi nucleici che accelerano le reazioni",
+        "Ioni metallici che sostituiscono le proteine",
+        "Carboidrati con funzione esclusivamente catalitica"
+      ],
+      "answer": 1,
+      "explain": "Gli enzimi sono proteine e nella cellula se ne contano migliaia di tipi diversi, ciascuno con una propria funzione catalitica. Le altre classi di molecole non svolgono il ruolo di catalizzatori biologici con la stessa elevata specificità per il substrato.",
+      "slide": 50
+    },
+    {
+      "id": "d01-b04-q010",
+      "q": "Oltre alla presenza di un catalizzatore, quali condizioni influenzano la velocità di una reazione chimica?",
+      "choices": [
+        "Soltanto la quantità di prodotto che si è già formato",
+        "Esclusivamente la massa molare di tutti i reagenti",
+        "Il colore della soluzione in cui avviene la reazione chimica",
+        "Temperatura, concentrazione dei reagenti e superficie di contatto",
+        "Il volume del recipiente, indipendentemente da ogni altra condizione"
+      ],
+      "answer": 3,
+      "explain": "La velocità aumenta con la temperatura, con la concentrazione dei reagenti e con l'estensione della superficie di contatto, perché cresce la frequenza degli urti efficaci fra le molecole. La massa molare e il colore della soluzione non hanno invece alcun ruolo cinetico.",
+      "slide": 51
+    },
+    {
+      "id": "d01-b04-q011",
+      "q": "Perché una reazione fra gas procede più lentamente a bassa temperatura?",
+      "choices": [
+        "Perché l'energia di attivazione della reazione si annulla",
+        "Perché il catalizzatore viene consumato molto più in fretta",
+        "Perché l'equilibrio si sposta sempre verso i reagenti di partenza",
+        "Perché i prodotti diventano via via termodinamicamente instabili",
+        "Perché le molecole hanno minore energia cinetica e urtano meno efficacemente"
+      ],
+      "answer": 4,
+      "explain": "Abbassando la temperatura diminuisce l'energia cinetica media delle molecole, quindi sono meno numerosi gli urti dotati dell'energia necessaria a superare la barriera di attivazione. L'energia di attivazione è una proprietà del percorso di reazione e non si annulla al variare della temperatura.",
+      "slide": 51
+    },
+    {
+      "id": "d01-b04-q012",
+      "q": "Secondo la definizione di Brønsted, che cos'è un acido?",
+      "choices": [
+        "Qualsiasi molecola o ione capace di accettare idrogenioni",
+        "Qualsiasi molecola o ione capace di donare idrogenioni, cioè protoni",
+        "Qualsiasi sostanza capace di cedere elettroni a un'altra",
+        "Una sostanza che aumenta sempre il pH della soluzione",
+        "Una sostanza che in acqua non si dissocia affatto"
+      ],
+      "answer": 1,
+      "explain": "Un acido è una specie capace di donare idrogenioni, ossia ioni H+, che altro non sono che protoni. La capacità di accettare protoni definisce invece una base, mentre la cessione di elettroni descrive un agente riducente in una reazione di ossidoriduzione.",
+      "slide": 52
+    },
+    {
+      "id": "d01-b04-q013",
+      "q": "Secondo la definizione di Brønsted, che cos'è una base?",
+      "choices": [
+        "Una specie che dona idrogenioni alla soluzione",
+        "Una specie che cede elettroni a un'altra",
+        "Una specie che abbassa il pH della soluzione",
+        "Una specie capace di accettare idrogenioni",
+        "Una specie che non partecipa agli scambi di protoni"
+      ],
+      "answer": 3,
+      "explain": "La base è la specie che accetta idrogenioni, completando così la coppia coniugata dell'acido che li ha ceduti. Chi la confonde con un donatore di protoni inverte la definizione, mentre la cessione di elettroni appartiene al diverso ambito delle reazioni di ossidoriduzione.",
+      "slide": 52
+    },
+    {
+      "id": "d01-b04-q014",
+      "q": "Quando un acido cede un protone, in quale specie si trasforma?",
+      "choices": [
+        "In un acido più forte del precedente",
+        "In una molecola neutra priva di qualunque carica",
+        "Nella sua base coniugata",
+        "In un sale sempre insolubile",
+        "In un catalizzatore della reazione"
+      ],
+      "answer": 2,
+      "explain": "Cedendo un protone, l'acido si trasforma nella sua base coniugata, cioè nella specie che può riaccettare quel protone. Acido e base coniugata formano così una coppia che sta alla base del comportamento tampone delle soluzioni.",
+      "slide": 52
+    },
+    {
+      "id": "d01-b04-q015",
+      "q": "Che cosa rappresenta lo ione H+ nella chimica degli acidi e delle basi?",
+      "choices": [
+        "Un protone, cioè un atomo di idrogeno senza il suo elettrone",
+        "Un elettrone libero che circola nella soluzione acquosa",
+        "Un atomo di idrogeno che ha acquistato un elettrone in più",
+        "Un neutrone privo di carica elettrica presente nel nucleo",
+        "Una molecola di idrogeno biatomica con due elettroni condivisi"
+      ],
+      "answer": 0,
+      "explain": "Lo ione H+ corrisponde al nucleo dell'idrogeno, cioè a un protone, perché l'atomo ha perduto il suo unico elettrone. Non va confuso con l'elettrone, che ha carica opposta, né con la molecola H2, in cui due atomi di idrogeno condividono una coppia di elettroni.",
+      "slide": 52
+    },
+    {
+      "id": "d01-b04-q016",
+      "q": "Che sapore hanno tipicamente le soluzioni basiche diluite?",
+      "choices": [
+        "Aspro",
+        "Amaro",
+        "Salato",
+        "Dolce",
+        "Del tutto insaporo"
+      ],
+      "answer": 1,
+      "explain": "Le basi diluite hanno sapore amaro, mentre è tipico degli acidi diluiti il sapore aspro, come nel limone e nell'aceto. Il sapore salato è invece associato ai sali e non alle basi.",
+      "slide": 53
+    },
+    {
+      "id": "d01-b04-q017",
+      "q": "Perché il succo di limone e l'aceto hanno un sapore aspro?",
+      "choices": [
+        "Perché sono basi forti completamente dissociate",
+        "Perché contengono elevate quantità di sali neutri disciolti",
+        "Perché hanno un pH stabilmente superiore a sette",
+        "Perché contengono soprattutto lipidi di origine vegetale",
+        "Perché contengono acidi, che diluiti hanno sapore aspro"
+      ],
+      "answer": 4,
+      "explain": "Il sapore aspro è l'esperienza comune legata agli acidi diluiti, presenti appunto nel limone e nell'aceto. Le soluzioni basiche, al contrario, hanno sapore amaro e presentano un pH superiore a sette.",
+      "slide": 53
+    },
+    {
+      "id": "d01-b04-q018",
+      "q": "Come si calcola il pH di una soluzione?",
+      "choices": [
+        "Come il logaritmo decimale negativo della concentrazione degli ioni H+",
+        "Come il logaritmo decimale positivo della concentrazione degli ioni OH-",
+        "Come la somma fra pH e pOH",
+        "Come il prodotto fra la concentrazione di H+ e quella di OH-",
+        "Come la radice quadrata della concentrazione degli ioni H+"
+      ],
+      "answer": 0,
+      "explain": "Il pH è definito come il logaritmo decimale negativo della concentrazione degli ioni H+, perciò una concentrazione di dieci alla meno sette moli per litro corrisponde a un pH di sette. Il prodotto fra le concentrazioni di H+ e OH- è invece la costante del prodotto ionico dell'acqua, pari a dieci alla meno quattordici.",
+      "slide": 55
+    },
+    {
+      "id": "d01-b04-q019",
+      "q": "In una soluzione acquosa a venticinque gradi centigradi, quanto vale la somma di pH e pOH?",
+      "choices": [
+        "Sette",
+        "Dieci",
+        "Ventiquattro",
+        "Quattordici",
+        "Zero"
+      ],
+      "answer": 3,
+      "explain": "A venticinque gradi centigradi il prodotto ionico dell'acqua vale dieci alla meno quattordici, da cui deriva che la somma di pH e pOH è uguale a quattordici. Il valore sette corrisponde invece al pH di una soluzione neutra, in cui pH e pOH sono uguali fra loro.",
+      "slide": 55
+    },
+    {
+      "id": "d01-b04-q020",
+      "q": "Una soluzione ha una concentrazione di ioni H+ pari a dieci alla meno tre moli per litro. Qual è il suo pH?",
+      "choices": [
+        "Tre e risulta basica",
+        "Undici e risulta acida",
+        "Tre e risulta acida",
+        "Undici e risulta basica",
+        "Sette e risulta neutra"
+      ],
+      "answer": 2,
+      "explain": "Applicando la definizione, il pH è il logaritmo decimale negativo di dieci alla meno tre, quindi vale tre. Un pH inferiore a sette indica una soluzione acida, mentre il valore undici si otterrebbe calcolando il pOH della stessa soluzione.",
+      "slide": 55
+    },
+    {
+      "id": "d01-b04-q021",
+      "q": "Quale fra questi insiemi di processi fisiologici è influenzato dal pH?",
+      "choices": [
+        "Soltanto la digestione dei lipidi nello stomaco",
+        "Soltanto la sintesi delle proteine della membrana cellulare",
+        "Esclusivamente la replicazione del DNA dei mitocondri cellulari",
+        "L'attività enzimatica, il trasporto di ioni e la contrazione muscolare",
+        "Nessun processo fisiologico, perché il pH del sangue resta costante"
+      ],
+      "answer": 3,
+      "explain": "Il pH condiziona numerosi processi, fra cui l'attività enzimatica, il trasporto di ioni e molecole, la contrazione muscolare, la fecondazione dell'ovocita e la proliferazione cellulare. Dire che nessun processo ne è influenzato è sbagliato proprio perché il pH viene mantenuto costante grazie a continui sistemi di regolazione.",
+      "slide": 56
+    },
+    {
+      "id": "d01-b04-q022",
+      "q": "Qual è il valore medio del pH del sangue arterioso?",
+      "choices": [
+        "Sette e zero",
+        "Sette e due",
+        "Sette e quattro",
+        "Sette e otto",
+        "Cinque e quattro"
+      ],
+      "answer": 2,
+      "explain": "Il sangue arterioso ha un pH medio di sette e quattro, con una piccola oscillazione di più o meno quattro centesimi. Il valore sette e zero corrisponde invece alla neutralità dell'acqua pura e non al sangue.",
+      "slide": 56
+    },
+    {
+      "id": "d01-b04-q023",
+      "q": "In un uomo adulto, quale acido viene prodotto ogni giorno nella quantità maggiore?",
+      "choices": [
+        "L'acido carbonico, derivato dall'anidride carbonica",
+        "L'acido solforico, prodotto dal metabolismo degli amminoacidi",
+        "L'acido fosforico, liberato dai fosfati della dieta",
+        "L'acido lattico, prodotto dagli eritrociti in carenza di ossigeno",
+        "L'acido urico, derivato dal catabolismo delle purine"
+      ],
+      "answer": 0,
+      "explain": "La produzione quotidiana di anidride carbonica, che in acqua forma acido carbonico, è dell'ordine di tredici-venti moli ed è nettamente superiore a quella degli acidi solforico e fosforico, che insieme restano sotto le ottanta millimoli. L'acido lattico, prodotto dagli eritrociti, si aggira su poche decine di centesimi di mole al giorno.",
+      "slide": 56
+    },
+    {
+      "id": "d01-b04-q024",
+      "q": "Come si confronta il pH del sangue venoso con quello del sangue arterioso?",
+      "choices": [
+        "Il sangue venoso ha un pH nettamente più alto di quello arterioso",
+        "Il sangue venoso ha un pH uguale a quello arterioso in ogni condizione",
+        "Il sangue venoso ha un pH pari a sette e zero in ogni condizione",
+        "Il sangue venoso non ha un pH misurabile con gli indicatori",
+        "Il sangue venoso ha un pH un po' più basso, circa sette e trentotto"
+      ],
+      "answer": 4,
+      "explain": "Il sangue venoso, più ricco di anidride carbonica, ha un pH medio di circa sette e trentotto, quindi leggermente più basso rispetto al valore di sette e quaranta del sangue arterioso. La differenza è piccola perché i sistemi tampone e la respirazione mantengono il pH entro limiti ristretti.",
+      "slide": 56
+    },
+    {
+      "id": "d01-b04-q025",
+      "q": "Che cos'è una soluzione tampone?",
+      "choices": [
+        "Una soluzione che non contiene né acidi né basi in alcuna forma",
+        "Una soluzione di un acido debole con la sua base coniugata, che tampona il pH",
+        "Una soluzione di un acido forte che mantiene il pH sempre a zero",
+        "Una soluzione salina che neutralizza soltanto le basi aggiunte",
+        "Una soluzione che rende il pH indipendente dalla temperatura esterna"
+      ],
+      "answer": 1,
+      "explain": "Un tampone è formato da un acido debole insieme alla sua base coniugata e neutralizza sia gli acidi sia le basi aggiunti, limitando le variazioni di pH. Una soluzione di acido forte non ha alcun potere tamponante, perché l'acido è completamente dissociato.",
+      "slide": 57
+    },
+    {
+      "id": "d01-b04-q026",
+      "q": "Come agisce una soluzione tampone quando vi si aggiunge una piccola quantità di acido forte?",
+      "choices": [
+        "La base coniugata presente neutralizza gli ioni H+ aggiunti",
+        "L'acido debole presente neutralizza direttamente gli ioni H+",
+        "Il pH scende fino al valore dell'acido aggiunto",
+        "La soluzione si diluisce e il pH resta invariato per pura diluizione",
+        "Gli ioni H+ vengono eliminati per precipitazione"
+      ],
+      "answer": 0,
+      "explain": "La componente basica della coppia accetta i protoni introdotti, trasformandosi in acido coniugato e impedendo così una caduta brusca del pH. La componente acida serve invece a neutralizzare le basi aggiunte, quindi non è quella che reagisce con gli ioni H+.",
+      "slide": 57
+    },
+    {
+      "id": "d01-b04-q027",
+      "q": "Quale fra i seguenti è un sistema tampone fisiologico?",
+      "choices": [
+        "Il tampone formato da cloruro di sodio e acqua",
+        "Il tampone formato da glucosio e fruttosio insieme",
+        "Il tampone dei trigliceridi presenti nel plasma",
+        "Il tampone dei fosfati, attivo nel sangue e nel rene",
+        "Il tampone formato dall'urea presente nelle urine"
+      ],
+      "answer": 3,
+      "explain": "Fra i principali sistemi tampone dell'organismo figurano il tampone fosfati, attivo nel sangue e nel rene, le proteine come l'albumina e l'emoglobina, e la coppia anidride carbonica-bicarbonato. Cloruro di sodio, glucosio e trigliceridi non formano coppie acido-base coniugate utili a tamponare il pH.",
+      "slide": 57
+    },
+    {
+      "id": "d01-b04-q028",
+      "q": "Oltre al tampone fosfati, quali sono gli altri principali sistemi tampone dell'organismo?",
+      "choices": [
+        "Il tampone dei grassi neutri e quello del glicogeno",
+        "Il tampone del glucosio e quello dell'urea nel sangue",
+        "Le proteine, come l'albumina, e il tampone bicarbonato",
+        "Il tampone del colesterolo e quello dei sali biliari",
+        "Il tampone dell'acido urico e quello della creatinina"
+      ],
+      "answer": 2,
+      "explain": "I sistemi tampone fisiologici comprendono il tampone fosfati, le proteine come l'albumina e l'emoglobina e la coppia anidride carbonica-bicarbonato. Glicogeno, colesterolo e creatinina non hanno un ruolo tampone significativo nel sangue.",
+      "slide": 57
+    },
+    {
+      "id": "d01-b04-q029",
+      "q": "Quali specie formano il tampone bicarbonato?",
+      "choices": [
+        "Acido carbonico e acido fosforico in parti uguali",
+        "Anidride carbonica, tramite l'acido carbonico, e bicarbonato",
+        "Ione carbonato e ione fosfato disciolti nel sangue",
+        "Emoglobina e albumina come proteine plasmatiche",
+        "Ione ammonio e ammoniaca in equilibrio fra loro"
+      ],
+      "answer": 1,
+      "explain": "Il tampone bicarbonato è costituito dalla coppia formata dall'anidride carbonica, che in acqua genera acido carbonico, e dallo ione bicarbonato. L'emoglobina e l'albumina agiscono invece come tamponi proteici, distinti da quello bicarbonato.",
+      "slide": 58
+    },
+    {
+      "id": "d01-b04-q030",
+      "q": "Perché il sistema bicarbonato è particolarmente efficace nel mantenere stabile il pH del sangue?",
+      "choices": [
+        "Perché è presente solo nel rene e non nel sangue",
+        "Perché l'anidride carbonica non può essere eliminata dall'organismo",
+        "Perché la sua concentrazione non è regolata da alcun organo interno",
+        "Perché agisce soltanto in un ambiente fortemente alcalino",
+        "Perché la respirazione regola l'anidride carbonica e il rene il bicarbonato"
+      ],
+      "answer": 4,
+      "explain": "L'efficacia del tampone bicarbonato deriva dal fatto che entrambe le sue componenti sono regolate: la respirazione controlla la concentrazione dell'anidride carbonica e il rene quella dello ione bicarbonato. Questa doppia regolazione permette di correggere rapidamente gli squilibri acido-base.",
+      "slide": 58
+    },
+    {
+      "id": "d01-b04-q031",
+      "q": "Che relazione esiste fra anidride carbonica e acido carbonico nel sangue?",
+      "choices": [
+        "Sono in realtà la stessa molecola disciolta nel sangue",
+        "L'anidride carbonica si trasforma in acido carbonico solo nel rene",
+        "L'anidride carbonica disciolta nel sangue, con l'acqua, forma acido carbonico",
+        "L'acido carbonico si trasforma in anidride carbonica solo negli eritrociti",
+        "Fra le due specie non esiste alcuna relazione chimica diretta"
+      ],
+      "answer": 2,
+      "explain": "L'anidride carbonica che si dissolve nel sangue reagisce con l'acqua formando acido carbonico, il quale può cedere un protone e dare bicarbonato. Proprio questo equilibrio rende l'anidride carbonica un acido potenziale e collega la respirazione al controllo del pH.",
+      "slide": 58
+    },
+    {
+      "id": "d01-b04-q032",
+      "q": "Che cosa studia la biochimica strutturale o descrittiva?",
+      "choices": [
+        "Le sole reazioni di ossidoriduzione che avvengono nella cellula",
+        "Esclusivamente la termodinamica delle soluzioni acquose",
+        "Soltanto i sistemi tampone presenti nel sangue arterioso",
+        "La struttura dei soli acidi nucleici e delle proteine cellulari",
+        "La struttura delle molecole biologiche per spiegarne il ruolo metabolico"
+      ],
+      "answer": 4,
+      "explain": "La biochimica strutturale o descrittiva studia la struttura delle molecole biologiche con l'obiettivo di chiarirne il significato metabolico e funzionale. Non si limita a una singola classe di reazioni né alla sola chimica delle soluzioni.",
+      "slide": 61
+    },
+    {
+      "id": "d01-b04-q033",
+      "q": "In che senso la biochimica descrive la materia vivente in termini molecolari?",
+      "choices": [
+        "Riducendo i processi vitali a semplici misure di temperatura e di pressione",
+        "Descrivendo struttura, organizzazione e funzione degli organismi con le molecole",
+        "Limitandosi a elencare i nomi delle malattie metaboliche più conosciute",
+        "Studiando soltanto gli organismi non viventi e i cristalli inorganici",
+        "Considerando unicamente gli aspetti geometrici dei cristalli inorganici"
+      ],
+      "answer": 1,
+      "explain": "La biochimica studia la materia vivente descrivendone struttura, organizzazione e funzione in termini molecolari, cioè attraverso le molecole che la compongono e le loro trasformazioni. Non si occupa quindi di semplici parametri fisici né di cristalli non viventi.",
+      "slide": 62
+    },
+    {
+      "id": "d01-b04-q034",
+      "q": "Perché lo studio della struttura delle biomolecole è utile alla comprensione del metabolismo?",
+      "choices": [
+        "Perché la funzione di una molecola dipende dalla sua struttura",
+        "Perché la struttura delle molecole non ha alcun rapporto con la funzione",
+        "Perché solo le molecole inorganiche partecipano al metabolismo",
+        "Perché la struttura determina unicamente il colore della molecola",
+        "Perché le molecole biologiche hanno tutte la stessa forma"
+      ],
+      "answer": 0,
+      "explain": "La biochimica strutturale parte dal principio che la funzione di una biomolecola, per esempio quella di un enzima, dipende dalla sua struttura tridimensionale. Le molecole biologiche sono invece molto diverse fra loro proprio perché strutture differenti svolgono funzioni differenti.",
+      "slide": 62
+    },
+    {
+      "id": "d01-b04-q035",
+      "q": "Qual è il tema centrale della biochimica?",
+      "choices": [
+        "Lo studio dei minerali",
+        "La classificazione degli elementi chimici",
+        "L'energia",
+        "La geologia delle rocce sedimentarie",
+        "La meccanica dei fluidi"
+      ],
+      "answer": 2,
+      "explain": "L'energia è considerata il tema centrale della biochimica, perché tutte le trasformazioni della materia vivente comportano scambi e conversioni di energia. Gli altri argomenti proposti appartengono ad altre discipline e non descrivono la materia vivente in termini molecolari.",
+      "slide": 63
+    },
+    {
+      "id": "d01-b04-q036",
+      "q": "Quale affermazione riassume meglio l'oggetto della biochimica?",
+      "choices": [
+        "Studia solo le sostanze inorganiche presenti nell'ambiente naturale",
+        "Si occupa unicamente della forma esterna dei cristalli inorganici",
+        "Analizza esclusivamente le reazioni chimiche che avvengono nei laboratori",
+        "Descrive la materia vivente soltanto dal punto di vista anatomico e morfologico",
+        "Descrive struttura, organizzazione e funzione della materia vivente con le molecole"
+      ],
+      "answer": 4,
+      "explain": "La biochimica ha per oggetto la materia vivente, di cui descrive struttura, organizzazione e funzione a livello molecolare, con l'energia come tema centrale. L'anatomia e la cristallografia studiano invece la materia a livelli di organizzazione diversi.",
+      "slide": 63
+    },
+    {
+      "id": "d01-b04-q037",
+      "q": "Che ruolo ha l'energia nello studio della biochimica?",
+      "choices": [
+        "È il tema centrale, perché ogni processo vitale comporta scambi di energia",
+        "È irrilevante, perché le cellule non scambiano energia con l'ambiente",
+        "Riguarda solo le reazioni che avvengono fuori dagli organismi",
+        "Interessa unicamente la chimica dei materiali inerti e dei minerali",
+        "Serve soltanto a spiegare il colore e la forma delle biomolecole"
+      ],
+      "answer": 0,
+      "explain": "L'energia è il tema centrale della biochimica perché la materia vivente si mantiene e si trasforma attraverso continui scambi energetici. Sostenere che le cellule non scambiano energia contraddice il fatto che il metabolismo è fatto di reazioni esoergoniche ed endoergoniche accoppiate.",
+      "slide": 63
+    },
+    {
+      "id": "d01-b04-q038",
+      "q": "Per quali ragioni fondamentali un organismo ha bisogno di nutrirsi?",
+      "choices": [
+        "Soltanto per eliminare le sostanze di rifiuto",
+        "Esclusivamente per mantenere costante la temperatura corporea",
+        "Unicamente per produrre anidride carbonica ed eliminarla",
+        "Per produrre energia e per riparare e rinnovare i tessuti",
+        "Soltanto per rifornirsi di acqua e di sali minerali"
+      ],
+      "answer": 3,
+      "explain": "Il cibo serve innanzitutto a produrre energia e a fornire i materiali per la crescita e la riparazione dei tessuti. La produzione di anidride carbonica e l'eliminazione dei rifiuti sono conseguenze del metabolismo, non le ragioni principali dell'alimentazione.",
+      "slide": 64
+    },
+    {
+      "id": "d01-b04-q039",
+      "q": "Quanta acqua e quanti alimenti assume mediamente ogni giorno una persona adulta?",
+      "choices": [
+        "Circa cinque chili di alimenti e mezzo litro di fluidi",
+        "Circa due chili di alimenti e cinque litri di fluidi",
+        "Circa un chilogrammo di alimenti e uno o due litri di fluidi",
+        "Circa tre chili di alimenti e tre litri di fluidi",
+        "Meno di cento grammi di alimenti e dieci litri di fluidi"
+      ],
+      "answer": 2,
+      "explain": "Un adulto assume ogni giorno circa un chilogrammo di alimenti e da uno a due litri di fluidi, quantità che coprono il fabbisogno energetico e idrico. Valori molto diversi, come cinque chili di cibo o dieci litri di liquidi, non corrispondono all'assunzione media giornaliera.",
+      "slide": 64
+    },
+    {
+      "id": "d01-b04-q040",
+      "q": "Qual è il contenuto energetico di un Big Mac del peso di duecentodiciannove grammi?",
+      "choices": [
+        "Circa duecentocinquanta kilocalorie",
+        "Circa cinquecentosessanta kilocalorie",
+        "Circa novecentotrenta kilocalorie",
+        "Circa millecentoventi kilocalorie",
+        "Circa centoquaranta kilocalorie"
+      ],
+      "answer": 1,
+      "explain": "Il contenuto energetico indicato è di circa cinquecentosessanta kilocalorie per duecentodiciannove grammi di prodotto. Questo valore è nettamente superiore a quello di un frutto o di una porzione di verdura e deriva dal contributo di carboidrati, lipidi e proteine.",
+      "slide": 65
+    },
+    {
+      "id": "d01-b04-q041",
+      "q": "In un Big Mac di duecentodiciannove grammi, quale macronutriente è presente nella quantità maggiore?",
+      "choices": [
+        "Le proteine, con venticinque grammi",
+        "I carboidrati, con quarantasette grammi",
+        "I lipidi, con trenta grammi",
+        "Le proteine e i lipidi insieme, con più di cento grammi",
+        "Le fibre, con un contenuto superiore ai carboidrati"
+      ],
+      "answer": 1,
+      "explain": "Nel panino considerato i carboidrati ammontano a circa quarantasette grammi, più dei trenta grammi di lipidi e dei venticinque grammi di proteine. Le fibre non sono indicate fra i componenti principali e non superano i carboidrati.",
+      "slide": 65
+    },
+    {
+      "id": "d01-b04-q042",
+      "q": "Quali sono le tre grandi classi di molecole considerate dal metabolismo generale?",
+      "choices": [
+        "Acqua, sali minerali e vitamine",
+        "Amminoacidi, nucleotidi e ioni",
+        "Carboidrati, lipidi e proteine",
+        "Acidi nucleici, ormoni e pigmenti",
+        "Vitamine, oligoelementi e fibre"
+      ],
+      "answer": 2,
+      "explain": "Il metabolismo generale prende in considerazione carboidrati, lipidi e proteine, le tre classi di macronutrienti che l'organismo utilizza per produrre energia e costruire le proprie strutture. Le vitamine e i sali minerali, pur essenziali, non rientrano fra queste tre classi di macronutrienti.",
+      "slide": 66
+    },
+    {
+      "id": "d01-b04-q043",
+      "q": "Che cosa hanno in comune carboidrati, lipidi e proteine dal punto di vista metabolico?",
+      "choices": [
+        "Sono tutti composti esclusivamente da carbonio e idrogeno",
+        "Sono tutti ugualmente solubili in acqua a ogni temperatura",
+        "Sono tutti privi di valore energetico per la cellula",
+        "Sono tutti sintetizzati a partire dagli acidi nucleici della cellula",
+        "Possono tutti essere demoliti per produrre energia nelle vie metaboliche"
+      ],
+      "answer": 4,
+      "explain": "Carboidrati, lipidi e proteine possono essere demoliti per ricavarne energia, pur con rese e vie metaboliche differenti. Non sono tutti ugualmente solubili in acqua, perché i lipidi sono apolari, e non derivano tutti dagli acidi nucleici.",
+      "slide": 66
+    },
+    {
+      "id": "d01-b04-q044",
+      "q": "Qual è la formula generale dei carboidrati?",
+      "choices": [
+        "CH3",
+        "C2H5OH",
+        "C6H12O6",
+        "(CH2O)n",
+        "CnH2n"
+      ],
+      "answer": 3,
+      "explain": "I carboidrati, o saccaridi, il cui nome deriva dal greco sákcharon, cioè zucchero, hanno formula generale (CH2O)n. La formula C6H12O6 corrisponde soltanto a un particolare monosaccaride, il glucosio, e non a tutti i carboidrati.",
+      "slide": 67
+    },
+    {
+      "id": "d01-b04-q045",
+      "q": "Qual è il ruolo fondamentale dei carboidrati nell'organismo?",
+      "choices": [
+        "Fornire energia, con un apporto di circa quattro chilocalorie per grammo",
+        "Fornire energia, con un apporto di circa nove chilocalorie per grammo",
+        "Costituire l'unica classe di molecole con funzione strutturale",
+        "Trasportare l'ossigeno nel sangue",
+        "Catalizzare le reazioni del metabolismo"
+      ],
+      "answer": 0,
+      "explain": "Il ruolo fondamentale dei carboidrati è quello di fornire energia, con un valore di circa quattro chilocalorie per grammo. Il valore di nove chilocalorie per grammo è tipico dei lipidi, mentre il trasporto dell'ossigeno compete all'emoglobina.",
+      "slide": 67
+    },
+    {
+      "id": "d01-b04-q046",
+      "q": "Che cosa significa l'affermazione che nessun carboidrato è essenziale?",
+      "choices": [
+        "Che i carboidrati non hanno alcuna funzione nell'organismo",
+        "Che l'organismo non può utilizzarli a scopo energetico o strutturale",
+        "Che sono tutti tossici se assunti in eccesso con la dieta",
+        "Che l'organismo può sintetizzarli, ma svolgono funzioni importanti",
+        "Che si trovano soltanto negli alimenti di origine animale"
+      ],
+      "answer": 3,
+      "explain": "Nel caso dei carboidrati non esistono componenti che debbano essere obbligatoriamente assunti con la dieta, perché l'organismo è in grado di sintetizzarli. Ciò non significa che siano inutili: partecipano infatti a numerose funzioni fondamentali dell'organismo.",
+      "slide": 67
+    },
+    {
+      "id": "d01-b04-q047",
+      "q": "Perché i carboidrati sono considerati importanti per l'organismo?",
+      "choices": [
+        "Perché sono l'unica fonte di vitamine disponibile nella dieta",
+        "Perché forniscono energia e partecipano a molte funzioni cellulari",
+        "Perché sostituiscono completamente le proteine strutturali",
+        "Perché sono privi di valore energetico ma indispensabili",
+        "Perché costituiscono la principale riserva di ossigeno dell'organismo"
+      ],
+      "answer": 1,
+      "explain": "I carboidrati rappresentano la più abbondante classe di molecole biologiche e forniscono energia rapidamente utilizzabile, oltre a partecipare a molte funzioni dell'organismo. Non sono privi di valore energetico, anzi ne forniscono circa quattro chilocalorie per grammo.",
+      "slide": 68
+    },
+    {
+      "id": "d01-b04-q048",
+      "q": "Qual è il fabbisogno giornaliero di glucosio del cervello di una persona adulta?",
+      "choices": [
+        "Circa centoventi grammi al giorno",
+        "Circa dieci grammi al giorno",
+        "Circa cinquecento grammi al giorno",
+        "Circa due grammi al giorno",
+        "Circa un chilogrammo al giorno"
+      ],
+      "answer": 0,
+      "explain": "I neuroni lavorano quasi esclusivamente a glucosio e necessitano di un apporto continuo di circa centoventi grammi al giorno. Questa quantità corrisponde a circa quattrocentottanta chilocalorie ed è molto superiore a pochi grammi.",
+      "slide": 69
+    },
+    {
+      "id": "d01-b04-q049",
+      "q": "A quante kilocalorie corrispondono i centoventi grammi di glucosio consumati ogni giorno dal cervello?",
+      "choices": [
+        "Circa centoventi kilocalorie",
+        "Circa duecentoquaranta kilocalorie",
+        "Circa quattrocentottanta kilocalorie",
+        "Circa novecentosessanta kilocalorie",
+        "Circa milleottocento kilocalorie"
+      ],
+      "answer": 2,
+      "explain": "Poiché ogni grammo di carboidrati fornisce circa quattro chilocalorie, centoventi grammi di glucosio corrispondono a circa quattrocentottanta chilocalorie. Il valore di novecentosessanta kilocalorie deriverebbe da un apporto di otto chilocalorie per grammo, che non corrisponde ai carboidrati.",
+      "slide": 69
+    },
+    {
+      "id": "d01-b04-q050",
+      "q": "Perché è indispensabile garantire un apporto continuo di glucosio all'organismo?",
+      "choices": [
+        "Perché il glucosio è l'unica molecola che può attraversare le membrane cellulari",
+        "Perché i neuroni utilizzano esclusivamente i lipidi come combustibile",
+        "Perché il glucosio è una vitamina idrosolubile",
+        "Perché il cervello non è in grado di utilizzare alcun combustibile",
+        "Perché i neuroni lavorano quasi esclusivamente a glucosio"
+      ],
+      "answer": 4,
+      "explain": "I neuroni utilizzano quasi esclusivamente il glucosio come combustibile, quindi il suo apporto deve essere continuo per evitare che il cervello resti senza substrato energetico. Il glucosio non è una vitamina e non è l'unica molecola capace di attraversare le membrane.",
+      "slide": 69
+    }
+  ]
+}

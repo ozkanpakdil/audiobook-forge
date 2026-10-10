@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 8,
+  "topic": "Vitamine, ioni, profilo idroelettrolitico ed equilibrio acido-base",
+  "questions": [
+    {
+      "id": "d05-b08-q001",
+      "q": "Che tipo di proteina è la termogenina, indicata anche come UCP1?",
+      "choices": [
+        "Un enzima della catena respiratoria che riduce l'ossigeno ad acqua",
+        "Un canale del calcio della membrana plasmatica",
+        "Una proteina disaccoppiante della membrana mitocondriale interna",
+        "Un trasportatore citosolico degli acidi grassi",
+        "Un fattore di trascrizione tipico del tessuto adiposo bruno"
+      ],
+      "answer": 2,
+      "explain": "La termogenina è una proteina integra della membrana mitocondriale interna che consente ai protoni di rientrare nella matrice senza passare per l'ATP sintasi. Non appartiene ai complessi della catena respiratoria, che invece trasferiscono elettroni e pompano protoni, e non è quindi una citocromo ossidasi.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q002",
+      "q": "Quale effetto produce la termogenina sul gradiente protonico mitocondriale?",
+      "choices": [
+        "Lo rende più ripido perché aumenta il pompaggio di protoni",
+        "Lo converte in un gradiente di sodio",
+        "Lo sfrutta per sintetizzare ATP con maggiore efficienza",
+        "Lo trasforma in un gradiente di calcio",
+        "Lo dissipa lasciando rientrare i protoni senza produrre ATP"
+      ],
+      "answer": 4,
+      "explain": "La termogenina aumenta la conduttanza della membrana interna ai protoni, che rientrano nella matrice dissipando il gradiente chemiosmotico sotto forma di calore. Il pompaggio dei protoni verso lo spazio intermembrana è compito dei complessi della catena respiratoria, non della termogenina, perciò il gradiente non diventa più ripido.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q003",
+      "q": "A quale famiglia di proteine trasportatrici appartiene la termogenina?",
+      "choices": [
+        "Alle ATPasi di tipo V del vacuolo",
+        "Alla famiglia dei trasportatori mitocondriali di metaboliti",
+        "Alle acquaporine della membrana plasmatica",
+        "Ai canali ionici voltaggio-dipendenti",
+        "Alle chinasi a doppia specificità"
+      ],
+      "answer": 1,
+      "explain": "La termogenina fa parte della famiglia dei trasportatori mitocondriali, la stessa del traslocatore ADP/ATP, con cui condivide l'organizzazione strutturale ripetuta. Le ATPasi di tipo V sono invece pompe che idrolizzano ATP per traslocare protoni, cioè svolgono la funzione opposta a quella di un disaccoppiante.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q004",
+      "q": "Come si organizza la termogenina all'interno della membrana mitocondriale interna?",
+      "choices": [
+        "Come un monomero con un solo dominio rivolto al citosol",
+        "Come un trimero immerso nella membrana mitocondriale esterna",
+        "Come una proteina periferica legata alla matrice",
+        "Come un dimero con sei segmenti transmembrana per subunità",
+        "Come una proteina solubile dello spazio intermembrana"
+      ],
+      "answer": 3,
+      "explain": "La termogenina è una proteina integrale che attraversa la membrana interna con sei segmenti transmembrana per subunità e si organizza in dimero. Una proteina periferica legata alla matrice non potrebbe condurre protoni attraverso il doppio strato lipidico, che è invece il suo ruolo fisiologico.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q005",
+      "q": "Quale nucleotide si lega alla termogenina e ne blocca il trasporto dei protoni?",
+      "choices": [
+        "Il coenzima A",
+        "Il GDP e in generale i nucleotidi purinici",
+        "Il NADH",
+        "Il flavin mononucleotide",
+        "Il fosfoenolpiruvato"
+      ],
+      "answer": 1,
+      "explain": "Le purine nucleotidi come GDP e ADP si legano alla termogenina e ne inibiscono la conduttanza protonica, ed è proprio questa sensibilità che permette di studiare la proteina. Il NADH è invece un donatore di elettroni per la catena respiratoria e non regola il canale protonico.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q006",
+      "q": "Che cosa accomuna la termogenina alle altre proteine disaccoppianti come UCP2 e UCP3?",
+      "choices": [
+        "L'appartenenza ai trasportatori mitocondriali e la riduzione dell'accoppiamento fra respirazione e sintesi di ATP",
+        "La presenza esclusiva nel tessuto adiposo bruno",
+        "La capacità di legare l'ossigeno molecolare",
+        "L'attività di ATPasi idrolitica",
+        "L'assenza di qualsiasi regolazione da nucleotidi"
+      ],
+      "answer": 0,
+      "explain": "Tutte le proteine UCP sono trasportatori della membrana mitocondriale interna che riducono l'accoppiamento fra ossidazione e fosforilazione. Solo la termogenina è tipica del tessuto adiposo bruno, mentre UCP2 e UCP3 sono espresse in altri tessuti, quindi la localizzazione esclusiva non è una caratteristica comune.",
+      "slide": 75
+    },
+    {
+      "id": "d05-b08-q007",
+      "q": "Qual è la funzione biologica principale del disaccoppiamento operato dalla termogenina?",
+      "choices": [
+        "Aumentare la resa energetica della cellula in ATP",
+        "Dissipare l'energia di ossidazione sotto forma di calore",
+        "Accumulare energia sotto forma di NADPH",
+        "Bloccare la catena respiratoria in caso di ipossia",
+        "Favorire l'accumulo di trigliceridi nel tessuto bianco"
+      ],
+      "answer": 1,
+      "explain": "Rientrando per via alternativa, i protoni trasformano l'energia del gradiente in calore invece che in legame fosfoanidridico dell'ATP. La termogenina non blocca la catena respiratoria: al contrario, la sua azione la rende meno frenata e aumenta il consumo di ossigeno.",
+      "slide": 75
+    },
+    {
+      "id": "d05-b08-q008",
+      "q": "In un mammifero che va in letargo, a che cosa serve l'attività della termogenina durante il risveglio?",
+      "choices": [
+        "A produrre ATP per la contrazione muscolare",
+        "A ridurre ulteriormente la temperatura corporea",
+        "A generare rapidamente calore per riportare il corpo alla temperatura normale",
+        "A immobilizzare gli acidi grassi del tessuto adiposo",
+        "A bloccare il sistema nervoso simpatico"
+      ],
+      "answer": 2,
+      "explain": "Durante il risveglio dal letargo il tessuto adiposo bruno viene riattivato per produrre calore e riscaldare l'animale prima che riprenda l'attività. La termogenina non immagazzina energia né la converte in ATP, quindi non serve a sostenere direttamente la contrazione muscolare.",
+      "slide": 75
+    },
+    {
+      "id": "d05-b08-q009",
+      "q": "Quale neurotrasmettitore liberato dalle terminazioni simpatiche avvia l'attivazione della termogenina nel tessuto adiposo bruno esposto al freddo?",
+      "choices": [
+        "L'acetilcolina",
+        "La dopamina",
+        "La noradrenalina",
+        "L'acido γ-amminobutirrico",
+        "La serotonina"
+      ],
+      "answer": 2,
+      "explain": "Il freddo attiva le terminazioni simpatiche che liberano noradrenalina sugli adipociti bruni, avviando la cascata che porta all'attivazione della termogenina. L'acetilcolina è il neurotrasmettitore delle giunzioni neuromuscolari e del sistema parasimpatico e non guida la termogenesi non brividante.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q010",
+      "q": "Attraverso quale tipo di recettore la noradrenalina stimola l'adipocita bruno?",
+      "choices": [
+        "Un recettore nicotinico canale ionico",
+        "Un recettore dell'insulina a tirosin chinasi",
+        "Un recettore muscarinico accoppiato a proteine G inibitorie",
+        "Un recettore nucleare degli ormoni tiroidei",
+        "Un recettore β-adrenergico accoppiato alla proteina Gs"
+      ],
+      "answer": 4,
+      "explain": "Il recettore β-adrenergico dell'adipocita bruno attiva la proteina Gs, che stimola l'adenilato ciclasi e la produzione di AMP ciclico. Un recettore accoppiato a proteine G inibitorie ridurrebbe invece la formazione di AMP ciclico e quindi la termogenesi.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q011",
+      "q": "Quale secondo messaggero si forma nell'adipocita bruno dopo l'attivazione del recettore β-adrenergico?",
+      "choices": [
+        "L'AMP ciclico",
+        "Il calcio citosolico",
+        "Il diacilglicerolo",
+        "L'inositolo trifosfato",
+        "Il GMP ciclico"
+      ],
+      "answer": 0,
+      "explain": "La proteina Gs attiva l'adenilato ciclasi, che converte l'ATP in AMP ciclico, il segnale che innesca la lipolisi. L'inositolo trifosfato e il diacilglicerolo derivano invece dalla via della fosfolipasi C, che non è la via principale di attivazione della termogenina.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q012",
+      "q": "Quale enzima, attivato dall'AMP ciclico, fosforila la lipasi ormone-sensibile e avvia la lipolisi?",
+      "choices": [
+        "La fosfodiesterasi",
+        "La proteina chinasi A",
+        "La fosfolipasi C",
+        "Una tirosin chinasi di membrana",
+        "La calcineurina"
+      ],
+      "answer": 1,
+      "explain": "L'AMP ciclico attiva la proteina chinasi A, che fosforila la lipasi ormone-sensibile e altre proteine della goccia lipidica, liberando acidi grassi. La fosfodiesterasi svolge la funzione opposta, perché idrolizza l'AMP ciclico e spegne il segnale.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q013",
+      "q": "Quale prodotto della lipolisi attiva direttamente la termogenina?",
+      "choices": [
+        "Il glicerolo",
+        "Il glucosio-6-fosfato",
+        "Il coenzima A",
+        "Gli acidi grassi liberi a catena lunga",
+        "Il lattato"
+      ],
+      "answer": 3,
+      "explain": "Gli acidi grassi liberi a catena lunga sono sia il substrato ossidativo sia l'attivatore fisiologico della termogenina. Il glicerolo è l'altro prodotto della lipolisi, ma viene utilizzato dal fegato per la gluconeogenesi e non attiva il disaccoppiamento.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q014",
+      "q": "Che cosa accade al consumo di ossigeno dell'adipocita bruno quando la termogenina è attiva?",
+      "choices": [
+        "Si azzera perché la catena respiratoria si blocca",
+        "Rimane invariato perché il gradiente non cambia",
+        "Aumenta perché la respirazione accelera per ripristinare il gradiente",
+        "Diminuisce perché i protoni non rientrano più nella matrice",
+        "Aumenta soltanto in assenza di ossigeno"
+      ],
+      "answer": 2,
+      "explain": "La dissipazione del gradiente rimuove il freno respiratorio e la catena accelera, consumando più ossigeno per ristabilire il pompaggio di protoni. Il consumo non può aumentare in assenza di ossigeno, perché l'ossigeno è l'accettore finale degli elettroni nella catena.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q015",
+      "q": "Quale variazione subisce il rapporto P/O durante il disaccoppiamento operato dalla termogenina?",
+      "choices": [
+        "Aumenta perché si forma più ATP per atomo di ossigeno",
+        "Resta costante perché l'ATP sintasi continua a lavorare",
+        "Diventa infinito",
+        "Aumenta soltanto nel tessuto adiposo bianco",
+        "Diminuisce perché si consuma più ossigeno senza produrre ATP"
+      ],
+      "answer": 4,
+      "explain": "Il rapporto P/O esprime le moli di ATP formate per atomo di ossigeno consumato, quindi il disaccoppiamento lo abbassa perché parte dei protoni rientra senza passare per l'ATP sintasi. Il rapporto non aumenta, dato che la termogenina sottrae protoni proprio alla fosforilazione.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q016",
+      "q": "In quale tessuto si esprime in modo caratteristico la termogenina?",
+      "choices": [
+        "Nel tessuto adiposo bruno",
+        "Nel tessuto adiposo bianco",
+        "Nel fegato",
+        "Nel muscolo scheletrico a fibre rapide",
+        "Nel pancreas esocrino"
+      ],
+      "answer": 0,
+      "explain": "La termogenina è il marcatore funzionale del tessuto adiposo bruno, dove collabora con l'abbondanza di mitocondri a produrre calore. Il tessuto adiposo bianco è specializzato nell'accumulo di trigliceridi e non esprime in modo caratteristico questa proteina disaccoppiante.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q017",
+      "q": "Da quale caratteristica dell'adipocita bruno dipende la sua elevata capacità termogenica?",
+      "choices": [
+        "Dalla presenza di un'unica grande goccia lipidica",
+        "Dalla scarsità di mitocondri rispetto al tessuto bianco",
+        "Dalla prevalenza della glicolisi anaerobia",
+        "Dall'abbondanza di mitocondri con creste fitte e di gocce lipidiche multiple",
+        "Dall'assenza di capillari sanguigni"
+      ],
+      "answer": 3,
+      "explain": "L'adipocita bruno è ricco di mitocondri con creste molto sviluppate, che ospitano la catena respiratoria e la termogenina, e contiene numerose gocce lipidiche prontamente mobilizzabili. La ricca rete capillare, e non la sua assenza, garantisce l'apporto di ossigeno e il trasporto del calore.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q018",
+      "q": "Perché l'esposizione prolungata al freddo aumenta la capacità termogenica del tessuto adiposo bruno?",
+      "choices": [
+        "Perché distrugge i mitocondri meno attivi",
+        "Perché induce l'espressione della termogenina e il reclutamento del tessuto",
+        "Perché blocca la lipolisi degli adipociti",
+        "Perché riduce il numero di recettori β-adrenergici",
+        "Perché converte il tessuto bruno in tessuto bianco"
+      ],
+      "answer": 1,
+      "explain": "L'acclimatazione al freddo aumenta la trascrizione del gene della termogenina e favorisce la proliferazione degli adipociti bruni, potenziando la termogenesi. Una riduzione dei recettori β-adrenergici ridurrebbe invece la sensibilità alla noradrenalina e quindi la capacità di produrre calore.",
+      "slide": 76
+    },
+    {
+      "id": "d05-b08-q019",
+      "q": "Quale affermazione descrive correttamente il rapporto fra termogenina e ATP sintasi nella membrana mitocondriale interna?",
+      "choices": [
+        "La termogenina sostituisce l'ATP sintasi nella sintesi di ATP",
+        "La termogenina e l'ATP sintasi sono la stessa proteina in forme diverse",
+        "La termogenina blocca fisicamente il canale dell'ATP sintasi",
+        "La termogenina fornisce protoni all'ATP sintasi",
+        "La termogenina e l'ATP sintasi competono per lo stesso gradiente protonico"
+      ],
+      "answer": 4,
+      "explain": "Entrambe le proteine utilizzano il gradiente protonico, ma con esiti diversi: l'ATP sintasi lo converte in ATP, la termogenina lo dissipa in calore. Non esiste un blocco fisico dell'ATP sintasi, perché il disaccoppiamento deriva dalla sottrazione dei protoni al percorso catalitico normale.",
+      "slide": 74
+    },
+    {
+      "id": "d05-b08-q020",
+      "q": "Quale gruppo di vitamine comprende le vitamine A, D, E e K?",
+      "choices": [
+        "Le vitamine idrosolubili",
+        "Le vitamine liposolubili",
+        "Le vitamine del complesso B",
+        "I coenzimi flavinici",
+        "Gli ormoni peptidici"
+      ],
+      "answer": 1,
+      "explain": "Le vitamine A, D, E e K sono liposolubili, si accumulano nei tessuti adiposi e vengono assorbite insieme ai lipidi della dieta. Le vitamine del complesso B sono invece idrosolubili, non si accumulano in modo significativo e devono essere assunte con regolarità.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q021",
+      "q": "Da quale vitamina deriva il tiamin pirofosfato, coenzima delle decarbossilazioni ossidative degli α-chetoacidi?",
+      "choices": [
+        "Dalla riboflavina",
+        "Dalla niacina",
+        "Dalla piridossina",
+        "Dalla tiamina",
+        "Dalla biotina"
+      ],
+      "answer": 3,
+      "explain": "Il tiamin pirofosfato deriva dalla tiamina e serve alla decarbossilazione ossidativa del piruvato e dell'α-chetoglutarato. La piridossina fornisce invece il piridossal fosfato, coenzima delle transaminazioni e di altre reazioni degli amminoacidi.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q022",
+      "q": "Quale coenzima deriva dalla riboflavina, cioè dalla vitamina B2?",
+      "choices": [
+        "Il FAD e il FMN",
+        "Il NAD+",
+        "Il coenzima A",
+        "Il tetraidrofolato",
+        "Il piridossal fosfato"
+      ],
+      "answer": 0,
+      "explain": "La riboflavina è il precursore del flavin mononucleotide e del flavin adenin dinucleotide, coenzimi redox legati a numerose deidrogenasi. Il NAD+ deriva invece dalla niacina e non dalla riboflavina, pur essendo anch'esso un coenzima di ossidoriduzione.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q023",
+      "q": "Quale coenzima deriva dalla niacina e partecipa alle reazioni di trasferimento di idruro?",
+      "choices": [
+        "Il tiamin pirofosfato",
+        "La biotina",
+        "Il NAD+ e il NADP+",
+        "Il coenzima della cobalamina",
+        "L'acido ascorbico"
+      ],
+      "answer": 2,
+      "explain": "La niacina è il precursore del NAD+ e del NADP+, che trasferiscono ioni idruro in molte reazioni di ossidoriduzione del metabolismo. La biotina è invece un coenzima delle carbossilazioni e non partecipa al trasferimento di idruro.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q024",
+      "q": "Quale coenzima deriva dalla piridossina, cioè dalla vitamina B6, ed è essenziale per le transaminazioni?",
+      "choices": [
+        "Il FAD",
+        "Il coenzima A",
+        "Il tetraidrofolato",
+        "La biotina",
+        "Il piridossal fosfato"
+      ],
+      "answer": 4,
+      "explain": "Dal piridossolo, dalla piridossale e dalla piridossamina si forma il piridossal fosfato, coenzima delle transaminazioni e delle decarbossilazioni degli amminoacidi. Il tetraidrofolato deriva dall'acido folico e trasferisce unità monocarboniose, non gruppi amminici.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q025",
+      "q": "Quale coenzima deriva dalla biotina e interviene nelle reazioni di carbossilazione?",
+      "choices": [
+        "Il piridossal fosfato",
+        "La carbossibiotina legata all'enzima",
+        "Il NADPH",
+        "Il tiamin pirofosfato",
+        "L'inositolo trifosfato"
+      ],
+      "answer": 1,
+      "explain": "La biotina si lega covalentemente all'enzima e, nella forma di carbossibiotina, trasporta anidride carbonica nelle reazioni di carbossilazione come quelle catalizzate dalla piruvato carbossilasi. Il piridossal fosfato opera invece sugli amminoacidi e non fissa anidride carbonica.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q026",
+      "q": "Da quale vitamina deriva il tetraidrofolato, coenzima dei trasferimenti di unità monocarboniose?",
+      "choices": [
+        "Dalla cobalamina",
+        "Dall'acido pantotenico",
+        "Dalla vitamina C",
+        "Dall'acido folico",
+        "Dalla vitamina E"
+      ],
+      "answer": 3,
+      "explain": "L'acido folico viene ridotto a tetraidrofolato, che accetta e cede unità monocarboniose a vari livelli di ossidazione ed è indispensabile per la sintesi dei nucleotidi. La cobalamina collabora con il tetraidrofolato in alcune reazioni, ma non è il coenzima che trasferisce direttamente le unità monocarboniose.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q027",
+      "q": "Da quale vitamina deriva il coenzima A?",
+      "choices": [
+        "Dall'acido pantotenico",
+        "Dalla niacina",
+        "Dalla tiamina",
+        "Dalla riboflavina",
+        "Dal retinolo"
+      ],
+      "answer": 0,
+      "explain": "Il coenzima A contiene acido pantotenico e trasporta gruppi acilici attivati, come l'acetile, nei processi di ossidazione e di sintesi. La niacina fornisce il NAD+ e la riboflavina i coenzimi flavinici, che hanno funzioni redox diverse da quella di trasportatore di acili.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q028",
+      "q": "Quale funzione svolge la vitamina C nel metabolismo del collagene?",
+      "choices": [
+        "Trasferisce gruppi amminici ai residui di lisina",
+        "Carbossila i residui di glutammato del collagene",
+        "Mantiene ridotti gli ioni ferro delle prolil e lisil idrossilasi",
+        "Trasporta elettroni alla catena respiratoria come FAD",
+        "Fornisce unità monocarboniose per la sintesi delle basi azotate"
+      ],
+      "answer": 2,
+      "explain": "L'acido ascorbico mantiene nello stato ridotto il ferro dei siti attivi delle prolil e lisil idrossilasi, enzimi che stabilizzano la tripla elica del collagene. La carbossilazione dei residui di glutammato è invece una reazione vitamina K-dipendente che riguarda i fattori della coagulazione.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q029",
+      "q": "A quale vitamina è legata la carenza che provoca il beriberi, con disturbi neurologici e cardiaci?",
+      "choices": [
+        "Alla vitamina C",
+        "Alla vitamina D",
+        "Alla tiamina, cioè alla vitamina B1",
+        "Alla vitamina K",
+        "Alla vitamina E"
+      ],
+      "answer": 2,
+      "explain": "La carenza di tiamina riduce l'attività della piruvato deidrogenasi e dell'α-chetoglutarato deidrogenasi, compromettendo il metabolismo energetico dei neuroni e del miocardio, con il quadro del beriberi. La carenza di vitamina C causa lo scorbuto, caratterizzato da difetti del collagene e non da questa forma neurologica.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q030",
+      "q": "Quale vitamina è un derivato sterolico che regola l'assorbimento intestinale di calcio e fosfato?",
+      "choices": [
+        "La vitamina A",
+        "La vitamina K",
+        "La vitamina E",
+        "La vitamina C",
+        "La vitamina D"
+      ],
+      "answer": 4,
+      "explain": "Il calcitriolo, forma attiva della vitamina D, stimola l'assorbimento intestinale di calcio e fosfato e contribuisce alla mineralizzazione dell'osso. La vitamina K interviene nella coagulazione e non nella regolazione dell'assorbimento del calcio.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q031",
+      "q": "Quale vitamina è necessaria per la γ-carbossilazione dei residui di glutammato di alcuni fattori della coagulazione?",
+      "choices": [
+        "La vitamina E",
+        "La vitamina K",
+        "La vitamina D",
+        "La vitamina B12",
+        "La vitamina B6"
+      ],
+      "answer": 1,
+      "explain": "La vitamina K è il cofattore della γ-glutammil carbossilasi, che modifica alcuni fattori della coagulazione rendendoli capaci di legare il calcio sulla membrana delle piastrine. La vitamina B12 partecipa invece a reazioni di trasferimento di gruppi monocarboniosi e alla mutasi del metilmalonil-CoA.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q032",
+      "q": "Quale vitamina liposolubile protegge gli acidi grassi insaturi delle membrane dalla perossidazione?",
+      "choices": [
+        "La vitamina K",
+        "La vitamina D",
+        "La vitamina A",
+        "La vitamina E, cioè il tocoferolo",
+        "La tiamina"
+      ],
+      "answer": 3,
+      "explain": "Il tocoferolo agisce come antiossidante lipofilo e intercetta i radicali perossilici prima che danneggino gli acidi grassi polinsaturi delle membrane. La vitamina K ha come funzione principale la carbossilazione di proteine della coagulazione e non un ruolo antiossidante di membrana.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q033",
+      "q": "Quale ione è il principale catione del liquido extracellulare?",
+      "choices": [
+        "Il sodio",
+        "Il potassio",
+        "Il calcio",
+        "Il magnesio",
+        "Il ferro"
+      ],
+      "answer": 0,
+      "explain": "Il sodio è il catione più abbondante del liquido extracellulare e determina in larga misura la pressione osmotica del plasma. Il potassio è invece il catione predominante all'interno della cellula, dove la sua concentrazione supera quella dello spazio extracellulare.",
+      "slide": 77
+    },
+    {
+      "id": "d05-b08-q034",
+      "q": "Quale ione è il principale catione del liquido intracellulare?",
+      "choices": [
+        "Il sodio",
+        "Il cloruro",
+        "Il potassio",
+        "Il calcio ionizzato",
+        "Il bicarbonato"
+      ],
+      "answer": 2,
+      "explain": "Il potassio è il catione dominante del citosol e la sua distribuzione asimmetrica rispetto al sodio è alla base del potenziale di membrana a riposo. Il bicarbonato e il cloruro sono anioni, quindi non possono essere i principali cationi intracellulari.",
+      "slide": 77
+    },
+    {
+      "id": "d05-b08-q035",
+      "q": "Quale ione è il principale anione del liquido extracellulare?",
+      "choices": [
+        "Il fosfato",
+        "Il solfato",
+        "Il potassio",
+        "Il magnesio",
+        "Il cloruro"
+      ],
+      "answer": 4,
+      "explain": "Il cloruro è l'anione più abbondante del liquido extracellulare e accompagna il sodio nel mantenimento dell'elettroneutralità e dell'osmolarità plasmatica. Il fosfato è un anione importante soprattutto nel comparto intracellulare e nelle ossa, ma non è il principale anione extracellulare.",
+      "slide": 79
+    },
+    {
+      "id": "d05-b08-q036",
+      "q": "Quanti ioni sodio e quanti ioni potassio trasporta rispettivamente la pompa sodio-potassio per ogni ciclo di attività?",
+      "choices": [
+        "Due sodio verso l'esterno e tre potassio verso l'interno",
+        "Tre sodio verso l'esterno e due potassio verso l'interno",
+        "Un sodio verso l'esterno e un potassio verso l'interno",
+        "Tre potassio verso l'esterno e tre sodio verso l'interno",
+        "Quattro sodio verso l'esterno e quattro potassio verso l'interno"
+      ],
+      "answer": 1,
+      "explain": "Per ogni ATP idrolizzato la pompa espelle tre ioni sodio e introduce due ioni potassio, generando una separazione di carica che contribuisce al potenziale di membrana. Il trasporto non è simmetrico, quindi uno scambio uno a uno o quattro a quattro non corrisponde al ciclo reale della pompa.",
+      "slide": 79
+    },
+    {
+      "id": "d05-b08-q037",
+      "q": "Quale ione partecipa come secondo messaggero alla contrazione muscolare e alla coagulazione del sangue?",
+      "choices": [
+        "Il cloruro",
+        "Il sodio",
+        "Il fosfato",
+        "Il calcio",
+        "Il potassio"
+      ],
+      "answer": 3,
+      "explain": "Il calcio citosolico si lega alla troponina e innesca la contrazione muscolare, mentre nel plasma funge da cofattore di diversi fattori della coagulazione. Il cloruro è un anione diffusibile che partecipa all'equilibrio idroelettrolitico ma non svolge funzioni di secondo messaggero.",
+      "slide": 79
+    },
+    {
+      "id": "d05-b08-q038",
+      "q": "Con quale ione il magnesio forma abitualmente un complesso necessario all'attività delle chinasi?",
+      "choices": [
+        "Con l'ATP",
+        "Con il cloruro",
+        "Con il bicarbonato",
+        "Con il sodio",
+        "Con il calcio"
+      ],
+      "answer": 0,
+      "explain": "Il magnesio si coordina con i gruppi fosfato dell'ATP formando il complesso Mg-ATP, che è la vera specie substrato delle chinasi e di molte reazioni che utilizzano ATP. Il cloruro e il bicarbonato sono anioni che non formano con il magnesio il complesso richiesto dalla catalisi delle chinasi.",
+      "slide": 80
+    },
+    {
+      "id": "d05-b08-q039",
+      "q": "Quale oligoelemento è indispensabile per la sintesi degli ormoni tiroidei?",
+      "choices": [
+        "Il ferro",
+        "Lo zinco",
+        "Lo iodio",
+        "Il rame",
+        "Il selenio"
+      ],
+      "answer": 2,
+      "explain": "Lo iodio viene incorporato nei residui di tirosina della tireoglobulina e costituisce una parte essenziale della struttura della tiroxina e della triiodotironina. Il ferro è invece necessario per il gruppo eme dell'emoglobina e dei citocromi e non entra nella struttura degli ormoni tiroidei.",
+      "slide": 80
+    },
+    {
+      "id": "d05-b08-q040",
+      "q": "Quale oligoelemento è contenuto nella cobalamina, coenzima della mutasi del metilmalonil-CoA e della sintesi della metionina?",
+      "choices": [
+        "Il ferro",
+        "Lo iodio",
+        "Lo zinco",
+        "Il magnesio",
+        "Il cobalto"
+      ],
+      "answer": 4,
+      "explain": "La cobalamina, cioè la vitamina B12, contiene un atomo di cobalto al centro di un anello corrinico e funziona come coenzima in reazioni di trasferimento di gruppi monocarboniosi. Lo zinco è un oligoelemento di molti enzimi, ma non è il metallo presente nella cobalamina.",
+      "slide": 77
+    },
+    {
+      "id": "d05-b08-q041",
+      "q": "Quale sistema tampone rappresenta il principale tampone del liquido extracellulare?",
+      "choices": [
+        "Il tampone fosfato",
+        "Il sistema acido carbonico-bicarbonato",
+        "Il tampone ammonio-ammoniaca",
+        "Il tampone dei gruppi imidazolici dell'istidina",
+        "Il tampone acetato"
+      ],
+      "answer": 1,
+      "explain": "Il sistema acido carbonico-bicarbonato è il tampone più importante del comparto extracellulare perché la sua componente gassosa può essere regolata rapidamente dai polmoni. Il tampone fosfato è efficace soprattutto nel comparto intracellulare e nelle urine, dove la sua concentrazione è più rilevante.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q042",
+      "q": "Quale enzima accelera l'interconversione fra anidride carbonica e acido carbonico?",
+      "choices": [
+        "La carbossilasi",
+        "La fosfatasi alcalina",
+        "La glutaminasi",
+        "L'anidrasi carbonica",
+        "La lattato deidrogenasi"
+      ],
+      "answer": 3,
+      "explain": "L'anidrasi carbonica catalizza in entrambe le direzioni la reazione fra anidride carbonica e acqua da una parte e acido carbonico dall'altra, rendendo rapidissimi lo scambio gassoso e il riassorbimento renale del bicarbonato. La carbossilasi aggiunge anidride carbonica a un substrato organico e non gestisce l'equilibrio del tampone bicarbonato.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q043",
+      "q": "In che modo i polmoni contribuiscono alla regolazione dell'equilibrio acido-base?",
+      "choices": [
+        "Eliminano anidride carbonica modulando la ventilazione",
+        "Riassorbono il bicarbonato filtrato",
+        "Secernono ioni ammonio nel tubulo",
+        "Producono acido lattico durante il metabolismo",
+        "Metabolizzano l'urea in bicarbonato"
+      ],
+      "answer": 0,
+      "explain": "Modificando la frequenza e la profondità della ventilazione i polmoni regolano l'eliminazione di anidride carbonica e quindi l'acidità del sangue su scala di minuti. Il riassorbimento del bicarbonato e la secrezione di ammonio sono invece funzioni renali che agiscono su scala di ore o giorni.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q044",
+      "q": "In che modo i reni contribuiscono alla regolazione dell'equilibrio acido-base?",
+      "choices": [
+        "Eliminano anidride carbonica aumentando la ventilazione",
+        "Producono corpi chetonici come tamponi",
+        "Riassorbono il bicarbonato e secernono ioni idrogeno",
+        "Ossidano gli acidi grassi per produrre protoni",
+        "Trasportano l'ossigeno come tampone proteico del plasma"
+      ],
+      "answer": 2,
+      "explain": "Il tubulo renale riassorbe il bicarbonato filtrato e secerne ioni idrogeno, rigenerando il tampone extracellulare e regolando a lungo termine l'equilibrio acido-base. L'eliminazione dell'anidride carbonica è invece una funzione respiratoria e non renale.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q045",
+      "q": "Quale condizione deriva da una ventilazione polmonare insufficiente con ritenzione di anidride carbonica?",
+      "choices": [
+        "Un'alcalosi metabolica",
+        "Un'alcalosi respiratoria",
+        "Un'acidosi metabolica",
+        "Un'acidosi renale primitiva",
+        "Un'acidosi respiratoria"
+      ],
+      "answer": 4,
+      "explain": "Se l'alveolo elimina meno anidride carbonica di quanta ne venga prodotta, l'acido carbonico aumenta e il pH tende a scendere, condizione definita acidosi respiratoria. L'alcalosi respiratoria deriva dalla situazione opposta, cioè da un'eliminazione eccessiva di anidride carbonica con l'iperventilazione.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q046",
+      "q": "Quale condizione deriva dalla perdita di ioni idrogeno, per esempio con un vomito prolungato?",
+      "choices": [
+        "Un'acidosi metabolica",
+        "Un'alcalosi metabolica",
+        "Un'acidosi respiratoria",
+        "Un'alcalosi respiratoria",
+        "Un'acidosi lattica da ipossia"
+      ],
+      "answer": 1,
+      "explain": "Il succo gastrico è ricco di ioni idrogeno, quindi una loro perdita prolungata sottrae acido all'organismo e tende a produrre un'alcalosi metabolica. L'acidosi metabolica si osserva invece quando si perdono basi o si accumulano acidi fissi, come nel caso di una diarrea abbondante.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q047",
+      "q": "Quale condizione è tipicamente associata a una perdita di bicarbonato con le feci?",
+      "choices": [
+        "Un'alcalosi respiratoria",
+        "Un'alcalosi metabolica",
+        "Un'acidosi respiratoria",
+        "Un'acidosi metabolica",
+        "Un'alcalosi da iperventilazione"
+      ],
+      "answer": 3,
+      "explain": "Il secreto intestinale è ricco di bicarbonato e una diarrea abbondante ne impoverisce le riserve, favorendo la comparsa di un'acidosi metabolica. L'alcalosi metabolica è invece sostenuta da una perdita di acido, per esempio con il vomito, oppure da un eccesso di basi.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q048",
+      "q": "Come si definisce la risposta dell'organismo che riporta verso la norma il rapporto fra acido e base senza rimuovere la causa del disturbo?",
+      "choices": [
+        "Compenso",
+        "Disaccoppiamento",
+        "Saturazione",
+        "Decompensazione",
+        "Denaturazione"
+      ],
+      "answer": 0,
+      "explain": "Il compenso è la risposta respiratoria o renale che corregge parzialmente il rapporto fra acido e base, per esempio aumentando la ventilazione in un'acidosi metabolica. La decompensazione indica invece il peggioramento del quadro quando i meccanismi di compenso non riescono più a contenere lo squilibrio.",
+      "slide": 78
+    },
+    {
+      "id": "d05-b08-q049",
+      "q": "Quale affermazione descrive correttamente il legame degli ioni idrogeno con l'emoglobina nei tessuti periferici?",
+      "choices": [
+        "L'emoglobina cede ioni idrogeno ai tessuti",
+        "L'emoglobina non interagisce con gli ioni idrogeno",
+        "L'emoglobina lega gli ioni idrogeno e in tal modo favorisce il rilascio di ossigeno",
+        "L'emoglobina trasforma gli ioni idrogeno in anidride carbonica",
+        "L'emoglobina trasporta gli ioni idrogeno disciolti liberamente nel plasma"
+      ],
+      "answer": 2,
+      "explain": "Nei tessuti l'emoglobina lega ioni idrogeno e anidride carbonica e questo ne riduce l'affinità per l'ossigeno, favorendone il rilascio dove il metabolismo è più intenso. Questo comportamento, noto come effetto Bohr, contribuisce anche al tamponamento del sangue venoso.",
+      "slide": 81
+    },
+    {
+      "id": "d05-b08-q050",
+      "q": "Secondo l'equazione di Henderson-Hasselbalch, da quale rapporto dipende il pH di una soluzione tampone?",
+      "choices": [
+        "Dal rapporto fra la temperatura e la pressione parziale dei gas",
+        "Dal rapporto fra la costante di equilibrio e la concentrazione dell'enzima",
+        "Dal prodotto fra la concentrazione della base e quella dell'acido",
+        "Dalla somma delle concentrazioni dell'acido e della sua base coniugata",
+        "Dal rapporto fra la concentrazione della base coniugata e quella dell'acido"
+      ],
+      "answer": 4,
+      "explain": "L'equazione di Henderson-Hasselbalch esprime il pH come pKa più il logaritmo del rapporto fra la concentrazione della base coniugata e quella dell'acido, e per il tampone bicarbonato questo rapporto si riduce a quello fra bicarbonato e acido carbonico. La capacità tamponante è massima quando le due concentrazioni sono uguali e il pH coincide con il pKa.",
+      "slide": 81
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 4,
+  "topic": "Tessuto adiposo, lipolisi e grasso viscerale",
+  "questions": [
+    {
+      "id": "d03-b04-q001",
+      "q": "Quale processo libera gli acidi grassi dai trigliceridi depositati nel tessuto adiposo quando l'organismo richiede energia?",
+      "choices": [
+        "La lipogenesi",
+        "La gluconeogenesi",
+        "La lipolisi",
+        "La glicogenolisi",
+        "La β-ossidazione"
+      ],
+      "answer": 2,
+      "explain": "La lipolisi è il processo che idrolizza i trigliceridi depositati nel tessuto adiposo liberando acidi grassi e glicerolo, che possono essere usati dagli altri tessuti. La β-ossidazione è il passo successivo: ossida gli acidi grassi già mobilizzati nella matrice mitocondriale e non ne provoca la liberazione dal deposito.",
+      "slide": 33
+    },
+    {
+      "id": "d03-b04-q002",
+      "q": "In quale compartimento dell'adipocita sono immagazzinati i trigliceridi che la lipolisi deve mobilizzare?",
+      "choices": [
+        "Nelle goccioline lipidiche",
+        "Nei mitocondri",
+        "Nel reticolo endoplasmatico ruvido",
+        "Nel nucleo",
+        "Nei lisosomi"
+      ],
+      "answer": 0,
+      "explain": "I trigliceridi di riserva sono contenuti nelle goccioline lipidiche del citosol degli adipociti, dove formano un nucleo idrofobico circondato da uno strato di fosfolipidi. I mitocondri non sono un deposito lipidico, ma la sede in cui gli acidi grassi vengono poi ossidati.",
+      "slide": 33
+    },
+    {
+      "id": "d03-b04-q003",
+      "q": "In quale condizione fisiologica si attiva la lipolisi del tessuto adiposo?",
+      "choices": [
+        "Durante l'abbondanza di glucosio e insulina",
+        "Nel periodo postprandiale",
+        "Durante la sintesi dei trigliceridi",
+        "In condizioni di riposo con dieta ipercalorica",
+        "In condizioni di richiesta energetica dell'organismo"
+      ],
+      "answer": 4,
+      "explain": "La lipolisi del tessuto adiposo si attiva quando l'organismo segnala una richiesta energetica, per esempio durante il digiuno o lo stress. L'abbondanza di glucosio e insulina tipica del periodo postprandiale favorisce invece la lipogenesi e il deposito dei trigliceridi, cioè l'opposto della mobilizzazione.",
+      "slide": 33
+    },
+    {
+      "id": "d03-b04-q004",
+      "q": "Quale tessuto rappresenta il principale deposito di trigliceridi mobilizzabili dell'organismo?",
+      "choices": [
+        "Il fegato",
+        "Il tessuto adiposo",
+        "Il muscolo scheletrico",
+        "Il tessuto osseo",
+        "La milza"
+      ],
+      "answer": 1,
+      "explain": "Il tessuto adiposo è il principale deposito di trigliceridi mobilizzabili e li rende disponibili agli altri tessuti sotto forma di acidi grassi. Il fegato può accumulare lipidi in condizioni patologiche, ma non è il deposito di riserva che viene mobilizzato per l'intero organismo.",
+      "slide": 33
+    },
+    {
+      "id": "d03-b04-q005",
+      "q": "Quale affermazione descrive correttamente l'accumulo di trigliceridi nel tessuto adiposo?",
+      "choices": [
+        "È inibito dall'insulina in modo diretto",
+        "È regolato dal glucagone",
+        "Rimane costante qualunque sia la dieta",
+        "Non è soggetto a controllo e cresce con i grassi della dieta",
+        "Dipende soltanto dall'attività fisica svolta"
+      ],
+      "answer": 3,
+      "explain": "L'accumulo di trigliceridi nel tessuto adiposo non è soggetto a un controllo regolato e aumenta con l'aumentare dei grassi nella dieta. Il deposito non è quindi inibito dall'insulina né mantenuto costante, mentre la lipolisi è la fase strettamente controllata dagli ormoni.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q006",
+      "q": "Quale ormone attiva la lipolisi del tessuto adiposo in condizioni di stress?",
+      "choices": [
+        "L'insulina",
+        "L'adrenalina",
+        "Il glucagone",
+        "La leptina",
+        "L'aldosterone"
+      ],
+      "answer": 1,
+      "explain": "L'adrenalina è l'ormone che attiva la lipolisi in condizioni di stress, come nella risposta di lotta o fuga. Il glucagone ha lo stesso effetto ma agisce in condizioni di digiuno, quindi non è la risposta corretta in un contesto di stress.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q007",
+      "q": "Quale ormone attiva la lipolisi del tessuto adiposo durante il digiuno?",
+      "choices": [
+        "L'insulina",
+        "L'adrenalina",
+        "Il cortisolo",
+        "La leptina",
+        "Il glucagone"
+      ],
+      "answer": 4,
+      "explain": "Il glucagone attiva la lipolisi durante il digiuno, quando occorre mobilitare le riserve energetiche dell'organismo. L'adrenalina ha anch'essa effetto lipolitico, ma è tipicamente legata allo stress acuto e non allo stato di digiuno.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q008",
+      "q": "Quale ormone inibisce la lipolisi del tessuto adiposo?",
+      "choices": [
+        "L'insulina",
+        "Il glucagone",
+        "L'adrenalina",
+        "La noradrenalina",
+        "La tiroxina"
+      ],
+      "answer": 0,
+      "explain": "L'insulina inibisce la lipolisi perché segnala abbondanza energetica e favorisce il deposito dei trigliceridi. Adrenalina e glucagone hanno invece effetto opposto e stimolano la mobilizzazione dei grassi.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q009",
+      "q": "Attraverso quale meccanismo l'adrenalina stimola la lipolisi negli adipociti?",
+      "choices": [
+        "Riduzione dell'AMP ciclico con inibizione della protein chinasi A",
+        "Ingresso di calcio con attivazione della calmodulina",
+        "Attivazione di recettori nucleari e della trascrizione genica",
+        "Aumento dell'AMP ciclico con attivazione della protein chinasi A",
+        "Aumento del GMP ciclico con attivazione della protein chinasi G"
+      ],
+      "answer": 3,
+      "explain": "L'adrenalina si lega ai recettori β-adrenergici dell'adipocita, attiva l'adenilato ciclasi, aumenta l'AMP ciclico e quindi l'attività della protein chinasi A, che fosforila le proteine della gocciolina lipidica. Una riduzione dell'AMP ciclico produrrebbe l'effetto opposto, cioè l'inibizione della lipolisi.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q010",
+      "q": "Quando il glucosio e l'insulina sono abbondanti, quale processo prevale nel tessuto adiposo?",
+      "choices": [
+        "La lipolisi prevale sulla lipogenesi",
+        "L'accumulo di trigliceridi si arresta del tutto",
+        "La lipogenesi prevale sulla lipolisi",
+        "Le goccioline lipidiche si svuotano completamente",
+        "Le perilipine vengono degradate"
+      ],
+      "answer": 2,
+      "explain": "Quando glucosio e insulina sono abbondanti prevale il deposito, quindi la lipogenesi supera la lipolisi. L'insulina non blocca del tutto l'accumulo né svuota le goccioline: sposta semplicemente l'equilibrio verso la conservazione dei trigliceridi.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q011",
+      "q": "Perché una dieta ricca di grassi porta a un'espansione del tessuto adiposo?",
+      "choices": [
+        "Perché la lipolisi è sempre attiva",
+        "Perché l'insulina stimola la lipolisi",
+        "Perché le perilipine favoriscono la sintesi dei trigliceridi",
+        "Perché l'accumulo di trigliceridi non è sottoposto a controllo",
+        "Perché gli adipociti non rispondono agli ormoni"
+      ],
+      "answer": 3,
+      "explain": "Poiché l'accumulo di trigliceridi non è sottoposto a un controllo regolato, una dieta ricca di grassi si traduce in un'espansione del tessuto adiposo. L'insulina non stimola la lipolisi e gli adipociti rispondono normalmente agli ormoni che regolano la mobilizzazione.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q012",
+      "q": "Durante il digiuno, quale assetto ormonale favorisce la mobilizzazione dei grassi dal tessuto adiposo?",
+      "choices": [
+        "Aumento dell'insulina e riduzione del glucagone",
+        "Aumento simultaneo di insulina e glucagone",
+        "Riduzione simultanea di insulina e glucagone",
+        "Aumento dell'insulina e riduzione dell'adrenalina",
+        "Aumento del glucagone e riduzione dell'insulina"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno l'insulina scende e il glucagone sale, assetto che favorisce la mobilizzazione dei trigliceridi. L'aumento dell'insulina con riduzione del glucagone corrisponde invece alla condizione di abbondanza energetica, in cui la lipolisi è inibita.",
+      "slide": 34
+    },
+    {
+      "id": "d03-b04-q013",
+      "q": "Da che cosa è costituito il nucleo delle goccioline lipidiche degli adipociti?",
+      "choices": [
+        "Da colesterolo esterificato",
+        "Da acidi grassi liberi",
+        "Da trigliceridi",
+        "Da fosfolipidi",
+        "Da glicogeno"
+      ],
+      "answer": 2,
+      "explain": "Il nucleo delle goccioline lipidiche è formato dai trigliceridi, i grassi neutri di deposito. I fosfolipidi costituiscono invece lo strato che riveste la superficie della gocciolina e non il suo interno.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q014",
+      "q": "Come è organizzato lo strato che riveste la superficie delle goccioline lipidiche?",
+      "choices": [
+        "Una doppia membrana di fosfolipidi",
+        "Una parete di peptidoglicano",
+        "Un rivestimento di acidi grassi liberi",
+        "Una capsula di glicogeno",
+        "Un monostrato di fosfolipidi"
+      ],
+      "answer": 4,
+      "explain": "La gocciolina lipidica è delimitata da un monostrato di fosfolipidi, con le teste polari verso il citosol e le code idrofobiche rivolte verso il nucleo di trigliceridi. Non si tratta di una doppia membrana, che è tipica delle membrane biologiche e non del rivestimento di una goccia di grasso.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q015",
+      "q": "Quali proteine rivestono la superficie delle goccioline lipidiche regolandone l'accesso?",
+      "choices": [
+        "Le perilipine",
+        "Le albumine",
+        "Le apolipoproteine B",
+        "Le lipasi lisosomiali",
+        "Le caveoline mitocondriali"
+      ],
+      "answer": 0,
+      "explain": "Le perilipine sono le proteine che rivestono la superficie delle goccioline lipidiche e ne controllano l'accesso. Le albumine trasportano gli acidi grassi nel plasma e non rivestono le goccioline all'interno degli adipociti.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q016",
+      "q": "Qual è la funzione delle perilipine quando l'adipocita non riceve segnali lipolitici?",
+      "choices": [
+        "Favorire la degradazione dei trigliceridi",
+        "Trasportare gli acidi grassi nel sangue",
+        "Costituire il nucleo della gocciolina",
+        "Attivare l'adenilato ciclasi",
+        "Limitare l'accesso delle lipasi evitando una mobilizzazione intempestiva"
+      ],
+      "answer": 4,
+      "explain": "Le perilipine limitano l'accesso delle lipasi alla gocciolina, impedendo che i trigliceridi vengano mobilizzati in modo intempestivo. Non costituiscono il nucleo della gocciolina, che è fatto di trigliceridi, e non favoriscono la degradazione dei lipidi.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q017",
+      "q": "Verso quali tessuti vengono trasferiti gli acidi grassi mobilizzati dal tessuto adiposo per essere ossidati?",
+      "choices": [
+        "Fegato, milza e midollo osseo",
+        "Cervello, retina e polmone",
+        "Muscolo scheletrico, cuore e corticale renale",
+        "Tessuto adiposo bruno e cute",
+        "Osso, cartilagine e tendine"
+      ],
+      "answer": 2,
+      "explain": "Gli acidi grassi mobilizzati vengono trasferiti soprattutto al muscolo scheletrico, al cuore e alla corticale renale, tessuti in cui possono essere ossidati per produrre energia. Fegato, cervello e midollo osseo utilizzano prevalentemente altri substrati energetici.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q018",
+      "q": "Per quale motivo l'accesso alle goccioline lipidiche deve essere regolato?",
+      "choices": [
+        "Per aumentare la sintesi dei trigliceridi",
+        "Per trasportare l'ossigeno all'adipocita",
+        "Per impedire l'ingresso del glucosio nella cellula",
+        "Per evitare una mobilizzazione intempestiva dei lipidi",
+        "Per favorire la digestione intestinale dei grassi"
+      ],
+      "answer": 3,
+      "explain": "La regolazione dell'accesso alle goccioline serve a evitare che i trigliceridi vengano idrolizzati quando l'energia non è necessaria. Il ruolo delle perilipine non è quello di aumentare la sintesi lipidica né di regolare l'ingresso del glucosio.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q019",
+      "q": "In che forma gli acidi grassi liberi mobilizzati raggiungono i tessuti che li ossidano?",
+      "choices": [
+        "Legati all'albumina",
+        "Come trigliceridi liberi nel plasma",
+        "Legati all'emoglobina",
+        "In vescicole di trasporto",
+        "Coniugati con il glucosio"
+      ],
+      "answer": 0,
+      "explain": "Gli acidi grassi liberi, poco solubili in acqua, viaggiano nel plasma legati all'albumina. Non circolano come trigliceridi liberi né legati all'emoglobina, che è deputata al trasporto dell'ossigeno.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q020",
+      "q": "Oltre agli acidi grassi, quale molecola viene liberata dall'idrolisi completa dei trigliceridi?",
+      "choices": [
+        "Il piruvato",
+        "Il glicerolo",
+        "Il lattato",
+        "L'urea",
+        "Il colesterolo"
+      ],
+      "answer": 1,
+      "explain": "L'idrolisi completa di un trigliceride libera tre acidi grassi e una molecola di glicerolo. Il piruvato e il lattato sono metaboliti di origine glucidica e non derivano dalla scissione dei trigliceridi.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q021",
+      "q": "In quale sede si localizzano le perilipine dell'adipocita?",
+      "choices": [
+        "Sulla superficie delle goccioline lipidiche",
+        "Nel nucleo cellulare",
+        "Nella matrice mitocondriale",
+        "Nel plasma",
+        "Nel reticolo endoplasmatico liscio"
+      ],
+      "answer": 0,
+      "explain": "Le perilipine si trovano sulla superficie della gocciolina lipidica, dove svolgono la loro funzione di barriera regolata. Non sono proteine nucleari o mitocondriali e non vengono secrete nel plasma.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q022",
+      "q": "Perché i trigliceridi depositati negli adipociti sono definiti grassi neutri?",
+      "choices": [
+        "Perché contengono azoto",
+        "Perché sono carichi positivamente",
+        "Perché sono solubili in acqua",
+        "Perché sono apolari e privi di carica",
+        "Perché contengono fosfato"
+      ],
+      "answer": 3,
+      "explain": "I trigliceridi sono chiamati grassi neutri perché sono molecole apolari, prive di carica elettrica, e quindi non solubili in acqua. Proprio questa natura idrofobica permette loro di accumularsi in un nucleo separato dal citosol all'interno della gocciolina lipidica.",
+      "slide": 35
+    },
+    {
+      "id": "d03-b04-q023",
+      "q": "Quale modificazione della perilipina innesca la mobilizzazione dei trigliceridi?",
+      "choices": [
+        "La metilazione delle perilipine",
+        "La fosforilazione delle perilipine",
+        "La degradazione delle perilipine",
+        "L'ossidazione delle perilipine",
+        "La glicosilazione delle perilipine"
+      ],
+      "answer": 1,
+      "explain": "La fosforilazione delle perilipine è l'evento che innesca la mobilizzazione dei trigliceridi. La degradazione delle perilipine non è il meccanismo descritto, perché le proteine vengono modificate e non distrutte.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q024",
+      "q": "Quale chinasi fosforila le perilipine durante la stimolazione ormonale della lipolisi?",
+      "choices": [
+        "La protein chinasi C",
+        "La protein chinasi G",
+        "La protein chinasi A",
+        "La fosforilasi chinasi",
+        "La chinasi dell'insulina"
+      ],
+      "answer": 2,
+      "explain": "La protein chinasi A, attivata dall'AMP ciclico, fosforila le perilipine. La protein chinasi C e la protein chinasi G rispondono ad altri secondi messaggeri e non sono le chinasi responsabili di questo evento.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q025",
+      "q": "Qual è il primo effetto della fosforilazione della perilipina?",
+      "choices": [
+        "Blocca l'accesso delle lipasi alla gocciolina",
+        "Distrugge la gocciolina lipidica",
+        "Impedisce il rilascio di glicerolo",
+        "Trasferisce i trigliceridi nel nucleo",
+        "Rende i trigliceridi più accessibili alla mobilizzazione"
+      ],
+      "answer": 4,
+      "explain": "La fosforilazione modifica le goccioline di grasso in modo che i trigliceridi diventino più accessibili alla mobilizzazione. Non blocca l'accesso enzimatico, che anzi diventa possibile, e non sposta i lipidi nel nucleo.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q026",
+      "q": "Qual è il secondo effetto della fosforilazione della perilipina?",
+      "choices": [
+        "L'inibizione dell'ATGL",
+        "Il rilascio di un co-attivatore della lipasi",
+        "L'attivazione dell'adenilato ciclasi",
+        "La sintesi di nuova perilipina",
+        "L'ingresso di calcio nella gocciolina"
+      ],
+      "answer": 1,
+      "explain": "Oltre a rendere più accessibili i trigliceridi, la fosforilazione della perilipina provoca il rilascio di un co-attivatore della lipasi. Non si tratta di un'inibizione dell'ATGL, che al contrario viene attivata, né di un segnale per l'ingresso del calcio.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q027",
+      "q": "Quale proteina viene liberata dalla perilipina fosforilata per attivare la lipasi del tessuto adiposo?",
+      "choices": [
+        "L'albumina",
+        "La lipasi ormone-sensibile",
+        "La glicerolo chinasi",
+        "La carnitina",
+        "La proteina CGI-58"
+      ],
+      "answer": 4,
+      "explain": "Il co-attivatore rilasciato dalla perilipina fosforilata è la proteina CGI-58, che attiva l'ATGL. L'albumina è una proteina plasmatica di trasporto e non svolge questa funzione di attivazione enzimatica.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q028",
+      "q": "Che cosa indica la sigla ATGL?",
+      "choices": [
+        "Adipose Triglyceride Lipase",
+        "Acetyl Transferase Glucose Lipase",
+        "Adipose Transport Glucose Ligase",
+        "Acyl Triglyceride Glucose Lipase",
+        "Adipose Tissue Glycerol Lyase"
+      ],
+      "answer": 0,
+      "explain": "ATGL significa Adipose Triglyceride Lipase, cioè trigliceride lipasi del tessuto adiposo. La lipasi ormone-sensibile è un enzima distinto, che interviene in un passo successivo dell'idrolisi dei trigliceridi.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q029",
+      "q": "Quale enzima catalizza il primo passo dell'idrolisi dei trigliceridi nella gocciolina lipidica?",
+      "choices": [
+        "La lipasi ormone-sensibile",
+        "L'ATGL",
+        "La monoacilglicerolo lipasi",
+        "La lipoproteina lipasi",
+        "La carnitina aciltransferasi"
+      ],
+      "answer": 1,
+      "explain": "L'ATGL rimuove un acido grasso dal trigliceride integro e dà inizio all'idrolisi formando un diacilglicerolo. La monoacilglicerolo lipasi agisce invece sull'ultimo legame estere, non sul primo.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q030",
+      "q": "Quale enzima completa l'idrolisi dei diacilgliceroli durante la lipolisi?",
+      "choices": [
+        "L'ATGL",
+        "La lipoproteina lipasi",
+        "La monoacilglicerolo lipasi",
+        "La lipasi ormone-sensibile",
+        "La acil-CoA deidrogenasi"
+      ],
+      "answer": 3,
+      "explain": "La lipasi ormone-sensibile idrolizza i diacilgliceroli producendo monoacilgliceroli e acidi grassi. L'ATGL agisce prima, sul trigliceride integro, quindi non è l'enzima di questo passaggio.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q031",
+      "q": "Come può essere rimossa la fosforilazione delle perilipine al termine del segnale lipolitico?",
+      "choices": [
+        "Per azione di chinasi aggiuntive",
+        "Per azione di fosfatasi specifiche",
+        "Per degradazione proteasomiale della proteina",
+        "Per metilazione del gruppo fosfato",
+        "Non può essere rimossa in alcun modo"
+      ],
+      "answer": 1,
+      "explain": "La fosforilazione è reversibile: fosfatasi specifiche rimuovono i gruppi fosfato e riportano la perilipina allo stato basale, spegnendo la mobilizzazione dei lipidi. Le chinasi aggiungono fosfato e non lo rimuovono, mentre la degradazione della proteina non è il meccanismo fisiologico di reversibilità.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q032",
+      "q": "Quale enzima idrolizza l'ultimo legame estere liberando glicerolo e un acido grasso?",
+      "choices": [
+        "La monoacilglicerolo lipasi",
+        "La lipasi ormone-sensibile",
+        "L'ATGL",
+        "La lipoproteina lipasi",
+        "La fosfolipasi A2"
+      ],
+      "answer": 0,
+      "explain": "La monoacilglicerolo lipasi idrolizza l'ultimo legame estere e libera il glicerolo insieme all'ultimo acido grasso. L'ATGL e la lipasi ormone-sensibile intervengono nei passi precedenti e non liberano il glicerolo.",
+      "slide": 36
+    },
+    {
+      "id": "d03-b04-q033",
+      "q": "Che cosa significa che la lipasi del tessuto adiposo è ormone-sensibile?",
+      "choices": [
+        "Che la sua attività dipende dalla temperatura corporea",
+        "Che la sua attività dipende dalla concentrazione di ossigeno",
+        "Che la sua attività dipende dal pH del citosol",
+        "Che la sua attività dipende dalla quantità di acqua corporea",
+        "Che la sua attività dipende dal livello degli ormoni lipolitici circolanti"
+      ],
+      "answer": 4,
+      "explain": "L'aggettivo ormone-sensibile indica che l'attività dell'enzima dipende dal livello degli ormoni lipolitici circolanti, come glucagone e adrenalina. Fattori fisici come temperatura, pH o concentrazione di ossigeno non determinano questa regolazione di tipo ormonale.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q034",
+      "q": "A quale classe di enzimi appartiene la lipasi ormone-sensibile?",
+      "choices": [
+        "Alle chinasi",
+        "Alle transferasi",
+        "Alle ligasi",
+        "Alle idrolasi",
+        "Alle isomerasi"
+      ],
+      "answer": 3,
+      "explain": "La lipasi ormone-sensibile è un'idrolasi, perché catalizza la scissione di un legame estere con l'aggiunta di una molecola di acqua. Le chinasi aggiungono gruppi fosfato e le ligasi formano legami, attività diverse da quella idrolitica.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q035",
+      "q": "In quale condizione metabolica il glucagone attiva la lipasi ormone-sensibile?",
+      "choices": [
+        "Nel pasto ricco di carboidrati",
+        "Nell'iperglicemia postprandiale",
+        "Nel digiuno",
+        "Nell'abbondanza di insulina",
+        "Nel sonno profondo"
+      ],
+      "answer": 2,
+      "explain": "Il glucagone attiva la lipasi ormone-sensibile durante il digiuno, quando le riserve lipidiche devono essere mobilizzate. Nel pasto ricco di carboidrati prevale invece l'insulina, che inibisce la lipolisi.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q036",
+      "q": "Quale affermazione sulla regolazione ormonale della lipolisi è corretta?",
+      "choices": [
+        "Insulina e glucagone stimolano la lipolisi",
+        "L'adrenalina inibisce la lipolisi",
+        "L'insulina stimola la lipolisi",
+        "Adrenalina e glucagone stimolano la lipolisi e l'insulina la inibisce",
+        "Nessun ormone regola la lipolisi"
+      ],
+      "answer": 3,
+      "explain": "Adrenalina e glucagone stimolano la lipolisi, mentre l'insulina la inibisce, coerentemente con il suo ruolo di segnale di abbondanza energetica. Affermare che l'insulina stimola la lipolisi contraddice direttamente questa regolazione.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q037",
+      "q": "Quale secondo messaggero media l'attivazione della lipasi ormone-sensibile da parte di glucagone e adrenalina?",
+      "choices": [
+        "Il GMP ciclico",
+        "L'inositolo trifosfato",
+        "L'AMP ciclico",
+        "Il diacilglicerolo",
+        "Il calcio citosolico"
+      ],
+      "answer": 2,
+      "explain": "Glucagone e adrenalina aumentano l'AMP ciclico nell'adipocita, che attiva la protein chinasi A e la cascata lipolitica. Il GMP ciclico e l'inositolo trifosfato appartengono ad altre vie di segnalazione cellulare.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q038",
+      "q": "Quale effetto ha l'insulina sull'attività della lipasi ormone-sensibile?",
+      "choices": [
+        "Ne favorisce la fosforilazione attivandola",
+        "Ne favorisce la defosforilazione inattivandola",
+        "Ne aumenta la sintesi proteica",
+        "La trasferisce nel mitocondrio",
+        "Non modifica la sua attività"
+      ],
+      "answer": 1,
+      "explain": "L'insulina favorisce la defosforilazione della lipasi ormone-sensibile, riportandola alla forma inattiva e bloccando la lipolisi. Attribuirle una fosforilazione attivante è l'errore più comune, perché invertirebbe il senso fisiologico della regolazione.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q039",
+      "q": "Quali ormoni attivano la lipasi ormone-sensibile del tessuto adiposo?",
+      "choices": [
+        "Insulina e leptina",
+        "Insulina e glucagone",
+        "Aldosterone e cortisolo",
+        "Solo l'insulina",
+        "Glucagone e adrenalina"
+      ],
+      "answer": 4,
+      "explain": "La lipasi ormone-sensibile è attivata da glucagone e adrenalina, gli stessi ormoni che stimolano la lipolisi. L'insulina ha effetto opposto e inibisce l'enzima, quindi le combinazioni che la includono fra gli attivatori sono sbagliate.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q040",
+      "q": "Dopo la fosforilazione, dove si sposta la lipasi ormone-sensibile per esercitare la sua azione?",
+      "choices": [
+        "Si sposta sulla gocciolina lipidica dove idrolizza i trigliceridi",
+        "Rimane nel citosol in forma inattiva",
+        "Entra nel nucleo cellulare",
+        "Si lega al reticolo endoplasmatico",
+        "Viene secreta nel plasma"
+      ],
+      "answer": 0,
+      "explain": "Dopo la fosforilazione la lipasi ormone-sensibile si sposta dal citosol alla superficie della gocciolina lipidica, dove può idrolizzare i trigliceridi. Non entra nel nucleo, non viene secreta nel plasma e non resta inattiva nel citosol.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q041",
+      "q": "Nel tessuto adiposo, quale processo è sottoposto a uno stretto controllo ormonale?",
+      "choices": [
+        "L'accumulo di trigliceridi",
+        "La sintesi delle perilipine",
+        "Il numero degli adipociti",
+        "La sintesi dell'albumina",
+        "La lipolisi"
+      ],
+      "answer": 4,
+      "explain": "Nel tessuto adiposo la lipolisi è strettamente controllata dagli ormoni, mentre l'accumulo di trigliceridi non è soggetto a controllo e cresce con i grassi della dieta. Le perilipine e l'albumina non sono regolate in modo primario da questo segnale ormonale.",
+      "slide": 37
+    },
+    {
+      "id": "d03-b04-q042",
+      "q": "In quali condizioni si osserva la variabilità regionale dell'entità della lipolisi?",
+      "choices": [
+        "È identica in tutte le zone del corpo",
+        "Varia da zona a zona, sia in condizioni basali sia dopo stimolazione con catecolamine",
+        "Dipende soltanto dall'età del soggetto",
+        "Dipende soltanto dalla temperatura ambientale",
+        "Interessa esclusivamente gli arti inferiori"
+      ],
+      "answer": 1,
+      "explain": "L'entità della lipolisi varia da zona a zona del corpo, sia in condizioni basali sia dopo stimolazione con catecolamine. Non è quindi uniforme e non dipende soltanto da età o temperatura ambientale.",
+      "slide": 38
+    },
+    {
+      "id": "d03-b04-q043",
+      "q": "Quali adipociti mostrano una risposta lipolitica maggiore alle catecolamine?",
+      "choices": [
+        "Quelli dei glutei",
+        "Quelli dei fianchi",
+        "Quelli delle cosce",
+        "Quelli del sottocutaneo addominale e dell'omento",
+        "Quelli della pianta del piede"
+      ],
+      "answer": 3,
+      "explain": "Gli adipociti della parte superiore del corpo, come il sottocutaneo addominale e l'omento, rispondono alle catecolamine più intensamente di quelli di glutei, fianchi e cosce. I distretti inferiori hanno quindi una risposta lipolitica minore e non maggiore.",
+      "slide": 38
+    },
+    {
+      "id": "d03-b04-q044",
+      "q": "Quale relazione lega la lipolisi basale alle dimensioni dell'adipocita?",
+      "choices": [
+        "Più grande è l'adipocita, più debole è la lipolisi",
+        "La lipolisi basale non dipende dalle dimensioni cellulari",
+        "Più grande è l'adipocita, più intensa è la lipolisi basale",
+        "La lipolisi basale dipende solo dal numero di adipociti",
+        "La lipolisi basale è massima negli adipociti più piccoli"
+      ],
+      "answer": 2,
+      "explain": "La lipolisi basale correla con le dimensioni dell'adipocita: più grande è la cellula, più intensa è la lipolisi. Non vale quindi la relazione inversa e la lipolisi non è massima negli adipociti di piccole dimensioni.",
+      "slide": 38
+    },
+    {
+      "id": "d03-b04-q045",
+      "q": "Come varia la lipolisi del tessuto adiposo durante il sonno?",
+      "choices": [
+        "Diminuisce",
+        "Aumenta in modo marcato",
+        "Raddoppia rispetto alla veglia",
+        "Rimane invariata rispetto alla veglia",
+        "Si arresta completamente"
+      ],
+      "answer": 0,
+      "explain": "La lipolisi diminuisce nel sonno e aumenta invece con l'attività fisica. Non si arresta del tutto né raddoppia: si riduce rispetto alla condizione di veglia.",
+      "slide": 38
+    },
+    {
+      "id": "d03-b04-q046",
+      "q": "Quale effetto ha l'attività fisica sulla lipolisi del tessuto adiposo?",
+      "choices": [
+        "La aumenta",
+        "La diminuisce",
+        "La blocca completamente",
+        "La trasforma in lipogenesi",
+        "Non ha alcun effetto"
+      ],
+      "answer": 0,
+      "explain": "L'attività fisica aumenta la lipolisi, coerentemente con la maggiore richiesta energetica dei muscoli in attività. Non la trasforma in lipogenesi e non la blocca, perché il deposito continua a essere mobilizzato.",
+      "slide": 38
+    },
+    {
+      "id": "d03-b04-q047",
+      "q": "In quale forma di obesità prevale l'aumento del volume dei singoli adipociti?",
+      "choices": [
+        "Nell'obesità iperplastica",
+        "Nell'obesità sarcopenica",
+        "Nell'obesità lipoatrofica",
+        "Nell'obesità ipertrofica",
+        "Nell'obesità ipoplasica"
+      ],
+      "answer": 3,
+      "explain": "L'obesità ipertrofica è caratterizzata dall'aumento del volume dei singoli adipociti. L'obesità iperplastica dipende invece dall'aumento del loro numero, una distinzione importante perché le due forme hanno dinamiche diverse.",
+      "slide": 39
+    },
+    {
+      "id": "d03-b04-q048",
+      "q": "Quale forma di obesità è sostenuta dall'aumento del numero degli adipociti?",
+      "choices": [
+        "L'obesità ipertrofica",
+        "L'obesità lipoatrofica",
+        "L'obesità iperplastica",
+        "L'obesità sarcopenica",
+        "L'obesità ipometabolica"
+      ],
+      "answer": 2,
+      "explain": "L'obesità iperplastica è sostenuta dall'aumento del numero degli adipociti. Nell'obesità ipertrofica aumenta invece il volume delle cellule e non la loro quantità.",
+      "slide": 39
+    },
+    {
+      "id": "d03-b04-q049",
+      "q": "Che cosa si intende per grasso viscerale?",
+      "choices": [
+        "Il grasso sottocutaneo dei glutei",
+        "Il tessuto adiposo accumulato nella cavità addominale attorno agli organi",
+        "Il grasso intramuscolare degli arti",
+        "Il tessuto adiposo bruno interscapolare",
+        "Il grasso della pianta del piede"
+      ],
+      "answer": 1,
+      "explain": "Il grasso viscerale è il tessuto adiposo che si accumula all'interno della cavità addominale, attorno agli organi. Il grasso sottocutaneo di glutei e cosce è un deposito periferico e non viscerale.",
+      "slide": 39
+    },
+    {
+      "id": "d03-b04-q050",
+      "q": "Quale rischio per la salute è associato a un elevato grasso viscerale?",
+      "choices": [
+        "Una riduzione del rischio cardiovascolare",
+        "Un miglioramento della sensibilità all'insulina",
+        "Una riduzione dei trigliceridi epatici",
+        "Un aumento della densità ossea",
+        "Un maggiore rischio di insulino-resistenza e malattie cardiometaboliche"
+      ],
+      "answer": 4,
+      "explain": "Un elevato grasso viscerale è associato a un maggiore rischio di insulino-resistenza e di malattie cardiometaboliche, anche perché il suo drenaggio portale espone il fegato a elevate concentrazioni di acidi grassi liberi. Non riduce il rischio cardiovascolare né migliora la sensibilità all'insulina.",
+      "slide": 39
+    }
+  ]
+}

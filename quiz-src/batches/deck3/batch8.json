@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 8,
+  "topic": "Profilo lipidico e correlazioni cliniche",
+  "questions": [
+    {
+      "id": "d03-b08-q001",
+      "q": "Con quale tipo di metodo di laboratorio si determina abitualmente la concentrazione dei trigliceridi nel sangue?",
+      "choices": [
+        "Elettroforesi capillare delle sieroproteine",
+        "Cromatografia a scambio ionico",
+        "Metodo enzimatico colorimetrico",
+        "Dosaggio immunologico con anticorpi monoclonali",
+        "Spettroscopia di risonanza magnetica nucleare"
+      ],
+      "answer": 2,
+      "explain": "Il metodo impiegato di routine è quello enzimatico colorimetrico, in cui una lipasi idrolizza i trigliceridi e le reazioni enzimatiche successive generano un composto colorato la cui intensità si legge allo spettrofotometro. L'elettroforesi delle sieroproteine separa invece le proteine del siero e non serve a quantificare i trigliceridi, mentre il dosaggio immunologico è riservato ad altri analiti, come ormoni e proteine specifiche.",
+      "slide": 69
+    },
+    {
+      "id": "d03-b08-q002",
+      "q": "Quale enzima viene impiegato nel dosaggio enzimatico dei trigliceridi per scinderli nei loro componenti?",
+      "choices": [
+        "La lipasi lipoproteica endoteliale",
+        "La colesterolo esterasi",
+        "L'acetil-CoA carbossilasi",
+        "La fosfolipasi A2 pancreatica",
+        "La lipasi"
+      ],
+      "answer": 4,
+      "explain": "Nel dosaggio si utilizza una lipasi che idrolizza i trigliceridi liberando glicerolo e acidi grassi liberi, e il glicerolo è poi il metabolita effettivamente quantificato. La lipasi lipoproteica endoteliale è un enzima fisiologico che agisce sui trigliceridi delle lipoproteine nei capillari e non è il reagente del saggio in vitro, mentre la fosfolipasi A2 idrolizza i fosfolipidi e la colesterolo esterasi gli esteri del colesterolo.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q003",
+      "q": "Quali sono i due prodotti principali dell'idrolisi enzimatica dei trigliceridi nel dosaggio di laboratorio?",
+      "choices": [
+        "Glicerolo e acidi grassi liberi",
+        "Colesterolo e acidi biliari",
+        "Glicerolo e fosfato inorganico",
+        "Acetil-CoA e malonil-CoA",
+        "Glucosio e acidi grassi liberi"
+      ],
+      "answer": 0,
+      "explain": "La lipasi scinde i legami esterei del trigliceride liberando una molecola di glicerolo e tre acidi grassi liberi. L'acetil-CoA e il malonil-CoA sono intermedi della sintesi degli acidi grassi e non prodotti di questa idrolisi, e il glucosio appartiene al metabolismo dei carboidrati.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q004",
+      "q": "Nel dosaggio enzimatico-colorimetrico dei trigliceridi, quale molecola viene convertita da una serie di reazioni enzimatiche fino a formare il composto colorato?",
+      "choices": [
+        "Il colesterolo libero",
+        "Gli acidi grassi liberi",
+        "La fosfatidilcolina",
+        "Il glicerolo",
+        "Il glicogeno"
+      ],
+      "answer": 3,
+      "explain": "Dopo l'idrolisi del trigliceride è il glicerolo che entra nella cascata di reazioni enzimatiche accoppiate che genera il cromogeno. Gli acidi grassi liberi vengono rilasciati ma non sono la specie dosata, e il glicogeno appartiene al metabolismo dei carboidrati, non a questo saggio.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q005",
+      "q": "Con quale strumento si misura l'intensità del colore sviluppato nel dosaggio dei trigliceridi?",
+      "choices": [
+        "Con un elettrocardiografo",
+        "Con uno spettrofotometro",
+        "Con un cromatografo gassoso",
+        "Con un microscopio a contrasto di fase",
+        "Con un contatore di radiazioni"
+      ],
+      "answer": 1,
+      "explain": "Lo spettrofotometro misura l'assorbanza del composto colorato, che risulta proporzionale alla quantità di trigliceridi presenti nel campione. Il cromatografo gassoso separa e identifica singole molecole, ma non è lo strumento impiegato nel dosaggio colorimetrico descritto, e il microscopio non fornisce una misura di concentrazione.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q006",
+      "q": "A che cosa è proporzionale l'intensità del colore che si sviluppa nel saggio colorimetrico per i trigliceridi?",
+      "choices": [
+        "Alla temperatura del bagnomaria",
+        "Al tempo di centrifugazione del campione",
+        "Alla quantità di trigliceridi nel campione",
+        "Al contenuto di emoglobina del sangue",
+        "Alla concentrazione di albumina plasmatica"
+      ],
+      "answer": 2,
+      "explain": "Il principio del metodo è che l'intensità del colore, letta come assorbanza, cresce con la quantità di glicerolo liberato e quindi con la concentrazione di trigliceridi. L'emoglobina può interferire con la lettura nei campioni emolizzati, ma non è la grandezza a cui il metodo viene riferito.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q007",
+      "q": "A che cosa serve il campione standard nel dosaggio enzimatico-colorimetrico dei trigliceridi?",
+      "choices": [
+        "A mettere in relazione l'assorbanza misurata con la concentrazione di trigliceridi",
+        "A calibrare la temperatura della centrifuga",
+        "A eliminare le proteine interferenti che potrebbero alterare la lettura spettrofotometrica del siero",
+        "A verificare la sterilità del prelievo",
+        "A misurare il volume esatto di sangue prelevato"
+      ],
+      "answer": 0,
+      "explain": "Il campione standard, a concentrazione nota, permette di costruire la relazione tra assorbanza e concentrazione e di risalire così al valore del paziente. L'eliminazione delle proteine interferenti richiede una fase di precipitazione e non un campione standard, che invece serve solo come riferimento di concentrazione.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q008",
+      "q": "Su quale matrice biologica viene normalmente eseguita la determinazione dei trigliceridi?",
+      "choices": [
+        "Sulle urine delle ventiquattro ore",
+        "Sul liquido cerebrospinale",
+        "Sulla saliva",
+        "Sul sudore",
+        "Sul siero o sul plasma"
+      ],
+      "answer": 4,
+      "explain": "Il dosaggio si esegue su siero o plasma ottenuti dal prelievo di sangue, perché è in queste matrici che circolano i trigliceridi legati alle lipoproteine. Le urine contengono quantità trascurabili di trigliceridi e non sono utilizzabili per questa determinazione.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q009",
+      "q": "Perché nel dosaggio non si misura direttamente il trigliceride integro, ma il glicerolo che da esso deriva?",
+      "choices": [
+        "Perché il glicerolo è colorato già in partenza",
+        "Perché il trigliceride non assorbe la luce ultravioletta",
+        "Perché il glicerolo è più abbondante degli acidi grassi",
+        "Perché la lipasi deve prima idrolizzare il trigliceride e si dosa il glicerolo",
+        "Perché il glicerolo è l'unico componente del trigliceride che risulta solubile in acqua"
+      ],
+      "answer": 3,
+      "explain": "Il trigliceride è apolare e chimicamente poco adatto a un saggio diretto semplice, quindi viene prima scisso dalla lipasi e il glicerolo liberato viene fatto reagire nella cascata enzimatica che produce il cromogeno. Il glicerolo non è colorato di per sé e non è più abbondante degli acidi grassi, che anzi sono tre per ogni molecola di trigliceride.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q010",
+      "q": "Il metodo enzimatico-colorimetrico per i trigliceridi è definito enzimatico perché:",
+      "choices": [
+        "utilizza anticorpi diretti contro il glicerolo",
+        "impiega enzimi, tra cui una lipasi e le attività accoppiate che generano il colore",
+        "richiede un ambiente sterile e privo di enzimi",
+        "misura l'attività della lipoproteina lipasi che è normalmente circolante nel plasma del paziente",
+        "si basa sulla fluorescenza degli enzimi sierici"
+      ],
+      "answer": 1,
+      "explain": "La definizione deriva dall'uso di enzimi come reagenti: la lipasi idrolizza il trigliceride e le successive reazioni enzimatiche accoppiate portano alla formazione del composto colorato. Non si misura l'attività della lipoproteina lipasi circolante, che è un esame diverso dal dosaggio di concentrazione dei trigliceridi.",
+      "slide": 70
+    },
+    {
+      "id": "d03-b08-q011",
+      "q": "Qual è la preparazione richiesta al paziente prima del prelievo per la determinazione dei trigliceridi?",
+      "choices": [
+        "Bere abbondante acqua zuccherata subito prima del prelievo",
+        "Assumere un pasto ricco di grassi due ore prima",
+        "Sospendere ogni liquido nelle ventiquattro ore precedenti",
+        "Essere a digiuno da almeno dodici ore",
+        "Eseguire il prelievo subito dopo un'attività fisica intensa"
+      ],
+      "answer": 3,
+      "explain": "Il digiuno di almeno dodici ore serve a evitare che i lipidi assunti con il pasto, trasportati dai chilomicroni, alterino la trigliceridemia e rendano il risultato non affidabile. Un pasto ricco di grassi poco prima del prelievo produce invece un valore falsamente elevato, e la sospensione dei liquidi non è richiesta.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q012",
+      "q": "Che tipo di esame è, per il paziente, la determinazione dei trigliceridi?",
+      "choices": [
+        "Un esame che richiede anestesia generale",
+        "Un semplice prelievo di sangue",
+        "Una biopsia epatica",
+        "Un'endoscopia digestiva",
+        "Una raccolta delle urine delle ventiquattro ore"
+      ],
+      "answer": 1,
+      "explain": "Si tratta di un normale prelievo venoso di sangue, che non richiede ricovero né procedure invasive come la biopsia. La biopsia epatica è riservata a indicazioni del tutto diverse e non serve a misurare i trigliceridi circolanti.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q013",
+      "q": "In quale unità di misura vengono espressi i valori di trigliceridi riportati nel referto?",
+      "choices": [
+        "In millimoli per litro di urina",
+        "In grammi per chilogrammo di peso corporeo",
+        "In unità internazionali per millilitro",
+        "In percentuale sul peso corporeo",
+        "In milligrammi per decilitro"
+      ],
+      "answer": 4,
+      "explain": "I valori del profilo lipidico sono espressi in milligrammi per decilitro di siero o plasma, come nelle soglie di riferimento per l'adulto. Le unità internazionali si utilizzano per enzimi e ormoni e non per la concentrazione dei trigliceridi.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q014",
+      "q": "Perché il digiuno di almeno dodici ore è fondamentale prima del dosaggio dei trigliceridi?",
+      "choices": [
+        "Perché i lipidi del pasto circolano nei chilomicroni e falserebbero la misura",
+        "Perché senza un digiuno adeguato il prelievo diventa tecnicamente impossibile da eseguire",
+        "Perché il digiuno aumenta la concentrazione di albumina",
+        "Perché il digiuno elimina il colesterolo dal sangue",
+        "Perché il digiuno rende il campione sterile"
+      ],
+      "answer": 0,
+      "explain": "Dopo un pasto i trigliceridi alimentari vengono assorbiti e trasportati dai chilomicroni, facendo salire temporaneamente la trigliceridemia e alterando l'interpretazione del risultato. Il digiuno non elimina il colesterolo dal sangue né ha effetto sulla sterilità del campione, che dipende dalla tecnica di prelievo.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q015",
+      "q": "Qual è il valore desiderabile di trigliceridi nel sangue dell'adulto?",
+      "choices": [
+        "Tra duecento e quattrocentonovantanove mg/dL",
+        "Tra centocinquanta e centonovantanove mg/dL",
+        "Inferiore a centocinquanta mg/dL",
+        "Superiore a cinquecento mg/dL",
+        "Tra centocinquanta e duecentonovantanove mg/dL"
+      ],
+      "answer": 2,
+      "explain": "Il valore desiderabile è inferiore a centocinquanta milligrammi per decilitro, mentre da centocinquanta a centonovantanove la trigliceridemia è ai limiti della norma. L'intervallo tra duecento e quattrocentonovantanove corrisponde già a un valore alto.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q016",
+      "q": "Un adulto presenta trigliceridi compresi tra 150 e 199 mg/dL. In quale categoria rientra?",
+      "choices": [
+        "Valore desiderabile",
+        "Valore ai limiti della norma",
+        "Valore alto",
+        "Valore molto alto",
+        "Valore di riferimento del digiuno"
+      ],
+      "answer": 1,
+      "explain": "La fascia tra centocinquanta e centonovantanove milligrammi per decilitro è definita ai limiti della norma, cioè borderline. Il valore alto inizia invece da duecento milligrammi per decilitro e il valore molto alto oltre cinquecento.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q017",
+      "q": "Un paziente presenta una trigliceridemia di 250 mg/dL. In quale categoria rientra?",
+      "choices": [
+        "Valore desiderabile",
+        "Valore ai limiti della norma",
+        "Valore molto alto",
+        "Valore alto",
+        "Valore normale perché inferiore a cinquecento"
+      ],
+      "answer": 3,
+      "explain": "Duecentocinquanta milligrammi per decilitro cadono nella fascia tra duecento e quattrocentonovantanove, che corrisponde a un valore alto. Non è corretto definirlo normale in base al solo fatto che resta sotto la soglia dei cinquecento, che segna invece l'inizio della fascia molto alta.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q018",
+      "q": "Un paziente ha trigliceridi pari a 520 mg/dL. Come va classificato il valore?",
+      "choices": [
+        "Desiderabile",
+        "Ai limiti della norma",
+        "Molto alto",
+        "Alto",
+        "Borderline"
+      ],
+      "answer": 2,
+      "explain": "Oltre cinquecento milligrammi per decilitro il valore è classificato come molto alto. La categoria alta comprende i valori tra duecento e quattrocentonovantanove e non arriva quindi a includere questo risultato.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q019",
+      "q": "Quale intervallo corrisponde a un valore di trigliceridi considerato alto nell'adulto?",
+      "choices": [
+        "Inferiore a centocinquanta mg/dL",
+        "Tra centocinquanta e centonovantanove mg/dL di trigliceridi",
+        "Superiore a cinquecento mg/dL",
+        "Tra cento e centoquarantanove mg/dL",
+        "Tra duecento e quattrocentonovantanove mg/dL"
+      ],
+      "answer": 4,
+      "explain": "La fascia alta va da duecento a quattrocentonovantanove milligrammi per decilitro, mentre oltre cinquecento si parla di valore molto alto. L'intervallo tra centocinquanta e centonovantanove è invece ai limiti della norma.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q020",
+      "q": "Quale soglia separa i valori desiderabili di trigliceridi da quelli ai limiti della norma?",
+      "choices": [
+        "Centocinquanta mg/dL",
+        "Cento mg/dL",
+        "Duecento mg/dL",
+        "Quattrocentonovantanove mg/dL",
+        "Cinquecento mg/dL"
+      ],
+      "answer": 0,
+      "explain": "Il valore desiderabile è inferiore a centocinquanta milligrammi per decilitro e da centocinquanta inizia la fascia ai limiti della norma. La soglia dei duecento milligrammi segna invece il passaggio dalla fascia borderline a quella alta.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q021",
+      "q": "Quale valore di trigliceridi è considerato desiderabile in un adulto?",
+      "choices": [
+        "Centottanta mg/dL",
+        "Duecentodieci mg/dL",
+        "Trecentocinquanta mg/dL",
+        "Cinquecentodieci mg/dL",
+        "Centoventi mg/dL"
+      ],
+      "answer": 4,
+      "explain": "I valori inferiori a centocinquanta milligrammi per decilitro sono desiderabili, quindi centoventi rientra nella norma. Un valore di centottanta è già ai limiti della norma e trecentocinquanta è francamente alto.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q022",
+      "q": "Un adulto ha una trigliceridemia di 175 mg/dL. Quale indicazione è corretta?",
+      "choices": [
+        "Il valore è desiderabile e non richiede alcuna attenzione",
+        "Il valore è molto alto e indica un rischio immediato di pancreatite",
+        "Il valore è ai limiti della norma",
+        "Il valore è alto",
+        "Il valore è nella norma perché inferiore a duecento"
+      ],
+      "answer": 2,
+      "explain": "Centosettantacinque milligrammi per decilitro cadono nella fascia tra centocinquanta e centonovantanove, cioè ai limiti della norma. Dire che è nella norma perché inferiore a duecento è un errore, perché la soglia superiore della fascia desiderabile è centocinquanta.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q023",
+      "q": "Quale valore di trigliceridi appartiene alla fascia definita molto alta?",
+      "choices": [
+        "Centonovanta mg/dL",
+        "Cinquecentoventi mg/dL",
+        "Quattrocentottanta mg/dL",
+        "Duecentocinquanta mg/dL",
+        "Centoquaranta mg/dL"
+      ],
+      "answer": 1,
+      "explain": "La fascia molto alta comprende i valori superiori a cinquecento milligrammi per decilitro, quindi cinquecentoventi vi rientra. Quattrocentottanta è ancora nella fascia alta, che si ferma a quattrocentonovantanove.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q024",
+      "q": "Un paziente ha trigliceridi pari a 480 mg/dL. In quale categoria rientra?",
+      "choices": [
+        "Valore alto",
+        "Valore molto alto",
+        "Valore ai limiti della norma",
+        "Valore desiderabile",
+        "Valore normale"
+      ],
+      "answer": 0,
+      "explain": "Quattrocentottanta milligrammi per decilitro si colloca nella fascia da duecento a quattrocentonovantanove, cioè tra i valori alti. La fascia molto alta inizia soltanto oltre cinquecento milligrammi per decilitro.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q025",
+      "q": "Quale soglia segna il passaggio dalla fascia alta alla fascia molto alta della trigliceridemia?",
+      "choices": [
+        "Centocinquanta mg/dL",
+        "Duecento mg/dL",
+        "Quattrocento mg/dL",
+        "Cinquecento mg/dL",
+        "Milleduecento mg/dL"
+      ],
+      "answer": 3,
+      "explain": "La fascia alta termina a quattrocentonovantanove milligrammi per decilitro e oltre cinquecento il valore è classificato come molto alto. La soglia dei duecento milligrammi segna invece l'inizio della fascia alta, non il suo limite superiore.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q026",
+      "q": "Quale affermazione descrive correttamente la fascia ai limiti della norma della trigliceridemia?",
+      "choices": [
+        "Comprende valori da centocinquanta a centonovantanove mg/dL",
+        "Comprende valori da cento a centoquarantanove mg/dL",
+        "Comprende valori da duecento a quattrocentonovantanove mg/dL",
+        "Comprende valori inferiori a cento mg/dL",
+        "Comprende valori superiori a cinquecento mg/dL"
+      ],
+      "answer": 0,
+      "explain": "La fascia ai limiti della norma, detta anche borderline, va da centocinquanta a centonovantanove milligrammi per decilitro. Da duecento a quattrocentonovantanove si entra nella fascia alta, mentre oltre cinquecento il valore è molto alto.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q027",
+      "q": "Quale tra queste situazioni può falsare in aumento il valore dei trigliceridi?",
+      "choices": [
+        "Il digiuno protratto per almeno dodici ore prima del prelievo",
+        "Il prelievo eseguito al mattino",
+        "L'uso di una provetta corretta",
+        "Un pasto ricco di grassi poco prima del prelievo",
+        "Il riposo notturno precedente"
+      ],
+      "answer": 3,
+      "explain": "Un pasto ricco di grassi appena prima del prelievo immette chilomicroni nel circolo e fa salire temporaneamente la trigliceridemia, falsando il risultato. Il digiuno di dodici ore è invece la condizione corretta che rende il campione affidabile.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q028",
+      "q": "Quale valore di trigliceridi, in un adulto a digiuno, è classificato come desiderabile?",
+      "choices": [
+        "Centosessanta mg/dL",
+        "Centoquarantacinque mg/dL",
+        "Centocinquanta mg/dL",
+        "Centonovantanove mg/dL",
+        "Duecento mg/dL"
+      ],
+      "answer": 1,
+      "explain": "Il valore desiderabile è strettamente inferiore a centocinquanta milligrammi per decilitro, quindi centoquarantacinque rientra nella norma. Un valore di centocinquanta è già il limite inferiore della fascia ai limiti della norma e non un valore desiderabile.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q029",
+      "q": "In un referto di trigliceridi, che cosa indica la dicitura valore alto?",
+      "choices": [
+        "Un valore inferiore a centocinquanta mg/dL",
+        "Un valore compreso tra centocinquanta e centonovantanove mg/dL di trigliceridi",
+        "Un valore inferiore a cento mg/dL",
+        "Un valore superiore a cinquecento mg/dL",
+        "Un valore compreso tra duecento e quattrocentonovantanove mg/dL"
+      ],
+      "answer": 4,
+      "explain": "La dicitura valore alto corrisponde alla fascia da duecento a quattrocentonovantanove milligrammi per decilitro. Oltre cinquecento si parla di valore molto alto e tra centocinquanta e centonovantanove di valore ai limiti della norma.",
+      "slide": 71
+    },
+    {
+      "id": "d03-b08-q030",
+      "q": "Quali parametri comprende abitualmente un profilo lipidico?",
+      "choices": [
+        "Glicemia a digiuno, emoglobina glicata e insulina plasmatica basale",
+        "Creatinina, urea e acido urico",
+        "Colesterolo totale, colesterolo HDL, colesterolo LDL e trigliceridi",
+        "Transaminasi, bilirubina e fosfatasi alcalina",
+        "Sodio, potassio, cloro e bicarbonati"
+      ],
+      "answer": 2,
+      "explain": "Il profilo lipidico valuta il colesterolo totale, le frazioni HDL e LDL e i trigliceridi, parametri usati per stimare il rischio cardiovascolare. Glicemia, creatinina e transaminasi appartengono ad altri pannelli di laboratorio e non descrivono il profilo lipidico.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q031",
+      "q": "Perché i lipidi plasmatici devono essere trasportati all'interno di lipoproteine?",
+      "choices": [
+        "Perché i trigliceridi sono enzimi che devono restare attivi",
+        "Perché il colesterolo è una proteina di trasporto",
+        "Perché sono molecole idrofobiche poco solubili nel plasma acquoso",
+        "Perché le lipoproteine aumentano la glicemia",
+        "Perché così possono attraversare liberamente le membrane"
+      ],
+      "answer": 2,
+      "explain": "Trigliceridi e colesterolo sono apolari e non si sciolgono nell'acqua plasmatica, quindi vengono avvolti in lipoproteine con un guscio anfipatico che li rende trasportabili. Il colesterolo non è una proteina e le lipoproteine non hanno alcun ruolo nel trasporto del glucosio.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q032",
+      "q": "Quale lipoproteina trasporta principalmente i trigliceridi introdotti con la dieta?",
+      "choices": [
+        "Il colesterolo LDL",
+        "Il colesterolo HDL",
+        "L'albumina",
+        "La lipoproteina(a)",
+        "Il chilomicrone"
+      ],
+      "answer": 4,
+      "explain": "I chilomicroni sono le lipoproteine più ricche di trigliceridi e trasportano i lipidi assorbiti dall'intestino verso i tessuti periferici. L'albumina lega gli acidi grassi liberi e non i trigliceridi alimentari, mentre le HDL hanno un ruolo opposto nel trasporto del colesterolo.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q033",
+      "q": "Quale frazione del profilo lipidico è classicamente associata a un aumento del rischio aterosclerotico?",
+      "choices": [
+        "Il colesterolo HDL elevato",
+        "I trigliceridi inferiori a centocinquanta mg/dL",
+        "L'albumina sierica",
+        "Il colesterolo LDL elevato",
+        "Il colesterolo totale molto basso"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo LDL trasporta il colesterolo verso la parete arteriosa e il suo aumento favorisce la formazione della placca aterosclerotica. Il colesterolo HDL elevato è invece considerato protettivo, perché promuove il trasporto inverso del colesterolo verso il fegato.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q034",
+      "q": "Quale funzione è propria del colesterolo HDL?",
+      "choices": [
+        "Favorire il trasporto inverso del colesterolo dai tessuti al fegato",
+        "Trasportare i trigliceridi alimentari dall'intestino",
+        "Legare gli acidi grassi liberi nel plasma",
+        "Costituire la principale riserva energetica di lunga durata dell'adipocita",
+        "Veicolare l'ossigeno ai tessuti"
+      ],
+      "answer": 0,
+      "explain": "Le HDL prelevano il colesterolo in eccesso dai tessuti periferici e lo riportano al fegato per l'escrezione nella bile, con un effetto protettivo sull'aterogenesi. I chilomicroni, e non le HDL, trasportano i trigliceridi della dieta, e l'emoglobina è la proteina che veicola l'ossigeno.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q035",
+      "q": "Da quali precursori derivano principalmente le lipoproteine LDL?",
+      "choices": [
+        "Dai chilomicroni formati dopo l'assorbimento intestinale dei grassi",
+        "Dalle VLDL dopo la cessione dei trigliceridi ai tessuti",
+        "Dalle HDL dopo la rimozione del colesterolo",
+        "Direttamente dall'albumina plasmatica",
+        "Dai sali biliari nel fegato"
+      ],
+      "answer": 1,
+      "explain": "Le VLDL, ricche di trigliceridi, cedono questi ultimi ai tessuti periferici e si trasformano progressivamente in LDL, sempre più ricche di colesterolo. I chilomicroni sono di origine intestinale e vengono rimossi dal circolo, quindi non sono il precursore diretto delle LDL.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q036",
+      "q": "Quale farmaco riduce l'assorbimento intestinale del colesterolo?",
+      "choices": [
+        "Le statine",
+        "I fibrati",
+        "Le biguanidi",
+        "L'ezetimibe",
+        "Gli inibitori di pompa protonica"
+      ],
+      "answer": 3,
+      "explain": "L'ezetimibe inibisce il trasportatore intestinale del colesterolo e ne riduce l'assorbimento, contribuendo ad abbassare la colesterolemia LDL. Le statine agiscono invece inibendo la HMG-CoA reduttasi epatica e i fibrati riducono soprattutto i trigliceridi.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q037",
+      "q": "Quale lipoproteina è considerata un fattore di rischio cardiovascolare indipendente dal colesterolo LDL?",
+      "choices": [
+        "La lipoproteina(a)",
+        "Il chilomicrone",
+        "L'albumina",
+        "La transferrina",
+        "Il colesterolo HDL"
+      ],
+      "answer": 0,
+      "explain": "La lipoproteina(a) è una particella simile alle LDL che porta anche l'apolipoproteina(a) e il suo aumento si associa a un rischio cardiovascolare maggiore indipendentemente dal valore di LDL. Il colesterolo HDL è invece considerato protettivo e l'albumina è una proteina di trasporto che non appartiene alla classe delle lipoproteine.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q038",
+      "q": "Quale classe di farmaci riduce il colesterolo LDL inibendo la HMG-CoA reduttasi?",
+      "choices": [
+        "I fibrati",
+        "Le biguanidi",
+        "Le statine",
+        "I glucocorticoidi",
+        "Gli inibitori di pompa protonica"
+      ],
+      "answer": 2,
+      "explain": "Le statine inibiscono la HMG-CoA reduttasi, l'enzima limitante della sintesi del colesterolo, e riducono così la colesterolemia LDL. I fibrati agiscono invece principalmente sui trigliceridi, mentre le biguanidi sono farmaci antidiabetici che non hanno come bersaglio la HMG-CoA reduttasi.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q039",
+      "q": "Quale complicanza è classicamente associata a una trigliceridemia molto elevata?",
+      "choices": [
+        "L'anemia sideropenica",
+        "La pancreatite acuta",
+        "L'ipotiroidismo",
+        "L'osteoporosi",
+        "La gotta"
+      ],
+      "answer": 1,
+      "explain": "Valori molto elevati di trigliceridi, superiori a cinquecento milligrammi per decilitro, aumentano il rischio di pancreatite acuta. L'anemia sideropenica dipende dalla carenza di ferro e la gotta dall'accumulo di acido urico, non dai trigliceridi plasmatici.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q040",
+      "q": "Come si stima abitualmente il colesterolo LDL quando i trigliceridi non sono troppo elevati?",
+      "choices": [
+        "Sommando colesterolo totale e trigliceridi",
+        "Moltiplicando tra loro il colesterolo HDL e la concentrazione dei trigliceridi plasmatici",
+        "Misurando direttamente l'albumina plasmatica",
+        "Sottraendo i trigliceridi dal colesterolo HDL",
+        "Sottraendo al colesterolo totale il colesterolo HDL e una quota dei trigliceridi"
+      ],
+      "answer": 4,
+      "explain": "Quando la trigliceridemia non è elevata, il colesterolo LDL si stima sottraendo al colesterolo totale il colesterolo HDL e una frazione dei trigliceridi. La somma o il prodotto di queste frazioni non ha alcun significato biochimico.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q041",
+      "q": "Quale condizione metabolica si associa frequentemente a ipertrigliceridemia?",
+      "choices": [
+        "L'insulino-resistenza con diabete di tipo due",
+        "L'anemia falciforme con emolisi cronica e splenomegalia",
+        "La carenza di vitamina C",
+        "L'emocromatosi",
+        "La fibrosi cistica"
+      ],
+      "answer": 0,
+      "explain": "L'insulino-resistenza aumenta la liberazione di acidi grassi dal tessuto adiposo e la produzione epatica di VLDL, favorendo l'ipertrigliceridemia. Le altre condizioni elencate non hanno questo rapporto causale con i trigliceridi plasmatici.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q042",
+      "q": "A che cosa serve principalmente la determinazione del profilo lipidico nella pratica clinica?",
+      "choices": [
+        "A diagnosticare le anemie",
+        "A valutare la funzionalità renale e l'equilibrio idroelettrolitico",
+        "A dosare gli ormoni tiroidei",
+        "A misurare l'equilibrio acido-base",
+        "A stimare il rischio cardiovascolare del paziente"
+      ],
+      "answer": 4,
+      "explain": "Colesterolo totale, HDL, LDL e trigliceridi vengono richiesti soprattutto per valutare il rischio cardiovascolare e guidare gli interventi preventivi e terapeutici. Funzionalità renale, assetto acido-base e ormoni tiroidei si valutano con altri esami di laboratorio.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q043",
+      "q": "Perché un valore elevato di trigliceridi può associarsi a un aumento del rischio cardiovascolare?",
+      "choices": [
+        "Perché le lipoproteine ricche di trigliceridi contribuiscono allo sviluppo dell'aterosclerosi",
+        "Perché i trigliceridi si depositano direttamente nel muscolo cardiaco sotto forma di cristalli solidi",
+        "Perché i trigliceridi aumentano la pressione osmotica del plasma",
+        "Perché i trigliceridi inibiscono la coagulazione del sangue",
+        "Perché i trigliceridi riducono la sintesi di emoglobina"
+      ],
+      "answer": 0,
+      "explain": "Le lipoproteine ricche di trigliceridi e i loro residui partecipano al processo aterosclerotico, per questo l'ipertrigliceridemia è considerata un fattore di rischio cardiovascolare. I trigliceridi non cristallizzano nel miocardio né influenzano la sintesi dell'emoglobina.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q044",
+      "q": "Quale affermazione sul colesterolo è corretta?",
+      "choices": [
+        "È un carboidrato di riserva che viene immagazzinato nel fegato e nel tessuto muscolare",
+        "È una proteina plasmatica che lega il ferro",
+        "È un componente delle membrane cellulari e un precursore degli ormoni steroidei",
+        "È un enzima che digerisce i trigliceridi",
+        "È un nucleotide precursore degli acidi nucleici"
+      ],
+      "answer": 2,
+      "explain": "Il colesterolo è un lipide strutturale delle membrane e il precursore degli ormoni steroidei, degli acidi biliari e della vitamina D. Non è una proteina, non è un carboidrato di riserva e non possiede attività enzimatica.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q045",
+      "q": "Quale lipoproteina presenta il maggior contenuto proteico e la densità più elevata?",
+      "choices": [
+        "I chilomicroni",
+        "Le VLDL",
+        "Le LDL",
+        "Le HDL",
+        "L'albumina"
+      ],
+      "answer": 3,
+      "explain": "Le HDL hanno il contenuto proteico più alto e la percentuale lipidica più bassa, per questo sono le lipoproteine più dense. I chilomicroni sono al contrario i più ricchi di trigliceridi e i meno densi, mentre l'albumina è una singola proteina di trasporto e non una lipoproteina.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q046",
+      "q": "Quale parametro del profilo lipidico corrisponde alla differenza tra colesterolo totale e colesterolo HDL?",
+      "choices": [
+        "Il colesterolo LDL",
+        "Il rapporto tra trigliceridi e colesterolo HDL",
+        "Il colesterolo esterificato",
+        "Il colesterolo libero",
+        "Il colesterolo non-HDL"
+      ],
+      "answer": 4,
+      "explain": "Il colesterolo non-HDL si ottiene sottraendo al colesterolo totale il colesterolo HDL e comprende tutte le lipoproteine che contengono apolipoproteina B, risultando informativo soprattutto quando i trigliceridi sono elevati. Il colesterolo LDL, invece, viene abitualmente stimato sottraendo al colesterolo totale anche una quota dei trigliceridi.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q047",
+      "q": "Nel contesto di un profilo lipidico, quale parametro viene quantificato direttamente con il metodo enzimatico-colorimetrico?",
+      "choices": [
+        "Il colesterolo HDL",
+        "I trigliceridi",
+        "Il colesterolo LDL",
+        "La lipoproteina(a)",
+        "L'apolipoproteina A-I"
+      ],
+      "answer": 1,
+      "explain": "I trigliceridi sono dosati direttamente con il metodo enzimatico colorimetrico, che li idrolizza e misura il glicerolo liberato. Il colesterolo LDL viene invece abitualmente stimato a partire dagli altri parametri, e il colesterolo HDL si determina con metodiche diverse.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q048",
+      "q": "Quale tra questi fattori può contribuire a un valore elevato di trigliceridi oltre all'alimentazione?",
+      "choices": [
+        "Un aumentato consumo di fibre",
+        "L'attività fisica regolare",
+        "Una dieta ipocalorica equilibrata",
+        "L'abuso di alcol",
+        "L'assunzione di vitamina D"
+      ],
+      "answer": 3,
+      "explain": "L'alcol stimola la sintesi epatica di VLDL e può aumentare la trigliceridemia, così come l'obesità e l'insulino-resistenza. Attività fisica, dieta equilibrata e consumo di fibre hanno invece un effetto favorevole sui trigliceridi.",
+      "slide": 72
+    },
+    {
+      "id": "d03-b08-q049",
+      "q": "Nel metodo enzimatico colorimetrico per i trigliceridi, che cosa indica la componente colorimetrica?",
+      "choices": [
+        "Che il campione deve essere colorato prima del prelievo",
+        "Che il sangue viene separato in base al colore delle diverse classi di lipoproteine plasmatiche",
+        "Che la lettura si basa sull'intensità di colore di un composto sviluppato nel saggio",
+        "Che il risultato viene espresso in unità cromatiche",
+        "Che il reagente cambia colore soltanto in presenza di glucosio"
+      ],
+      "answer": 2,
+      "explain": "Il termine colorimetrico indica che la misura si basa sull'assorbanza di un composto colorato che si forma in proporzione ai trigliceridi presenti nel campione. Il risultato viene espresso in milligrammi per decilitro e non in unità cromatiche.",
+      "slide": 69
+    },
+    {
+      "id": "d03-b08-q050",
+      "q": "Quale affermazione descrive correttamente il dosaggio dei trigliceridi basato sul metodo enzimatico colorimetrico?",
+      "choices": [
+        "È un'analisi di laboratorio eseguita su un campione di sangue",
+        "È una misura diretta della lipoproteina lipasi circolante",
+        "È un esame radiologico del fegato",
+        "È una valutazione clinica basata sui sintomi del paziente",
+        "È un test genetico sulle mutazioni delle apolipoproteine"
+      ],
+      "answer": 0,
+      "explain": "Si tratta di un'analisi di laboratorio eseguita su sangue, che quantifica i trigliceridi attraverso una reazione enzimatica e una lettura colorimetrica. Non è un esame radiologico né un test genetico e non misura l'attività della lipoproteina lipasi.",
+      "slide": 69
+    }
+  ]
+}

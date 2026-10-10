@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 3,
+  "topic": "Interazioni deboli e idrofobiche, reazioni di ossidoriduzione",
+  "questions": [
+    {
+      "id": "d01-b03-q001",
+      "q": "In un ambiente acquoso, che cosa spinge le molecole apolari ad aggregarsi fra loro?",
+      "choices": [
+        "La formazione di legami covalenti fra i gruppi apolari, che condividono elettroni",
+        "L'attrazione elettrostatica fra le cariche opposte presenti sui gruppi apolari",
+        "La riduzione del contatto con l'acqua strutturata che circonda i gruppi apolari",
+        "La repulsione fra l'acqua e gli ioni disciolti, che spinge insieme gli apolari",
+        "La formazione di legami a idrogeno fra i gruppi apolari, che li tengono uniti"
+      ],
+      "answer": 2,
+      "explain": "Le molecole apolari non instaurano interazioni favorevoli con l'acqua: aggregandosi riducono la superficie di contatto e liberano le molecole d'acqua che formavano attorno a esse una gabbia ordinata, con aumento di entropia. Non si tratta di legami covalenti o a idrogeno, perché i gruppi apolari non mettono in comune elettroni né possiedono gruppi capaci di donare o accettare idrogeno.",
+      "slide": 36
+    },
+    {
+      "id": "d01-b03-q002",
+      "q": "Che cos'è un clatrato nel contesto delle interazioni idrofobiche?",
+      "choices": [
+        "Un guscio ordinato di molecole d'acqua attorno a una molecola apolare",
+        "Un legame covalente fra l'acqua e una molecola apolare disciolta",
+        "Un aggregato cristallino di ioni che precipita in soluzione acquosa",
+        "Una doppia elica formata da due catene apolari affiancate e unite",
+        "Un ponte salino fra due gruppi carichi immersi nella soluzione"
+      ],
+      "answer": 0,
+      "explain": "Attorno a una molecola apolare l'acqua non riesce a orientarsi liberamente e assume una struttura ordinata a gabbia, detta clatrato, che riduce l'entropia del sistema. L'aggregazione delle molecole apolari libera parte di quest'acqua ordinata, e proprio l'aumento di entropia che ne deriva rende favorevole l'interazione idrofobica.",
+      "slide": 36
+    },
+    {
+      "id": "d01-b03-q003",
+      "q": "Qual è la forza trainante principale delle interazioni idrofobiche in acqua?",
+      "choices": [
+        "La formazione di legami covalenti fra le catene apolari",
+        "L'attrazione fra cariche positive e negative presenti sui gruppi apolari",
+        "La diminuzione di entropia dovuta all'ordine assunto dalle molecole apolari",
+        "L'aumento di entropia dell'acqua liberata quando le molecole apolari si aggregano",
+        "Il trasferimento di elettroni fra le molecole apolari"
+      ],
+      "answer": 3,
+      "explain": "L'interazione idrofobica è un effetto guidato dall'entropia: le molecole apolari si uniscono per ridurre il numero di molecole d'acqua bloccate in gabbie ordinate attorno a esse. L'alternativa che parla di diminuzione di entropia è quindi errata, perché il processo produce un aumento del disordine dell'acqua, non una sua riduzione.",
+      "slide": 36
+    },
+    {
+      "id": "d01-b03-q004",
+      "q": "Quale affermazione descrive correttamente l'intensità delle interazioni idrofobiche?",
+      "choices": [
+        "Sono legami covalenti molto forti, con energia di centinaia di kilojoule per mole",
+        "Sono interazioni deboli, non covalenti, che diventano rilevanti solo quando sono numerose",
+        "Sono legami ionici che si rompono solo a temperature superiori a cento gradi",
+        "Hanno la stessa energia di un legame peptidico",
+        "Sono legami a idrogeno che si formano fra due gruppi metilici"
+      ],
+      "answer": 1,
+      "explain": "Singolarmente le interazioni idrofobiche sono deboli e non covalenti, ma il loro contributo diventa determinante quando molte di esse agiscono insieme, come nel core delle proteine globulari. Il legame peptidico e il legame covalente sono invece legami veri e molto più energetici, mentre fra due gruppi metilici apolari non si formano legami a idrogeno.",
+      "slide": 36
+    },
+    {
+      "id": "d01-b03-q005",
+      "q": "Quale struttura biologica è stabilizzata in modo prevalente da interazioni idrofobiche?",
+      "choices": [
+        "L'ossatura zucchero-fosfato degli acidi nucleici, tenuta da legami covalenti",
+        "I legami peptidici che uniscono gli aminoacidi di una catena",
+        "I ponti disolfuro fra residui di cisteina, che sono legami covalenti",
+        "L'impalcatura covalente degli acidi grassi saturi della membrana",
+        "Il core interno delle proteine globulari, ricco di residui apolari"
+      ],
+      "answer": 4,
+      "explain": "Nelle proteine globulari i residui apolari si dispongono all'interno, lontano dall'acqua, e le interazioni idrofobiche che li uniscono contribuiscono in modo determinante alla stabilità della struttura terziaria. I ponti disolfuro e i legami peptidici sono invece legami covalenti e non hanno natura idrofobica.",
+      "slide": 36
+    },
+    {
+      "id": "d01-b03-q006",
+      "q": "Perché due molecole presenti in soluzione non reagiscono a ogni singolo urto?",
+      "choices": [
+        "Perché gli urti fra molecole avvengono soltanto in presenza di un enzima",
+        "Perché solo gli urti con energia e orientamento corretti danno prodotti",
+        "Perché le molecole si respingono sempre a causa della loro carica elettrica",
+        "Perché le reazioni avvengono soltanto fra ioni di carica opposta",
+        "Perché la temperatura della soluzione non influenza mai gli urti"
+      ],
+      "answer": 1,
+      "explain": "Secondo la teoria degli urti, una reazione avviene solo quando le molecole si scontrano con energia cinetica sufficiente a superare la barriera di attivazione e con un orientamento reciproco adatto. La maggior parte degli urti è quindi inefficace, e non è vero che le molecole si respingono sempre né che sia sempre necessario un enzima.",
+      "slide": 37
+    },
+    {
+      "id": "d01-b03-q007",
+      "q": "Che cos'è l'energia di attivazione di una reazione?",
+      "choices": [
+        "L'energia totale liberata dalla reazione sotto forma di calore",
+        "L'energia contenuta nei legami dei prodotti finali della reazione",
+        "L'energia necessaria a rompere in modo definitivo tutti i legami dei reagenti",
+        "L'energia libera di Gibbs misurata a temperatura e pressione costanti",
+        "L'energia minima che le molecole devono possedere per reagire a un urto"
+      ],
+      "answer": 4,
+      "explain": "L'energia di attivazione è la barriera energetica che le molecole devono superare perché l'urto dia origine ai prodotti. Non coincide con il ΔG della reazione né con l'energia complessivamente liberata: una reazione può essere molto esoergonica e presentare comunque una barriera di attivazione elevata.",
+      "slide": 37
+    },
+    {
+      "id": "d01-b03-q008",
+      "q": "Perché un aumento della temperatura accelera la maggior parte delle reazioni chimiche?",
+      "choices": [
+        "Perché accresce l'energia cinetica delle molecole e la frazione di urti efficaci",
+        "Perché abbassa direttamente l'energia di attivazione della reazione",
+        "Perché rende negativo il ΔG di qualunque reazione, anche endoergonica",
+        "Perché elimina la necessità di un orientamento corretto fra le molecole",
+        "Perché trasforma i reagenti della reazione in catalizzatori attivi"
+      ],
+      "answer": 0,
+      "explain": "La temperatura aumenta l'energia cinetica media delle molecole e dunque la quota di urti capaci di superare l'energia di attivazione, con un'accelerazione della reazione. La temperatura però non modifica la barriera di attivazione in sé: è il catalizzatore, non il calore, ad abbassarla, e il segno del ΔG dipende dalla termodinamica della reazione.",
+      "slide": 37
+    },
+    {
+      "id": "d01-b03-q009",
+      "q": "Che cosa accade quando due molecole si urtano con energia inferiore all'energia di attivazione?",
+      "choices": [
+        "La reazione avviene comunque, ma in modo più lento e incompleto",
+        "Si formano prodotti instabili, che poi si stabilizzano nel tempo",
+        "L'energia di attivazione diminuisce fino a permettere la reazione",
+        "Le molecole si allontanano senza trasformarsi, perché la barriera non è superata",
+        "Il ΔG della reazione diventa positivo dopo l'urto inefficace"
+      ],
+      "answer": 3,
+      "explain": "Se l'energia dell'urto è inferiore alla barriera di attivazione, le molecole rimbalzano e tornano separate senza dare prodotti. L'energia di attivazione non si abbassa da sola per effetto dell'urto, e il ΔG è una proprietà della reazione che non cambia per un singolo urto inefficace.",
+      "slide": 37
+    },
+    {
+      "id": "d01-b03-q010",
+      "q": "Che cos'è un'equazione chimica?",
+      "choices": [
+        "Un elenco dei catalizzatori necessari perché una reazione avvenga",
+        "La misura della velocità con cui una reazione raggiunge l'equilibrio",
+        "Il valore numerico dell'energia libera della reazione, espresso in kcal",
+        "Una tabella delle masse atomiche di tutti i reagenti e dei prodotti",
+        "La rappresentazione di una reazione con le formule di reagenti e prodotti"
+      ],
+      "answer": 4,
+      "explain": "L'equazione chimica descrive una reazione scrivendo i reagenti a sinistra e i prodotti a destra, separati da una freccia che indica il verso della trasformazione. Non è una misura di velocità né di energia: queste grandezze si esprimono con la cinetica e con il ΔG.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q011",
+      "q": "A che cosa serve il coefficiente stechiometrico posto davanti alla formula di una specie in un'equazione chimica?",
+      "choices": [
+        "A indicare la temperatura alla quale avviene la reazione",
+        "A indicare quante moli di quella specie partecipano alla reazione",
+        "A indicare il numero di elettroni contenuti in un singolo atomo",
+        "A stabilire se la reazione è esotermica oppure endotermica",
+        "A indicare la velocità con cui quella specie viene consumata"
+      ],
+      "answer": 1,
+      "explain": "Il coefficiente stechiometrico indica quante moli di ciascuna specie partecipano alla reazione e serve a garantire che il numero di atomi di ogni elemento, e quello degli elettroni ceduti e acquistati, resti invariato. Non fornisce alcuna informazione sulla temperatura, sul calore di reazione o sulla velocità del processo.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q012",
+      "q": "Quando in una reazione chimica la cessione di elettroni è solo parziale, che cosa si forma?",
+      "choices": [
+        "Un legame ionico",
+        "Un legame a idrogeno",
+        "Un legame covalente",
+        "Un legame peptidico",
+        "Nessun legame, perché gli elettroni restano sull'atomo di partenza"
+      ],
+      "answer": 2,
+      "explain": "La cessione parziale di elettroni corrisponde alla messa in comune di una coppia di elettroni, cioè alla formazione di un legame covalente. La cessione totale, con separazione completa delle cariche, porta invece alla formazione di un legame ionico.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q013",
+      "q": "Quando in una reazione chimica la cessione di elettroni è totale, che cosa si forma?",
+      "choices": [
+        "Un legame ionico fra ioni di carica opposta",
+        "Un legame covalente puro fra i due atomi coinvolti",
+        "Un legame a idrogeno fra i due atomi coinvolti",
+        "Un'interazione idrofobica fra i due atomi coinvolti",
+        "Un legame metallico fra due non metalli vicini"
+      ],
+      "answer": 0,
+      "explain": "Il trasferimento completo di uno o più elettroni da un atomo a un altro genera ioni di carica opposta che si attraggono mediante un legame ionico. Il legame covalente deriva invece da una condivisione, cioè da una cessione soltanto parziale di elettroni.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q014",
+      "q": "In una reazione di ossidoriduzione, quale relazione lega il numero di elettroni ceduti e quello degli elettroni acquistati?",
+      "choices": [
+        "Il numero di elettroni ceduti è sempre doppio rispetto a quelli acquistati",
+        "Il numero di elettroni ceduti è sempre la metà rispetto a quelli acquistati",
+        "I due numeri sono indipendenti e non devono coincidere",
+        "Il numero di elettroni ceduti è uguale al numero di elettroni acquistati",
+        "Gli elettroni acquistati sono sempre zero, perché prevale l'ossidazione"
+      ],
+      "answer": 3,
+      "explain": "In una reazione redox gli elettroni non si creano né si distruggono: quelli ceduti dal riducente sono esattamente gli stessi che vengono acquistati dall'ossidante. Per questo i due numeri devono coincidere e l'equazione redox va bilanciata proprio su questa base.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q015",
+      "q": "In un'equazione chimica, che cosa separa i reagenti dai prodotti?",
+      "choices": [
+        "Il segno di uguale, che indica l'uguaglianza delle masse",
+        "Una freccia che indica il verso della reazione",
+        "Una parentesi quadra che racchiude lo stato fisico",
+        "Il simbolo del grado, usato per indicare la temperatura",
+        "Una linea tratteggiata che segnala una rottura di legame"
+      ],
+      "answer": 1,
+      "explain": "Nella forma usuale dell'equazione chimica i reagenti sono scritti a sinistra e i prodotti a destra, separati da una freccia che indica il verso della trasformazione. Il segno di uguale e gli altri simboli citati non hanno questo significato nella scrittura di una reazione chimica.",
+      "slide": 39
+    },
+    {
+      "id": "d01-b03-q016",
+      "q": "Che cosa si intende per ossidazione?",
+      "choices": [
+        "L'acquisto di uno o più elettroni da parte di una specie",
+        "La rottura di un legame covalente senza alcun trasferimento di elettroni",
+        "La formazione di un legame a idrogeno fra due molecole polari",
+        "La perdita di protoni da parte di un acido in soluzione",
+        "La cessione di uno o più elettroni da parte di una specie"
+      ],
+      "answer": 4,
+      "explain": "L'ossidazione è definita come cessione di uno o più elettroni, mentre l'acquisto di elettroni è la riduzione. Occorre non confondere l'ossidazione con la perdita di protoni, che è un fenomeno acido-base e non un trasferimento di elettroni.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q017",
+      "q": "Che cosa si intende per riduzione?",
+      "choices": [
+        "La cessione di uno o più elettroni da parte di una specie",
+        "La perdita di atomi di ossigeno da parte di una molecola",
+        "L'acquisto di uno o più elettroni da parte di una specie",
+        "Il trasferimento di un protone da un acido a una base",
+        "La rottura di un legame ionico in soluzione acquosa"
+      ],
+      "answer": 2,
+      "explain": "La riduzione è l'acquisto di uno o più elettroni ed è sempre accompagnata dall'ossidazione di un'altra specie. Il nome può trarre in inganno, ma la riduzione non consiste nella perdita di ossigeno né nel trasferimento di protoni.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q018",
+      "q": "In una reazione di ossidoriduzione, che cosa fa il riducente?",
+      "choices": [
+        "Cede elettroni e si ossida",
+        "Acquista elettroni e si riduce",
+        "Cede protoni e si comporta da base",
+        "Acquista ossigeno senza cedere elettroni",
+        "Non partecipa al trasferimento di elettroni"
+      ],
+      "answer": 0,
+      "explain": "Il riducente è la specie che cede elettroni e, proprio per questo, subisce ossidazione; la specie che li acquista è invece l'ossidante e si riduce. Chi cede elettroni non può quindi ridursi, perché il nome indica ciò che quella specie fa fare all'altra.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q019",
+      "q": "In una reazione di ossidoriduzione, che cosa fa l'ossidante?",
+      "choices": [
+        "Cede elettroni e si ossida",
+        "Cede protoni e si comporta da acido",
+        "Si riduce acquistando ossigeno dall'ambiente",
+        "Riceve gli elettroni e si riduce",
+        "Rimane invariato mentre l'altra specie si ossida"
+      ],
+      "answer": 3,
+      "explain": "L'ossidante riceve gli elettroni ceduti dal riducente e per questo si riduce. L'alternativa che lo descrive mentre cede elettroni confonde le due specie: chi cede è il riducente, chi riceve è l'ossidante.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q020",
+      "q": "Che cosa significa affermare che un'ossidazione è sempre accoppiata a una riduzione?",
+      "choices": [
+        "Che ogni reazione redox produce sempre calore e non elettricità",
+        "Che l'ossidazione avviene prima e la riduzione soltanto dopo",
+        "Che gli elettroni ceduti da una specie sono acquistati da un'altra",
+        "Che due ossidazioni possono avvenire insieme senza alcuna riduzione",
+        "Che la reazione richiede sempre un enzima specifico per avvenire"
+      ],
+      "answer": 2,
+      "explain": "Gli elettroni non possono restare liberi in soluzione: quelli ceduti da una specie devono essere acquistati da un'altra, per cui ossidazione e riduzione avvengono sempre insieme e costituiscono una reazione di ossidoriduzione. Non esiste quindi una reazione di sola ossidazione o di sola riduzione.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q021",
+      "q": "Se una specie chimica acquista elettroni, come si comporta nella reazione?",
+      "choices": [
+        "Come riducente, perché subisce ossidazione cedendo elettroni",
+        "Come ossidante, perché si riduce e ossida l'altra specie",
+        "Come catalizzatore, perché non cambia il proprio stato",
+        "Come acido, perché acquista protoni e non elettroni",
+        "Come base, perché cede protoni all'altra specie"
+      ],
+      "answer": 1,
+      "explain": "Chi acquista elettroni è l'ossidante: sottraendo elettroni all'altra specie ne provoca l'ossidazione e nel frattempo si riduce. Il riducente è invece la specie che cede elettroni e che quindi si ossida.",
+      "slide": 40
+    },
+    {
+      "id": "d01-b03-q022",
+      "q": "Quale delle seguenti trasformazioni è una reazione di ossidoriduzione?",
+      "choices": [
+        "La neutralizzazione di un acido forte con una base forte",
+        "La dissoluzione del cloruro di sodio in acqua",
+        "La formazione di un legame a idrogeno fra due molecole d'acqua",
+        "Il passaggio di un gas attraverso una membrana",
+        "La combustione del metano con formazione di anidride carbonica e acqua"
+      ],
+      "answer": 4,
+      "explain": "La combustione del metano è una reazione redox: il carbonio cede elettroni e si ossida, mentre l'ossigeno molecolare li acquista e si riduce. La neutralizzazione acido-base e la dissoluzione di un sale sono invece processi in cui gli stati di ossidazione degli elementi non cambiano.",
+      "slide": 41
+    },
+    {
+      "id": "d01-b03-q023",
+      "q": "Nella reazione fra zinco metallico e ioni rame(II), con formazione di ioni zinco(II) e rame metallico, quale specie si comporta da ossidante?",
+      "choices": [
+        "Lo ione rame(II), che acquista elettroni e si riduce",
+        "Lo zinco metallico, che acquista elettroni e si riduce",
+        "Lo ione zinco(II), che cede elettroni e si ossida a zinco",
+        "Il rame metallico, che cede elettroni e si ossida in soluzione",
+        "L'acqua, che cede protoni allo zinco e si riduce"
+      ],
+      "answer": 0,
+      "explain": "Lo ione rame(II) acquista gli elettroni ceduti dallo zinco e si riduce a rame metallico: per questo è l'ossidante. È sbagliato indicare lo zinco metallico, perché lo zinco cede elettroni, si ossida e quindi si comporta da riducente.",
+      "slide": 41
+    },
+    {
+      "id": "d01-b03-q024",
+      "q": "Nella reazione fra idrogeno e ossigeno che porta alla formazione di acqua, quale specie si ossida?",
+      "choices": [
+        "L'ossigeno, che acquista elettroni",
+        "L'acqua, che si decompone nei suoi elementi",
+        "Nessuna specie, perché si formano soltanto legami covalenti",
+        "L'idrogeno, che cede elettroni all'ossigeno",
+        "L'ossigeno molecolare, che si ossida cedendo elettroni"
+      ],
+      "answer": 3,
+      "explain": "Nella formazione dell'acqua l'idrogeno cede elettroni all'ossigeno e si ossida, mentre l'ossigeno li acquista e si riduce. Anche se il prodotto contiene legami covalenti polari, gli stati di ossidazione degli elementi cambiano, quindi la reazione è di ossidoriduzione.",
+      "slide": 41
+    },
+    {
+      "id": "d01-b03-q025",
+      "q": "In una reazione di ossidoriduzione, che cosa succede al numero di ossidazione della specie che si ossida?",
+      "choices": [
+        "Rimane invariato",
+        "Diminuisce, perché la specie acquista elettroni",
+        "Aumenta, perché la specie perde elettroni",
+        "Diventa sempre uguale a zero",
+        "Cambia soltanto se la specie è un metallo"
+      ],
+      "answer": 2,
+      "explain": "Il numero di ossidazione aumenta quando una specie perde elettroni, cioè quando si ossida; diminuisce invece quando li acquista, cioè quando si riduce. Questo criterio permette di riconoscere con sicurezza quale specie si ossida e quale si riduce.",
+      "slide": 41
+    },
+    {
+      "id": "d01-b03-q026",
+      "q": "Che cosa caratterizza le reazioni di ossidazione dal punto di vista energetico?",
+      "choices": [
+        "Richiedono un apporto di energia dall'esterno e consumo di ATP",
+        "Liberano energia, dispersa come calore o conservata in legami ad alta energia",
+        "Consumano sempre ATP per potersi svolgere nelle cellule",
+        "Sono sempre endoergoniche e richiedono energia dall'esterno",
+        "Non comportano alcuno scambio di energia con l'ambiente esterno"
+      ],
+      "answer": 1,
+      "explain": "Le reazioni di ossidazione liberano energia: una parte viene dispersa come calore e un'altra viene conservata in legami chimici ad alta energia, come quelli dell'ATP. Le reazioni che richiedono apporto di energia e consumo di ATP sono invece le reazioni di riduzione e, più in generale, i processi biosintetici.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q027",
+      "q": "Quali prodotti si formano dall'ossidazione completa dei carboidrati e dei grassi negli organismi viventi?",
+      "choices": [
+        "Soltanto ATP, senza altri prodotti di scarto",
+        "Glucosio e ossigeno, che si accumulano nella cellula",
+        "Ammoniaca e urea, che derivano dai grassi",
+        "Acidi grassi e glicerolo, che restano nel citoplasma",
+        "Acqua, anidride carbonica ed energia"
+      ],
+      "answer": 4,
+      "explain": "L'ossidazione dei carboidrati e dei grassi porta alla formazione di acqua e anidride carbonica, con liberazione di energia. Parte di questa energia è dispersa come calore e contribuisce a mantenere la temperatura corporea, mentre la parte restante è conservata nell'ATP.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q028",
+      "q": "Come vengono utilizzate le due quote di energia liberate dall'ossidazione dei nutrienti?",
+      "choices": [
+        "Una parte è dispersa come calore e una parte è conservata nell'ATP",
+        "Tutta l'energia viene conservata nell'ATP, senza dispersione di calore",
+        "Tutta l'energia viene dispersa come calore, senza produzione di ATP",
+        "L'energia viene conservata esclusivamente nei grassi di deposito",
+        "L'energia viene utilizzata soltanto per la contrazione muscolare"
+      ],
+      "answer": 0,
+      "explain": "Nell'ossidazione dei nutrienti una frazione dell'energia è dispersa come calore e contribuisce al mantenimento della temperatura corporea, mentre la quota restante è conservata nei legami ad alta energia dell'ATP. Non è quindi corretto affermare che tutta l'energia finisca nell'ATP o che venga interamente dissipata come calore.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q029",
+      "q": "Che cosa caratterizza le reazioni di riduzione che avvengono nell'organismo?",
+      "choices": [
+        "Liberano energia all'ambiente e non consumano ATP",
+        "Producono sempre calore e anidride carbonica",
+        "Avvengono spontaneamente senza alcun apporto energetico",
+        "Richiedono energia dall'esterno e il consumo di ATP",
+        "Sono tipiche soltanto delle reazioni di combustione"
+      ],
+      "answer": 3,
+      "explain": "Le reazioni di riduzione, come quelle che costruiscono nuove molecole nell'organismo, richiedono energia dall'esterno e il consumo di ATP. Le reazioni che liberano energia e producono anidride carbonica e acqua sono invece le ossidazioni dei nutrienti.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q030",
+      "q": "Perché l'ossidazione dei nutrienti contribuisce al mantenimento della temperatura corporea?",
+      "choices": [
+        "Perché produce ATP, che riscalda direttamente i tessuti",
+        "Perché consuma anidride carbonica, trattenendo così il calore",
+        "Perché una parte dell'energia liberata è dispersa come calore",
+        "Perché blocca tutte le reazioni di riduzione del metabolismo",
+        "Perché accelera ogni reazione senza liberare energia"
+      ],
+      "answer": 2,
+      "explain": "L'ossidazione dei carboidrati e dei grassi libera energia; la quota non conservata nell'ATP viene dispersa come calore e contribuisce a mantenere la temperatura corporea. L'ATP non è una fonte di calore ma un trasportatore di energia chimica, e l'anidride carbonica è un prodotto della reazione, non un fattore che trattiene il calore.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q031",
+      "q": "Che cos'è l'energia?",
+      "choices": [
+        "Una sostanza chimica contenuta nei legami covalenti",
+        "La capacità di compiere un lavoro oppure di fornire calore",
+        "La massa totale dei reagenti di una reazione",
+        "La velocità con cui avviene una trasformazione chimica",
+        "Il numero di elettroni scambiati in una reazione redox"
+      ],
+      "answer": 1,
+      "explain": "L'energia è definita come la capacità di compiere un lavoro o di fornire calore, e non è una sostanza materiale. La velocità di reazione è invece una grandezza cinetica, distinta dall'energia, che è una grandezza termodinamica.",
+      "slide": 43
+    },
+    {
+      "id": "d01-b03-q032",
+      "q": "In quali forme può manifestarsi l'energia secondo la sua definizione?",
+      "choices": [
+        "Soltanto come calore, che si trasferisce fra corpi",
+        "Soltanto come lavoro meccanico compiuto da un corpo",
+        "Soltanto come energia elettrica che muove le cariche",
+        "Soltanto come energia chimica immagazzinata nei legami",
+        "Come capacità di compiere un lavoro o fornire calore"
+      ],
+      "answer": 4,
+      "explain": "La definizione di energia comprende due manifestazioni fondamentali: la capacità di compiere un lavoro e quella di fornire calore. Limitarla a una sola forma, come il calore o il lavoro meccanico, restringe indebitamente un concetto più generale.",
+      "slide": 43
+    },
+    {
+      "id": "d01-b03-q033",
+      "q": "Che cosa afferma il principio di conservazione dell'energia applicato a una reazione chimica?",
+      "choices": [
+        "L'energia non si crea né si distrugge, ma si trasforma",
+        "L'energia dei prodotti è sempre maggiore di quella dei reagenti",
+        "L'energia scompare quando la reazione libera calore all'ambiente",
+        "L'energia può essere creata se la reazione è esotermica",
+        "L'energia dei reagenti non può mai essere convertita in calore"
+      ],
+      "answer": 0,
+      "explain": "In una reazione chimica l'energia non si crea né si distrugge: può soltanto trasformarsi, per esempio da energia chimica a calore o a lavoro. Quando una reazione libera calore, l'energia non scompare ma viene trasferita all'ambiente circostante.",
+      "slide": 43
+    },
+    {
+      "id": "d01-b03-q034",
+      "q": "Che cosa esprime l'energia libera di Gibbs di una reazione?",
+      "choices": [
+        "La velocità con cui la reazione raggiunge l'equilibrio chimico",
+        "Il numero di elettroni scambiati fra reagenti e prodotti",
+        "L'energia di attivazione necessaria perché la reazione avvenga",
+        "La quantità di calore sviluppata per grammo di reagente consumato",
+        "La quota di energia convertibile in lavoro a pressione costante"
+      ],
+      "answer": 4,
+      "explain": "L'energia libera di Gibbs indica la porzione di energia di una reazione che può compiere lavoro a temperatura e pressione costanti, e il suo segno stabilisce se la reazione è spontanea. Non va confusa con l'energia di attivazione, che è una grandezza cinetica, né con il semplice calore sviluppato.",
+      "slide": 44
+    },
+    {
+      "id": "d01-b03-q035",
+      "q": "In quale unità di misura si esprime l'energia libera di Gibbs?",
+      "choices": [
+        "In joule per secondo, unità di potenza",
+        "In moli per litro, unità di concentrazione",
+        "In chilocalorie per mole di prodotto",
+        "In grammi per mole, unità di massa molare",
+        "In gradi centigradi, unità di temperatura"
+      ],
+      "answer": 2,
+      "explain": "L'energia libera di Gibbs si esprime in chilocalorie per mole, cioè come energia liberata per mole di prodotto. Le moli per litro misurano una concentrazione e i joule per secondo misurano una potenza: nessuna delle due è l'unità del ΔG.",
+      "slide": 44
+    },
+    {
+      "id": "d01-b03-q036",
+      "q": "Che cosa indica una variazione di energia libera di Gibbs negativa per una reazione?",
+      "choices": [
+        "Che la reazione non può avvenire in nessuna condizione",
+        "Che la reazione è esoergonica e può procedere spontaneamente",
+        "Che la reazione è endoergonica e richiede energia",
+        "Che la reazione si trova già all'equilibrio",
+        "Che la reazione ha un'energia di attivazione nulla"
+      ],
+      "answer": 1,
+      "explain": "Un ΔG negativo indica che la reazione libera energia e può procedere spontaneamente, cioè è esoergonica. Un ΔG positivo caratterizza invece le reazioni endoergoniche, che per avvenire richiedono un apporto di energia dall'esterno.",
+      "slide": 44
+    },
+    {
+      "id": "d01-b03-q037",
+      "q": "Che cosa indica una variazione di energia libera di Gibbs positiva per una reazione?",
+      "choices": [
+        "Che la reazione libera energia all'ambiente come calore",
+        "Che la reazione è spontanea in ogni condizione",
+        "Che la reazione ha raggiunto l'equilibrio",
+        "Che la reazione è endoergonica e richiede energia",
+        "Che la reazione non consuma mai ATP per avvenire"
+      ],
+      "answer": 3,
+      "explain": "Un ΔG positivo indica che la reazione non è spontanea e deve ricevere energia dall'esterno per procedere: è il caso tipico dei processi biosintetici, che consumano ATP. Un ΔG nullo, non positivo, indica invece la condizione di equilibrio.",
+      "slide": 44
+    },
+    {
+      "id": "d01-b03-q038",
+      "q": "In una reazione all'equilibrio, quanto vale la variazione di energia libera di Gibbs?",
+      "choices": [
+        "Vale zero",
+        "È sempre negativa",
+        "È sempre positiva",
+        "È uguale all'energia di attivazione",
+        "È pari alla quantità di calore sviluppata"
+      ],
+      "answer": 0,
+      "explain": "All'equilibrio le velocità della reazione diretta e di quella inversa si equivalgono e la variazione di energia libera è nulla, perché non vi è più energia disponibile per compiere lavoro. Un ΔG negativo o positivo indica invece che la reazione tende ancora a spostarsi in un verso.",
+      "slide": 44
+    },
+    {
+      "id": "d01-b03-q039",
+      "q": "In un'equazione chimica, che cosa indica la doppia freccia rivolta nei due sensi?",
+      "choices": [
+        "Che la reazione non consuma energia per avvenire",
+        "Che i prodotti si formano soltanto dopo il completo consumo dei reagenti",
+        "Che la reazione avviene solo in presenza di un catalizzatore",
+        "Che il ΔG della reazione è necessariamente nullo all'equilibrio",
+        "Che la reazione è reversibile e procede nei due sensi"
+      ],
+      "answer": 4,
+      "explain": "La doppia freccia segnala una reazione reversibile, in cui i prodotti possono ritrasformarsi nei reagenti. Non implica che il ΔG sia nullo fin dall'inizio: l'equilibrio con ΔG nullo è la condizione che il sistema può raggiungere nel tempo.",
+      "slide": 45
+    },
+    {
+      "id": "d01-b03-q040",
+      "q": "Che cosa caratterizza una reazione endoergonica?",
+      "choices": [
+        "Libera energia sotto forma di calore all'ambiente",
+        "Assorbe energia e presenta un ΔG positivo",
+        "Presenta una variazione di energia libera negativa",
+        "È sempre spontanea e irreversibile in ogni condizione",
+        "Non richiede mai energia dall'esterno per avvenire"
+      ],
+      "answer": 1,
+      "explain": "Una reazione endoergonica assorbe energia dall'ambiente e ha un ΔG positivo, quindi non è spontanea e deve essere accoppiata a una reazione che libera energia. Una reazione che libera calore e ha ΔG negativo è invece esoergonica.",
+      "slide": 45
+    },
+    {
+      "id": "d01-b03-q041",
+      "q": "In una reazione chimica reversibile, che cosa si verifica quando il sistema raggiunge l'equilibrio?",
+      "choices": [
+        "La reazione diretta si arresta completamente all'equilibrio",
+        "La reazione inversa si arresta completamente all'equilibrio",
+        "Le velocità della reazione diretta e inversa diventano uguali",
+        "Le concentrazioni dei reagenti diventano uguali a quelle dei prodotti",
+        "L'energia libera della reazione diventa massima"
+      ],
+      "answer": 2,
+      "explain": "All'equilibrio entrambe le reazioni continuano ad avvenire, ma con la stessa velocità, per cui le concentrazioni delle specie restano costanti nel tempo. Non è necessario che le concentrazioni dei reagenti e dei prodotti siano uguali, ed è il ΔG, non l'energia libera, a diventare nullo.",
+      "slide": 45
+    },
+    {
+      "id": "d01-b03-q042",
+      "q": "Che cosa si può affermare sulla relazione fra spontaneità di una reazione e variazione di energia libera?",
+      "choices": [
+        "Una reazione è spontanea soltanto se il suo ΔG è positivo",
+        "Una reazione è spontanea soltanto se non scambia calore",
+        "La spontaneità dipende esclusivamente dall'energia di attivazione",
+        "Una reazione è spontanea quando il suo ΔG è negativo",
+        "Tutte le reazioni spontanee sono anche molto veloci"
+      ],
+      "answer": 3,
+      "explain": "Il segno del ΔG stabilisce la spontaneità: la reazione procede spontaneamente quando il ΔG è negativo. La spontaneità però non dice nulla sulla velocità, che dipende dall'energia di attivazione: una reazione spontanea può essere anche lentissima.",
+      "slide": 45
+    },
+    {
+      "id": "d01-b03-q043",
+      "q": "In quale senso procede qualunque evento fisico o chimico secondo il principio della riduzione del contenuto energetico?",
+      "choices": [
+        "Nel senso di aumentare l'energia del sistema",
+        "Nel senso di ridurre il contenuto energetico del sistema",
+        "Nel senso di mantenere invariata l'energia del sistema",
+        "Nel senso di trasformare tutta l'energia in massa",
+        "Nel senso di aumentare l'entropia senza variare l'energia"
+      ],
+      "answer": 1,
+      "explain": "Secondo il principio richiamato, un evento fisico o chimico procede nel senso di ridurre il contenuto energetico del sistema, raggiungendo così una condizione più stabile. Non è corretto affermare che il sistema aumenti la propria energia o che questa resti invariata.",
+      "slide": 46
+    },
+    {
+      "id": "d01-b03-q044",
+      "q": "Come possono essere considerati gli atomi e le molecole dal punto di vista energetico?",
+      "choices": [
+        "Come sistemi privi di energia interna e di legami chimici",
+        "Come serbatoi che non possono in alcun caso cedere energia",
+        "Come particelle la cui energia non dipende dai legami chimici",
+        "Come strutture che acquistano energia soltanto se riscaldate",
+        "Come minuscoli depositi di energia, racchiusa nei legami chimici"
+      ],
+      "answer": 4,
+      "explain": "Atomi e molecole possono essere visti come minuscoli depositi di energia, racchiusa in particolare nei legami chimici. Quando i legami vengono modificati nel corso di una reazione, questa energia può essere liberata oppure richiesta dall'esterno.",
+      "slide": 46
+    },
+    {
+      "id": "d01-b03-q045",
+      "q": "Perché un sistema tende spontaneamente a raggiungere uno stato di contenuto energetico più basso?",
+      "choices": [
+        "Perché in questo modo diventa più stabile e può cedere energia all'ambiente",
+        "Perché in questo modo aumenta la propria energia interna",
+        "Perché la sua massa diminuisce progressivamente",
+        "Perché la sua temperatura diventa necessariamente uguale a zero",
+        "Perché tutti i suoi legami chimici si rafforzano contemporaneamente"
+      ],
+      "answer": 0,
+      "explain": "Un sistema che raggiunge un contenuto energetico inferiore si trova in una condizione più stabile, e la differenza di energia viene ceduta all'ambiente, spesso sotto forma di calore. L'aumento dell'energia interna sarebbe invece il risultato di un processo che assorbe energia dall'esterno.",
+      "slide": 46
+    },
+    {
+      "id": "d01-b03-q046",
+      "q": "Che cosa si può dedurre dal fatto che gli atomi e le molecole sono depositi di energia?",
+      "choices": [
+        "Che l'energia di un composto non dipende dalla natura dei suoi legami",
+        "Che una molecola non può mai cedere energia all'ambiente esterno",
+        "Che rompendo o formando legami si libera o si richiede energia",
+        "Che l'energia immagazzinata in una molecola è sempre nulla",
+        "Che l'energia di una molecola dipende soltanto dalla sua massa"
+      ],
+      "answer": 2,
+      "explain": "Se l'energia è immagazzinata nei legami chimici, allora la loro rottura e la loro formazione durante una reazione comportano liberazione o assorbimento di energia. L'energia di una molecola dipende quindi dalla natura dei suoi legami e non soltanto dalla sua massa.",
+      "slide": 46
+    },
+    {
+      "id": "d01-b03-q047",
+      "q": "Per quale scopo pratico viene sfruttata l'ossidazione del metano?",
+      "choices": [
+        "Nel riscaldamento delle abitazioni e nei fornelli da cucina",
+        "Nella sintesi di nuove molecole, che richiede consumo di ATP",
+        "Nel trasporto di ossigeno da parte dell'emoglobina nel sangue",
+        "Nella fotosintesi clorofilliana che fissa l'anidride carbonica",
+        "Nella contrazione muscolare, che converte energia in lavoro meccanico"
+      ],
+      "answer": 0,
+      "explain": "L'ossidazione del metano libera energia sotto forma di calore ed è proprio questa combustione che viene sfruttata nel riscaldamento delle abitazioni e nei fornelli da cucina. Le altre alternative descrivono processi che non utilizzano il metano: la sintesi di nuove molecole consuma ATP, l'ossigeno è trasportato dall'emoglobina e la contrazione muscolare converte energia chimica in lavoro meccanico.",
+      "slide": 42
+    },
+    {
+      "id": "d01-b03-q048",
+      "q": "Perché lo studio della velocità delle reazioni è rilevante in ambito clinico?",
+      "choices": [
+        "Perché la velocità determina sempre il valore del ΔG",
+        "Perché negli stati di malattia la velocità di alcune reazioni può cambiare",
+        "Perché soltanto le reazioni patologiche hanno una velocità misurabile",
+        "Perché la velocità di reazione è indipendente dagli enzimi cellulari",
+        "Perché la velocità di reazione non può essere modificata dai farmaci"
+      ],
+      "answer": 1,
+      "explain": "Nello stato di salute e di malattia la velocità di determinate reazioni all'interno dell'organismo può variare, e questo rende la cinetica un parametro di interesse clinico. La velocità non determina però la spontaneità della reazione, che dipende dal ΔG, e molte reazioni sono regolate proprio attraverso gli enzimi.",
+      "slide": 47
+    },
+    {
+      "id": "d01-b03-q049",
+      "q": "In che modo un enzima accelera una reazione metabolica?",
+      "choices": [
+        "Abbassando l'energia di attivazione necessaria perché la reazione avvenga",
+        "Rendendo più negativo il ΔG della reazione",
+        "Aumentando la temperatura del compartimento cellulare",
+        "Modificando l'equilibrio della reazione a favore dei prodotti",
+        "Trasformando i reagenti in prodotti senza interagire con essi"
+      ],
+      "answer": 0,
+      "explain": "Gli enzimi sono catalizzatori biologici che accelerano le reazioni abbassando l'energia di attivazione, cioè la barriera che i reagenti devono superare. Non modificano il ΔG né la posizione dell'equilibrio: la reazione raggiunge semplicemente l'equilibrio in tempi più brevi.",
+      "slide": 47
+    },
+    {
+      "id": "d01-b03-q050",
+      "q": "In un paziente con febbre elevata molte reazioni metaboliche risultano accelerate. Quale meccanismo lo spiega?",
+      "choices": [
+        "L'aumento della temperatura rende più negativo il ΔG di ogni reazione",
+        "L'aumento della temperatura elimina la necessità degli enzimi",
+        "L'aumento della temperatura riduce il numero di urti fra le molecole",
+        "La febbre aumenta la concentrazione di tutti i reagenti cellulari",
+        "L'aumento della temperatura accresce la frazione di urti efficaci"
+      ],
+      "answer": 4,
+      "explain": "La febbre aumenta la temperatura corporea e quindi l'energia cinetica delle molecole: una frazione maggiore di urti supera l'energia di attivazione, per cui molte reazioni risultano accelerate. Non è vero che la temperatura renda più negativo il ΔG o che sopprima la necessità degli enzimi.",
+      "slide": 47
+    }
+  ]
+}

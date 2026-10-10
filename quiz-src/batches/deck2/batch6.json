@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 6,
+  "topic": "Bilancio energetico della glicolisi, NAD e NADP, fermentazione",
+  "questions": [
+    {
+      "id": "d02-b06-q001",
+      "q": "Quale enzima catalizza la riduzione del piruvato a lattato nel muscolo scheletrico in condizioni di anaerobiosi?",
+      "choices": [
+        "Lattato deidrogenasi",
+        "Piruvato chinasi",
+        "Gliceraldeide-3-fosfato deidrogenasi",
+        "Esocinasi",
+        "Aldolasi"
+      ],
+      "answer": 0,
+      "explain": "La lattato deidrogenasi trasferisce gli elettroni dal NADH al piruvato, riducendolo a lattato e rigenerando NAD+. La piruvato chinasi catalizza invece l'ultimo passo della glicolisi, cioè la formazione di piruvato e ATP, e non la riduzione del piruvato.",
+      "slide": 41
+    },
+    {
+      "id": "d02-b06-q002",
+      "q": "Nell'anaerobiosi muscolare, la riduzione del piruvato a lattato serve principalmente a che cosa?",
+      "choices": [
+        "Produrre direttamente due molecole di ATP per ogni piruvato ridotto",
+        "Rigenerare il NAD+ necessario alla gliceraldeide-3-fosfato deidrogenasi",
+        "Eliminare l'eccesso di acetil-CoA",
+        "Trasportare elettroni alla catena respiratoria mitocondriale",
+        "Alzare il pH del citosol"
+      ],
+      "answer": 1,
+      "explain": "La glicolisi richiede NAD+ nel passo catalizzato dalla gliceraldeide-3-fosfato deidrogenasi e, senza ossigeno, la catena respiratoria non può riossidare il NADH; la riduzione del piruvato a lattato rigenera quindi NAD+ e permette alla glicolisi di continuare. La riduzione del piruvato non genera ATP, perché le due molecole di ATP della glicolisi anaerobia derivano dalla fosforilazione a livello del substrato.",
+      "slide": 41
+    },
+    {
+      "id": "d02-b06-q003",
+      "q": "Per quale motivo l'acido lattico prodotto dal muscolo in intensa attività viene definito un acido forte?",
+      "choices": [
+        "Perché in soluzione acquosa cede elettroni direttamente al NAD+",
+        "Perché in soluzione acquosa forma un legame covalente con l'emoglobina",
+        "Perché in soluzione acquosa si dissocia quasi del tutto in ione lattato e idrogeno",
+        "Perché in soluzione acquosa precipita come cristalli nel citosol",
+        "Perché in soluzione acquosa reagisce con il glucosio formando glicogeno"
+      ],
+      "answer": 2,
+      "explain": "L'acido lattico possiede un gruppo carbossilico che in acqua si dissocia quasi completamente, liberando ioni idrogeno e abbassando il pH della cellula. Proprio questa dissociazione quasi totale lo distingue dagli acidi deboli, che in soluzione restano in gran parte indissociati.",
+      "slide": 41
+    },
+    {
+      "id": "d02-b06-q004",
+      "q": "Quale attività enzimatica della miosina consuma ATP durante la contrazione muscolare?",
+      "choices": [
+        "L'attività della lattato deidrogenasi",
+        "L'attività della glicogeno sintasi",
+        "L'attività della piruvato carbossilasi",
+        "L'attività ATPasica della miosina",
+        "L'attività della fosfofruttochinasi"
+      ],
+      "answer": 3,
+      "explain": "La miosina possiede un'attività ATPasica che idrolizza l'ATP e fornisce l'energia per il ciclo dei ponti actomiosinici, quindi per la contrazione. La lattato deidrogenasi e la fosfofruttochinasi sono enzimi del metabolismo glicidico e non idrolizzano ATP per muovere i filamenti contrattili.",
+      "slide": 41
+    },
+    {
+      "id": "d02-b06-q005",
+      "q": "In un muscolo che lavora in anaerobiosi il rapporto NADH/NAD+ tende ad aumentare. Quale conseguenza diretta ne deriva?",
+      "choices": [
+        "La fosforilazione ossidativa accelera perché il NADH è abbondante",
+        "Il ciclo di Krebs aumenta la produzione di NADH nel mitocondrio",
+        "La gluconeogenesi nel muscolo aumenta per riossidare il NADH",
+        "La sintesi di glicogeno aumenta consumando il NADH in eccesso",
+        "La gliceraldeide-3-fosfato deidrogenasi rallenta per carenza di NAD+"
+      ],
+      "answer": 4,
+      "explain": "La gliceraldeide-3-fosfato deidrogenasi utilizza il NAD+ come accettore di elettroni; se il NADH si accumula e il NAD+ scarseggia, questo passo rallenta e la glicolisi tende a bloccarsi. La via di salvataggio è proprio la riduzione del piruvato a lattato, che riossida il NADH.",
+      "slide": 41
+    },
+    {
+      "id": "d02-b06-q006",
+      "q": "Nel ciclo di Cori, quale organo riutilizza il lattato prodotto dal muscolo per risintetizzare glucosio?",
+      "choices": [
+        "Il rene",
+        "Il fegato",
+        "Il muscolo cardiaco",
+        "Il tessuto adiposo",
+        "Il polmone"
+      ],
+      "answer": 1,
+      "explain": "Il fegato capta il lattato dal circolo e lo converte in glucosio mediante la gluconeogenesi, poi il glucosio torna al muscolo attraverso il sangue. Il muscolo cardiaco ossida il lattato per ricavarne energia, ma non è in grado di riconvertirlo in glucosio.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q007",
+      "q": "Nel ciclo di Cori, che cosa fa il muscolo cardiaco con il lattato che riceve dal sangue?",
+      "choices": [
+        "Lo converte in glicogeno epatico per accumularlo",
+        "Lo trasforma in acidi grassi nei mitocondri",
+        "Lo ossida ulteriormente nei mitocondri per ricavare ATP",
+        "Lo espelle con l'urina sotto forma di lattato",
+        "Lo riduce ad acido lattico nel citosol"
+      ],
+      "answer": 2,
+      "explain": "Il cuore è un consumatore netto di lattato e lo ossida nei mitocondri per produrre ATP, sfruttando la sua elevata capacità aerobia. Il fegato, invece, è il tessuto che lo riconverte in glucosio tramite la gluconeogenesi.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q008",
+      "q": "Quante molecole di lattato sono necessarie, nel ciclo di Cori, per rigenerare una molecola di glucosio?",
+      "choices": [
+        "Una molecola di lattato",
+        "Quattro molecole di lattato",
+        "Sei molecole di lattato",
+        "Due molecole di lattato",
+        "Tre molecole di lattato"
+      ],
+      "answer": 3,
+      "explain": "Il glucosio contiene sei atomi di carbonio mentre il lattato ne contiene tre, quindi servono due molecole di lattato per ricostruire lo scheletro carbonioso di una molecola di glucosio. Per questo il ciclo di Cori viene rappresentato come due lattato che danno una molecola di glucosio.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q009",
+      "q": "Qual è il bilancio energetico complessivo del ciclo di Cori per l'organismo?",
+      "choices": [
+        "È una via che produce un guadagno netto di ATP nel muscolo",
+        "È una via energeticamente neutra per l'organismo intero",
+        "È una via che produce ATP soltanto nel fegato",
+        "È una via che produce due ATP per ogni molecola di lattato",
+        "È una via che consuma ATP per la gluconeogenesi epatica"
+      ],
+      "answer": 4,
+      "explain": "La glicolisi anaerobia rende soltanto due molecole di ATP per glucosio, mentre la gluconeogenesi epatica ne consuma sei, quattro di ATP e due di GTP, per risintetizzare lo stesso glucosio. Il ciclo di Cori è quindi un costo energetico che il fegato paga per mantenere rifornito di glucosio il muscolo.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q010",
+      "q": "Il ciclo di Cori mette in relazione principalmente quali distretti dell'organismo?",
+      "choices": [
+        "Il muscolo scheletrico e il fegato",
+        "Il cervello e i reni",
+        "Il tessuto adiposo e il polmone",
+        "L'intestino e il pancreas endocrino",
+        "Il midollo osseo e la milza"
+      ],
+      "answer": 0,
+      "explain": "Il ciclo descrive il passaggio del lattato dal muscolo al fegato e del glucosio dal fegato al muscolo. Il muscolo cardiaco partecipa ossidando il lattato, ma i due organi protagonisti restano il muscolo scheletrico e il fegato.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q011",
+      "q": "In un soggetto con insufficienza epatica grave, quale conseguenza si attende sul ciclo di Cori?",
+      "choices": [
+        "Il muscolo produce meno lattato e lo riversa nel sangue",
+        "Il cuore smette di ossidare il lattato che riceve",
+        "La riconversione del lattato in glucosio cala e il lattato si accumula",
+        "La glicolisi anaerobia muscolare si arresta per mancanza di NAD+",
+        "Il glucosio prodotto dal fegato aumenta e passa al muscolo"
+      ],
+      "answer": 2,
+      "explain": "Il fegato è la sede principale della gluconeogenesi da lattato; se la funzione epatica è compromessa, il lattato non viene smaltito e si accumula, con rischio di acidosi. Il muscolo, al contrario, continua a produrre lattato perché la glicolisi anaerobia non dipende dal fegato.",
+      "slide": 42
+    },
+    {
+      "id": "d02-b06-q012",
+      "q": "Che cosa rappresenta il debito di ossigeno che si paga dopo un esercizio fisico intenso?",
+      "choices": [
+        "L'ossigeno accumulato nei muscoli durante lo sforzo e non consumato",
+        "L'ossigeno che il muscolo cede al sangue durante il recupero",
+        "L'ossigeno consumato dal muscolo per ossidare il lattato in loco",
+        "L'eccesso di ossigeno consumato nel recupero per la gluconeogenesi epatica",
+        "L'ossigeno immagazzinato nel glicogeno muscolare durante lo sforzo"
+      ],
+      "answer": 3,
+      "explain": "Durante il recupero il consumo di ossigeno resta superiore al valore basale per un certo periodo e questo eccesso serve a fornire l'ATP necessaria alla gluconeogenesi epatica che riforma il glucosio consumato dal muscolo. Non si tratta quindi di una riserva di ossigeno, ma di ossigeno già consumato in più rispetto al riposo.",
+      "slide": 43
+    },
+    {
+      "id": "d02-b06-q013",
+      "q": "Dopo uno sforzo intenso, l'ossigeno consumato in eccesso durante il recupero serve soprattutto a che cosa?",
+      "choices": [
+        "Ricaricare di ossigeno l'emoglobina muscolare soltanto",
+        "Smaltire l'acido lattico attraverso i polmoni",
+        "Trasformare il glucosio in lattato nel muscolo sotto sforzo",
+        "Ridurre il NAD+ a NADH nel citosol del muscolo",
+        "Sostenere la gluconeogenesi epatica e le riserve energetiche"
+      ],
+      "answer": 4,
+      "explain": "Il debito di ossigeno corrisponde all'ATP richiesto dalla gluconeogenesi epatica che ricostruisce il glucosio consumato dal muscolo. Anche il ripristino delle scorte di fosfocreatina contribuisce, ma il processo centrale è la conversione del lattato in glucosio.",
+      "slide": 43
+    },
+    {
+      "id": "d02-b06-q014",
+      "q": "Perché il consumo di ossigeno non torna subito ai valori di riposo quando l'esercizio si interrompe?",
+      "choices": [
+        "Perché il fegato spende ATP per convertire il lattato in glucosio",
+        "Perché il muscolo continua a contrarsi anche a riposo",
+        "Perché l'emoglobina resta satura di ossigeno nel sangue",
+        "Perché la catena respiratoria si blocca per carenza di NADH",
+        "Perché il cuore smette di ossidare il lattato del sangue"
+      ],
+      "answer": 0,
+      "explain": "L'ossigeno continua a essere consumato perché serve ATP per la gluconeogenesi epatica che ricicla il lattato in glucosio. Il muscolo a riposo non consuma più ossigeno al ritmo dello sforzo, quindi l'eccesso è legato al lavoro metabolico del recupero.",
+      "slide": 43
+    },
+    {
+      "id": "d02-b06-q015",
+      "q": "In termini pratici, il debito di ossigeno spiega perché dopo uno sforzo intenso la persona coinvolta che cosa continua a fare?",
+      "choices": [
+        "Arresta il battito cardiaco per alcuni secondi",
+        "Continua a respirare affannosamente per qualche tempo",
+        "Ha una rapida caduta della temperatura corporea",
+        "Vede scomparire il glucosio dal sangue circolante",
+        "Elimina il lattato accumulato con le urine"
+      ],
+      "answer": 1,
+      "explain": "L'aumento della ventilazione nel periodo di recupero riflette l'ossigeno in più richiesto per la gluconeogenesi epatica e per il ripristino delle riserve energetiche. Non è un semplice ritardo della respirazione, ma un preciso fabbisogno metabolico.",
+      "slide": 43
+    },
+    {
+      "id": "d02-b06-q016",
+      "q": "Quale affermazione sul rapporto tra debito di ossigeno e ciclo di Cori è corretta?",
+      "choices": [
+        "Il debito di ossigeno è l'ossigeno usato dal muscolo per ossidare il lattato",
+        "Il debito di ossigeno misura la quantità di lattato escreta",
+        "Il debito di ossigeno è del tutto indipendente dal fegato",
+        "Il debito di ossigeno è l'ossigeno che il fegato usa per rigenerare glucosio",
+        "Il debito di ossigeno coincide con l'ossigeno legato all'emoglobina"
+      ],
+      "answer": 3,
+      "explain": "Nel ciclo di Cori il fegato paga in ATP, e quindi in ossigeno, la ricostruzione del glucosio consumato dal muscolo. Il muscolo scheletrico non è in grado di ossidare il lattato in modo significativo, perché quella capacità appartiene soprattutto al muscolo cardiaco.",
+      "slide": 43
+    },
+    {
+      "id": "d02-b06-q017",
+      "q": "Che cos'è la gluconeogenesi?",
+      "choices": [
+        "La demolizione del glucosio a piruvato nel citosol",
+        "La sintesi di glicogeno a partire dal glucosio epatico",
+        "La conversione del glucosio in lattato nel muscolo",
+        "L'ossidazione degli acidi grassi nei mitocondri",
+        "La sintesi di glucosio da precursori non glucidici"
+      ],
+      "answer": 4,
+      "explain": "La gluconeogenesi costruisce glucosio partendo da molecole che non sono carboidrati, come il lattato, gli amminoacidi e il glicerolo. La demolizione del glucosio a piruvato è invece la glicolisi, che procede nella direzione opposta.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q018",
+      "q": "Quale tra questi è un precursore non glucidico utilizzabile per la gluconeogenesi?",
+      "choices": [
+        "Il lattato",
+        "Il glucosio",
+        "Il glicogeno",
+        "Il saccarosio",
+        "Il maltosio"
+      ],
+      "answer": 0,
+      "explain": "Il lattato è il precursore classico della gluconeogenesi epatica, insieme agli amminoacidi glucogenici e al glicerolo. Glucosio, glicogeno, saccarosio e maltosio sono già carboidrati e quindi non rientrano nella definizione di precursore non glucidico.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q019",
+      "q": "In quale organo avviene principalmente la gluconeogenesi che rifornisce di glucosio il muscolo nel ciclo di Cori?",
+      "choices": [
+        "Nel muscolo scheletrico",
+        "Nel fegato",
+        "Nel polmone",
+        "Nel midollo osseo",
+        "Nell'occhio"
+      ],
+      "answer": 1,
+      "explain": "Il fegato è la sede principale della gluconeogenesi, mentre il muscolo scheletrico ne è praticamente privo e non può riconvertire il lattato in glucosio. Per questo il lattato deve raggiungere il fegato attraverso il sangue.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q020",
+      "q": "Oltre al lattato, quali altri precursori può utilizzare la gluconeogenesi?",
+      "choices": [
+        "Solo glucosio",
+        "Solo acidi grassi a catena pari",
+        "Amminoacidi e glicerolo",
+        "Solo corpi chetonici",
+        "Solo saccarosio"
+      ],
+      "answer": 2,
+      "explain": "La gluconeogenesi sfrutta anche gli scheletri carboniosi degli amminoacidi glucogenici e il glicerolo derivante dai trigliceridi. Nell'uomo gli acidi grassi non possono essere convertiti in glucosio, perché l'acetil-CoA che ne deriva non è un precursore netto di glucosio.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q021",
+      "q": "Nel digiuno prolungato, la gluconeogenesi epatica è importante soprattutto perché che cosa fa?",
+      "choices": [
+        "Aumenta la riserva di glicogeno muscolare disponibile per la contrazione",
+        "Produce acidi grassi a partire dal glucosio epatico in eccesso",
+        "Elimina l'azoto sotto forma di urea nel muscolo durante il digiuno",
+        "Mantiene l'apporto di glucosio ai tessuti che ne dipendono, come il cervello",
+        "Blocca la glicolisi in tutti i tessuti dell'organismo"
+      ],
+      "answer": 3,
+      "explain": "Il cervello consuma glucosio in modo continuo e, nel digiuno, le scorte di glicogeno epatico si esauriscono in poche ore, perciò la gluconeogenesi ne garantisce il rifornimento. Il glicogeno muscolare non può essere ceduto al sangue, perché nel muscolo manca la glucosio-6-fosfatasi.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q022",
+      "q": "Quale affermazione distingue correttamente la gluconeogenesi dalla glicolisi?",
+      "choices": [
+        "La glicolisi degrada il glucosio, la gluconeogenesi lo sintetizza",
+        "Entrambe le vie avvengono soltanto nel mitocondrio cellulare",
+        "La gluconeogenesi produce ATP come bilancio netto",
+        "La glicolisi consuma ATP nel suo bilancio energetico netto",
+        "La gluconeogenesi avviene soltanto nel muscolo scheletrico"
+      ],
+      "answer": 0,
+      "explain": "Le due vie procedono in direzione opposta: la glicolisi degrada il glucosio con un guadagno netto di ATP, mentre la gluconeogenesi lo costruisce consumando ATP e GTP. Entrambe condividono alcuni enzimi reversibili, ma i passaggi irreversibili sono catalizzati da enzimi diversi.",
+      "slide": 44
+    },
+    {
+      "id": "d02-b06-q023",
+      "q": "In quali compartimenti cellulari si svolge la gluconeogenesi?",
+      "choices": [
+        "Soltanto nel nucleo",
+        "Nel citosol e nei mitocondri",
+        "Soltanto nei lisosomi",
+        "Soltanto nel reticolo endoplasmatico",
+        "Soltanto nel citosol"
+      ],
+      "answer": 1,
+      "explain": "La gluconeogenesi utilizza sia enzimi citosolici sia enzimi mitocondriali, perché alcune tappe come la conversione del piruvato in fosfoenolpiruvato richiedono il passaggio nel mitocondrio. La glicolisi, al contrario, è interamente citosolica.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q024",
+      "q": "Rispetto alla glicolisi, come è localizzata la gluconeogenesi?",
+      "choices": [
+        "In parte nei mitocondri e in parte nel nucleo",
+        "In parte nel citosol e in parte nel reticolo",
+        "In parte nel citosol e in parte nei mitocondri",
+        "In parte nel nucleo e in parte nei mitocondri",
+        "In parte nel reticolo e in parte nei lisosomi"
+      ],
+      "answer": 2,
+      "explain": "La gluconeogenesi condivide con la glicolisi la sede citosolica, ma sfrutta anche il mitocondrio per la carbossilazione del piruvato e per il trasporto degli equivalenti riducenti. La glicolisi si svolge invece interamente nel citosol.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q025",
+      "q": "Come sono regolate la glicolisi e la gluconeogenesi?",
+      "choices": [
+        "In modo identico dagli stessi ormoni",
+        "Dallo stesso enzima chiave",
+        "Soltanto dalla concentrazione di ossigeno",
+        "Indipendentemente l'una dall'altra",
+        "Soltanto dal pH cellulare"
+      ],
+      "answer": 3,
+      "explain": "Le due vie sono controllate separatamente, così che l'attivazione della sintesi non comporti automaticamente l'attivazione della demolizione. Questo si ottiene con enzimi diversi per le tappe irreversibili e con una regolazione ormonale di segno opposto.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q026",
+      "q": "Nel digiuno notturno, a quale velocità il fegato produce glucosio?",
+      "choices": [
+        "Circa uno virgola otto-due milligrammi per chilogrammo al minuto",
+        "Circa zero virgola due milligrammi per chilogrammo al minuto",
+        "Circa dieci milligrammi per chilogrammo al minuto",
+        "Circa cinquanta milligrammi per chilogrammo al minuto",
+        "Circa duecento milligrammi per chilogrammo al minuto"
+      ],
+      "answer": 0,
+      "explain": "Nel digiuno notturno il fegato produce circa 1,8-2 mg di glucosio per chilogrammo di peso al minuto. Il cervello consuma glucosio a una velocità dello stesso ordine di grandezza, cioè 1-2 mg/kg/min.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q027",
+      "q": "A quale velocità il cervello consuma glucosio?",
+      "choices": [
+        "Circa dieci milligrammi per chilogrammo al minuto",
+        "Circa uno-due milligrammi per chilogrammo al minuto",
+        "Circa venti milligrammi per chilogrammo al minuto",
+        "Meno di zero virgola uno milligrammi per chilogrammo al minuto",
+        "Circa cento milligrammi per chilogrammo al minuto"
+      ],
+      "answer": 1,
+      "explain": "Il consumo cerebrale di glucosio è di circa 1-2 mg/kg/min, un valore molto vicino alla produzione epatica del digiuno notturno. Questo equilibrio spiega perché il cervello dipende in modo critico dalla gluconeogenesi del fegato.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q028",
+      "q": "In assenza di carboidrati nella dieta, quanto glucosio produce approssimativamente il fegato in un giorno?",
+      "choices": [
+        "Circa venti grammi al giorno",
+        "Circa cinquanta grammi al giorno",
+        "Circa duecento grammi al giorno",
+        "Circa cinquecento grammi al giorno",
+        "Circa un chilogrammo al giorno"
+      ],
+      "answer": 2,
+      "explain": "In assenza di carboidrati nella dieta il fegato produce circa 200 g di glucosio al giorno attraverso la gluconeogenesi. Il valore di circa un chilogrammo al giorno riguarda invece il paziente diabetico, in cui la produzione epatica è molto aumentata.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q029",
+      "q": "In un paziente diabetico, il fegato può arrivare a sintetizzare all'incirca quanto glucosio al giorno?",
+      "choices": [
+        "Dieci grammi al giorno",
+        "Cento grammi al giorno",
+        "Duecento grammi al giorno",
+        "Un chilogrammo al giorno",
+        "Cinque chilogrammi al giorno"
+      ],
+      "answer": 3,
+      "explain": "Nel diabete la produzione epatica di glucosio può raggiungere circa 1 kg al giorno, contribuendo in modo sostanziale all'iperglicemia. Si tratta di un valore molto superiore ai circa 200 g osservati nel digiuno senza carboidrati.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q030",
+      "q": "Per quale motivo la produzione epatica di glucosio aumenta nel diabete?",
+      "choices": [
+        "Perché il glicogeno muscolare si svuota e finisce nel sangue",
+        "Perché il cervello consuma più glucosio del normale",
+        "Perché il fegato sintetizza acidi grassi in eccesso",
+        "Perché il rene smette di produrre glucosio nel digiuno",
+        "Perché la gluconeogenesi è stimolata e non frenata dall'insulina"
+      ],
+      "answer": 4,
+      "explain": "L'insulina normalmente reprime la gluconeogenesi epatica, quindi la sua carenza o la sua inefficacia rimuovono questo freno e la produzione di glucosio aumenta molto. Il glicogeno muscolare non può comunque rifornire il sangue, perché nel muscolo manca la glucosio-6-fosfatasi.",
+      "slide": 46
+    },
+    {
+      "id": "d02-b06-q031",
+      "q": "Quante molecole di ATP si ottengono complessivamente dalla demolizione ossidativa del glucosio in condizioni aerobie?",
+      "choices": [
+        "Da due a quattro molecole di ATP",
+        "Da otto a dieci molecole di ATP",
+        "Da trentasei a trentotto molecole di ATP",
+        "Da dodici a quattordici molecole di ATP",
+        "Da quaranta a cinquanta molecole di ATP"
+      ],
+      "answer": 2,
+      "explain": "In aerobiosi il glucosio viene ossidato completamente e la resa totale è di 36-38 ATP, comprendendo glicolisi, ciclo di Krebs e fosforilazione ossidativa. Il valore di due ATP riguarda soltanto la glicolisi anaerobia.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q032",
+      "q": "Quante molecole di ATP si ottengono dalla glicolisi anaerobia per una molecola di glucosio?",
+      "choices": [
+        "Una molecola di ATP",
+        "Quattro molecole di ATP",
+        "Sei molecole di ATP",
+        "Due molecole di ATP",
+        "Trentasei molecole di ATP"
+      ],
+      "answer": 3,
+      "explain": "Nella glicolisi anaerobia il bilancio netto è di due ATP per glucosio, perché due ATP vengono consumati nella fase preparatoria e quattro ne vengono prodotti nella fase di rendita. La resa molto maggiore di 36-38 ATP si ottiene soltanto in presenza di ossigeno.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q033",
+      "q": "Rispetto alla fosforilazione ossidativa, a quale velocità la glicolisi anaerobia produce ATP?",
+      "choices": [
+        "A una velocità circa cento volte inferiore",
+        "A una velocità praticamente identica",
+        "A una velocità che richiede ossigeno",
+        "A una velocità possibile solo nei mitocondri",
+        "A una velocità fino a cento volte superiore"
+      ],
+      "answer": 4,
+      "explain": "Pur rendendo solo due ATP per glucosio, la glicolisi anaerobia può produrre ATP a una velocità fino a cento volte superiore a quella della fosforilazione ossidativa. È questa rapidità, più della resa, a renderla utile al muscolo sotto sforzo.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q034",
+      "q": "Per quale motivo il muscolo sotto sforzo intenso ricorre alla glicolisi anaerobia?",
+      "choices": [
+        "Perché l'ossigeno è insufficiente e serve ATP rapidamente",
+        "Perché la fosforilazione ossidativa produce troppo ATP",
+        "Perché il muscolo scheletrico non possiede mitocondri",
+        "Perché la glicolisi anaerobia non consuma glucosio",
+        "Perché il lattato è una fonte di ATP più ricca del glucosio"
+      ],
+      "answer": 0,
+      "explain": "Quando lo sforzo supera la disponibilità di ossigeno, la fosforilazione ossidativa non riesce a sostenere la richiesta energetica e la glicolisi anaerobia fornisce ATP rapidamente, anche se in quantità limitata. Il muscolo possiede mitocondri, ma in quelle condizioni il fattore limitante è l'ossigeno.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q035",
+      "q": "Per quale motivo il guadagno netto di ATP della glicolisi anaerobia è basso?",
+      "choices": [
+        "Perché l'ATP viene consumato dalla lattato deidrogenasi muscolare",
+        "Perché il glucosio non viene ossidato del tutto e resta energia nel lattato",
+        "Perché la glicolisi anaerobia non produce NADH nel citosol",
+        "Perché il piruvato viene ossidato nel ciclo di Krebs mitocondriale",
+        "Perché la fosforilazione ossidativa consuma ATP nel mitocondrio"
+      ],
+      "answer": 1,
+      "explain": "In assenza di ossigeno il carbonio del glucosio non arriva a anidride carbonica e acqua, ma si ferma nel lattato, che conserva ancora molta energia chimica. La resa elevata di 36-38 ATP richiede invece l'ossidazione completa del glucosio.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q036",
+      "q": "In quale condizione si può raggiungere la resa di 36-38 ATP per molecola di glucosio?",
+      "choices": [
+        "In anaerobiosi, nel muscolo scheletrico sotto sforzo",
+        "In assenza completa di NAD+ disponibile nel citosol",
+        "Quando la lattato deidrogenasi è inibita dal farmaco",
+        "Nel globulo rosso maturo, che è privo di mitocondri",
+        "Soltanto in presenza di ossigeno, con fosforilazione ossidativa"
+      ],
+      "answer": 4,
+      "explain": "La resa massima richiede che il NADH prodotto dalla glicolisi e dal ciclo di Krebs venga riossidato dalla catena respiratoria, processo che dipende dall'ossigeno. In anaerobiosi la resa resta di due ATP per molecola di glucosio.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q037",
+      "q": "Una cellula che consuma glucosio molto rapidamente ma produce grandi quantità di lattato sta che cosa?",
+      "choices": [
+        "Utilizzando la glicolisi anaerobia",
+        "Ossidando completamente il glucosio nei mitocondri",
+        "Fermando la glicolisi per mancanza di NAD+",
+        "Accumulando glicogeno nel citosol cellulare",
+        "Sintetizzando glucosio con la gluconeogenesi"
+      ],
+      "answer": 0,
+      "explain": "La produzione di lattato indica che il piruvato viene ridotto per rigenerare NAD+, cioè che la via prevalente è la glicolisi anaerobia. Se il glucosio fosse ossidato completamente, il piruvato entrerebbe nei mitocondri e il lattato non si accumulerebbe.",
+      "slide": 47
+    },
+    {
+      "id": "d02-b06-q038",
+      "q": "Che cosa si intende per effetto Warburg?",
+      "choices": [
+        "La diminuzione della velocità della glicolisi nei tumori",
+        "L'aumento della glicolisi nelle cellule tumorali anche con ossigeno",
+        "L'aumento della fosforilazione ossidativa nelle cellule tumorali",
+        "La produzione di glucosio dal lattato nel fegato durante il digiuno",
+        "Il consumo di ossigeno durante il recupero muscolare dopo lo sforzo"
+      ],
+      "answer": 1,
+      "explain": "Warburg osservò che le cellule tumorali glicolizzano più intensamente dei tessuti normali anche quando l'ossigeno è disponibile. Non si tratta quindi di un semplice adattamento all'ipossia, ma di una vera riprogrammazione metabolica del tumore.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q039",
+      "q": "Chi descrisse per primo, nel 1928, l'aumento della glicolisi nei tumori?",
+      "choices": [
+        "Hans Krebs",
+        "Melvin Calvin",
+        "Otto Warburg",
+        "Fritz Lipmann",
+        "Gerty Cori"
+      ],
+      "answer": 2,
+      "explain": "Fu il biochimico tedesco Otto Warburg a osservare per primo, nel 1928, che quasi tutti i tipi di tumore glicolizzano più rapidamente dei tessuti normali. Hans Krebs è legato al ciclo degli acidi tricarbossilici e non a questa osservazione.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q040",
+      "q": "Per quale scopo principale le cellule tumorali convertono il piruvato in lattato?",
+      "choices": [
+        "Per produrre ATP per via ossidativa",
+        "Per accumulare glicogeno di riserva nel citosol",
+        "Per sintetizzare glucosio da cedere al sangue",
+        "Per riciclare il NADH in NAD+ e sostenere la glicolisi",
+        "Per eliminare l'azoto sotto forma di urea"
+      ],
+      "answer": 3,
+      "explain": "La riduzione del piruvato a lattato riossida il NADH e rigenera il NAD+ necessario alla gliceraldeide-3-fosfato deidrogenasi, mantenendo attiva la glicolisi. È lo stesso principio che opera nel muscolo scheletrico in anaerobiosi.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q041",
+      "q": "In molti tumori umani e animali, di quanto la velocità della glicolisi può superare quella dei tessuti normali non neoplastici?",
+      "choices": [
+        "Anche di dieci volte",
+        "Anche di due volte appena",
+        "Anche di cento volte",
+        "Anche di mille volte",
+        "Anche di un decimo appena"
+      ],
+      "answer": 0,
+      "explain": "Nei tumori la velocità glicolitica può risultare fino a dieci volte superiore a quella dei tessuti normali non neoplastici. Questo elevato consumo di glucosio è sfruttato dalla diagnostica per immagini.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q042",
+      "q": "Su quale caratteristica metabolica dei tumori si basano molti metodi di diagnosi e di trattamento del cancro?",
+      "choices": [
+        "Sulla sintesi di glicogeno nelle cellule tumorali",
+        "Sull'elevato consumo di glucosio e sul lattato prodotto",
+        "Sulla produzione di glucosio dal lattato nel fegato",
+        "Sull'assenza di mitocondri nelle cellule tumorali",
+        "Sull'azzeramento del consumo di ossigeno nei tumori"
+      ],
+      "answer": 1,
+      "explain": "L'intenso assorbimento di glucosio da parte delle cellule tumorali permette di localizzare i tumori con traccianti glucidici marcati e di indirizzare alcune terapie. Le cellule tumorali conservano i mitocondri, quindi la loro alterazione non consiste nell'assenza di questi organuli.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q043",
+      "q": "Per quale motivo le cellule tumorali devono assorbire molto più glucosio delle cellule normali?",
+      "choices": [
+        "Perché non possiedono enzimi glicolitici",
+        "Perché ossidano il glucosio in modo più efficiente",
+        "Perché la glicolisi anaerobia rende poco ATP per glucosio",
+        "Perché trasformano tutto il glucosio in glicogeno",
+        "Perché espellono glucosio attraverso la membrana"
+      ],
+      "answer": 2,
+      "explain": "Ricavando soltanto due ATP per molecola di glucosio, la cellula tumorale deve degradarne molto di più per sostenere i propri fabbisogni energetici e biosintetici. Questo spiega l'aumento dell'assorbimento di glucosio osservato nei tumori.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q044",
+      "q": "Quale affermazione sull'effetto Warburg è corretta?",
+      "choices": [
+        "Si osserva soltanto nelle cellule in assenza di ossigeno",
+        "Riguarda esclusivamente il muscolo scheletrico in sforzo",
+        "Indica che le cellule tumorali non consumano glucosio",
+        "La glicolisi elevata dei tumori persiste anche con ossigeno",
+        "Indica che le cellule tumorali producono glucosio"
+      ],
+      "answer": 3,
+      "explain": "La caratteristica distintiva dell'effetto Warburg è che l'aumento della glicolisi non dipende dalla mancanza di ossigeno, perché persiste anche in aerobiosi. Questo lo distingue dalla semplice risposta metabolica all'ipossia.",
+      "slide": 48
+    },
+    {
+      "id": "d02-b06-q045",
+      "q": "Qual è la principale forma di riserva del glucosio nell'organismo?",
+      "choices": [
+        "Il glucosio libero nel sangue",
+        "Il lattato",
+        "Il piruvato",
+        "Il glicerolo",
+        "Il glicogeno"
+      ],
+      "answer": 4,
+      "explain": "Il glucosio in eccesso viene accumulato sotto forma di glicogeno, un polimero ramificato di residui di glucosio. Il glucosio libero presente nel sangue rappresenta soltanto una frazione minima della riserva totale.",
+      "slide": 49
+    },
+    {
+      "id": "d02-b06-q046",
+      "q": "Che cos'è il glicogeno dal punto di vista chimico?",
+      "choices": [
+        "Un monosaccaride semplice",
+        "Un polimero ramificato di unità di glucosio",
+        "Un disaccaride formato da glucosio e fruttosio",
+        "Una proteina di trasporto del glucosio",
+        "Un acido grasso ramificato"
+      ],
+      "answer": 1,
+      "explain": "Il glicogeno è un omopolisaccaride ramificato costituito da molte unità di glucosio unite da legami glicosidici. Essendo ramificato offre molti punti di attacco agli enzimi e permette un rapido rilascio di glucosio.",
+      "slide": 49
+    },
+    {
+      "id": "d02-b06-q047",
+      "q": "A che cosa serve principalmente il glicogeno immagazzinato nei tessuti?",
+      "choices": [
+        "A trasportare ossigeno nel sangue ai tessuti",
+        "A formare le membrane cellulari dei tessuti",
+        "A costituire una riserva di glucosio mobilizzabile",
+        "A catalizzare la glicolisi nel citosol",
+        "A legare il calcio nel muscolo scheletrico"
+      ],
+      "answer": 2,
+      "explain": "Il glicogeno rappresenta un deposito di glucosio che può essere rapidamente demolito quando la glicemia diminuisce o quando il muscolo richiede energia. La sua struttura ramificata consente di liberare molte molecole di glucosio in tempi brevi.",
+      "slide": 49
+    },
+    {
+      "id": "d02-b06-q048",
+      "q": "Nei vertebrati, che cosa rappresenta il glicogeno?",
+      "choices": [
+        "La principale riserva di lipidi",
+        "La principale fonte di amminoacidi",
+        "La principale riserva di ATP",
+        "La principale riserva di carboidrati",
+        "La principale fonte di ossigeno"
+      ],
+      "answer": 3,
+      "explain": "Il glicogeno è la forma in cui i vertebrati accumulano carboidrati, soprattutto nel fegato e nel muscolo. I lipidi costituiscono la riserva energetica più abbondante in assoluto, ma non sono carboidrati.",
+      "slide": 50
+    },
+    {
+      "id": "d02-b06-q049",
+      "q": "In quali tessuti si accumula principalmente il glicogeno?",
+      "choices": [
+        "Nel polmone e nel rene, come riserva locale",
+        "Nel sangue e nella linfa, come riserva circolante",
+        "Nel tessuto adiposo e nella pelle, come riserva lipidica",
+        "Nel cervello e nella retina, come riserva di emergenza",
+        "Nel fegato e nel muscolo scheletrico, come riserva principale"
+      ],
+      "answer": 4,
+      "explain": "Le riserve di glicogeno più importanti si trovano nel fegato, che lo utilizza per mantenere la glicemia, e nel muscolo scheletrico, che lo consuma per la contrazione. Il cervello conserva riserve di glicogeno molto modeste.",
+      "slide": 50
+    },
+    {
+      "id": "d02-b06-q050",
+      "q": "Il glicogeno epatico si distingue da quello muscolare perché che cosa può fare?",
+      "choices": [
+        "Il fegato libera glucosio nel sangue, il muscolo no",
+        "Il muscolo libera glucosio nel sangue, il fegato no",
+        "Solo il muscolo scheletrico contiene glicogeno",
+        "Il glicogeno epatico è una proteina di trasporto",
+        "Il glicogeno muscolare non può essere demolito"
+      ],
+      "answer": 0,
+      "explain": "Il fegato possiede la glucosio-6-fosfatasi, che gli consente di defosforilare il glucosio e di cederlo al sangue; il muscolo manca di questo enzima e trattiene il glucosio-6-fosfato per la glicolisi. Per questo il glicogeno muscolare serve essenzialmente al muscolo stesso.",
+      "slide": 50
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 4,
+  "topic": "Metabolismo intermedio, complesso della PDH e mitocondrio",
+  "questions": [
+    {
+      "id": "d05-b04-q001",
+      "q": "Che cosa si intende per metabolismo intermedio?",
+      "choices": [
+        "L'insieme delle reazioni che riguardano esclusivamente la sintesi degli acidi nucleici",
+        "Il trasporto di ossigeno e anidride carbonica operato dall'emoglobina negli eritrociti",
+        "L'insieme delle reazioni di degradazione e di sintesi delle molecole cellulari",
+        "La sola digestione degli alimenti nel tratto gastrointestinale, prima dell'assorbimento",
+        "Il trasferimento degli elettroliti attraverso la membrana del globulo rosso e del neurone"
+      ],
+      "answer": 2,
+      "explain": "Il metabolismo intermedio comprende tutte le vie cataboliche e anaboliche che trasformano i nutrienti e i loro intermedi, permettendo alla cellula di ricavare energia e di costruire le proprie molecole. Il trasporto di ossigeno da parte dell'emoglobina è una funzione di trasporto e non una via metabolica, mentre la digestione nel canale alimentare è solo la fase preparatoria che precede il metabolismo vero e proprio.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q002",
+      "q": "Qual è la differenza fondamentale tra catabolismo e anabolismo?",
+      "choices": [
+        "Il catabolismo degrada le molecole liberando energia, mentre l'anabolismo le sintetizza consumandola",
+        "Il catabolismo avviene solo nel fegato, mentre l'anabolismo avviene solo nel muscolo scheletrico",
+        "Il catabolismo produce proteine strutturali, mentre l'anabolismo le degrada in aminoacidi",
+        "Il catabolismo è sempre reversibile, mentre l'anabolismo è sempre irreversibile",
+        "Il catabolismo richiede solo NADPH, mentre l'anabolismo richiede solo NADH e FAD"
+      ],
+      "answer": 0,
+      "explain": "Il catabolismo è l'insieme delle reazioni ossidative di degradazione che liberano energia, in parte conservata sotto forma di ATP; l'anabolismo è invece l'insieme delle reazioni di sintesi che consumano ATP e potere riducente. Dire che il catabolismo produce proteine inverte i due processi, perché la sintesi proteica è per definizione anabolica. La localizzazione tissutale e il tipo di coenzima non sono criteri distintivi, dato che entrambe le vie sono presenti in quasi tutte le cellule.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q003",
+      "q": "Quale molecola è considerata il punto di convergenza del catabolismo di glucidi, lipidi e proteine?",
+      "choices": [
+        "Il glucosio-6-fosfato",
+        "Il piruvato",
+        "Il lattato",
+        "Il glicogeno",
+        "L'acetil-coenzima A"
+      ],
+      "answer": 4,
+      "explain": "L'acetil-coenzima A raccoglie il carbonio proveniente dai glucidi attraverso il piruvato, dagli acidi grassi attraverso la β-ossidazione e dagli aminoacidi chetogenici, convogliandolo nel ciclo di Krebs. Il piruvato è un nodo importante del metabolismo glucidico, ma non accoglie anche i prodotti della degradazione degli acidi grassi; il lattato e il glicogeno sono invece intermedi o depositi di riserva a valle o a monte di questo snodo.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q004",
+      "q": "Perché l'acetil-coenzima A è definito un intermedio comune del metabolismo?",
+      "choices": [
+        "Perché può essere convertito direttamente in glucosio nel fegato e nel rene",
+        "Perché è il prodotto comune della degradazione di glucidi, grassi e aminoacidi",
+        "Perché è l'unico substrato con cui il ciclo di Krebs produce ATP",
+        "Perché è il trasportatore di elettroni dalla matrice all'ossigeno",
+        "Perché è il precursore immediato di tutti gli aminoacidi proteici"
+      ],
+      "answer": 1,
+      "explain": "L'acetil-coenzima A è il prodotto comune di vie cataboliche diverse e rappresenta il principale combustibile del ciclo degli acidi tricarbossilici, perciò costituisce un punto di convergenza del metabolismo. La conversione diretta in glucosio non è possibile nell'uomo, perché la reazione della piruvato deidrogenasi è irreversibile e manca la via inversa. Il trasporto degli elettroni spetta invece ai coenzimi NADH e FADH2, non all'acetil-coenzima A.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q005",
+      "q": "Dove avvengono, rispettivamente, la glicolisi e il ciclo degli acidi tricarbossilici?",
+      "choices": [
+        "Entrambe nella matrice mitocondriale",
+        "Entrambe nel citosol",
+        "La glicolisi nella matrice mitocondriale e il ciclo nel citosol",
+        "La glicolisi nel citosol e il ciclo nella matrice mitocondriale",
+        "La glicolisi nello spazio intermembrana e il ciclo sulla membrana esterna"
+      ],
+      "answer": 3,
+      "explain": "La glicolisi è una via citosolica che non richiede ossigeno, mentre il ciclo degli acidi tricarbossilici si svolge nella matrice mitocondriale, dove si trovano i suoi enzimi. Invertendo le due sedi si commette l'errore più frequente, perché la glicolisi non possiede enzimi mitocondriali e il ciclo non ha enzimi citosolici. Lo spazio intermembrana e la membrana esterna non ospitano nessuna delle due vie.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q006",
+      "q": "Quale affermazione descrive meglio il ruolo delle vie metaboliche intermedie nell'organismo?",
+      "choices": [
+        "Producono unicamente energia termica, senza sintetizzare molecole",
+        "Servono solo a eliminare i prodotti di rifiuto del catabolismo",
+        "Forniscono energia e scheletri carboniosi per la sintesi cellulare",
+        "Regolano esclusivamente il pH del sangue attraverso i tamponi plasmatici",
+        "Trasportano gli ormoni e i farmaci nel torrente ematico"
+      ],
+      "answer": 2,
+      "explain": "Le vie del metabolismo intermedio hanno una doppia funzione: ricavare energia dalla degradazione dei nutrienti e fornire gli scheletri carboniosi necessari per sintetizzare zuccheri, lipidi, aminoacidi e nucleotidi. Ridurle alla sola produzione di calore o all'eliminazione dei cataboliti trascura il ruolo biosintetico, che è altrettanto essenziale. Il trasporto degli ormoni e la regolazione del pH sono funzioni svolte da altri sistemi, come le proteine plasmatiche e i tamponi.",
+      "slide": 35
+    },
+    {
+      "id": "d05-b04-q007",
+      "q": "Qual è il bilancio netto della glicolisi per una molecola di glucosio?",
+      "choices": [
+        "Due molecole di piruvato, quattro molecole di ATP e due di NADH",
+        "Due molecole di piruvato, due molecole di ATP e due di NADH",
+        "Una molecola di acetil-coenzima A, due molecole di ATP e quattro di NADH",
+        "Due molecole di lattato, due molecole di ATP e quattro di NADH",
+        "Sei molecole di anidride carbonica e due molecole di ATP"
+      ],
+      "answer": 1,
+      "explain": "La glicolisi scinde una molecola di glucosio in due molecole di piruvato e produce quattro ATP, ma due vengono consumati nelle fasi preparatorie, quindi il guadagno netto è di due ATP e due NADH. Indicare quattro ATP è l'errore più insidioso, perché corrisponde alla produzione lorda e non tiene conto dell'investimento energetico iniziale. L'acetil-coenzima A e il lattato si formano solo in tappe successive o in condizioni particolari, e la glicolisi non libera anidride carbonica.",
+      "slide": 36
+    },
+    {
+      "id": "d05-b04-q008",
+      "q": "Quale coenzima viene ridotto a NADH durante la glicolisi?",
+      "choices": [
+        "Il FAD",
+        "Il coenzima Q",
+        "Il NADP+",
+        "Il citocromo c",
+        "Il NAD+"
+      ],
+      "answer": 4,
+      "explain": "Nella tappa catalizzata dalla gliceraldeide-3-fosfato deidrogenasi il NAD+ accetta gli elettroni della reazione e si riduce a NADH. Il FAD e il coenzima Q intervengono nella catena respiratoria e nel ciclo di Krebs, non nella glicolisi. Il NADP+ è invece il coenzima tipico delle vie anaboliche e della via dei pentoso fosfati, dove viene ridotto a NADPH.",
+      "slide": 36
+    },
+    {
+      "id": "d05-b04-q009",
+      "q": "Che cos'è la fosforilazione a livello del substrato?",
+      "choices": [
+        "La sintesi di ATP per trasferimento di un gruppo fosforico da un substrato all'ADP",
+        "La sintesi di ATP alimentata dal gradiente protonico attraverso la membrana interna",
+        "Il trasferimento di elettroni dal NADH all'ossigeno lungo la catena respiratoria",
+        "La defosforilazione del glucosio a opera dell'esochinasi nel citosol",
+        "L'idrolisi dell'ATP in ADP e fosfato inorganico a opera dell'ATPasi"
+      ],
+      "answer": 0,
+      "explain": "Nella fosforilazione a livello del substrato il gruppo fosforico viene trasferito direttamente da una molecola donatrice ad alta energia, come l'1,3-bisfosfoglicerato o il fosfoenolpiruvato, all'ADP. La sintesi guidata dal gradiente protonico è invece la fosforilazione ossidativa, un meccanismo diverso che dipende dalla catena respiratoria. L'idrolisi dell'ATP è il processo opposto e non produce energia utilizzabile sotto forma di nuova molecola di ATP.",
+      "slide": 36
+    },
+    {
+      "id": "d05-b04-q010",
+      "q": "Quale reazione avvia il ciclo degli acidi tricarbossilici?",
+      "choices": [
+        "La decarbossilazione del piruvato a lattato in condizioni anaerobiche",
+        "La fosforilazione del glucosio a glucosio-6-fosfato a opera dell'esochinasi",
+        "L'idrolisi dell'acetil-coenzima A in acetato libero e coenzima A",
+        "La condensazione dell'acetil-coenzima A con l'ossalacetato a formare citrato",
+        "La riduzione del NAD+ a NADH lungo la catena respiratoria mitocondriale"
+      ],
+      "answer": 3,
+      "explain": "Il ciclo inizia quando la citrato sintasi condensa il gruppo acetilico dell'acetil-coenzima A con l'ossalacetato, generando citrato e liberando coenzima A. La decarbossilazione del piruvato a lattato è una reazione anaerobica del citosol che non immette carbonio nel ciclo. La riduzione del NAD+ avviene invece nelle deidrogenazioni che accompagnano il ciclo e non nella tappa di ingresso.",
+      "slide": 36
+    },
+    {
+      "id": "d05-b04-q011",
+      "q": "Quale enzima catalizza la decarbossilazione ossidativa del piruvato?",
+      "choices": [
+        "La lattico deidrogenasi, che riduce il piruvato a lattato",
+        "La piruvato carbossilasi, che forma ossalacetato",
+        "Il complesso multienzimatico della piruvato deidrogenasi",
+        "La citrato sintasi, che condensa acetil-coenzima A e ossalacetato",
+        "L'esochinasi, che fosforila il glucosio a glucosio-6-fosfato"
+      ],
+      "answer": 2,
+      "explain": "La conversione del piruvato in acetil-coenzima A, con perdita di una molecola di anidride carbonica e riduzione del NAD+, è catalizzata dal complesso multienzimatico della piruvato deidrogenasi. La lattico deidrogenasi opera la trasformazione opposta, riducendo il piruvato a lattato, mentre la piruvato carbossilasi aggiunge anidride carbonica formando ossalacetato. L'esochinasi e la citrato sintasi intervengono in tappe del tutto diverse del metabolismo glucidico.",
+      "slide": 37
+    },
+    {
+      "id": "d05-b04-q012",
+      "q": "Perché nell'uomo l'acetil-coenzima A prodotto dal piruvato non può essere riconvertito in glucosio?",
+      "choices": [
+        "Perché l'acetil-coenzima A non può entrare nei mitocondri dallo spazio intermembrana",
+        "Perché manca l'enzima citrato sintasi che lega acetato e ossalacetato",
+        "Perché l'acetil-coenzima A viene sempre eliminato con le urine e la bile",
+        "Perché l'acetil-coenzima A inibisce la gluconeogenesi epatica dal lattato",
+        "Perché la piruvato deidrogenasi è irreversibile e il piruvato non può essere rigenerato"
+      ],
+      "answer": 4,
+      "explain": "La decarbossilazione ossidativa del piruvato è una reazione irreversibile: una volta persa la molecola di anidride carbonica, l'uomo non possiede la via enzimatica per ricostruire il piruvato dall'acetil-coenzima A, e quindi nemmeno glucosio da acetato. Per questo gli acidi grassi a catena pari non sono gluconeogenici, mentre gli aminoacidi chetogenici lo sono solo in modo indiretto. L'ipotesi di un'inibizione della gluconeogenesi è errata, perché il fegato continua a produrre glucosio a partire da lattato, glicerolo e aminoacidi glucogenici.",
+      "slide": 37
+    },
+    {
+      "id": "d05-b04-q013",
+      "q": "Quale condizione energetica della cellula inibisce la glicolisi?",
+      "choices": [
+        "Un elevato rapporto tra ATP e ADP, che segnala abbondanza di energia",
+        "Un elevato rapporto tra ADP e ATP, che segnala carenza di energia",
+        "Un aumento del consumo di ossigeno da parte del mitocondrio",
+        "Una marcata diminuzione del pH del citosol",
+        "Un aumento della concentrazione di AMP"
+      ],
+      "answer": 0,
+      "explain": "La fosfofruttochinasi, l'enzima che catalizza la tappa limitante della glicolisi, viene inibita quando il rapporto ATP/ADP è alto, perché la cellula dispone già di sufficiente energia. Al contrario, un aumento di ADP e AMP segnala carenza energetica e attiva la via glicolitica. Il consumo di ossigeno e il pH citosolico non sono i segnali principali di questa regolazione, che dipende dallo stato energetico della cellula.",
+      "slide": 37
+    },
+    {
+      "id": "d05-b04-q014",
+      "q": "In quale sede cellulare si svolge la fosforilazione ossidativa?",
+      "choices": [
+        "Nel citosol, insieme alla glicolisi e alla via dei pentoso fosfati",
+        "Sulla membrana mitocondriale interna, con catena respiratoria e ATP sintasi",
+        "Nel reticolo endoplasmatico liscio, dove si sintetizzano lipidi e steroidi",
+        "Sulla membrana plasmatica, per mezzo della pompa sodio-potassio e dei canali ionici",
+        "Nel nucleo, durante la replicazione del DNA e la trascrizione dei geni"
+      ],
+      "answer": 1,
+      "explain": "La fosforilazione ossidativa avviene sulla membrana mitocondriale interna, che ospita i complessi della catena respiratoria e l'ATP sintasi ed è impermeabile ai protoni. La glicolisi è una via citosolica che non dipende dalla catena respiratoria e produce ATP solo per fosforilazione a livello del substrato. La pompa sodio-potassio consuma ATP per trasportare ioni e non partecipa alla sintesi di ATP.",
+      "slide": 37
+    },
+    {
+      "id": "d05-b04-q015",
+      "q": "Quante molecole di NADH si formano per ogni acetil-coenzima A ossidato nel ciclo degli acidi tricarbossilici?",
+      "choices": [
+        "Una sola",
+        "Due",
+        "Quattro",
+        "Tre",
+        "Sei"
+      ],
+      "answer": 3,
+      "explain": "Per ogni gruppo acetilico ossidato il ciclo comprende tre deidrogenazioni NAD-dipendenti, che generano tre NADH: a livello di isocitrato, di α-chetoglutarato e di malato. La quarta deidrogenazione, quella del succinato, è legata al FAD e produce FADH2. Indicare quattro NADH è l'errore più comune, perché si conta anche la deidrogenazione flavinica.",
+      "slide": 38
+    },
+    {
+      "id": "d05-b04-q016",
+      "q": "Oltre al NADH, quali prodotti genera il ciclo degli acidi tricarbossilici per ogni acetil-coenzima A ossidato?",
+      "choices": [
+        "Due molecole di FADH2 e due di GTP",
+        "Quattro molecole di FADH2 e una di NAD+",
+        "Una molecola di GTP e tre di FADH2",
+        "Una molecola di FADH2 e due di GTP",
+        "Una molecola di FADH2 e una di GTP"
+      ],
+      "answer": 4,
+      "explain": "Ogni giro del ciclo produce un NADH in più rispetto a quanto comunemente si ricorda, ma per quanto riguarda gli altri coenzimi il bilancio è di una molecola di FADH2 dalla succinato deidrogenasi e di una di GTP dalla succinil-coenzima A sintetasi. Duplicare questi valori significherebbe ossidare due gruppi acetilici e non uno. Il GTP equivale all'ATP dal punto di vista energetico e può cedere il suo gruppo fosforico all'ADP.",
+      "slide": 38
+    },
+    {
+      "id": "d05-b04-q017",
+      "q": "Qual è il ruolo dell'ossigeno nella respirazione cellulare?",
+      "choices": [
+        "È il donatore iniziale di elettroni della catena respiratoria mitocondriale",
+        "È il substrato diretto dell'ATP sintasi nella matrice mitocondriale",
+        "È l'accettore finale degli elettroni della catena e si riduce ad acqua",
+        "È il coenzima che trasporta i gruppi acetilici nel ciclo di Krebs",
+        "È il prodotto finale della glicolisi insieme al NADH"
+      ],
+      "answer": 2,
+      "explain": "L'ossigeno molecolare riceve gli elettroni all'altezza della citocromo c ossidasi e, combinandosi con i protoni, si riduce ad acqua; senza di esso la catena respiratoria si arresta. Il ruolo di donatore iniziale spetta al NADH e al FADH2, non all'ossigeno. L'ATP sintasi non utilizza l'ossigeno come substrato, ma sfrutta il gradiente protonico generato dal trasporto degli elettroni.",
+      "slide": 38
+    },
+    {
+      "id": "d05-b04-q018",
+      "q": "Come viene sintetizzato l'ATP secondo la teoria chemiosmotica?",
+      "choices": [
+        "Sfruttando il gradiente protonico della membrana interna, usato dall'ATP sintasi",
+        "Per idrolisi diretta del glucosio a opera di una fosfatasi citosolica",
+        "Per trasferimento diretto di un gruppo fosforico dal NADH all'ADP",
+        "Per ossidazione diretta dell'acetil-coenzima A a opera dell'ATP sintasi mitocondriale",
+        "Per fosforilazione del GDP a GTP a opera della succinato deidrogenasi"
+      ],
+      "answer": 0,
+      "explain": "Secondo la teoria chemiosmotica il trasporto degli elettroni pompa protoni nello spazio intermembrana e il gradiente che ne deriva alimenta l'ATP sintasi, che riporta i protoni nella matrice sintetizzando ATP. Il NADH non trasferisce gruppi fosforici all'ADP: cede elettroni alla catena respiratoria. La fosforilazione del GDP a GTP è una reazione a livello del substrato catalizzata dalla succinil-coenzima A sintetasi, non dalla succinato deidrogenasi.",
+      "slide": 38
+    },
+    {
+      "id": "d05-b04-q019",
+      "q": "Quante attività enzimatiche principali comprende il complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Una sola attività catalitica, con tre diversi coenzimi legati e riciclati",
+        "Tre attività: piruvato deidrogenasi, diidrolipoil transacetilasi e diidrolipoil deidrogenasi",
+        "Due attività: una chinasi che lo inattiva e una fosfatasi che lo riattiva",
+        "Quattro attività, ciascuna legata a un diverso citocromo della membrana interna",
+        "Cinque attività, tutte localizzate sulla membrana mitocondriale esterna dell'organello"
+      ],
+      "answer": 1,
+      "explain": "Il complesso riunisce tre attività catalitiche distinte: la piruvato deidrogenasi, che decarbossila il piruvato, la diidrolipoil transacetilasi, che trasferisce il gruppo acetilico al coenzima A, e la diidrolipoil deidrogenasi, che riossida la lipoamide riducendo il NAD+. La chinasi e la fosfatasi che compaiono nella regolazione non fanno parte delle attività catalitiche del ciclo di reazioni, ma ne modulano l'attività. Il complesso è localizzato nella matrice mitocondriale e non contiene citocromi.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q020",
+      "q": "Quali coenzimi sono richiesti dal complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Solo NAD+ e FAD come accettori di elettroni",
+        "Solo tiamina pirofosfato e coenzima A come donatori di gruppi",
+        "Biotina, tetraidrofolato e cobalamina come trasportatori di unità C1",
+        "Tiamina pirofosfato, lipoamide, coenzima A, FAD, NAD+ e ioni magnesio",
+        "Piridossalfosfato, ascorbato e vitamina K come gruppi prostetici"
+      ],
+      "answer": 3,
+      "explain": "Il complesso della piruvato deidrogenasi utilizza cinque coenzimi: tiamina pirofosfato, lipoamide, coenzima A, FAD e NAD+, oltre agli ioni magnesio necessari al legame del tiamina pirofosfato. Considerare sufficienti NAD+ e FAD dimentica il ruolo centrale della tiamina pirofosfato nella decarbossilazione e quello della lipoamide nel trasporto del gruppo acetilico. Biotina, tetraidrofolato e cobalamina appartengono ad altre vie metaboliche, come la carbossilazione e il trasferimento di unità monocarboniose.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q021",
+      "q": "Da quale vitamina deriva il tiamina pirofosfato, coenzima del complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Dalla vitamina B1, cioè la tiamina",
+        "Dalla vitamina B2, cioè la riboflavina",
+        "Dalla vitamina B3, cioè la niacina",
+        "Dalla vitamina B5, cioè l'acido pantotenico",
+        "Dalla vitamina B6, cioè la piridossina"
+      ],
+      "answer": 0,
+      "explain": "Il tiamina pirofosfato si forma per fosforilazione della tiamina, la vitamina B1, e rappresenta la forma coenzimatica attiva. La riboflavina è il precursore del FAD e della FMN, la niacina del NAD+ e del NADP+, l'acido pantotenico del coenzima A e la piridossina del piridossalfosfato. Confondere la tiamina con la riboflavina è l'errore più frequente, perché entrambe compaiono nello stesso complesso enzimatico ma con ruoli diversi.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q022",
+      "q": "Quali sono i prodotti della reazione catalizzata dal complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Lattato e NAD+",
+        "Ossalacetato e coenzima A",
+        "Acetil-coenzima A e NADH, senza produzione di anidride carbonica",
+        "Citrato, NADH e anidride carbonica",
+        "Acetil-coenzima A, NADH e anidride carbonica"
+      ],
+      "answer": 4,
+      "explain": "La decarbossilazione ossidativa del piruvato libera una molecola di anidride carbonica, riduce il NAD+ a NADH e lega il frammento acetilico al coenzima A. Dimenticare l'anidride carbonica è l'errore più insidioso, perché il gruppo carbossilico del piruvato viene effettivamente eliminato nella reazione. Il lattato si forma in condizioni anaerobiche per azione della lattico deidrogenasi, mentre il citrato nasce solo dopo la condensazione con l'ossalacetato nel ciclo di Krebs.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q023",
+      "q": "Come viene regolato il complesso della piruvato deidrogenasi dai suoi prodotti?",
+      "choices": [
+        "È attivato da acetil-coenzima A e NADH come segnali di abbondanza",
+        "È attivato dall'ATP e inibito dal coenzima A libero",
+        "È inibito da acetil-coenzima A e NADH, attivato da coenzima A e NAD+",
+        "Non è soggetto ad alcuna forma di regolazione allosterica o covalente",
+        "È inibito dal coenzima A libero e attivato dall'acetil-coenzima A"
+      ],
+      "answer": 2,
+      "explain": "Il complesso è inibito dai suoi stessi prodotti, acetil-coenzima A e NADH, che segnalano che la cellula dispone già di sufficiente combustibile e potere riducente; al contrario il coenzima A libero e il NAD+ lo attivano. Invertire i segni della regolazione è l'errore più grave, perché renderebbe il sistema incapace di adattarsi allo stato metabolico. Il complesso è inoltre regolato per fosforilazione, quindi l'affermazione che non esista regolazione è doppiamente sbagliata.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q024",
+      "q": "In che modo la fosforilazione modifica l'attività del complesso della piruvato deidrogenasi?",
+      "choices": [
+        "La fosforilazione lo attiva e la defosforilazione lo inibisce reversibilmente",
+        "Una chinasi lo fosforila inattivandolo, una fosfatasi lo riattiva defosforilandolo",
+        "La fosforilazione ne modifica la localizzazione tra matrice e citosol",
+        "La fosforilazione aumenta la sintesi dei suoi coenzimi e dell'apoenzima",
+        "La fosforilazione ne favorisce la degradazione proteasomica nella matrice"
+      ],
+      "answer": 1,
+      "explain": "Una chinasi specifica fosforila un residuo di serina del complesso e lo rende inattivo, mentre una fosfatasi rimuove il gruppo fosforico ripristinandone l'attività. Questo meccanismo di regolazione covalente permette di spegnere rapidamente la produzione di acetil-coenzima A quando i substrati energetici sono abbondanti. L'idea che la fosforilazione attivi il complesso è errata ed è il distrattore più insidioso, perché in molte altre vie enzimatiche la fosforilazione è invece un segnale attivatorio.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q025",
+      "q": "Quale caratteristica strutturale contraddistingue la membrana mitocondriale interna?",
+      "choices": [
+        "È permeabile a tutte le piccole molecole e quasi priva di proteine integrali",
+        "È identica alla membrana plasmatica per composizione lipidica e proteica",
+        "Contiene i ribosomi mitocondriali ed è priva di sistemi di trasporto specifici",
+        "Forma le creste ed è ricca di proteine della catena respiratoria e di ATP sintasi",
+        "È una membrana singola che delimita lo spazio intermembrana e la matrice"
+      ],
+      "answer": 3,
+      "explain": "La membrana interna si ripiega in creste che aumentano la superficie disponibile e ospita i complessi della catena respiratoria e l'ATP sintasi; è inoltre selettivamente impermeabile, per cui il passaggio di metaboliti richiede trasportatori specifici. Non è una membrana unica, perché il mitocondrio ne possiede due, e i ribosomi si trovano nella matrice. Considerarla permeabile a tutte le piccole molecole renderebbe impossibile mantenere il gradiente protonico necessario alla sintesi di ATP.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q026",
+      "q": "Quali enzimi sono localizzati nella matrice mitocondriale?",
+      "choices": [
+        "Gli enzimi del ciclo di Krebs, della β-ossidazione e della piruvato deidrogenasi",
+        "Gli enzimi della glicolisi e della via dei pentoso fosfati citosolici",
+        "Gli enzimi della sintesi degli acidi grassi e del colesterolo citosolici",
+        "Gli enzimi della replicazione e della riparazione del DNA nucleare",
+        "Gli enzimi della glicogenosintesi e della glicogenolisi epatica"
+      ],
+      "answer": 0,
+      "explain": "Nella matrice mitocondriale si trovano gli enzimi del ciclo degli acidi tricarbossilici, quelli della β-ossidazione degli acidi grassi e il complesso della piruvato deidrogenasi. La glicolisi e la via dei pentoso fosfati sono invece vie citosoliche, mentre la sintesi degli acidi grassi e del colesterolo avviene nel citosol e nel reticolo endoplasmatico. La glicogenosintesi e la glicogenolisi sono processi citosolici legati al deposito di glucosio.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q027",
+      "q": "Che cosa si trova nello spazio intermembrana del mitocondrio?",
+      "choices": [
+        "La matrice con gli enzimi del ciclo di Krebs e della β-ossidazione",
+        "Il DNA mitocondriale circolare e i ribosomi batterici",
+        "Le creste ripiegate con l'ATP sintasi immersa nella membrana interna",
+        "I lisosomi con gli enzimi idrolitici acidi della cellula",
+        "Un ambiente a composizione ionica simile al citosol, separato dalla matrice"
+      ],
+      "answer": 4,
+      "explain": "Lo spazio intermembrana è il compartimento compreso tra le due membrane mitocondriali e ha una composizione ionica simile a quella del citosol, con un pH più acido della matrice. È proprio qui che si accumulano i protoni pompati dalla catena respiratoria, generando il gradiente chemiosmotico. Il DNA mitocondriale e i ribosomi, così come gli enzimi del ciclo di Krebs, si trovano nella matrice, mentre l'ATP sintasi è immersa nella membrana interna.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q028",
+      "q": "Quale funzione svolge il DNA mitocondriale?",
+      "choices": [
+        "Codifica la totalità delle proteine della cellula, incluse quelle mitocondriali",
+        "È identico al DNA nucleare per dimensione, contenuto e numero di geni",
+        "Codifica alcune proteine mitocondriali della catena respiratoria",
+        "Serve solo a produrre ATP e non viene mai trascritto",
+        "Regola la sintesi degli enzimi lisosomiali e perossisomiali"
+      ],
+      "answer": 2,
+      "explain": "Il DNA mitocondriale è una molecola circolare che codifica un numero limitato di proteine, molte delle quali sono subunità della catena respiratoria e dell'ATP sintasi. La grande maggioranza delle proteine mitocondriali è però codificata dal DNA nucleare, tradotta nel citosol e importata nell'organello. Il DNA mitocondriale deve essere trascritto e tradotto sui ribosomi mitocondriali, quindi l'affermazione che non venga espresso è errata.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q029",
+      "q": "Perché il mitocondrio è considerato un organello di origine endosimbiontica?",
+      "choices": [
+        "Perché deriva dal reticolo endoplasmatico per gemmazione delle sue membrane",
+        "Perché possiede DNA circolare, ribosomi e doppia membrana, come un batterio",
+        "Perché si forma nel nucleo durante la mitosi della cellula ospite",
+        "Perché è privo di membrane proprie e di acidi nucleici",
+        "Perché deriva dai perossisomi per fusione delle loro membrane"
+      ],
+      "answer": 1,
+      "explain": "La presenza di un DNA circolare, di ribosomi simili a quelli batterici e di una doppia membrana suggerisce che il mitocondrio derivi da un antico batterio inglobato da una cellula ospite. Queste caratteristiche lo distinguono nettamente dagli organelli formatisi per gemmazione dal reticolo endoplasmatico. L'ipotesi della derivazione dai perossisomi o della formazione nel nucleo non ha alcun fondamento, perché il mitocondrio possiede un proprio apparato genetico autonomo.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q030",
+      "q": "Quali sono i componenti della catena di trasporto degli elettroni della membrana mitocondriale interna?",
+      "choices": [
+        "Solo l'ATP sintasi e l'adenilato ciclasi di membrana",
+        "Quattro citocromi solubili liberi nel citosol",
+        "La sola succinato deidrogenasi e il coenzima A mitocondriale",
+        "I complessi proteici I, II, III e IV, il coenzima Q e il citocromo c",
+        "Le proteine di trasporto del glucosio e della fosfocreatina di membrana"
+      ],
+      "answer": 3,
+      "explain": "La catena respiratoria è formata da quattro complessi proteici di membrana, attraversati in sequenza dagli elettroni, e da due trasportatori mobili: il coenzima Q, liposolubile, e il citocromo c, solubile nello spazio intermembrana. L'ATP sintasi non fa parte della catena di trasporto, ma utilizza il gradiente da essa generato. Il coenzima A è un trasportatore di gruppi acilici e non di elettroni, mentre i citocromi della catena sono proteine legate alla membrana, non solubili nel citosol.",
+      "slide": 41
+    },
+    {
+      "id": "d05-b04-q031",
+      "q": "In quale punto della catena respiratoria entrano gli elettroni trasportati dal FADH2?",
+      "choices": [
+        "Nel complesso I, come quelli trasportati dal NADH",
+        "Nel complesso III, tramite il citocromo c ridotto",
+        "Nel complesso IV, direttamente sull'ossigeno molecolare",
+        "Nell'ATP sintasi, tramite il coenzima Q ridotto",
+        "Nel complesso II, cioè la succinato deidrogenasi"
+      ],
+      "answer": 4,
+      "explain": "Il FADH2 cede i propri elettroni al complesso II, che è la succinato deidrogenasi del ciclo di Krebs, e da qui essi passano al coenzima Q saltando il complesso I. Per questo motivo il FADH2 consente la sintesi di una quantità di ATP inferiore rispetto al NADH. L'affermazione che entri nel complesso I è il distrattore più insidioso, perché descrive correttamente il comportamento del NADH ma non quello del FADH2.",
+      "slide": 41
+    },
+    {
+      "id": "d05-b04-q032",
+      "q": "Come attraversa il piruvato la membrana mitocondriale interna per raggiungere la matrice?",
+      "choices": [
+        "Per mezzo di un trasportatore proteico specifico della membrana interna",
+        "Per diffusione semplice attraverso il doppio strato lipidico",
+        "Grazie alla carnitina, che lo converte in acetilcarnitina",
+        "Per endocitosi mediata da vescicole della membrana esterna",
+        "Attraverso le porine della membrana esterna, che lo legano al coenzima A"
+      ],
+      "answer": 0,
+      "explain": "La membrana mitocondriale interna è impermeabile alle molecole polari e agli ioni, perciò il piruvato formato dalla glicolisi nel citosol deve servirsi di un trasportatore proteico specifico per entrare nella matrice. La carnitina trasporta invece i gruppi acilici a catena lunga degli acidi grassi e non ha alcun ruolo nel passaggio del piruvato. La diffusione semplice non è possibile attraverso il doppio strato lipidico, e le porine della membrana esterna riguardano il passaggio delle piccole molecole verso lo spazio intermembrana.",
+      "slide": 40
+    },
+    {
+      "id": "d05-b04-q033",
+      "q": "Che cosa fanno i disaccoppianti come il dinitrofenolo?",
+      "choices": [
+        "Bloccano il trasporto degli elettroni a livello del complesso I",
+        "Aumentano la sintesi di ATP rendendo la membrana più impermeabile ai protoni",
+        "Trasportano protoni nella matrice, dissipando il gradiente e riducendo l'ATP",
+        "Inibiscono direttamente l'ATP sintasi legandosi al sito catalitico",
+        "Impediscono la riduzione del NAD+ a NADH nel ciclo di Krebs"
+      ],
+      "answer": 2,
+      "explain": "I disaccoppianti rendono la membrana interna permeabile ai protoni, per cui il gradiente chemiosmotico si dissolve e l'energia del trasporto elettronico viene dispersa come calore invece di essere convertita in ATP. Il trasporto degli elettroni e il consumo di ossigeno continuano, anzi possono aumentare, proprio perché il gradiente non frena più la catena. Inibire direttamente l'ATP sintasi o bloccare il complesso I sono meccanismi diversi, che arrestano la catena invece di disaccoppiarla.",
+      "slide": 41
+    },
+    {
+      "id": "d05-b04-q034",
+      "q": "Quali anelli costituiscono la struttura della tiamina?",
+      "choices": [
+        "Un anello benzenico e un anello pirrolico",
+        "Un anello pirimidinico e un anello tiazolico",
+        "Due anelli pirimidinici uniti da un ponte disolfuro",
+        "Un anello imidazolico e un anello purinico",
+        "Un anello sterolico e una catena isoprenoidica"
+      ],
+      "answer": 1,
+      "explain": "La tiamina è formata da un anello pirimidinico e da un anello tiazolico collegati da un ponte metilenico, con una catena laterale idrossietilica. Questa struttura è responsabile delle proprietà coenzimatiche della molecola e della sua instabilità al calore in ambiente alcalino. L'anello purinico e quello imidazolico appartengono a molecole diverse, mentre gli steroidi e i composti isoprenoidici hanno una chimica del tutto estranea alla tiamina.",
+      "slide": 42
+    },
+    {
+      "id": "d05-b04-q035",
+      "q": "In quale forma la tiamina svolge la propria funzione di coenzima?",
+      "choices": [
+        "Come tiamina libera",
+        "Come tiamina monofosfato",
+        "Come tiamina trifosfato",
+        "Come tiamina pirofosfato",
+        "Come tiamina legata al coenzima A"
+      ],
+      "answer": 3,
+      "explain": "La forma coenzimaticamente attiva è la tiamina pirofosfato, ottenuta per fosforilazione della tiamina a opera di una chinasi specifica. È questa forma che si lega ai siti attivi delle decarbossilasi e della transchetolasi. La tiamina libera e il monofosfato non svolgono la funzione catalitica, e non esiste alcun coenzima misto tra tiamina e coenzima A: si tratta di due coenzimi distinti che collaborano nel complesso della piruvato deidrogenasi.",
+      "slide": 42
+    },
+    {
+      "id": "d05-b04-q036",
+      "q": "In quali tipi di reazioni interviene la tiamina pirofosfato?",
+      "choices": [
+        "Nelle decarbossilazioni ossidative e nel trasferimento di unità bicarboniose",
+        "Nelle reazioni di riduzione del NAD+ a NADH e del FAD a FADH2",
+        "Nel trasporto di gruppi acilici, come fa la lipoamide e il coenzima A",
+        "Nella fosforilazione dei substrati a opera delle chinasi citosoliche",
+        "Nella sintesi degli acidi nucleici e delle proteine"
+      ],
+      "answer": 0,
+      "explain": "La tiamina pirofosfato è il coenzima delle decarbossilazioni ossidative degli α-chetoacidi, come il piruvato e l'α-chetoglutarato, e partecipa al trasferimento di unità bicarboniose nella via dei pentoso fosfati tramite la transchetolasi. La riduzione del NAD+ e il trasporto di gruppi acilici sono compiti di altri coenzimi, rispettivamente la nicotinamide e la lipoamide. La sintesi degli acidi nucleici non richiede tiamina pirofosfato.",
+      "slide": 42
+    },
+    {
+      "id": "d05-b04-q037",
+      "q": "Quale parte della tiamina pirofosfato è direttamente coinvolta nella catalisi?",
+      "choices": [
+        "Il gruppo fosfato terminale del pirofosfato",
+        "L'anello pirimidinico, che lega l'ossigeno molecolare nella catalisi",
+        "Il gruppo idrossietilico della catena laterale della tiamina",
+        "Il gruppo amminico primario dell'anello pirimidinico",
+        "Il carbonio in posizione due dell'anello tiazolico, che dà un carbanione"
+      ],
+      "answer": 4,
+      "explain": "Il carbonio in posizione due dell'anello tiazolico, compreso tra un atomo di azoto e uno di zolfo, perde facilmente un protone formando un carbanione stabilizzato che attacca il gruppo carbonilico del substrato. È questo intermedio a rendere possibile la decarbossilazione. L'anello pirimidinico contribuisce alla stabilizzazione della molecola ma non lega l'ossigeno, e il gruppo fosfato serve solo ad ancorare il coenzima all'enzima.",
+      "slide": 42
+    },
+    {
+      "id": "d05-b04-q038",
+      "q": "Qual è il fabbisogno giornaliero di vitamina B1 nell'uomo adulto?",
+      "choices": [
+        "Circa zero virgola cinque milligrammi al giorno, indipendentemente dalla dieta",
+        "Circa cinquanta milligrammi al giorno, come integratore",
+        "Circa uno virgola cinque milligrammi al giorno, di più con dieta glucidica",
+        "Da dieci a quindici milligrammi al giorno, nelle diete ipercaloriche",
+        "Circa cinquecento microgrammi al giorno, solo negli anziani fragili"
+      ],
+      "answer": 2,
+      "explain": "Il fabbisogno di vitamina B1 è di circa uno virgola cinque milligrammi al giorno e aumenta quando la dieta è ricca di glucidi, perché la tiamina pirofosfato è indispensabile per la decarbossilazione ossidativa del piruvato. Indicare dosi di decine di milligrammi sovrastima di molto il bisogno reale, mentre valori inferiori a un milligrammo non coprono le necessità di un adulto. Il fabbisogno non dipende dall'età nel modo indicato, ma dal contenuto energetico e glucidico della dieta.",
+      "slide": 43
+    },
+    {
+      "id": "d05-b04-q039",
+      "q": "Quale malattia è causata dalla carenza di vitamina B1?",
+      "choices": [
+        "Lo scorbuto",
+        "Il beriberi",
+        "La pellagra",
+        "Il rachitismo",
+        "L'anemia perniciosa"
+      ],
+      "answer": 1,
+      "explain": "Il deficit di tiamina provoca il beriberi, una malattia caratterizzata soprattutto da disturbi neurologici e cardiovascolari. Lo scorbuto è dovuto alla carenza di vitamina C, la pellagra alla carenza di niacina, il rachitismo alla carenza di vitamina D e l'anemia perniciosa al deficit di vitamina B12 o di fattore intrinseco. La pellagra è il distrattore più insidioso, perché è anch'essa una malattia da carenza vitaminica con sintomi neurologici, ma dipende dalla niacina.",
+      "slide": 43
+    },
+    {
+      "id": "d05-b04-q040",
+      "q": "Quali condizioni favoriscono la comparsa di una carenza di vitamina B1?",
+      "choices": [
+        "Una dieta ricca di carne, di pesce e di verdure fresche",
+        "Il consumo abbondante di frutta, legumi e cereali integrali",
+        "L'esposizione prolungata e intensa alla luce solare diretta",
+        "Una dieta di solo riso brillato, l'alcolismo e il malassorbimento",
+        "L'eccesso di attività fisica intensa in climi molto freddi"
+      ],
+      "answer": 3,
+      "explain": "La raffinazione del riso elimina la parte del chicco più ricca di tiamina, per cui una dieta basata quasi esclusivamente su riso brillato porta a carenza; l'alcolismo riduce l'assorbimento e le riserve della vitamina, e il malassorbimento intestinale ne limita ulteriormente la disponibilità. Una dieta varia con carne, legumi e verdure fresche fornisce invece quantità adeguate di tiamina. L'esposizione solare e il clima freddo non hanno alcun ruolo nella genesi di questa carenza.",
+      "slide": 43
+    },
+    {
+      "id": "d05-b04-q041",
+      "q": "Perché la carenza di vitamina B1 provoca lesioni neurologiche?",
+      "choices": [
+        "Perché blocca la sintesi della mielina a opera del fegato",
+        "Perché impedisce l'assorbimento intestinale del ferro e della vitamina B12",
+        "Perché favorisce la deposizione di placche amiloidi nel tessuto nervoso",
+        "Perché riduce la sintesi dei neurotrasmettitori dopaminergici e serotoninergici",
+        "Perché senza tiamina pirofosfato la piruvato deidrogenasi si blocca nei neuroni"
+      ],
+      "answer": 4,
+      "explain": "Il sistema nervoso dipende in modo quasi esclusivo dal glucosio per il proprio fabbisogno energetico e, in carenza di tiamina pirofosfato, la piruvato deidrogenasi non può convertire il piruvato in acetil-coenzima A. Il blocco di questa tappa riduce la produzione di energia nel neurone e provoca le lesioni neurologiche tipiche del beriberi. Il deficit di ferro, la sintesi della mielina e la formazione di placche amiloidi appartengono ad altre condizioni patologiche e non dipendono dalla tiamina.",
+      "slide": 43
+    },
+    {
+      "id": "d05-b04-q042",
+      "q": "Quale conseguenza metabolica ha il blocco della piruvato deidrogenasi nel sistema nervoso?",
+      "choices": [
+        "Il piruvato si accumula perché non può entrare nel ciclo di Krebs, con meno ATP",
+        "Il glucosio non può più entrare nei neuroni attraverso i trasportatori",
+        "L'acetil-coenzima A si accumula e attiva eccessivamente il ciclo di Krebs",
+        "Aumenta la sintesi dei corpi chetonici nel tessuto nervoso periferico",
+        "Il lattato viene convertito in glucosio direttamente nel tessuto nervoso"
+      ],
+      "answer": 0,
+      "explain": "Se la piruvato deidrogenasi è inattiva, il piruvato prodotto dalla glicolisi non viene convertito in acetil-coenzima A e non può entrare nel ciclo degli acidi tricarbossilici, per cui si accumula e la produzione mitocondriale di ATP diminuisce. L'ingresso del glucosio nel neurone avviene attraverso trasportatori specifici e non dipende da questo enzima. Il tessuto nervoso non è in grado di svolgere la gluconeogenesi, quindi la riconversione del lattato in glucosio non può avvenire in loco.",
+      "slide": 43
+    },
+    {
+      "id": "d05-b04-q043",
+      "q": "Quale nome assume l'acido lipoico quando è considerato una vitamina?",
+      "choices": [
+        "Vitamina B1",
+        "Vitamina B5",
+        "Vitamina N",
+        "Vitamina C",
+        "Vitamina K"
+      ],
+      "answer": 2,
+      "explain": "L'acido lipoico è noto anche come vitamina N, denominazione storica legata al suo ruolo di fattore accessorio nel metabolismo. La vitamina B1 è la tiamina, la B5 è l'acido pantotenico e la vitamina K interviene nella coagulazione. Confondere l'acido lipoico con la tiamina è frequente, perché entrambi sono coenzimi del complesso della piruvato deidrogenasi, ma si tratta di due molecole completamente diverse.",
+      "slide": 44
+    },
+    {
+      "id": "d05-b04-q044",
+      "q": "Quale affermazione è corretta riguardo al fabbisogno umano di acido lipoico?",
+      "choices": [
+        "È una vitamina essenziale da assumere ogni giorno con la dieta in dosi elevate",
+        "Non serve assumerlo con la dieta, perché l'organismo ne sintetizza quantità minime",
+        "È indispensabile solo nei vegetariani e nei vegani, per carenza dietetica",
+        "Va assunto obbligatoriamente solo in gravidanza e durante l'allattamento",
+        "È necessario esclusivamente negli sportivi e nei soggetti convalescenti"
+      ],
+      "answer": 1,
+      "explain": "Non esistono prove che l'uomo debba assumere acido lipoico con gli alimenti, poiché l'organismo sembra sintetizzarlo autonomamente nelle minime quantità richieste. Trattarlo come una vitamina essenziale da integrare quotidianamente in dosi elevate è quindi privo di fondamento. Le indicazioni limitate ai vegetariani, alle gravidanze o agli sportivi non corrispondono ad alcuna necessità metabolica documentata.",
+      "slide": 44
+    },
+    {
+      "id": "d05-b04-q045",
+      "q": "In quali alimenti la lipoamide è particolarmente abbondante?",
+      "choices": [
+        "Solo nei latticini, nelle uova e nel burro",
+        "Solo nell'olio di fegato di merluzzo e nei pesci grassi",
+        "Solo nella carne di maiale e nei suoi derivati",
+        "In spinaci, broccoli, pomodori, fegato e rene",
+        "Solo nei cereali raffinati e nei prodotti da forno"
+      ],
+      "answer": 3,
+      "explain": "La lipoamide è presente in quasi tutti gli alimenti e risulta particolarmente abbondante nelle verdure a foglia verde come spinaci e broccoli, nei pomodori e nelle frattaglie come fegato e rene. Limitarla a un solo gruppo di alimenti è quindi riduttivo e non rispecchia la sua ampia distribuzione. I cereali raffinati, al contrario, perdono con la raffinazione molti dei componenti più ricchi di questi fattori.",
+      "slide": 44
+    },
+    {
+      "id": "d05-b04-q046",
+      "q": "Quale funzione svolge la lipoamide nel complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Accetta il gruppo acetilico e lo cede al coenzima A tramite i gruppi tiolici",
+        "Trasporta gli elettroni direttamente all'ossigeno molecolare della catena",
+        "Fornisce il gruppo fosfato necessario alla sintesi di ATP mitocondriale",
+        "Decarbossila il piruvato donando un gruppo amminico al coenzima A",
+        "Riduce il NAD+ a NADH senza trasferire gruppi acilici al coenzima A"
+      ],
+      "answer": 0,
+      "explain": "La lipoamide possiede due gruppi tiolici che possono formare un ponte disolfuro e, grazie a questa proprietà redox, accoglie il gruppo acetilico e lo cede al coenzima A. La decarbossilazione del piruvato spetta invece alla tiamina pirofosfato, che dona anche temporaneamente il frammento acetilico alla lipoamide. Il trasporto degli elettroni all'ossigeno è compito della catena respiratoria, e la lipoamide non fornisce gruppi fosforici.",
+      "slide": 44
+    },
+    {
+      "id": "d05-b04-q047",
+      "q": "Quale effetto ha l'arsenito sul complesso della piruvato deidrogenasi?",
+      "choices": [
+        "Attiva la fosfatasi che defosforila e riattiva il complesso",
+        "Blocca la catena respiratoria a livello del complesso IV",
+        "Impedisce l'ingresso del piruvato nella matrice mitocondriale",
+        "Decarbossila il piruvato al posto della tiamina pirofosfato",
+        "Si lega ai gruppi tiolici della lipoamide e inattiva il complesso"
+      ],
+      "answer": 4,
+      "explain": "L'arsenito forma un legame stabile con i due gruppi tiolici vicinali della lipoamide e impedisce il ciclo di ossidoriduzione del coenzima, bloccando così la decarbossilazione ossidativa del piruvato. Il blocco della catena respiratoria a livello della citocromo c ossidasi è invece l'effetto del cianuro, un inibitore del tutto diverso. L'arsenito non interferisce con la fosfatasi che regola il complesso né con il trasportatore del piruvato, e non sostituisce la tiamina pirofosfato nella decarbossilazione.",
+      "slide": 39
+    },
+    {
+      "id": "d05-b04-q048",
+      "q": "Qual è il fabbisogno giornaliero di vitamina B5 e quale è la conseguenza della sua carenza nell'uomo?",
+      "choices": [
+        "Circa cento milligrammi al giorno e la carenza provoca il beriberi",
+        "Circa un milligrammo al giorno e la carenza causa anemia perniciosa",
+        "Circa dieci milligrammi al giorno e la carenza nell'uomo è sconosciuta",
+        "Circa cinquanta milligrammi al giorno e la carenza causa rachitismo",
+        "Non esiste fabbisogno e la carenza è sempre letale"
+      ],
+      "answer": 2,
+      "explain": "Il fabbisogno di acido pantotenico è di circa dieci milligrammi al giorno e la carenza nell'uomo non è nota, perché la vitamina è largamente diffusa negli alimenti. Attribuire alla sua mancanza il beriberi è l'errore più insidioso, dato che quella malattia dipende dal deficit di tiamina. Il rachitismo e l'anemia perniciosa sono legati ad altre vitamine, e l'affermazione che la carenza sia sempre letale è del tutto infondata.",
+      "slide": 45
+    },
+    {
+      "id": "d05-b04-q049",
+      "q": "Quale gruppo chimico del coenzima A gli consente di legare i gruppi acilici?",
+      "choices": [
+        "Il gruppo fosfato terminale dell'ADP",
+        "Il gruppo tiolico della β-mercaptoetilammina",
+        "L'anello pirimidinico",
+        "Il gruppo amminico dell'adenina",
+        "Il gruppo carbossilico dell'acido pantotenico"
+      ],
+      "answer": 1,
+      "explain": "Il coenzima A deve il proprio nome al gruppo tiolico della β-mercaptoetilammina, che forma un legame tioestere con il gruppo acetilico o con altri gruppi acilici. I legami tioestere sono ad alta energia e rendono l'acetil-coenzima A un donatore efficace di unità acetiliche. Il gruppo fosfato, l'adenina e l'anello non partecipano al legame con gli acili, mentre il carbossile dell'acido pantotenico è impegnato nel legame con il resto della molecola.",
+      "slide": 45
+    },
+    {
+      "id": "d05-b04-q050",
+      "q": "Quali unità strutturali compongono il coenzima A?",
+      "choices": [
+        "Una molecola di glucosio, una di acido lipoico e una di tiamina",
+        "Due nucleotidi di timina e un residuo di cisteina",
+        "Una porzione sterolica e tre acidi grassi",
+        "La 3'-fosfo-ADP, l'acido pantotenico e la β-mercaptoetilammina",
+        "Un anello porfirinico con un atomo di cobalto"
+      ],
+      "answer": 3,
+      "explain": "Il coenzima A è formato da una porzione nucleotidica, la 3'-fosfo-ADP, legata all'acido pantotenico e alla β-mercaptoetilammina, che porta il gruppo tiolico reattivo. L'anello porfirinico con il cobalto appartiene alla cobalamina e non al coenzima A. Considerarlo un derivato degli steroli o dei nucleotidi di timina è errato, perché la sua porzione nucleotidica contiene adenina e non timina.",
+      "slide": 45
+    }
+  ]
+}

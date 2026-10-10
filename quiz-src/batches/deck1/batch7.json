@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 7,
+  "topic": "Gli amminoacidi e la struttura delle proteine",
+  "questions": [
+    {
+      "id": "d01-b07-q001",
+      "q": "Qual è la funzione principale delle proteine che agiscono come enzimi?",
+      "choices": [
+        "Trasportare l'ossigeno nel sangue",
+        "Formare le fibre del tessuto connettivo",
+        "Catalizzare le reazioni chimiche della cellula",
+        "Difendere l'organismo dagli agenti estranei",
+        "Conservare l'informazione genetica"
+      ],
+      "answer": 2,
+      "explain": "Gli enzimi sono proteine che catalizzano le reazioni chimiche accelerandole e abbassando l'energia di attivazione, senza essere consumati nel processo. Il trasporto dell'ossigeno nel sangue è invece compito dell'emoglobina, una cromoproteina, e non di un enzima.",
+      "slide": 102
+    },
+    {
+      "id": "d01-b07-q002",
+      "q": "Oltre alla catalisi, quale tra le seguenti è una funzione tipica delle proteine?",
+      "choices": [
+        "La difesa dell'organismo tramite gli anticorpi",
+        "La conservazione dell'informazione genetica",
+        "La formazione del codice genetico",
+        "Il deposito di energia sotto forma di trigliceridi",
+        "La sintesi dei nucleotidi del DNA"
+      ],
+      "answer": 0,
+      "explain": "Gli anticorpi sono proteine capaci di riconoscere e neutralizzare molecole estranee e rappresentano una componente essenziale della difesa immunitaria. L'informazione genetica è invece conservata negli acidi nucleici e l'energia di riserva nei trigliceridi, non nelle proteine.",
+      "slide": 102
+    },
+    {
+      "id": "d01-b07-q003",
+      "q": "In base a quale criterio gli amminoacidi standard vengono classificati in apolari, polari, acidi e basici?",
+      "choices": [
+        "In base al numero di atomi di carbonio presenti nella catena laterale",
+        "In base alla posizione del gruppo amminico rispetto al carbonio alfa",
+        "In base alla lunghezza complessiva della catena polipeptidica che formano",
+        "In base al numero di legami peptidici che possono instaurare",
+        "In base alla natura chimica della catena laterale R"
+      ],
+      "answer": 4,
+      "explain": "La classificazione degli amminoacidi si basa sulle proprietà chimiche della catena laterale R, che può essere apolare, polare ma neutra, acida oppure basica. Sono proprio queste caratteristiche a determinare il comportamento dell'amminoacido in soluzione e il modo in cui partecipa alle interazioni che stabilizzano la struttura proteica. Il numero di atomi di carbonio, la posizione del gruppo amminico e la lunghezza della catena non sono i criteri utilizzati.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q004",
+      "q": "Quale coppia di gruppi funzionali è sempre legata allo stesso atomo di carbonio α in un amminoacido proteico?",
+      "choices": [
+        "Un gruppo ossidrilico e un gruppo aldeidico",
+        "Un gruppo amminico e un gruppo carbossilico",
+        "Un gruppo fosfato e un gruppo sulfidrilico",
+        "Due gruppi carbossilici e un gruppo amminico",
+        "Un gruppo ammidico e un gruppo estereo"
+      ],
+      "answer": 1,
+      "explain": "In ogni amminoacido proteico il carbonio α lega contemporaneamente un gruppo amminico, un gruppo carbossilico, un atomo di idrogeno e la catena laterale. La presenza contemporanea di un gruppo acido e di uno basico sullo stesso carbonio è ciò che rende possibile il comportamento zwitterionico.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q005",
+      "q": "Quanti amminoacidi standard diversi sono normalmente utilizzati per costruire le proteine umane?",
+      "choices": [
+        "Dodici",
+        "Sedici",
+        "Diciannove",
+        "Venti",
+        "Trentadue"
+      ],
+      "answer": 3,
+      "explain": "Le proteine sono costruite a partire da venti amminoacidi standard, ciascuno codificato dal proprio codone. Il numero diciannove è vicino ma errato: esistono anche amminoacidi non standard, ottenuti per modificazione dopo la sintesi, che però non rientrano nei venti di base.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q006",
+      "q": "Oltre al gruppo amminico, al gruppo carbossilico e a un atomo di idrogeno, che cosa è legato al carbonio α di un amminoacido?",
+      "choices": [
+        "Una catena laterale variabile, indicata con R",
+        "Un secondo gruppo amminico",
+        "Un gruppo fosfato",
+        "Un anello aromatico presente in tutti gli amminoacidi",
+        "Un atomo di zolfo presente in tutti gli amminoacidi"
+      ],
+      "answer": 0,
+      "explain": "Il carbonio α è il centro stereogenico dell'amminoacido e porta quattro sostituenti: il gruppo amminico, il gruppo carbossilico, un idrogeno e la catena laterale variabile R. Solo la glicina fa eccezione, perché in essa R è un secondo atomo di idrogeno.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q007",
+      "q": "Che cosa si intende per forma zwitterionica di un amminoacido?",
+      "choices": [
+        "La forma in cui entrambi i gruppi sono protonati e la molecola ha carica netta positiva",
+        "La forma in cui entrambi i gruppi sono deprotonati e la molecola ha carica netta negativa",
+        "La forma in cui il gruppo amminico è protonato e quello carbossilico deprotonato",
+        "La forma ciclica che si genera per reazione intramolecolare tra i due gruppi",
+        "La forma in cui l'amminoacido è inserito in una catena peptidica lineare"
+      ],
+      "answer": 2,
+      "explain": "Nella forma zwitterionica il gruppo carbossilico ha ceduto il proprio protone al gruppo amminico, generando una specie dipolare con una carica positiva e una negativa ma carica netta nulla. La forma con entrambi i gruppi deprotonati esiste invece a pH molto alcalino, dove la molecola ha carica netta negativa.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q008",
+      "q": "Che cosa indica il punto isoelettrico di un amminoacido?",
+      "choices": [
+        "Il pH al quale l'amminoacido precipita dalla soluzione acquosa",
+        "Il pH al quale tutti i gruppi sono completamente protonati",
+        "Il pH al quale l'amminoacido denatura perdendo la struttura nativa",
+        "Il pH al quale il numero di cariche positive raggiunge il massimo",
+        "Il pH al quale la carica elettrica netta media è zero"
+      ],
+      "answer": 4,
+      "explain": "Il punto isoelettrico è il pH al quale la carica netta media della molecola è zero e la sua mobilità in un campo elettrico si annulla. A pH inferiori al punto isoelettrico prevalgono le cariche positive, mentre a pH superiori prevalgono quelle negative.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q009",
+      "q": "Quale amminoacido standard è achirale, cioè privo di enantiomeri?",
+      "choices": [
+        "L'alanina",
+        "La glicina",
+        "La valina",
+        "La leucina",
+        "La prolina"
+      ],
+      "answer": 1,
+      "explain": "La glicina è l'unico amminoacido standard achirale perché la sua catena laterale è un atomo di idrogeno, per cui il carbonio α porta due sostituenti identici. L'alanina, con la sua catena metilica, ha invece quattro sostituenti diversi ed è quindi chirale.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q010",
+      "q": "A quale serie stereochimica appartengono gli amminoacidi che costituiscono le proteine umane?",
+      "choices": [
+        "Alla serie D",
+        "A una miscela racemica delle due serie",
+        "Alla serie beta",
+        "Alla serie L",
+        "Alla serie meso"
+      ],
+      "answer": 3,
+      "explain": "Gli amminoacidi delle proteine umane appartengono alla serie L, mentre gli enantiomeri D si trovano solo in alcuni peptidi di origine batterica. Una miscela racemica conterrebbe entrambe le forme in parti uguali e non è ciò che si osserva nelle proteine.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q011",
+      "q": "Quale caratteristica distingue gli amminoacidi acidi come l'aspartato e il glutammato?",
+      "choices": [
+        "Possiedono un secondo gruppo carbossilico nella catena laterale",
+        "Possiedono un secondo gruppo amminico nella catena laterale",
+        "Possiedono un gruppo ossidrilico nella catena laterale",
+        "Possiedono un anello aromatico nella catena laterale",
+        "Non possiedono alcuna catena laterale"
+      ],
+      "answer": 0,
+      "explain": "Aspartato e glutammato possiedono una catena laterale con un ulteriore gruppo carbossilico, che a pH fisiologico è deprotonato e conferisce carica negativa. I residui basici come lisina e arginina portano invece un secondo gruppo amminico e risultano carichi positivamente.",
+      "slide": 103
+    },
+    {
+      "id": "d01-b07-q012",
+      "q": "Che cosa si intende per struttura primaria di una proteina?",
+      "choices": [
+        "La disposizione delle subunità in un complesso funzionale",
+        "La presenza di alfa-eliche e foglietti beta",
+        "La sequenza lineare degli amminoacidi lungo la catena polipeptidica",
+        "La conformazione tridimensionale globale di una catena",
+        "L'insieme dei ponti disolfuro che stabilizzano la molecola"
+      ],
+      "answer": 2,
+      "explain": "La struttura primaria è la sequenza con cui gli amminoacidi si susseguono nella catena polipeptidica ed è determinata geneticamente. La presenza di alfa-eliche e foglietti beta descrive invece la struttura secondaria, cioè il modo in cui la catena si ripiega localmente.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q013",
+      "q": "Come si forma il legame peptidico tra due amminoacidi?",
+      "choices": [
+        "Per idrolisi di un legame estereo tra due amminoacidi, con liberazione di acqua",
+        "Per trasferimento di un gruppo fosfato dal gruppo carbossilico al gruppo amminico",
+        "Per ossidazione dei gruppi sulfidrilici di due residui di cisteina vicini nella catena",
+        "Per addizione di una molecola d'acqua al gruppo carbossilico di un amminoacido",
+        "Per condensazione tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo"
+      ],
+      "answer": 4,
+      "explain": "Il legame peptidico nasce da una reazione di condensazione in cui il gruppo carbossilico di un amminoacido si unisce al gruppo amminico del successivo con eliminazione di una molecola d'acqua. L'idrolisi è il processo opposto e rompe il legame, non lo forma.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q014",
+      "q": "Perché il legame peptidico è planare e non consente la rotazione attorno al legame tra carbonio e azoto?",
+      "choices": [
+        "Perché i due atomi sono uniti da un legame ionico molto rigido",
+        "Perché la risonanza conferisce al legame un parziale doppio legame",
+        "Perché l'ossigeno carbonilico forma un ponte rigido con il carbonio alfa",
+        "Perché la catena laterale R impedisce stericamente la rotazione",
+        "Perché il legame è stabilizzato da un legame a idrogeno intramolecolare"
+      ],
+      "answer": 1,
+      "explain": "La delocalizzazione degli elettroni tra il carbonio carbonilico e l'azoto ammidico conferisce al legame peptidico un parziale carattere di doppio legame, che ne impone la planarità e blocca la rotazione. Le catene laterali R non sono la causa del fenomeno, perché il vincolo riguarda lo scheletro del legame.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q015",
+      "q": "Nella maggior parte dei legami peptidici delle proteine naturali, quale configurazione assume lo scheletro?",
+      "choices": [
+        "Una configurazione cis, con i gruppi laterali sullo stesso lato",
+        "Una configurazione casuale, senza alcuna preferenza",
+        "Una configurazione a elica sinistrorsa obbligata",
+        "Una configurazione trans, con i gruppi laterali su lati opposti",
+        "Una configurazione che alterna cis e trans in modo regolare"
+      ],
+      "answer": 3,
+      "explain": "Nella configurazione trans i due gruppi alpha-carboniosi si dispongono su lati opposti del legame peptidico, riducendo l'ingombro sterico, ed è la forma largamente prevalente nelle proteine naturali. La configurazione cis è molto meno frequente e diventa rilevante solo in alcuni residui di prolina.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q016",
+      "q": "Quale estremità di una catena polipeptidica è definita N-terminale?",
+      "choices": [
+        "L'estremità in cui il gruppo amminico alfa è libero",
+        "L'estremità in cui il gruppo carbossilico alfa è libero",
+        "L'estremità che porta il gruppo prostetico",
+        "L'estremità priva di catena laterale",
+        "L'estremità che contiene sempre una cisteina"
+      ],
+      "answer": 0,
+      "explain": "L'estremità N-terminale è quella in cui il gruppo amminico alfa non è impegnato in un legame peptidico ed è quindi libero. All'altra estremità, detta C-terminale, resta invece libero il gruppo carbossilico alfa.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q017",
+      "q": "A quale categoria chimica appartiene il legame peptidico?",
+      "choices": [
+        "A un legame estereo",
+        "A un legame glicosidico",
+        "A un legame ammidico",
+        "A un legame fosfodiestere",
+        "A un legame a idrogeno"
+      ],
+      "answer": 2,
+      "explain": "Il legame peptidico è un legame ammidico, perché unisce un carbonio carbonilico a un azoto come in qualsiasi ammide. Il legame estereo e quello glicosidico caratterizzano rispettivamente i lipidi e i carboidrati, non le catene proteiche.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q018",
+      "q": "In quale direzione si legge convenzionalmente la sequenza di una catena polipeptidica?",
+      "choices": [
+        "Dal centro della catena verso entrambe le estremità",
+        "Dal C-terminale all'N-terminale della stessa catena",
+        "Dalla catena laterale più corta a quella più lunga",
+        "Dall'amminoacido più acido a quello più basico",
+        "Dall'estremità N-terminale a quella C-terminale"
+      ],
+      "answer": 4,
+      "explain": "Per convenzione la sequenza si legge dall'estremità N-terminale verso l'estremità C-terminale, cioè dal gruppo amminico libero al gruppo carbossilico libero. Leggere la catena in senso opposto darebbe una sequenza diversa e scorretta.",
+      "slide": 104
+    },
+    {
+      "id": "d01-b07-q019",
+      "q": "Che cosa descrive la struttura secondaria di una proteina?",
+      "choices": [
+        "La sequenza lineare degli amminoacidi lungo la catena",
+        "I ripiegamenti locali regolari, come alfa-elica e foglietto beta",
+        "L'associazione di più subunità in un complesso funzionale",
+        "La composizione in amminoacidi delle catene laterali esposte",
+        "Il legame tra la proteina e il gruppo prostetico colorato"
+      ],
+      "answer": 1,
+      "explain": "La struttura secondaria descrive i ripiegamenti locali regolari assunti dallo scheletro polipeptidico, come l'alfa-elica e il foglietto beta. La sequenza degli amminoacidi è invece la struttura primaria, che precede ogni livello di ripiegamento.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q020",
+      "q": "Quale tipo di interazione stabilizza principalmente la struttura secondaria di una proteina?",
+      "choices": [
+        "I ponti disolfuro tra residui di cisteina vicini",
+        "Le interazioni idrofobiche tra catene laterali apolari",
+        "I legami ionici tra gruppi carichi della catena laterale",
+        "I legami a idrogeno tra i gruppi N-H e C=O dello scheletro",
+        "I legami peptidici tra residui distanti della catena"
+      ],
+      "answer": 3,
+      "explain": "La struttura secondaria è stabilizzata da legami a idrogeno che si instaurano tra l'azoto ammidico e l'ossigeno carbonilico dello scheletro peptidico. I ponti disolfuro e le interazioni tra catene laterali contribuiscono piuttosto alla struttura terziaria.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q021",
+      "q": "Nell'alfa-elica, tra quali gruppi si formano i legami a idrogeno che la stabilizzano?",
+      "choices": [
+        "Tra il gruppo N-H di un legame peptidico e il C=O posto quattro residui più avanti",
+        "Tra due catene laterali consecutive dello stesso tratto di elica",
+        "Tra il gruppo carbossilico terminale e il gruppo amminico terminale della catena",
+        "Tra l'ossigeno dell'acqua e i gruppi R polari esposti sulla superficie",
+        "Tra due atomi di zolfo dei residui di cisteina vicini nella catena"
+      ],
+      "answer": 0,
+      "explain": "Nell'alfa-elica ogni gruppo N-H forma un legame a idrogeno con il gruppo C=O del legame peptidico situato quattro residui più avanti lungo la stessa catena. Questo schema regolare si ripete a ogni giro e conferisce all'elica la sua notevole stabilità.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q022",
+      "q": "Che cosa definisce la struttura terziaria di una proteina?",
+      "choices": [
+        "La sequenza con cui gli amminoacidi sono legati lungo la catena",
+        "La ripetizione regolare di alfa-eliche e foglietti in un'unica catena",
+        "La conformazione tridimensionale complessiva di una catena polipeptidica",
+        "L'unione di più catene in un complesso funzionale quaternario",
+        "La presenza di un gruppo prostetico colorato nella catena"
+      ],
+      "answer": 2,
+      "explain": "La struttura terziaria è la conformazione tridimensionale complessiva di una singola catena polipeptidica ripiegata, nella quale residui anche distanti vengono a contatto. L'unione di più catene in un complesso funzionale definisce invece la struttura quaternaria.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q023",
+      "q": "Quale forza contribuisce in modo preponderante a stabilizzare il nucleo interno di una proteina globulare in ambiente acquoso?",
+      "choices": [
+        "I legami covalenti tra residui apolari",
+        "L'attrazione elettrostatica tra gruppi con la stessa carica",
+        "I legami a idrogeno con il solvente",
+        "La repulsione tra catene laterali cariche",
+        "Le interazioni idrofobiche tra catene laterali apolari"
+      ],
+      "answer": 4,
+      "explain": "In ambiente acquoso le catene laterali apolari si raggruppano all'interno per sottrarsi all'acqua, generando interazioni idrofobiche che rappresentano la principale forza stabilizzante del nucleo di una proteina globulare. I legami a idrogeno con il solvente interessano la superficie e non il nucleo interno.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q024",
+      "q": "Che cosa implica la struttura quaternaria di una proteina?",
+      "choices": [
+        "La presenza di soli foglietti beta nella catena ripiegata",
+        "L'assemblaggio di più subunità polipeptidiche in un complesso funzionale",
+        "La sequenza amminoacidica ripetuta in ciascuna subunità",
+        "La formazione di legami peptidici tra residui lontani della catena",
+        "La perdita della funzione biologica per aggregazione delle catene"
+      ],
+      "answer": 1,
+      "explain": "La struttura quaternaria nasce dall'associazione di due o più subunità polipeptidiche, ciascuna con la propria struttura terziaria, in un complesso funzionale. La sequenza amminoacidica appartiene invece alla struttura primaria di ciascuna catena.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q025",
+      "q": "Quale tipo di legame covalente può unire due residui di cisteina contribuendo alla struttura terziaria?",
+      "choices": [
+        "Un legame peptidico anomalo",
+        "Un legame estereo",
+        "Un legame glicosidico",
+        "Un ponte disolfuro",
+        "Un legame fosfodiestere"
+      ],
+      "answer": 3,
+      "explain": "Il ponte disolfuro è un legame covalente che si forma per ossidazione tra i gruppi sulfidrilici di due residui di cisteina e mantiene unite parti diverse della catena. Un legame estereo o glicosidico non si forma tra due cisteine.",
+      "slide": 105
+    },
+    {
+      "id": "d01-b07-q026",
+      "q": "Perché il corretto assemblaggio di una proteina è importante per la sua funzione?",
+      "choices": [
+        "Perché la funzione dipende dalla conformazione tridimensionale nativa",
+        "Perché la sequenza amminoacidica cambia durante l'assemblaggio",
+        "Perché l'assemblaggio modifica i legami peptidici",
+        "Perché solo le proteine assemblate contengono azoto",
+        "Perché l'assemblaggio aumenta il numero di amminoacidi della catena"
+      ],
+      "answer": 0,
+      "explain": "La funzione di una proteina dipende dalla sua conformazione tridimensionale nativa, per cui un assemblaggio scorretto produce una molecola inattiva o addirittura dannosa. L'assemblaggio non modifica la sequenza amminoacidica, che resta quella codificata dal gene.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q027",
+      "q": "Che cosa sono gli chaperoni molecolari?",
+      "choices": [
+        "Enzimi che tagliano i legami peptidici anomali delle catene",
+        "Proteine di trasporto dell'ossigeno nel sangue",
+        "Proteine che assistono il ripiegamento di altre proteine",
+        "Lipidi che stabilizzano la fluidità delle membrane cellulari",
+        "Amminoacidi liberi che impediscono l'aggregazione delle catene"
+      ],
+      "answer": 2,
+      "explain": "Gli chaperoni molecolari sono proteine che assistono il ripiegamento di altre catene polipeptidiche e ne impediscono l'aggregazione durante la sintesi. Non tagliano i legami peptidici e non sono proteine di trasporto dell'ossigeno.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q028",
+      "q": "Che cosa comporta la denaturazione di una proteina?",
+      "choices": [
+        "La rottura di tutti i legami peptidici della catena",
+        "La perdita di un singolo amminoacido dalla catena polipeptidica",
+        "L'aumento dell'attività catalitica della proteina denaturata",
+        "La conversione da proteina globulare a proteina fibrosa stabile",
+        "La perdita della struttura nativa e dell'attività biologica della proteina"
+      ],
+      "answer": 4,
+      "explain": "La denaturazione altera la struttura secondaria e terziaria, facendo perdere l'attività biologica, ma lascia intatti i legami peptidici della struttura primaria. Per questo la sequenza amminoacidica non cambia, anche se la conformazione funzionale scompare.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q029",
+      "q": "Quale condizione può provocare la denaturazione di una proteina?",
+      "choices": [
+        "L'aggiunta di un tampone che mantiene il pH fisiologico",
+        "Il riscaldamento a temperature elevate",
+        "La conservazione a bassa temperatura in ghiaccio",
+        "La presenza di acqua nel solvente",
+        "La diluizione in una soluzione isotonica"
+      ],
+      "answer": 1,
+      "explain": "Il riscaldamento a temperature elevate fornisce energia sufficiente a rompere le interazioni deboli che mantengono la conformazione nativa, causando la denaturazione. Mantenere il pH fisiologico o conservare la proteina in ghiaccio tende invece a preservarne la struttura.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q030",
+      "q": "Che cosa rappresenta lo stato nativo di una proteina?",
+      "choices": [
+        "La conformazione casuale che si osserva dopo la denaturazione",
+        "La forma aggregata e insolubile assunta dalle catene mal ripiegate",
+        "La catena polipeptidica completamente distesa e priva di forma",
+        "La conformazione ripiegata e funzionale della catena proteica",
+        "La struttura primaria della catena, priva di ripiegamenti"
+      ],
+      "answer": 3,
+      "explain": "Lo stato nativo è la conformazione ripiegata e funzionale che la proteina assume spontaneamente in condizioni fisiologiche, corrispondente al minimo di energia libera. Una catena completamente distesa o aggregata non è in grado di svolgere la funzione biologica.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q031",
+      "q": "Che cosa tende a fare una proteina mal ripiegata?",
+      "choices": [
+        "Aggregarsi con altre molecole, formando depositi insolubili",
+        "Recuperare sempre spontaneamente la funzione in pochi secondi",
+        "Trasformarsi in un acido nucleico",
+        "Aumentare la propria attività enzimatica",
+        "Essere degradata senza alcuna conseguenza per la cellula"
+      ],
+      "answer": 0,
+      "explain": "Le proteine mal ripiegate espongono regioni apolari che tendono a interagire tra loro, portando alla formazione di aggregati insolubili e potenzialmente tossici. È il fenomeno che sta alla base delle cosiddette malattie da ripiegamento errato.",
+      "slide": 106
+    },
+    {
+      "id": "d01-b07-q032",
+      "q": "Nella malattia di Alzheimer, da quale processo deriva il peptide beta-amiloide che forma le placche?",
+      "choices": [
+        "Dalla sintesi diretta di un amminoacido modificato",
+        "Dalla glicosilazione anomala del collagene",
+        "Dal taglio proteolitico della proteina precursore dell'amiloide",
+        "Dalla denaturazione dell'emoglobina nei globuli rossi",
+        "Dalla perdita del gruppo eme da parte della mioglobina"
+      ],
+      "answer": 2,
+      "explain": "Il peptide beta-amiloide deriva dal taglio proteolitico della proteina precursore dell'amiloide da parte di enzimi specifici. La denaturazione dell'emoglobina o la perdita del gruppo eme non hanno alcun ruolo nella formazione delle placche.",
+      "slide": 107
+    },
+    {
+      "id": "d01-b07-q033",
+      "q": "Di che cosa sono costituite prevalentemente le placche amiloidi del cervello?",
+      "choices": [
+        "Di cristalli di colesterolo depositati nello spazio extracellulare",
+        "Di filamenti di actina e miosina aggregati tra i neuroni",
+        "Di lipoproteine aggregate provenienti dal plasma",
+        "Di emoglobina denaturata e precipitata nei tessuti",
+        "Di aggregati fibrillari del peptide beta-amiloide"
+      ],
+      "answer": 4,
+      "explain": "Le placche amiloidi sono depositi extracellulari formati da aggregati fibrillari del peptide beta-amiloide, prodotti dal malfunzionamento del ripiegamento proteico. Il colesterolo e le lipoproteine non costituiscono la componente principale di tali placche.",
+      "slide": 107
+    },
+    {
+      "id": "d01-b07-q034",
+      "q": "Che cosa forma la proteina tau iperfosforilata nei neuroni nella malattia di Alzheimer?",
+      "choices": [
+        "Le placche amiloidi extracellulari",
+        "I grovigli neurofibrillari intracellulari",
+        "I ponti disolfuro del collagene",
+        "Le subunità dell'emoglobina",
+        "I gruppi prostetici delle cromoproteine"
+      ],
+      "answer": 1,
+      "explain": "Nell'Alzheimer la proteina tau iperfosforilata si aggrega all'interno dei neuroni formando i grovigli neurofibrillari, distinti dalle placche amiloidi che si depositano all'esterno. Il collagene e le subunità dell'emoglobina non sono coinvolti in questo processo.",
+      "slide": 107
+    },
+    {
+      "id": "d01-b07-q035",
+      "q": "Quale meccanismo molecolare generale è alla base della malattia di Alzheimer?",
+      "choices": [
+        "La rottura dei legami peptidici con perdita di amminoacidi",
+        "L'aumento della sintesi di ATP mitocondriale",
+        "La mancata sintesi di legami a idrogeno nelle alfa-eliche",
+        "Il ripiegamento errato e l'aggregazione di proteine",
+        "La perdita selettiva del gruppo eme"
+      ],
+      "answer": 3,
+      "explain": "Alla base della malattia di Alzheimer vi è il ripiegamento errato di proteine che si accumulano in aggregati fibrillari tossici per i neuroni. Non si osserva una rottura dei legami peptidici né un aumento della produzione di ATP.",
+      "slide": 107
+    },
+    {
+      "id": "d01-b07-q036",
+      "q": "Quali caratteristiche definiscono le proteine fibrose?",
+      "choices": [
+        "Catene allungate, insolubili in acqua e con funzione strutturale",
+        "Forma sferica, solubili in acqua e con funzione catalitica",
+        "Un solo gruppo prostetico colorato e funzione di trasporto",
+        "Struttura quaternaria obbligatoria e funzione ormonale",
+        "Catene ramificate ricche di zuccheri"
+      ],
+      "answer": 0,
+      "explain": "Le proteine fibrose hanno catene allungate disposte in fasci, sono insolubili in acqua e svolgono funzioni di sostegno o di movimento. La forma sferica e la buona solubilità in acqua sono invece proprietà tipiche delle proteine globulari, per lo più enzimatiche.",
+      "slide": 108
+    },
+    {
+      "id": "d01-b07-q037",
+      "q": "Quale delle seguenti è una proteina fibrosa?",
+      "choices": [
+        "L'emoglobina",
+        "La mioglobina",
+        "La cheratina",
+        "L'albumina",
+        "L'insulina"
+      ],
+      "answer": 2,
+      "explain": "La cheratina è una proteina fibrosa che forma fasci resistenti nella pelle, nei capelli e nelle unghie. Emoglobina, mioglobina, albumina e insulina sono invece proteine globulari e solubili.",
+      "slide": 108
+    },
+    {
+      "id": "d01-b07-q038",
+      "q": "A quale categoria strutturale appartiene la maggior parte delle proteine?",
+      "choices": [
+        "Alle proteine di membrana fibrose",
+        "Alle cromoproteine fibrose",
+        "Alle proteine coniugate fibrose",
+        "Alle proteine strutturali del tessuto connettivo",
+        "Alle proteine globulari"
+      ],
+      "answer": 4,
+      "explain": "La maggior parte delle proteine ha forma globulare, con catene ripiegate in modo compatto e catene laterali apolari rivolte verso l'interno. Le proteine fibrose, come collagene ed elastina, rappresentano una minoranza specializzata nel sostegno meccanico.",
+      "slide": 108
+    },
+    {
+      "id": "d01-b07-q039",
+      "q": "Quale funzione svolge il collagene, proteina fibrosa dei tessuti di sostegno?",
+      "choices": [
+        "Il trasporto dell'ossigeno nel sangue",
+        "Il sostegno strutturale del tessuto connettivo",
+        "La catalisi della sintesi degli acidi grassi",
+        "La difesa immunitaria specifica",
+        "Il trasporto degli elettroni nella respirazione cellulare"
+      ],
+      "answer": 1,
+      "explain": "Il collagene è una proteina fibrosa che forma fasci resistenti e conferisce sostegno meccanico alla matrice extracellulare dei tessuti connettivi. Il trasporto dell'ossigeno è compito delle cromoproteine e non del collagene.",
+      "slide": 108
+    },
+    {
+      "id": "d01-b07-q040",
+      "q": "Actina e miosina, proteine fibrose, sono responsabili principalmente di quale funzione?",
+      "choices": [
+        "Del trasporto dei lipidi nel plasma",
+        "Della coagulazione del sangue",
+        "Della sintesi degli ormoni steroidei",
+        "Della contrazione muscolare",
+        "Del trasporto dell'ossigeno ai muscoli"
+      ],
+      "answer": 3,
+      "explain": "Actina e miosina sono proteine fibrose che, interagendo tra loro, generano la forza necessaria alla contrazione delle cellule muscolari. Il trasporto dei lipidi nel plasma è invece affidato alle lipoproteine.",
+      "slide": 108
+    },
+    {
+      "id": "d01-b07-q041",
+      "q": "Che cosa si intende per proteina coniugata?",
+      "choices": [
+        "Una proteina associata a una componente non proteica di natura diversa",
+        "Una proteina formata da due catene polipeptidiche identiche",
+        "Una proteina priva di struttura secondaria regolare",
+        "Una proteina ottenuta per idrolisi parziale della catena",
+        "Una proteina che ha perso la funzione biologica per denaturazione"
+      ],
+      "answer": 0,
+      "explain": "Una proteina coniugata è formata da una parte proteica associata, in modo covalente o non covalente, a una componente di natura diversa, come zuccheri, lipidi o gruppi colorati. Due catene identiche unite tra loro formano invece una proteina con struttura quaternaria, non una proteina coniugata.",
+      "slide": 109
+    },
+    {
+      "id": "d01-b07-q042",
+      "q": "Quale componente caratterizza le glicoproteine?",
+      "choices": [
+        "Una porzione lipidica",
+        "Un gruppo eme contenente ferro",
+        "Una porzione glucidica",
+        "Un gruppo fosfato inorganico",
+        "Un nucleotide ciclico"
+      ],
+      "answer": 2,
+      "explain": "Le glicoproteine contengono una porzione glucidica legata alla catena proteica e sono presenti, per esempio, nelle membrane cellulari e in molte proteine plasmatiche. Il gruppo eme con ferro caratterizza invece le cromoproteine come l'emoglobina.",
+      "slide": 109
+    },
+    {
+      "id": "d01-b07-q043",
+      "q": "Che cosa sono le lipoproteine?",
+      "choices": [
+        "Proteine fibrose che formano i fasci del tessuto connettivo",
+        "Enzimi che degradano i trigliceridi assorbiti nel fegato",
+        "Proteine legate a ioni metallici e a gruppi colorati",
+        "Aggregati di amminoacidi liberi e di zuccheri semplici",
+        "Complessi di proteine e lipidi che trasportano i lipidi nel sangue"
+      ],
+      "answer": 4,
+      "explain": "Le lipoproteine sono complessi costituiti da proteine e lipidi che permettono il trasporto dei lipidi, insolubili in acqua, nel torrente sanguigno. Non sono enzimi degradativi né fibre strutturali.",
+      "slide": 109
+    },
+    {
+      "id": "d01-b07-q044",
+      "q": "Che cosa contraddistingue le cromoproteine?",
+      "choices": [
+        "L'assenza di legami peptidici nella catena proteica",
+        "La presenza di un gruppo prostetico colorato contenente un metallo",
+        "La presenza di una componente glucidica come unica parte non proteica",
+        "L'elevata insolubilità in acqua, che le rende fibre strutturali",
+        "La capacità di catalizzare la replicazione del DNA cellulare"
+      ],
+      "answer": 1,
+      "explain": "Le cromoproteine sono proteine coniugate dotate di un gruppo prostetico colorato, spesso contenente un metallo capace di legare l'ossigeno o di trasferire elettroni. La sola componente glucidica definisce invece le glicoproteine.",
+      "slide": 109
+    },
+    {
+      "id": "d01-b07-q045",
+      "q": "Come si definisce la porzione non proteica legata covalentemente a una proteina coniugata?",
+      "choices": [
+        "Catena laterale",
+        "Peptide segnale",
+        "Subunità",
+        "Gruppo prostetico",
+        "Legame peptidico"
+      ],
+      "answer": 3,
+      "explain": "La porzione non proteica legata covalentemente alla proteina è chiamata gruppo prostetico, come l'eme dell'emoglobina. Il termine subunità indica invece ciascuna catena polipeptidica di un complesso con struttura quaternaria.",
+      "slide": 109
+    },
+    {
+      "id": "d01-b07-q046",
+      "q": "Perché l'ossigeno deve essere trasportato da proteine specializzate come l'emoglobina?",
+      "choices": [
+        "Perché la sua solubilità in acqua è molto bassa",
+        "Perché è una molecola carica che non diffonde",
+        "Perché reagisce con l'acqua formando acidi",
+        "Perché non può attraversare le membrane cellulari",
+        "Perché viene consumato prima di raggiungere i tessuti"
+      ],
+      "answer": 0,
+      "explain": "L'ossigeno è poco solubile in acqua e la sua quantità disciolta nel plasma sarebbe insufficiente a sostenere il metabolismo dei tessuti. Per questo viene legato reversibilmente a cromoproteine come emoglobina e mioglobina, che ne aumentano enormemente la capacità di trasporto.",
+      "slide": 110
+    },
+    {
+      "id": "d01-b07-q047",
+      "q": "Dove si trova principalmente la mioglobina?",
+      "choices": [
+        "Nei globuli rossi del sangue",
+        "Nel plasma sanguigno e nella linfa",
+        "Nel miocardio e nei muscoli scheletrici",
+        "Nel tessuto connettivo e nella pelle",
+        "Nel fegato, nel rene e nel pancreas"
+      ],
+      "answer": 2,
+      "explain": "La mioglobina si trova nel miocardio e nel muscolo scheletrico, dove funge da riserva locale di ossigeno. Nei globuli rossi è invece contenuta l'emoglobina, che trasporta l'ossigeno a tutto l'organismo.",
+      "slide": 110
+    },
+    {
+      "id": "d01-b07-q048",
+      "q": "In quale sede è contenuta prevalentemente l'emoglobina?",
+      "choices": [
+        "Nel miocardio",
+        "Nel muscolo scheletrico",
+        "Nel plasma",
+        "Nelle membrane cellulari",
+        "Nei globuli rossi"
+      ],
+      "answer": 4,
+      "explain": "L'emoglobina è contenuta nei globuli rossi, dove occupa gran parte del volume cellulare e trasporta l'ossigeno dai polmoni ai tessuti. La mioglobina, pur avendo struttura simile, è localizzata nel muscolo.",
+      "slide": 110
+    },
+    {
+      "id": "d01-b07-q049",
+      "q": "Da quali due componenti è formata l'emoglobina?",
+      "choices": [
+        "Dall'albumina e dal gruppo eme",
+        "Dalla globina e dal gruppo eme",
+        "Dalla globina e da una porzione glucidica",
+        "Dalla cheratina e dal ferro",
+        "Da due catene di acidi grassi e dal ferro"
+      ],
+      "answer": 1,
+      "explain": "Emoglobina e mioglobina sono cromoproteine formate da una parte proteica, la globina, e da un gruppo prostetico non proteico, l'eme. La porzione glucidica e le catene di acidi grassi appartengono ad altre classi di proteine coniugate.",
+      "slide": 110
+    },
+    {
+      "id": "d01-b07-q050",
+      "q": "Quale atomo metallico è contenuto nel gruppo eme delle cromoproteine che trasportano l'ossigeno?",
+      "choices": [
+        "Il rame",
+        "Lo zinco",
+        "Il magnesio",
+        "Il ferro",
+        "Il calcio"
+      ],
+      "answer": 3,
+      "explain": "Il gruppo eme contiene un atomo di ferro che, nello stato ferroso, lega reversibilmente la molecola di ossigeno. Rame, zinco, magnesio e calcio svolgono altri ruoli biologici ma non sono il metallo centrale dell'eme.",
+      "slide": 110
+    }
+  ]
+}

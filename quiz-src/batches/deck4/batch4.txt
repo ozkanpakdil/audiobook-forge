@@ -1,0 +1,74 @@
+# Deck 4 — Metabolismo del colesterolo e delle proteine (2025-11-05)
+# Batch 4 — argomento: Biosintesi endogena del colesterolo, sua regolazione e statine
+# Slide da 31 a 39
+
+### Slide 31
+SINTESI ENDOGENA di COLESTEROLO
+➢ La sintesi di colesterolo avviene in tutte le cellule, ma è
+preminente in fegato (10-20% del totale), intestino,
+corteccia surrenale e tessuti riproduttivi (ovaie, testicoli,
+placenta)
+➢ Nel tessuto nervoso il colesterolo è un importante
+costituente delle guaine mieliniche, nella pelle è un
+precursore della vitamina D
+➢ La sintesi di colesterolo richiede 18 acetilCoA, 18 ATP e
+16 NADPH, ed avviene per lo più nel fegato.
+
+### Slide 32
+➢ E' prodotto dal fegato a partire dagli acidi grassi saturi, e la sua sintesi è influenzata
+da fattori genetici, esercizio fisico, stress emotivi, l'assunzione di fibre con la dieta.
+➢ La sintesi di colesterolo ha un ritmo circadiano, che dipende dall’introduzione di
+colesterolo con la dieta: è minima a mezzogiorno e massima a mezzanotte.
+
+### Slide 33
+La sintesi del colesterolo si svolge in quattro TAPPE:
+1. condensazione di tre unità di acetato, per formare un intermedio a sei atomi di
+carbonio, il mevalonato
+2. conversione del mevalonato in unità isopreniche attivate
+3. polimerizzazione di unità isopreniche a cinque atomi di carbonio, per formare lo
+squalene, un composto lineare a 30 atomi di carbonio
+4. ciclizzazione dello squalene per formare il nucleo steroideo a quattro anelli, da cui,
+attraverso una serie di altre modifiche (ossidazioni, rimozione o migrazione di gruppi
+metilici), si forma il colesterolo
+
+### Slide 34
+Biosintesi del colesterolo:
+4 TAPPE
+CITOSOL
+
+### Slide 35
+➢ La sintesi del colesterolo è un processo molto complesso che consuma energia.
+➢ L’eccesso di colesterolo non può essere catabolizzato come combustibile
+metabolico e deve quindi essere escreto.
+➢ Perciò, è chiaramente vantaggioso per un organismo regolare la sintesi del
+colesterolo in modo da integrare la quantità di questo lipide assunta nella dieta.
+
+### Slide 36
+REGOLAZIONE
+SINTESI ENDOGENA
+di COLESTEROLO
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 37
+REGOLAZIONE SINTESI ENDOGENA di COLESTEROLO: STATINE
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 38
+Determinazione del COLESTEROLO nel SANGUE:
+➢ Prelievo di sangue
+➢ Metodo enzimatico-colorimetrico: misura il
+colesterolo tramite una serie di reazioni chimiche che
+producono un colorante la cui intensità viene misurata
+fotometricamente
+
+### Slide 39
+Metodo di determinazione del COLESTEROLO nel SANGUE:
+➢ La reazione impiega enzimi come la colesterolo esterasi e
+la colesterolo ossidasi: ossida il colesterolo per produrre
+perossido di idrogeno, che a sua volta reagisce con una
+sostanza per generare un colorante o una fluorescenza,
+direttamente proporzionale alla concentrazione di colesterolo.
+➢ Il metodo può essere adattato per misurare il colesterolo
+LDL, utilizzando dei "surfattanti" che solubilizzano
+selettivamente le LDL e inibiscono le reazioni con altre
+lipoproteine.

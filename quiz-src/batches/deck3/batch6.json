@@ -1,0 +1,707 @@
+{
+ "deck": 3,
+ "batch": 6,
+ "topic": "Vitamina B12 e lipogenesi: sintesi e regolazione degli acidi grassi",
+ "questions": [
+  {
+   "id": "d03-b06-q001",
+   "q": "Quali alimenti sono considerati le fonti più ricche di vitamina B12?",
+   "choices": [
+    "Fegato, molluschi e alcuni tipi di pesce",
+    "Latte vaccino, formaggi freschi",
+    "Uova, burro",
+    "Legumi, cereali integrali e verdure",
+    "Olio di oliva, miele e frutta secca"
+   ],
+   "answer": 0,
+   "explain": "La vitamina B12 è contenuta in quantità adeguate negli alimenti di origine animale e le fonti più ricche sono fegato, molluschi e alcuni pesci. Legumi, cereali e verdure non la contengono in misura utile, perché la vitamina è prodotta da microrganismi e non dalle piante.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q002",
+   "q": "Perché a chi segue una dieta completamente vegana viene consigliato il ricorso a integratori di vitamina B12?",
+   "choices": [
+    "Perché la frutta fresca ne è priva ma i legumi ne sono ricchissimi",
+    "Perché la cottura dei vegetali distrugge la vitamina B12 in essi contenuta",
+    "Perché gli alimenti vegetali non ne forniscono quantità adeguate",
+    "Perché la vitamina B12 serve solo a chi consuma grandi quantità di carne",
+    "Perché la carenza di vitamina B12 è praticamente assente nei vegani"
+   ],
+   "answer": 2,
+   "explain": "La vitamina B12 è fornita in quantità adeguate dagli alimenti animali, quindi chi esclude completamente questi ultimi deve assumerla con integratori o con prodotti vegetali fortificati. La vitamina non è distribuita in modo utile nei vegetali naturali, per cui la carenza nei vegani non è un evento raro ma un rischio concreto da prevenire.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q003",
+   "q": "Quale condizione patologica dello stomaco è classicamente associata allo sviluppo di una carenza di vitamina B12?",
+   "choices": [
+    "Il reflusso gastroesofageo",
+    "La gastrite acuta da farmaci antinfiammatori",
+    "La sindrome dell'intestino irritabile",
+    "L'anemia perniciosa",
+    "L'ulcera duodenale da Helicobacter pylori"
+   ],
+   "answer": 3,
+   "explain": "L'anemia perniciosa è la condizione in cui un processo patologico a carico dello stomaco compromette l'assorbimento della vitamina B12, causando carenza. Il reflusso e la gastrite acuta non sono i quadri classici di carenza, perché il difetto determinante riguarda la perdita del fattore intrinseco gastrico e non un semplice disturbo funzionale transitorio.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q004",
+   "q": "Quali prodotti, oltre agli integratori, possono contribuire all'apporto di vitamina B12 in una dieta vegana?",
+   "choices": [
+    "Le insalate crude di stagione, ricche di folati",
+    "Le bevande di soia e gli yogurt vegetali fortificati",
+    "I legumi secchi lasciati a bagno, ricchi di ferro",
+    "La frutta secca zuccherata e i semi oleosi",
+    "Il riso bianco e la pasta di semola raffinati"
+   ],
+   "answer": 1,
+   "explain": "Le bevande di soia e gli yogurt vegetali fortificati sono prodotti arricchiti che possono fornire vitamina B12 insieme agli integratori. Il riso, la pasta, le insalate e i legumi non sono fortificati e non contengono la vitamina in quantità significativa, quindi non sostituiscono né l'integratore né un alimento arricchito.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q005",
+   "q": "Quale delle seguenti funzioni biochimiche è svolta dalla vitamina B12 nell'organismo?",
+   "choices": [
+    "È il coenzima delle deidrogenasi della β-ossidazione",
+    "È il coenzima della carbossilasi che porta alla sintesi del malonil-CoA",
+    "È il trasportatore che consente agli acidi grassi attivati di attraversare la membrana mitocondriale interna",
+    "Cede gruppi acetile alla sintesi degli acidi grassi",
+    "Partecipa come coenzima alle reazioni che trasformano il metilmalonil-CoA in succinil-CoA"
+   ],
+   "answer": 4,
+   "explain": "La vitamina B12, nelle sue forme coenzimatiche, è richiesta dalla metilmalonil-CoA mutasi che converte il metilmalonil-CoA in succinil-CoA, oltre che dalla metionina sintasi. Il trasportatore mitocondriale degli acidi grassi attivati è invece la carnitina, mentre il malonil-CoA deriva dall'acetil-CoA per azione della acetil-CoA carbossilasi, che non utilizza la B12.",
+   "slide": 51
+  },
+  {
+   "id": "d03-b06-q006",
+   "q": "Nella conversione metabolica del glucosio in eccesso, in quale forma viene principalmente conservata l'energia nei triacilgliceroli?",
+   "choices": [
+    "Come acidi grassi esterificati al glicerolo",
+    "Come molecole di glicogeno ramificato nel fegato",
+    "Come acidi grassi liberi circolanti nel plasma",
+    "Come corpi chetonici accumulati nel fegato",
+    "Come glucosio fosforilato nel citosol cellulare"
+   ],
+   "answer": 0,
+   "explain": "Il glucosio in eccesso viene convertito in acidi grassi, che vengono esterificati con il glicerolo a formare triacilgliceroli di deposito. Gli acidi grassi liberi circolanti sono solo una forma di trasporto e non la forma di riserva, e i corpi chetonici sono prodotti catabolici che si accumulano solo in condizioni particolari, non il principale deposito energetico.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q007",
+   "q": "Per quale motivo l'organismo converte efficientemente il glucosio in eccesso in acidi grassi invece di accumularlo tutto come glicogeno?",
+   "choices": [
+    "Perché gli acidi grassi forniscono meno energia per grammo rispetto al glicogeno",
+    "Perché il glicogeno non può essere sintetizzato negli esseri umani",
+    "Perché i depositi di glicogeno sono limitati dal richiamo di acqua che esso esercita",
+    "Perché il glicogeno viene ossidato troppo lentamente per essere utile",
+    "Perché il glicogeno può essere conservato solo nel sangue"
+   ],
+   "answer": 2,
+   "explain": "Il glicogeno richiama acqua e questo limita fortemente la quantità che può essere immagazzinata; perciò l'eccesso di carboidrati viene indirizzato verso la sintesi di acidi grassi e di trigliceridi. Gli acidi grassi non forniscono meno energia del glicogeno, ma molta di più per unità di massa, ed è proprio questo che li rende una forma di riserva vantaggiosa.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q008",
+   "q": "Quanto glicogeno può conservare approssimativamente un essere umano adulto nel fegato e nel muscolo?",
+   "choices": [
+    "Alcuni chilogrammi",
+    "Circa dieci chilogrammi",
+    "Poche decine di grammi in totale",
+    "Poche centinaia di grammi",
+    "Circa un chilogrammo e mezzo"
+   ],
+   "answer": 3,
+   "explain": "Le riserve di glicogeno di fegato e muscolo ammontano soltanto a poche centinaia di grammi, quantità appena sufficiente a coprire i fabbisogni energetici per un periodo di circa dodici ore. I chilogrammi indicati nelle altre alternative sono molto superiori alla realtà e corrispondono piuttosto alla massa dei trigliceridi di deposito.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q009",
+   "q": "Per quanto tempo, indicativamente, le riserve di trigliceridi di un uomo di settanta chilogrammi possono sostenere i fabbisogni energetici dell'organismo?",
+   "choices": [
+    "Circa due giorni di digiuno completo",
+    "Circa dodici settimane di digiuno completo",
+    "Circa dodici mesi di digiuno completo",
+    "Circa dodici anni di digiuno completo",
+    "Circa dodici ore di digiuno completo"
+   ],
+   "answer": 1,
+   "explain": "Un uomo di settanta chilogrammi può immagazzinare circa quindici chilogrammi di trigliceridi, riserva che copre i fabbisogni per circa dodici settimane. Le dodici ore corrispondono invece alla riserva di glicogeno, che è molto più piccola e viene esaurita in meno di un giorno.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q010",
+   "q": "Nel tessuto adiposo, da quale via metabolica deriva principalmente il glicerolo necessario per la sintesi dei triacilgliceroli?",
+   "choices": [
+    "Dalla degradazione dei corpi chetonici nel fegato",
+    "Dal ciclo dell'urea, tramite l'arginina e l'ornitina",
+    "Dalla decarbossilazione ossidativa del piruvato",
+    "Dalla β-ossidazione degli acidi grassi mitocondriale",
+    "Dalla glicolisi, tramite il diidrossiacetone fosfato"
+   ],
+   "answer": 4,
+   "explain": "Il glicerolo della struttura dei triacilgliceroli deriva dalla glicolisi: il diidrossiacetone fosfato viene ridotto a glicerolo-3-fosfato, scheletro su cui si esterificano gli acidi grassi. La β-ossidazione demolisce gli acidi grassi invece di fornire lo scheletro del glicerolo, e nel tessuto adiposo la glicerolo chinasi è poco espressa, per cui la via glicolitica è determinante.",
+   "slide": 53
+  },
+  {
+   "id": "d03-b06-q011",
+   "q": "Quando l'apporto di sostanze nutritive supera le esigenze energetiche immediate di una cellula o dell'organismo, che cosa accade all'eccesso?",
+   "choices": [
+    "Viene convertito in acidi grassi e conservato come triacilgliceroli",
+    "Viene trasformato in corpi chetonici ed escreto con le urine",
+    "Viene accumulato come glicogeno senza alcun limite di quantità",
+    "Viene ossidato nel mitocondrio per produrre ATP in eccesso",
+    "Viene eliminato come calore attraverso la respirazione cellulare"
+   ],
+   "answer": 0,
+   "explain": "Quando le esigenze energetiche sono soddisfatte, l'eccesso di nutrienti viene convertito in acidi grassi e immagazzinato sotto forma di lipidi, in particolare triacilgliceroli. La produzione di ATP non può avvenire in eccesso senza accumulo di energia, e l'accumulo di glicogeno è limitato dal richiamo di acqua, quindi non è una riserva illimitata.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q012",
+   "q": "Su quali reazioni si concentra la regolazione metabolica che permette di conservare le risorse ed evitare i cicli futili?",
+   "choices": [
+    "Sulle reazioni comuni a tutte le vie metaboliche della cellula",
+    "Sulle reazioni di idrolisi dei triacilgliceroli nel tessuto adiposo",
+    "Sulle reazioni in cui le vie cataboliche e anaboliche divergono",
+    "Su tutte le reazioni della glicolisi senza distinzione",
+    "Esclusivamente sulle reazioni di trasporto mitocondriale"
+   ],
+   "answer": 2,
+   "explain": "La regolazione si esercita nei punti in cui le vie cataboliche e anaboliche divergono, perché solo lì è possibile controllare una via senza bloccare anche l'altra. Le reazioni condivise non offrono questa possibilità, mentre il trasporto mitocondriale è solo uno dei numerosi bersagli regolatori e non l'unico.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q013",
+   "q": "Che cosa si intende per ciclo futile nel metabolismo lipidico?",
+   "choices": [
+    "Un ciclo che trasforma gli acidi grassi in corpi chetonici nel fegato",
+    "Un ciclo di reazioni che consuma ATP per trasportare elettroni",
+    "Una via che produce ATP senza consumare ossigeno molecolare",
+    "Un ciclo che degrada e risintetizza lo stesso substrato dissipando energia",
+    "Una sequenza di reazioni che si arresta per mancanza di coenzima A"
+   ],
+   "answer": 3,
+   "explain": "Un ciclo futile si verifica quando una via catabolica e una anabolica procedono insieme sullo stesso substrato, cosicché una degrada ciò che l'altra risintetizza e l'energia viene dissipata senza utilità. È proprio questo spreco che la regolazione coordinata delle vie divergenti cerca di prevenire, non un semplice arresto per carenza di coenzima A.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q014",
+   "q": "Nel corpo umano, come si comporta la quantità di grasso corporeo quando l'apporto calorico resta stabile?",
+   "choices": [
+    "Si azzera periodicamente a ogni ciclo di digiuno notturno",
+    "Rimane relativamente costante per lunghi periodi di tempo",
+    "Si riduce inevitabilmente di circa il dieci per cento ogni anno",
+    "Aumenta in modo lineare con l'età indipendentemente dalla dieta",
+    "Oscilla continuamente senza alcuna relazione con le calorie assunte"
+   ],
+   "answer": 1,
+   "explain": "Il grasso corporeo si mantiene relativamente costante per lunghi periodi, pur con lievi variazioni legate alle fluttuazioni dell'apporto calorico. Non si azzera con il digiuno notturno, perché le riserve lipidiche sono molto ampie e vengono mobilitate solo in parte durante le ore di digiuno.",
+   "slide": 57
+  },
+  {
+   "id": "d03-b06-q015",
+   "q": "Che cosa regola la velocità di biosintesi e di degradazione dei triacilgliceroli nell'organismo?",
+   "choices": [
+    "La quantità di acqua corporea e il suo ricambio",
+    "La velocità della filtrazione glomerulare renale",
+    "Soltanto la temperatura corporea e la sudorazione",
+    "La concentrazione plasmatica di ossigeno disciolto",
+    "Le necessità metaboliche del momento, tramite gli ormoni"
+   ],
+   "answer": 4,
+   "explain": "Sintesi e degradazione dei triacilgliceroli sono regolate in base alle necessità metaboliche del momento e sono controllate dall'azione di diversi ormoni. La temperatura corporea e l'ossigenazione plasmatica non sono i segnali che governano questo bilancio, che dipende piuttosto dallo stato nutrizionale e ormonale.",
+   "slide": 57
+  },
+  {
+   "id": "d03-b06-q016",
+   "q": "Quale ormone promuove la conversione dei carboidrati in triacilgliceroli?",
+   "choices": [
+    "Insulina",
+    "Ormone della crescita",
+    "Glucagone",
+    "Adrenalina",
+    "Cortisolo"
+   ],
+   "answer": 0,
+   "explain": "L'insulina promuove la conversione dei carboidrati in triacilgliceroli, favorendo la sintesi lipidica nei momenti di abbondanza di nutrienti. Il glucagone e l'adrenalina hanno invece effetto opposto, perché stimolano la mobilizzazione dei depositi e la degradazione dei lipidi.",
+   "slide": 57
+  },
+  {
+   "id": "d03-b06-q017",
+   "q": "Nella persona con diabete mellito non controllato, la carenza di insulina determina:",
+   "choices": [
+    "L'arresto totale della glicolisi nelle cellule muscolari",
+    "Un aumento della sintesi degli acidi grassi nel fegato",
+    "Una riduzione della sintesi degli acidi grassi con aumento dei corpi chetonici",
+    "La perdita completa della capacità di ossidare gli acidi grassi",
+    "Un aumento della sintesi dei triacilgliceroli nel tessuto adiposo"
+   ],
+   "answer": 2,
+   "explain": "In assenza di insulina la sintesi degli acidi grassi è ridotta e l'acetil-CoA che deriva dal catabolismo di carboidrati e proteine viene indirizzato verso la produzione di corpi chetonici. L'ossidazione degli acidi grassi non viene persa, anzi è spesso aumentata, e la sintesi dei trigliceroli di deposito non risulta stimolata ma ridotta.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q018",
+   "q": "Perché nei soggetti con chetosi grave l'alito può avere odore di acetone?",
+   "choices": [
+    "Perché viene escreto acetone con la bile",
+    "Perché l'acetone è il prodotto finale della glicolisi anaerobia",
+    "Perché l'acetone si forma dalla β-ossidazione nei perossisomi",
+    "Perché l'acetone è uno dei corpi chetonici prodotti in eccesso ed è volatile",
+    "Perché l'acetone deriva dalla degradazione dell'urea nel fegato"
+   ],
+   "answer": 3,
+   "explain": "Nella chetosi grave i corpi chetonici prodotti in eccesso comprendono l'acetone, che è volatile e viene eliminato anche con l'aria espirata, conferendo all'alito un odore caratteristico. L'acetone non deriva dall'urea né dalla glicolisi anaerobia, che porta alla formazione di lattato.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q019",
+   "q": "Quale situazione clinica può essere confusa con uno stato di ebbrezza a causa dell'alito chetonico?",
+   "choices": [
+    "Una lieve anemia sideropenica da carenza di ferro",
+    "Una grave chetosi da diabete mellito non controllato",
+    "Una crisi ipoglicemica lieve da digiuno prolungato",
+    "Una semplice disidratazione estiva da caldo",
+    "Un episodio acuto di gotta con iperuricemia"
+   ],
+   "answer": 1,
+   "explain": "Nella chetosi grave l'alito assume odore di acetone e la condizione può essere scambiata per ebbrezza. Una crisi ipoglicemica o una disidratazione non producono quantità tali di acetone da alterare l'alito, perché la produzione di corpi chetonici massiva dipende dalla carenza insulinica.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q020",
+   "q": "Quale molecola funge da trasportatore degli acidi grassi attivati attraverso la membrana mitocondriale interna?",
+   "choices": [
+    "Il citrato",
+    "L'acetil-CoA",
+    "Il coenzima A",
+    "Il malonil-CoA",
+    "La carnitina"
+   ],
+   "answer": 4,
+   "explain": "Gli acidi grassi attivati non attraversano liberamente la membrana mitocondriale interna e vengono trasferiti sotto forma di acilcarnitina grazie alla carnitina. Il coenzima A non attraversa quella membrana, e il citrato ha un ruolo nel trasporto dell'acetil-CoA verso il citosol per la sintesi degli acidi grassi, non degli acili da ossidare.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q021",
+   "q": "In quale forma deve essere convertito un acido grasso prima di poter essere trasportato nel mitocondrio per la β-ossidazione?",
+   "choices": [
+    "In acil-CoA, attivato dal coenzima A",
+    "In malonil-CoA",
+    "In acetoacetato",
+    "In glicerolo-3-fosfato",
+    "In acido grasso libero non modificato"
+   ],
+   "answer": 0,
+   "explain": "Per entrare nel mitocondrio l'acido grasso deve prima essere attivato a acil-CoA, forma con cui viene poi trasferito dalla carnitina. Il malonil-CoA è invece il primo intermedio della sintesi degli acidi grassi e l'acetoacetato è un corpo chetonico, non una forma di trasporto dell'acido grasso da ossidare.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q022",
+   "q": "Quale coenzima contiene il gruppo acido pantotenico ed è essenziale per attivare gli acidi grassi e per il loro catabolismo?",
+   "choices": [
+    "Il tetraidrofolato, derivato dell'acido folico",
+    "La tiamina pirofosfato, derivata della vitamina B1",
+    "Il coenzima A, che deriva dalla vitamina B5",
+    "La piridossalfosfato, derivata della vitamina B6",
+    "Il NAD fosfato, derivato della niacina"
+   ],
+   "answer": 2,
+   "explain": "Il coenzima A è un derivato della vitamina B5 e il suo gruppo acido pantotenico è la porzione funzionale che lega gli acili, rendendo possibile sia l'attivazione degli acidi grassi sia le reazioni del loro catabolismo. Il tetraidrofolato e la tiamina pirofosfato intervengono in altri tipi di reazioni, rispettivamente nel trasferimento di unità monocarboniose e nella decarbossilazione ossidativa.",
+   "slide": 53
+  },
+  {
+   "id": "d03-b06-q023",
+   "q": "In quali tessuti i deficit di carnitina si manifestano tipicamente con crampi muscolari e profonda astenia?",
+   "choices": [
+    "Nella midollare del surrene",
+    "Nel cristallino",
+    "Nella cartilagine articolare",
+    "Nel muscolo scheletrico",
+    "Nel tessuto adiposo bianco"
+   ],
+   "answer": 3,
+   "explain": "Il deficit di carnitina compromette il trasporto degli acidi grassi nel mitocondrio e colpisce in particolare il muscolo scheletrico, che dipende molto dall'ossidazione lipidica e manifesta crampi e astenia profonda. Il tessuto adiposo e la cartilagine non hanno una dipendenza comparabile dalla β-ossidazione, quindi non sono i distretti tipicamente sintomatici.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q024",
+   "q": "In quale compartimento cellulare si svolge la β-ossidazione degli acidi grassi?",
+   "choices": [
+    "Nel reticolo endoplasmatico liscio",
+    "Nel mitocondrio",
+    "Nell'apparato di Golgi",
+    "Nel nucleo",
+    "Nel citosol"
+   ],
+   "answer": 1,
+   "explain": "La β-ossidazione si svolge nel mitocondrio, dove si trovano gli enzimi del ciclo e la catena respiratoria che ne utilizza i coenzimi ridotti. Nel citosol avviene invece la sintesi degli acidi grassi, separazione che evita che le due vie procedano contemporaneamente sullo stesso substrato.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q025",
+   "q": "Che cosa ostacola la biosintesi degli acidi grassi nel citosol durante un'attiva β-ossidazione mitocondriale?",
+   "choices": [
+    "La carenza di ossigeno nella matrice mitocondriale interna",
+    "La presenza di carnitina libera nel citosol del fegato",
+    "L'aumento del glucosio plasmatico e della glicolisi",
+    "La riduzione del pH citoplasmatico durante lo sforzo",
+    "L'accumulo di acil-CoA che inibisce la carbossilazione"
+   ],
+   "answer": 4,
+   "explain": "Quando la β-ossidazione è attiva, l'acil-CoA accumulatesi nel citosol inibisce la acetil-CoA carbossilasi, l'enzima che produce il malonil-CoA necessario alla sintesi degli acidi grassi. Questo meccanismo impedisce che sintesi e degradazione procedano insieme, evitando un ciclo futile; la carnitina non è un inibitore, ma il vettore del trasporto mitocondriale.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q026",
+   "q": "Quali sono i prodotti formatisi in ciascun ciclo completo di β-ossidazione di un acido grasso?",
+   "choices": [
+    "Una di acetil-CoA, una di NADH e una di FADH2",
+    "Due molecole di acetil-CoA e una di ATP per ciclo",
+    "Una molecola di malonil-CoA e una di NADPH ridotto",
+    "Una molecola di piruvato e una di NADH citosolico",
+    "Una molecola di acetoacetato e una di FAD ossidato"
+   ],
+   "answer": 0,
+   "explain": "Ogni ciclo di β-ossidazione accorcia la catena di due atomi di carbonio e libera una molecola di acetil-CoA, insieme a NADH e FADH2 ridotti. Il malonil-CoA appartiene alla via biosintetica, che consuma NADPH invece di produrre coenzimi ridotti, quindi non può essere un prodotto del ciclo ossidativo.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q027",
+   "q": "Da quali coenzimi ossidoriduttivi dipendono le deidrogenasi della β-ossidazione?",
+   "choices": [
+    "Dalla tiamina pirofosfato e dal NADP",
+    "Dal NADP e dal citocromo c",
+    "Dal NAD e dal FAD",
+    "Dal coenzima Q e dalla biotina",
+    "Dal tetraidrofolato e dal NAD"
+   ],
+   "answer": 2,
+   "explain": "Le deidrogenasi della β-ossidazione utilizzano NAD e FAD come accettori di elettroni, e i coenzimi ridotti prodotti alimentano la catena respiratoria con conseguente sintesi di ATP. Il NADP interviene invece nella via biosintetica come donatore di potere riducente, dove è richiesto NADPH e non NADH.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q028",
+   "q": "Perché un acido grasso a catena molto lunga viene prima ossidato nei perossisomi e solo in seguito nel mitocondrio?",
+   "choices": [
+    "Perché i perossisomi producono ATP in quantità superiore al mitocondrio",
+    "Perché nel mitocondrio avviene soltanto la sintesi degli acidi grassi",
+    "Perché il mitocondrio non contiene enzimi per gli acidi grassi a catena corta",
+    "Perché non possono essere trasferiti nel mitocondrio e vanno accorciati",
+    "Perché la carnitina è assente nel fegato e nel muscolo"
+   ],
+   "answer": 3,
+   "explain": "Gli acidi grassi a catena molto lunga vengono accorciati nei perossisomi perché non sono trasferiti in modo efficiente attraverso il sistema della carnitina verso la matrice mitocondriale. I perossisomi non producono ATP, anzi generano calore, e nel mitocondrio la β-ossidazione è pienamente funzionante per gli acidi grassi a catena lunga e media.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q029",
+   "q": "Quante molecole di acetil-CoA si ottengono dall'ossidazione completa di una molecola di acido palmitico, che contiene sedici atomi di carbonio?",
+   "choices": [
+    "Sette molecole di acetil-CoA",
+    "Otto molecole di acetil-CoA",
+    "Quattordici molecole di acetil-CoA",
+    "Sedici molecole di acetil-CoA",
+    "Quattro molecole di acetil-CoA"
+   ],
+   "answer": 1,
+   "explain": "Poiché ogni acetil-CoA contiene due atomi di carbonio e il palmitato ne possiede sedici, l'ossidazione completa produce otto molecole di acetil-CoA. Le sette molecole corrispondono invece al numero di cicli di β-ossidazione necessari, che è uno in meno rispetto al numero di unità acetiliche liberate.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q030",
+   "q": "Quanti cicli di β-ossidazione sono necessari per degradare completamente l'acido palmitico a unità acetiliche?",
+   "choices": [
+    "Sedici cicli",
+    "Quattordici cicli",
+    "Quattro cicli",
+    "Otto cicli",
+    "Sette cicli"
+   ],
+   "answer": 4,
+   "explain": "Un acido grasso a sedici atomi di carbonio richiede sette cicli di β-ossidazione, perché l'ultimo ciclo libera due molecole di acetil-CoA. Dire otto cicli è l'errore più frequente: otto è il numero di acetil-CoA prodotti, non il numero di cicli, che è sempre inferiore di uno.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q031",
+   "q": "Quale vitamina è il precursore del coenzima A, indispensabile per il catabolismo degli acidi grassi?",
+   "choices": [
+    "La vitamina B5",
+    "La vitamina C",
+    "La vitamina B12",
+    "La vitamina B1",
+    "La vitamina B6"
+   ],
+   "answer": 0,
+   "explain": "Il coenzima A deriva dalla vitamina B5, il cui gruppo acido pantotenico costituisce la parte reattiva della molecola. La vitamina B12 e la vitamina B1 svolgono funzioni diverse, rispettivamente nelle reazioni della metilmalonil-CoA mutasi e nella decarbossilazione ossidativa del piruvato.",
+   "slide": 53
+  },
+  {
+   "id": "d03-b06-q032",
+   "q": "Quale affermazione descrive correttamente il rapporto tra glicogeno e trigliceridi come riserve energetiche?",
+   "choices": [
+    "Il glicogeno è la riserva più abbondante e più duratura dell'organismo",
+    "I trigliceridi non possono essere mobilizzati durante il digiuno prolungato",
+    "Il glicogeno copre circa dodici ore e i trigliceridi circa dodici settimane",
+    "Il glicogeno copre circa dodici settimane e i trigliceridi circa dodici ore",
+    "Entrambe le riserve coprono i fabbisogni per periodi di durata simile, circa un mese"
+   ],
+   "answer": 2,
+   "explain": "La riserva di glicogeno è piccola e copre i fabbisogni per circa dodici ore, mentre i trigliceridi di deposito possono sostenere l'organismo per circa dodici settimane. Invertire i due periodi è un errore concettuale, perché il glicogeno è la riserva a breve termine e i lipidi quella a lungo termine.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q033",
+   "q": "Quale tra questi coenzimi è direttamente coinvolto nella reazione catalizzata dalla metilmalonil-CoA mutasi?",
+   "choices": [
+    "Il tetraidrofolato, che trasferisce unità monocarboniose",
+    "Il coenzima A, che attiva gli acidi grassi",
+    "La biotina, coenzima delle reazioni di carbossilazione",
+    "L'adenosilcobalamina, forma coenzimatica della vitamina B12",
+    "Il piridossalfosfato, coenzima delle transaminasi"
+   ],
+   "answer": 3,
+   "explain": "La metilmalonil-CoA mutasi richiede adenosilcobalamina, una delle forme coenzimatiche della vitamina B12, per riarrangiare il metilmalonil-CoA in succinil-CoA. La biotina interviene nelle reazioni di carbossilazione e il tetraidrofolato nel trasferimento di unità monocarboniose, ma nessuno dei due catalizza questa isomerizzazione.",
+   "slide": 51
+  },
+  {
+   "id": "d03-b06-q034",
+   "q": "Quale enzima epatico utilizza la metilcobalamina, forma coenzimatica della vitamina B12?",
+   "choices": [
+    "La glicogeno fosforilasi",
+    "La metionina sintasi",
+    "La piruvato chinasi",
+    "La acetil-CoA carbossilasi",
+    "La carnitina aciltransferasi"
+   ],
+   "answer": 1,
+   "explain": "La metionina sintasi utilizza la metilcobalamina per rigenerare la metionina a partire dalla omocisteina, reazione collegata al metabolismo dei folati. La acetil-CoA carbossilasi e la carnitina aciltransferasi operano nel metabolismo lipidico e non dipendono dalla vitamina B12.",
+   "slide": 51
+  },
+  {
+   "id": "d03-b06-q035",
+   "q": "Quale via metabolica viene stimolata dall'insulina nel tessuto adiposo?",
+   "choices": [
+    "La chetogenesi epatica con produzione di acetone",
+    "La lipolisi dei trigliceridi accumulati nel tessuto",
+    "La gluconeogenesi epatica a partire dagli aminoacidi",
+    "La β-ossidazione degli acidi grassi nel mitocondrio",
+    "La conversione dei carboidrati in grassi di deposito"
+   ],
+   "answer": 4,
+   "explain": "L'insulina stimola la conversione dei carboidrati e delle proteine della dieta in grassi, favorendo la sintesi dei trigliceroli nel tessuto adiposo. La lipolisi e la chetogenesi sono processi che si attivano quando l'insulina è bassa, cioè durante il digiuno o nel diabete non controllato.",
+   "slide": 57
+  },
+  {
+   "id": "d03-b06-q036",
+   "q": "Perché la regolazione coordinata delle vie anaboliche e cataboliche dei lipidi è vantaggiosa per l'organismo?",
+   "choices": [
+    "Perché conserva le risorse energetiche ed evita i cicli futili",
+    "Perché blocca in modo permanente la β-ossidazione",
+    "Perché elimina la necessità di coenzimi in forma ridotta",
+    "Perché rende superflua la sintesi proteica",
+    "Perché impedisce l'ingresso degli acidi grassi nel mitocondrio"
+   ],
+   "answer": 0,
+   "explain": "Regolare insieme le vie che divergono permette di attivare solo la via necessaria al momento, conservando energia e materia ed evitando che un ciclo futile dissipi risorse. Non si tratta di un blocco permanente della β-ossidazione, perché in condizione di digiuno questa via deve invece diventare pienamente attiva.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q037",
+   "q": "In una persona con diabete mellito scompensato, da quale origine deriva principalmente l'acetil-CoA che viene deviato verso la sintesi dei corpi chetonici?",
+   "choices": [
+    "Dal ciclo dell'urea epatico",
+    "Dalla sintesi degli acidi grassi nel citosol",
+    "Dal catabolismo dei carboidrati e delle proteine",
+    "Dalla degradazione dei nucleotidi purinici",
+    "Dalla decarbossilazione del malonil-CoA"
+   ],
+   "answer": 2,
+   "explain": "In assenza di insulina l'acetil-CoA che deriva dal catabolismo di carboidrati e proteine non viene utilizzato per la sintesi degli acidi grassi, ma è deviato verso la produzione di corpi chetonici. Il malonil-CoA non è una fonte di acetil-CoA in questa condizione, perché viene prodotto proprio dalla via biosintetica che risulta ridotta.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q038",
+   "q": "Quale conseguenza metabolica ha la carenza di insulina sul tessuto adiposo?",
+   "choices": [
+    "Un aumento dell'assorbimento intestinale di glucosio",
+    "La scomparsa della carnitina dal muscolo scheletrico",
+    "Un aumento della conversione dei carboidrati in trigliceroli",
+    "Meno sintesi di acidi grassi e più mobilizzazione dei depositi",
+    "Un blocco completo della β-ossidazione degli acidi grassi"
+   ],
+   "answer": 3,
+   "explain": "Senza insulina la sintesi degli acidi grassi nel tessuto adiposo diminuisce e i depositi lipidici vengono mobilizzati, con aumento degli acidi grassi liberi in circolo. La β-ossidazione non si blocca, al contrario si intensifica e la grande quantità di acetil-CoA prodotta alimenta la chetogenesi epatica.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q039",
+   "q": "Quale tra le seguenti affermazioni sul destino metabolico dell'acetil-CoA è corretta?",
+   "choices": [
+    "L'acetil-CoA può essere convertito in glucosio nel fegato umano",
+    "L'acetil-CoA in eccesso va alla sintesi dei grassi o alla chetogenesi",
+    "L'acetil-CoA può essere ossidato direttamente a urea nel fegato",
+    "L'acetil-CoA è il precursore diretto del glicogeno muscolare",
+    "L'acetil-CoA viene escreto invariato con la bile nel duodeno"
+   ],
+   "answer": 1,
+   "explain": "L'acetil-CoA è un intermedio centrale che, in condizione di abbondanza di nutrienti, può essere indirizzato alla sintesi degli acidi grassi, mentre in carenza di insulina viene deviato verso la produzione di corpi chetonici. Nell'uomo l'acetil-CoA non può essere convertito in glucosio, perché il piruvato deidrogenasi catalizza una reazione irreversibile e non esiste una via alternativa netta.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q040",
+   "q": "Perché un animale non può sopravvivere a lungo affidandosi soltanto alle riserve di glicogeno?",
+   "choices": [
+    "Perché il glicogeno non fornisce glucosio al cervello",
+    "Perché il glicogeno viene escreto con le urine e la bile",
+    "Perché il glicogeno contiene troppo azoto per essere usato",
+    "Perché il glicogeno non può essere degradato nel fegato",
+    "Perché la riserva di glicogeno si esaurisce in circa dodici ore"
+   ],
+   "answer": 4,
+   "explain": "Il glicogeno rappresenta una riserva quantitativamente limitata, appena sufficiente a coprire i fabbisogni per circa dodici ore, quindi non può sostenere l'organismo per periodi prolungati. Il fegato degrada attivamente il glicogeno per mantenere la glicemia e il glicogeno non contiene azoto, essendo un polimero di glucosio.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q041",
+   "q": "Quale delle seguenti condizioni si associa più direttamente a un difetto dell'assorbimento della vitamina B12 per alterata funzione gastrica?",
+   "choices": [
+    "L'anemia perniciosa",
+    "La carenza di vitamina C da scorbuto",
+    "Il rachitismo da carenza di vitamina D",
+    "La xeroftalmia da carenza di vitamina A",
+    "La carenza di ferro da menorragia"
+   ],
+   "answer": 0,
+   "explain": "L'anemia perniciosa consegue a processi patologici dello stomaco che compromettono l'assorbimento della vitamina B12. La carenza di ferro da menorragia è dovuta a perdite ematiche e non a un difetto gastrico di assorbimento della B12, anche se anch'essa può causare anemia.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q042",
+   "q": "Quale dei seguenti alimenti contiene quantità trascurabili di vitamina B12?",
+   "choices": [
+    "I molluschi di mare",
+    "Il pesce azzurro fresco",
+    "Le verdure a foglia",
+    "Le carni rosse magre",
+    "Il fegato di bovino"
+   ],
+   "answer": 2,
+   "explain": "Le verdure a foglia non contengono quantità significative di vitamina B12, che è presente invece negli alimenti di origine animale come fegato, molluschi e pesce. È proprio questa assenza nei vegetali la ragione per cui una dieta vegana richiede integrazione della vitamina.",
+   "slide": 52
+  },
+  {
+   "id": "d03-b06-q043",
+   "q": "Perché nel digiuno prolungato la β-ossidazione epatica aumenta la produzione di acetil-CoA oltre la capacità del ciclo di Krebs?",
+   "choices": [
+    "Perché la carnitina inibisce il ciclo di Krebs nel fegato",
+    "Perché il fegato esporta l'acetil-CoA in eccesso nel sangue",
+    "Perché il fegato smette di esprimere gli enzimi del ciclo di Krebs",
+    "Perché la β-ossidazione produce più acetil-CoA di quanto il fegato ossidi",
+    "Perché nel digiuno prolungato il coenzima A viene degradato"
+   ],
+   "answer": 3,
+   "explain": "Nel digiuno prolungato la β-ossidazione produce acetil-CoA in quantità superiore alla capacità ossidativa del ciclo di Krebs epatico, e l'eccesso viene convertito in corpi chetonici destinati agli altri tessuti. Il fegato non esporta acetil-CoA libero nel sangue, perché questa molecola non attraversa la membrana plasmatica, e gli enzimi del ciclo di Krebs restano presenti.",
+   "slide": 58
+  },
+  {
+   "id": "d03-b06-q044",
+   "q": "Quale affermazione descrive correttamente la funzione della carnitina nel metabolismo degli acidi grassi?",
+   "choices": [
+    "La carnitina è una vitamina idrosolubile che partecipa alla chetogenesi",
+    "La carnitina forma acilcarnitina e fa entrare gli acidi grassi nel mitocondrio",
+    "La carnitina è il coenzima delle deidrogenasi della β-ossidazione",
+    "La carnitina è la forma di deposito degli acidi grassi nel tessuto adiposo",
+    "La carnitina è una vitamina liposolubile necessaria alla sintesi dei trigliceroli"
+   ],
+   "answer": 1,
+   "explain": "La carnitina lega gli acidi grassi attivati formando acilcarnitina, che può attraversare la membrana mitocondriale interna e consentire l'ingresso degli acili nella matrice. Non è una forma di deposito né un coenzima delle deidrogenasi, ma un trasportatore specifico del sistema della carnitina aciltransferasi.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q045",
+   "q": "In un lattante con deficit del trasportatore della carnitina, quale sintomo ci si attende durante il digiuno?",
+   "choices": [
+    "Un'itterizia neonatale con iperbilirubinemia coniugata",
+    "Una carenza di vitamina B12 con anemia macrocitica",
+    "Un'ipertensione arteriosa resistente alla terapia",
+    "Una poliuria con disidratazione e perdita di peso",
+    "Crampi muscolari e astenia da ridotta ossidazione lipidica"
+   ],
+   "answer": 4,
+   "explain": "Se il trasporto della carnitina è difettoso, gli acidi grassi non entrano nel mitocondrio e il muscolo, che dipende dall'ossidazione lipidica durante il digiuno, presenta crampi e astenia profonda. Un'itterizia o un'ipertensione non sono conseguenze dirette di un difetto del trasporto degli acili, che interessa primariamente il metabolismo energetico muscolare.",
+   "slide": 54
+  },
+  {
+   "id": "d03-b06-q046",
+   "q": "Quale delle seguenti sostanze è chimicamente correlata alla vitamina B5 e costituisce la porzione reattiva del coenzima A?",
+   "choices": [
+    "L'acido pantotenico, cioè la vitamina B5",
+    "L'acido nicotinico, cioè la niacina",
+    "Il tocoferolo, cioè la vitamina E",
+    "Il retinolo, cioè la vitamina A",
+    "La cobalamina, cioè la vitamina B12"
+   ],
+   "answer": 0,
+   "explain": "L'acido pantotenico è la vitamina B5 e forma la porzione reattiva del coenzima A, responsabile del legame con i gruppi acilici. La cobalamina corrisponde alla vitamina B12 e l'acido nicotinico alla niacina, vitamine che svolgono funzioni diverse nel metabolismo ossidoriduttivo.",
+   "slide": 53
+  },
+  {
+   "id": "d03-b06-q047",
+   "q": "Un soggetto assume una dieta ricca di carboidrati molto superiore al fabbisogno. Quale adattamento metabolico ci si attende nel tessuto adiposo?",
+   "choices": [
+    "Un aumento della gluconeogenesi epatica dagli aminoacidi",
+    "Un aumento della lipolisi con rilascio di acidi grassi nel sangue",
+    "Un aumento della sintesi di acidi grassi e della loro esterificazione",
+    "Un aumento della produzione epatica di corpi chetonici",
+    "Una riduzione del trasporto del glucosio nelle cellule adipose"
+   ],
+   "answer": 2,
+   "explain": "Quando l'apporto di carboidrati supera il fabbisogno, l'eccesso viene convertito in acidi grassi e quindi esterificato in triacilgliceroli di deposito nel tessuto adiposo, processo promosso dall'insulina. La lipolisi e la chetogenesi si attivano invece quando l'apporto energetico è insufficiente o l'insulina è carente.",
+   "slide": 57
+  },
+  {
+   "id": "d03-b06-q048",
+   "q": "Quale delle seguenti coppie vitamina-funzione è corretta?",
+   "choices": [
+    "Vitamina B12, trasporto degli acili nel mitocondrio",
+    "Vitamina B5, coenzima delle reazioni della metilmalonil-CoA mutasi",
+    "Vitamina B12, formazione del coenzima A",
+    "Vitamina B5, costituente del coenzima A",
+    "Vitamina B12, sintesi del malonil-CoA"
+   ],
+   "answer": 3,
+   "explain": "La vitamina B5, cioè l'acido pantotenico, è il costituente del coenzima A e quindi partecipa all'attivazione degli acidi grassi. Le vitamine B12 e B5 non hanno il ruolo di trasportatore mitocondriale né quello di coenzima della carbossilazione che produce il malonil-CoA, che spettano rispettivamente alla carnitina e alla biotina.",
+   "slide": 53
+  },
+  {
+   "id": "d03-b06-q049",
+   "q": "Perché in una cellula che dispone di abbondante acetil-CoA citosolico la carbossilazione a malonil-CoA rappresenta il passaggio limitante della sintesi degli acidi grassi?",
+   "choices": [
+    "Perché il malonil-CoA è un corpo chetonico prodotto dal fegato",
+    "Perché il malonil-CoA dona i due atomi di carbonio che allungano la catena",
+    "Perché il malonil-CoA inibisce il trasporto mitocondriale della carnitina",
+    "Perché il malonil-CoA rappresenta il prodotto finale della via biosintetica",
+    "Perché il malonil-CoA deriva dalla β-ossidazione mitocondriale"
+   ],
+   "answer": 1,
+   "explain": "La sintesi degli acidi grassi procede per aggiunta successiva di unità bicarboniose fornite dal malonil-CoA, quindi la reazione che lo produce, catalizzata dalla acetil-CoA carbossilasi, controlla la velocità dell'intera via. Il malonil-CoA non è il prodotto finale, né un corpo chetonico, ma l'intermedio attivato che alimenta l'allungamento della catena.",
+   "slide": 55
+  },
+  {
+   "id": "d03-b06-q050",
+   "q": "Quale tra le seguenti affermazioni riassume correttamente il rapporto tra disponibilità di nutrienti e metabolismo lipidico?",
+   "choices": [
+    "In abbondanza di nutrienti prevale sempre la β-ossidazione",
+    "La sintesi e la degradazione dei lipidi procedono sempre con la stessa velocità",
+    "La disponibilità di nutrienti non influenza il metabolismo dei lipidi",
+    "La β-ossidazione prevale solo quando l'apporto calorico è molto elevato",
+    "In abbondanza prevale la sintesi di acidi grassi, in carenza la loro ossidazione"
+   ],
+   "answer": 4,
+   "explain": "Quando i nutrienti sono abbondanti l'eccesso viene convertito in acidi grassi e depositato come triacilgliceroli, mentre in carenza di apporto energetico prevale la loro ossidazione e la mobilizzazione dei depositi. Le due vie non procedono mai alla stessa velocità, perché la loro regolazione coordinata è proprio ciò che evita i cicli futili.",
+   "slide": 55
+  }
+ ]
+}

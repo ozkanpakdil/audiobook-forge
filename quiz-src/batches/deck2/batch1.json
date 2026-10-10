@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 1,
+  "topic": "Introduzione al metabolismo e all'energia metabolica",
+  "questions": [
+    {
+      "id": "d02-b01-q001",
+      "q": "Qual è l'oggetto di studio della biochimica?",
+      "choices": [
+        "Le proprietà fisiche dei minerali e dei cristalli",
+        "La classificazione degli organismi in specie e famiglie",
+        "Le molecole degli esseri viventi e le loro trasformazioni",
+        "Le leggi del moto dei corpi macroscopici",
+        "Le reazioni nucleari che avvengono nelle stelle"
+      ],
+      "answer": 2,
+      "explain": "La biochimica studia le molecole che costituiscono gli esseri viventi e le reazioni chimiche che le trasformano, collegando la chimica alla biologia cellulare. Chi la confonde con la mineralogia sceglie le proprietà fisiche dei minerali, che appartengono invece alla chimica inorganica e non riguardano le biomolecole.",
+      "slide": 1
+    },
+    {
+      "id": "d02-b01-q002",
+      "q": "Qual è l'elemento chimico che costituisce lo scheletro di tutte le biomolecole organiche?",
+      "choices": [
+        "Azoto",
+        "Ossigeno",
+        "Fosforo",
+        "Idrogeno",
+        "Carbonio"
+      ],
+      "answer": 4,
+      "explain": "Il carbonio è tetravalente e forma catene e anelli stabili, perciò rappresenta lo scheletro di carboidrati, lipidi, proteine e acidi nucleici. L'idrogeno è il distrattore più insidioso perché è l'elemento più abbondante nelle biomolecole, ma non è in grado di costruire da solo lo scheletro carbonioso.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q003",
+      "q": "Quale classe di biomolecole è formata da catene di amminoacidi uniti da legami peptidici?",
+      "choices": [
+        "Proteine",
+        "Carboidrati",
+        "Lipidi",
+        "Acidi nucleici",
+        "Polisaccaridi di riserva"
+      ],
+      "answer": 0,
+      "explain": "Le proteine sono polimeri di amminoacidi legati tra loro da legami peptidici, che uniscono il gruppo carbossilico di un amminoacido al gruppo amminico del successivo. I carboidrati sono invece polimeri di monosaccaridi uniti da legami glicosidici, quindi non contengono legami peptidici.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q004",
+      "q": "Quale sequenza descrive correttamente il livello di organizzazione chimica della materia vivente?",
+      "choices": [
+        "Cellule, tessuti, atomi, molecole",
+        "Molecole, atomi, cellule, organi",
+        "Biomolecole, atomi, molecole, tessuti",
+        "Atomi, molecole, biomolecole, cellule",
+        "Organi, cellule, molecole, atomi"
+      ],
+      "answer": 3,
+      "explain": "L'organizzazione procede dagli elementi più semplici a quelli più complessi: gli atomi si legano formando molecole, le molecole si organizzano in biomolecole e queste costituiscono le cellule. La sequenza che parte dalle cellule è sbagliata perché inverte l'ordine gerarchico ponendo il livello più complesso all'inizio.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q005",
+      "q": "Qual è la caratteristica chimica principale dei lipidi?",
+      "choices": [
+        "Sono polimeri lineari di amminoacidi",
+        "Sono in prevalenza apolari e poco solubili in acqua",
+        "Contengono sempre gruppi fosfato e sono completamente idrofili",
+        "Sono i precursori diretti degli acidi nucleici",
+        "Sono solubili in acqua perché ricchi di legami peptidici"
+      ],
+      "answer": 1,
+      "explain": "I lipidi sono caratterizzati da una prevalenza di catene idrocarburiche apolari, che li rendono scarsamente solubili in acqua e li destinano a funzioni di riserva energetica e di struttura delle membrane. Il distrattore sui gruppi fosfato è sbagliato perché solo i fosfolipidi contengono fosfato e, pur avendo una testa polare, restano molecole globalmente poco idrofile.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q006",
+      "q": "Quali sono le tre principali classi di molecole biologiche il cui metabolismo viene preso in esame in un corso introduttivo di biochimica?",
+      "choices": [
+        "Carboidrati, vitamine e ormoni",
+        "Lipidi, acidi nucleici e vitamine",
+        "Proteine, enzimi e coenzimi",
+        "Sali minerali, acqua e vitamine",
+        "Carboidrati, lipidi e proteine"
+      ],
+      "answer": 4,
+      "explain": "Lo schema generale del metabolismo energetico considera i carboidrati, i lipidi e le proteine come i tre grandi gruppi di nutrienti che vengono degradati per ricavare energia. Gli enzimi e i coenzimi non sono classi di nutrienti, ma strumenti catalitici e di trasporto di elettroni al servizio di queste vie.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q007",
+      "q": "Come si formano i polimeri biologici come le proteine e i polisaccaridi a partire dai loro monomeri?",
+      "choices": [
+        "Mediante idrolisi, con consumo di una molecola d'acqua",
+        "Mediante reazioni di condensazione, con perdita di una molecola d'acqua",
+        "Mediante ossidoriduzioni che non formano legami covalenti",
+        "Mediante semplice aggregazione fisica senza legami chimici",
+        "Mediante trasferimento di elettroni ai coenzimi"
+      ],
+      "answer": 1,
+      "explain": "Il legame tra monomeri si crea per condensazione, cioè con l'eliminazione di una molecola d'acqua per ogni legame formato. L'idrolisi è la reazione esattamente opposta, quella che demolisce i polimeri consumando acqua, e per questo è il distrattore più ingannevole.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q008",
+      "q": "Quale delle seguenti è una funzione tipica delle proteine nella cellula?",
+      "choices": [
+        "Costituire la principale riserva energetica a lungo termine",
+        "Formare da sole l'intera membrana plasmatica",
+        "Fornire energia immediata senza essere degradate",
+        "Agire come enzimi e trasportatori di molecole",
+        "Trasmettere stabilmente l'informazione genetica"
+      ],
+      "answer": 3,
+      "explain": "Le proteine svolgono funzioni catalitiche come enzimi e funzioni di trasporto, per esempio come canali e carrier di membrana. La riserva energetica a lungo termine è invece affidata ai trigliceridi del tessuto adiposo, mentre le proteine vengono mobilitate solo in condizioni di digiuno prolungato.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q009",
+      "q": "Qual è la funzione biologica principale dei carboidrati?",
+      "choices": [
+        "Fornire energia di pronto uso e riserve di glicogeno",
+        "Trasportare ossigeno nel sangue legato a gruppi eme",
+        "Catalizzare reazioni di ossidoriduzione nei mitocondri",
+        "Costituire il materiale genetico ereditario della cellula",
+        "Formare gli ormoni steroidei nelle ghiandole endocrine"
+      ],
+      "answer": 0,
+      "explain": "I carboidrati sono la fonte energetica di più rapido impiego, in particolare il glucosio, e il glicogeno rappresenta la loro forma di riserva. Il trasporto dell'ossigeno nel sangue è compito dell'emoglobina, una proteina con gruppo eme, e non di una molecola glucidica.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q010",
+      "q": "A parità di massa, quale classe di biomolecole fornisce la maggiore quantità di energia quando viene ossidata nella cellula?",
+      "choices": [
+        "Carboidrati",
+        "Proteine",
+        "Lipidi",
+        "Vitamine",
+        "Acidi nucleici"
+      ],
+      "answer": 2,
+      "explain": "I lipidi sono molto più ridotti dei carboidrati, cioè contengono più idrogeno per atomo di carbonio, e rendono circa 9 kcal per grammo contro circa 4 kcal per grammo dei carboidrati e delle proteine. I carboidrati sono il distrattore più insidioso perché sono la fonte energetica di pronto uso, ma non la più concentrata per unità di massa.",
+      "slide": 2
+    },
+    {
+      "id": "d02-b01-q011",
+      "q": "Che cosa si intende per metabolismo cellulare?",
+      "choices": [
+        "L'insieme coordinato delle reazioni chimiche della cellula",
+        "Soltanto la degradazione dei nutrienti con produzione di calore",
+        "Soltanto la sintesi delle proteine strutturali della membrana",
+        "Il trasporto di ossigeno nel sangue da parte dell'emoglobina",
+        "La replicazione del DNA prima della divisione cellulare"
+      ],
+      "answer": 0,
+      "explain": "Il metabolismo è l'attività altamente coordinata che comprende sia le reazioni di degradazione sia quelle di sintesi che si svolgono nella cellula. Limitarlo alla sola degradazione dei nutrienti è riduttivo, perché esclude l'anabolismo, che è parte integrante del metabolismo stesso.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q012",
+      "q": "Il catabolismo comprende le reazioni che...",
+      "choices": [
+        "Sintetizzano molecole complesse consumando energia",
+        "Trasformano le proteine in materiale genetico",
+        "Degradano i nutrienti per ottenere energia chimica",
+        "Trasportano elettroni senza produrre alcuna energia",
+        "Duplicano il patrimonio genetico della cellula"
+      ],
+      "answer": 2,
+      "explain": "Il catabolismo è la fase del metabolismo in cui le molecole nutrienti vengono demolite per ottenere energia chimica, spesso sotto forma di ATP e coenzimi ridotti. La sintesi di molecole complesse con consumo di energia descrive invece l'anabolismo, la fase opposta e complementare.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q013",
+      "q": "L'anabolismo è l'insieme delle reazioni che...",
+      "choices": [
+        "Liberano energia ossidando il glucosio fino a CO2 e acqua",
+        "Demoliscono gli acidi grassi in acetil-CoA nei mitocondri",
+        "Producono ATP durante la glicolisi anaerobica nel citoplasma",
+        "Degradano gli amminoacidi in urea nel fegato dei vertebrati",
+        "Costruiscono molecole specifiche della cellula con energia"
+      ],
+      "answer": 4,
+      "explain": "L'anabolismo utilizza l'energia e i precursori ottenuti dal catabolismo per costruire le molecole specifiche della cellula, come proteine, acidi nucleici e lipidi di membrana. La degradazione degli acidi grassi in acetil-CoA è un esempio tipico di catabolismo e non di sintesi.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q014",
+      "q": "Quale affermazione sul rapporto tra catabolismo e anabolismo è corretta?",
+      "choices": [
+        "L'anabolismo produce sempre più ATP di quanto ne consumi",
+        "Le due vie sono coordinate e condividono intermedi ed energia",
+        "Il catabolismo avviene soltanto negli organismi vegetali autotrofi",
+        "L'anabolismo non consuma mai energia perché è spontaneo",
+        "Le due vie sono completamente indipendenti e non comunicano"
+      ],
+      "answer": 1,
+      "explain": "Catabolismo e anabolismo sono strettamente coordinati: l'ATP e il NADPH generati dalla degradazione dei nutrienti alimentano le reazioni di sintesi. Affermare che le due vie sono indipendenti è sbagliato, perché condividono intermedi comuni e la stessa energia metabolica.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q015",
+      "q": "Che cosa indica l'espressione energia metabolica?",
+      "choices": [
+        "Il calore prodotto dal metabolismo e disperso nell'ambiente",
+        "Il contenuto energetico degli alimenti misurato in calorie",
+        "La sola energia luminosa usata dagli organismi fotosintetici",
+        "L'energia chimica ricavata dai nutrienti per il lavoro cellulare",
+        "La forza meccanica prodotta dalla contrazione dei muscoli scheletrici"
+      ],
+      "answer": 3,
+      "explain": "L'energia metabolica è l'energia chimica resa disponibile dalla degradazione dei nutrienti e impiegata dalla cellula per lavoro chimico, osmotico e meccanico. Il contenuto energetico degli alimenti è una misura nutrizionale di partenza, ma non coincide con l'energia effettivamente disponibile nei processi cellulari.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q016",
+      "q": "Nelle vie cataboliche, l'energia contenuta nei legami chimici dei nutrienti...",
+      "choices": [
+        "Viene interamente dispersa sotto forma di calore nell'ambiente",
+        "Scompare senza subire alcuna trasformazione chimica",
+        "Viene convertita direttamente in energia luminosa",
+        "Viene conservata nell'ATP e nei coenzimi ridotti",
+        "Viene trasferita direttamente alle molecole di DNA"
+      ],
+      "answer": 3,
+      "explain": "L'energia dei legami dei nutrienti viene in buona parte conservata in forme utilizzabili, cioè nell'ATP e nei coenzimi ridotti come NADH e FADH2. Solo una parte è dispersa come calore: sostenere che l'energia venga interamente dissipata è quindi sbagliato, perché la cellula non potrebbe sopravvivere.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q017",
+      "q": "Le reazioni anaboliche sono in genere...",
+      "choices": [
+        "Endoergoniche e richiedono ATP o NADPH",
+        "Esoergoniche e producono ATP e NADH",
+        "Ossidative e generano coenzimi ridotti",
+        "Totalmente indipendenti dall'energia disponibile",
+        "Possibili soltanto in assenza di enzimi"
+      ],
+      "answer": 0,
+      "explain": "Le biosintesi sono reazioni endoergoniche, termodinamicamente sfavorevoli, che devono essere accoppiate al consumo di ATP o al potere riducente del NADPH. Considerarle esoergoniche è un errore tipico: le reazioni che liberano energia e producono ATP e NADH sono le reazioni cataboliche.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q018",
+      "q": "Perché si afferma che il metabolismo è un'attività altamente coordinata?",
+      "choices": [
+        "Perché tutte le reazioni procedono alla stessa velocità costante",
+        "Perché ogni reazione procede in modo indipendente dalle altre",
+        "Perché le vie sono regolate in base alle esigenze della cellula",
+        "Perché il catabolismo prevale sempre sulle vie anaboliche",
+        "Perché le reazioni avvengono soltanto nel nucleo cellulare"
+      ],
+      "answer": 2,
+      "explain": "Il coordinamento consiste nella regolazione reciproca delle vie metaboliche, così che la cellula produce energia solo quando serve ed evita cicli futili. Dire che ogni reazione è indipendente contraddice proprio il concetto di regolazione, perché esistono enzimi chiave e segnali che controllano l'intera rete.",
+      "slide": 3
+    },
+    {
+      "id": "d02-b01-q019",
+      "q": "In una cellula eucariote, dove avvengono rispettivamente la glicolisi e il ciclo di Krebs?",
+      "choices": [
+        "Entrambi nel nucleo cellulare",
+        "Entrambi nei lisosomi",
+        "La glicolisi nella matrice mitocondriale e il ciclo di Krebs nel citoplasma",
+        "La glicolisi sulla membrana plasmatica e il ciclo di Krebs nel nucleolo",
+        "La glicolisi nel citoplasma e il ciclo di Krebs nella matrice mitocondriale"
+      ],
+      "answer": 4,
+      "explain": "La glicolisi è una via citoplasmatica, mentre gli enzimi del ciclo di Krebs sono localizzati nella matrice del mitocondrio, dove si trova anche il complesso della fosforilazione ossidativa. La scelta che inverte le due sedi è il distrattore più insidioso, perché entrambe le vie fanno parte della respirazione cellulare.",
+      "slide": 4
+    },
+    {
+      "id": "d02-b01-q020",
+      "q": "Il ciclo di Krebs è un esempio di via metabolica...",
+      "choices": [
+        "Lineare, perché il prodotto finale non viene mai rigenerato",
+        "Ciclica, perché il primo intermedio viene rigenerato a ogni giro",
+        "A spirale, perché accorcia progressivamente la catena carboniosa",
+        "Anabolica pura, perché sintetizza acidi grassi",
+        "Di trasporto, perché sposta elettroni senza reazioni chimiche"
+      ],
+      "answer": 1,
+      "explain": "Il ciclo di Krebs è ciclico perché l'ossalacetato, necessario per iniziare un nuovo giro, viene rigenerato al termine di ogni ciclo. La via a spirale esiste davvero in biochimica, ma è la beta-ossidazione degli acidi grassi, che accorcia la catena di due atomi di carbonio per volta.",
+      "slide": 4
+    },
+    {
+      "id": "d02-b01-q021",
+      "q": "Come vengono definite le vie metaboliche che funzionano sia in senso catabolico sia in senso anabolico?",
+      "choices": [
+        "Anaplerotiche",
+        "Anfiboliche",
+        "Puramente cataboliche",
+        "Autotrofe",
+        "Obbligate"
+      ],
+      "answer": 1,
+      "explain": "Le vie anfiboliche svolgono contemporaneamente funzioni cataboliche e anaboliche; il ciclo di Krebs ne è l'esempio classico, perché ossida l'acetil-CoA ma fornisce anche precursori per le biosintesi. Le vie anaplerotiche hanno invece il compito più specifico di rifornire gli intermedi del ciclo quando vengono sottratti per la sintesi.",
+      "slide": 4
+    },
+    {
+      "id": "d02-b01-q022",
+      "q": "Nelle vie cataboliche, i diversi nutrienti convergono verso quali intermedi comuni?",
+      "choices": [
+        "Acidi nucleici e proteine istoniche del nucleo",
+        "Vitamine idrosolubili e sali minerali disciolti",
+        "Amminoacidi essenziali e nucleotidi cellulari",
+        "Acetil-CoA e gli intermedi del ciclo di Krebs",
+        "Glicogeno e trigliceridi di deposito adiposo"
+      ],
+      "answer": 3,
+      "explain": "Carboidrati, lipidi e proteine vengono degradati verso un piccolo numero di intermedi comuni, in particolare l'acetil-CoA e gli acidi del ciclo di Krebs, che vengono poi ossidati a CO2. Il glicogeno e i trigliceridi sono forme di deposito e non intermedi di convergenza delle vie cataboliche.",
+      "slide": 4
+    },
+    {
+      "id": "d02-b01-q023",
+      "q": "Nelle vie anaboliche divergenti, a partire da pochi precursori comuni la cellula...",
+      "choices": [
+        "Sintetizza molecole diverse e specifiche per la cellula",
+        "Degrada i nutrienti fino a CO2 e acqua nei mitocondri",
+        "Produce esclusivamente ATP per la contrazione muscolare",
+        "Perde la capacità di regolare le proprie reazioni metaboliche",
+        "Trasforma l'ATP in adenosina monofosfato ciclico"
+      ],
+      "answer": 0,
+      "explain": "L'anabolismo è divergente perché da un numero limitato di precursori comuni, come il piruvato o l'acetil-CoA, vengono costruite molte molecole diverse e specifiche della cellula. La degradazione completa fino a CO2 e acqua appartiene al catabolismo, che è invece una via convergente.",
+      "slide": 4
+    },
+    {
+      "id": "d02-b01-q024",
+      "q": "Che cos'è l'ATP?",
+      "choices": [
+        "Un enzima della catena respiratoria mitocondriale",
+        "Un coenzima della beta-ossidazione degli acidi grassi saturi",
+        "Il trasportatore a breve termine di energia della cellula",
+        "Un polisaccaride di riserva del fegato e del muscolo",
+        "Un lipide strutturale delle membrane cellulari"
+      ],
+      "answer": 2,
+      "explain": "L'ATP è un nucleotide che funziona da trasportatore universale di energia chimica a breve termine, cedendola quando il suo legame fosfoanidridico terminale viene idrolizzato. Non è un enzima né un coenzima redox: il suo ruolo è trasferire gruppi fosfato e non elettroni.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q025",
+      "q": "Quale legame dell'ATP, per idrolisi, libera la maggiore quantità di energia?",
+      "choices": [
+        "Il legame glicosidico tra base azotata e ribosio",
+        "Il legame peptidico tra fosfato e base azotata",
+        "Il legame estere tra il gruppo fosfato e il ribosio",
+        "Il legame a idrogeno con le molecole d'acqua",
+        "Il legame fosfoanidridico tra i fosfati terminali"
+      ],
+      "answer": 4,
+      "explain": "L'idrolisi del legame fosfoanidridico tra i due gruppi fosfato terminali è fortemente esoergonica e libera circa 7,3 kcal/mol, fornendo l'energia utile ai processi cellulari. I legami a idrogeno con l'acqua sono interazioni deboli e non immagazzinano energia metabolica utilizzabile.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q026",
+      "q": "L'idrolisi dell'ATP in ADP e fosfato inorganico è una reazione...",
+      "choices": [
+        "Endoergonica, con energia libera positiva nelle condizioni cellulari",
+        "Neutra, con energia libera uguale a zero in ogni condizione",
+        "Impossibile in ambiente acquoso per motivi termodinamici",
+        "Reversibile soltanto nelle cellule vegetali fotosintetiche",
+        "Esoergonica, con energia libera negativa nelle condizioni cellulari"
+      ],
+      "answer": 4,
+      "explain": "La scissione del legame fosfoanidridico libera energia, quindi la reazione è esoergonica e procede spontaneamente con variazione di energia libera negativa. Considerarla endoergonica è l'errore più comune, perché confonde l'idrolisi dell'ATP con la sua rigenerazione, che invece richiede energia.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q027",
+      "q": "Quale valore di variazione di energia libera (ΔG) indica una reazione spontanea?",
+      "choices": [
+        "Un ΔG positivo",
+        "Un ΔG uguale a zero in condizioni standard",
+        "Un ΔG negativo",
+        "Un ΔG che aumenta sempre con la temperatura",
+        "Un ΔG costantemente pari a +7,3 kcal/mol"
+      ],
+      "answer": 2,
+      "explain": "Una reazione è spontanea quando la variazione di energia libera è negativa, cioè quando i prodotti hanno un'energia libera inferiore a quella dei reagenti. Un ΔG positivo indica invece una reazione endoergonica, che per avvenire deve essere accoppiata a una reazione esoergonica.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q028",
+      "q": "Qual è il valore approssimativo di energia libera standard di idrolisi dell'ATP?",
+      "choices": [
+        "Circa +7,3 kcal/mol, cioè circa +30,5 kJ/mol",
+        "Circa -7,3 kcal/mol, cioè -30,5 kJ/mol",
+        "Circa -100 kcal/mol, cioè -418 kJ/mol",
+        "Circa 0 kcal/mol, cioè 0 kJ/mol",
+        "Circa -0,5 kcal/mol, cioè -2,1 kJ/mol"
+      ],
+      "answer": 1,
+      "explain": "In condizioni standard biochimiche l'idrolisi dell'ATP libera circa 7,3 kcal/mol, pari a circa 30,5 kJ/mol, un valore intermedio che rende l'ATP adatto a funzionare da intermediario energetico. Il valore positivo è il distrattore più insidioso, perché è la stessa cifra con il segno sbagliato: la reazione libera energia, non la assorbe.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q029",
+      "q": "Perché l'ATP è definito la moneta energetica della cellula?",
+      "choices": [
+        "Perché è una molecola molto stabile che non viene mai degradata",
+        "Perché contiene più energia di qualsiasi altro composto cellulare",
+        "Perché viene sintetizzato solo una volta e riutilizzato senza modifiche",
+        "Perché viene continuamente idrolizzato e rigenerato per cedere energia",
+        "Perché può essere immagazzinato in grandi quantità senza alcun limite"
+      ],
+      "answer": 3,
+      "explain": "L'ATP funziona come moneta perché il suo pool viene continuamente riciclato: viene idrolizzato per fornire energia e subito rigenerato dall'ossidazione dei nutrienti. La sua concentrazione cellulare è in realtà modesta e limitata nel tempo, quindi non è una riserva energetica di lunga durata.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q030",
+      "q": "Nel ciclo ATP-ADP, la rigenerazione dell'ATP avviene principalmente...",
+      "choices": [
+        "Mediante fosforilazione legata all'ossidazione dei nutrienti",
+        "Mediante idrolisi dei trigliceridi nel citosol cellulare",
+        "Soltanto durante la replicazione del DNA nel nucleo cellulare",
+        "Mediante decarbossilazione degli amminoacidi nel fegato",
+        "Senza alcun consumo di energia da parte della cellula"
+      ],
+      "answer": 0,
+      "explain": "L'ADP viene rifosforilato ad ATP utilizzando l'energia liberata dall'ossidazione dei nutrienti, attraverso la fosforilazione ossidativa mitocondriale e, in misura minore, la fosforilazione a livello del substrato. La rigenerazione non può avvenire senza apporto di energia, perché è per definizione una reazione endoergonica.",
+      "slide": 5
+    },
+    {
+      "id": "d02-b01-q031",
+      "q": "Quale equazione mette in relazione l'energia libera con l'entalpia e l'entropia?",
+      "choices": [
+        "Energia libera uguale a entalpia più il prodotto temperatura per entropia",
+        "Energia libera uguale a temperatura per entropia meno entalpia",
+        "Energia libera uguale a entalpia meno il prodotto temperatura per entropia",
+        "Energia libera uguale a entropia meno temperatura per entalpia",
+        "Energia libera uguale alla costante dei gas per il logaritmo dell'entalpia"
+      ],
+      "answer": 2,
+      "explain": "L'energia libera di Gibbs è definita come ΔG = ΔH - TΔS, dove il termine entalpico e quello entropico si combinano per stabilire la spontaneità della reazione. La variante con il segno più è il distrattore più insidioso, perché l'entropia contribuisce in senso favorevole proprio grazie al segno negativo del termine TΔS.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q032",
+      "q": "Le reazioni esoergoniche sono quelle che...",
+      "choices": [
+        "Liberano energia libera utilizzabile per compiere lavoro",
+        "Assorbono energia dall'ambiente e raffreddano la cellula",
+        "Hanno sempre una variazione di energia libera positiva",
+        "Non possono avvenire nei sistemi biologici cellulari",
+        "Richiedono necessariamente l'energia della luce solare"
+      ],
+      "answer": 0,
+      "explain": "Nelle reazioni esoergoniche la variazione di energia libera è negativa, quindi il sistema libera energia che la cellula può sfruttare per compiere lavoro chimico e osmotico. La scelta che attribuisce loro un ΔG positivo le descrive come endoergoniche, commettendo l'errore opposto.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q033",
+      "q": "Un aumento dell'entropia del sistema contribuisce a rendere una reazione...",
+      "choices": [
+        "Sfavorevole e non spontanea",
+        "Termodinamicamente impossibile",
+        "Indipendente dal valore di energia libera",
+        "Favorevole dal punto di vista termodinamico",
+        "Sempre esoergonica a qualunque temperatura"
+      ],
+      "answer": 3,
+      "explain": "Poiché ΔG = ΔH - TΔS, un aumento dell'entropia rende il termine -TΔS più negativo e quindi favorisce la spontaneità della reazione. Tuttavia l'entropia è solo uno dei due fattori: una reazione con entropia favorevole ma entalpia molto sfavorevole può comunque non essere spontanea.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q034",
+      "q": "Nelle condizioni standard biochimiche, le concentrazioni dei reagenti e dei prodotti si assumono pari a...",
+      "choices": [
+        "1 M, con pH 0",
+        "1 M, con pH 7",
+        "0,1 M, con pH 7",
+        "1 mM, con pH 7,4 come nel sangue",
+        "Concentrazioni variabili senza alcuna convenzione"
+      ],
+      "answer": 1,
+      "explain": "Lo stato standard biochimico prevede concentrazioni unitarie di 1 M per soluti e una concentrazione di protoni fissata a pH 7, indicato con il simbolo ΔG°'. Il pH 0 è il distrattore più insidioso perché è lo stato standard della chimica fisica, non quello usato per le reazioni cellulari.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q035",
+      "q": "Una reazione con variazione di energia libera standard positiva...",
+      "choices": [
+        "È sempre spontanea in ogni condizione cellulare possibile",
+        "Libera energia utilizzabile per sintetizzare ATP e NADH",
+        "Procede spontaneamente fino a esaurire tutti i reagenti",
+        "Non richiede mai accoppiamento con altre reazioni cellulari esoergoniche",
+        "Non è spontanea e va accoppiata a una reazione esoergonica"
+      ],
+      "answer": 4,
+      "explain": "Un ΔG°' positivo indica che la reazione non è spontanea nelle condizioni standard e deve quindi essere accoppiata a una reazione esoergonica, tipicamente l'idrolisi dell'ATP. Attenzione però: le condizioni reali della cellula possono differire da quelle standard, così una reazione con ΔG°' positivo può comunque avvenire se le concentrazioni la favoriscono.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q036",
+      "q": "Nelle reazioni accoppiate, l'energia liberata da una reazione esoergonica serve a...",
+      "choices": [
+        "Aumentare la temperatura corporea fino alla febbre",
+        "Trasformare l'ATP in una molecola inerte",
+        "Impedire lo svolgimento della reazione successiva",
+        "Guidare una reazione endoergonica altrimenti sfavorevole",
+        "Ridurre la concentrazione dei coenzimi"
+      ],
+      "answer": 3,
+      "explain": "Nell'accoppiamento energetico una reazione esoergonica, come l'idrolisi dell'ATP, fornisce l'energia necessaria a far procedere una reazione endoergonica sfavorevole. Le due reazioni devono condividere un intermedio comune, altrimenti l'energia non può essere trasferita in modo utile.",
+      "slide": 6
+    },
+    {
+      "id": "d02-b01-q037",
+      "q": "Che cosa si intende per ossidazione in biochimica?",
+      "choices": [
+        "L'acquisto di elettroni da parte di una specie chimica",
+        "La perdita di elettroni da parte di una specie chimica",
+        "L'aggiunta di una molecola d'acqua a un doppio legame",
+        "La rottura idrolitica di un legame peptidico",
+        "La sintesi di ATP a partire da ADP"
+      ],
+      "answer": 1,
+      "explain": "L'ossidazione consiste nella perdita di elettroni, spesso accompagnata da perdita di atomi di idrogeno, e corrisponde a un aumento del numero di ossidazione. L'acquisto di elettroni descrive invece la riduzione, cioè il processo opposto che avviene contemporaneamente nella stessa reazione redox.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q038",
+      "q": "Quando una molecola si riduce...",
+      "choices": [
+        "Perde elettroni e aumenta il numero di ossidazione",
+        "Cede elettroni all'ossigeno molecolare nella catena respiratoria",
+        "Aumenta sempre il proprio numero di ossidazione",
+        "Viene demolita senza alcun trasferimento di elettroni",
+        "Acquista elettroni e diminuisce il numero di ossidazione"
+      ],
+      "answer": 4,
+      "explain": "La riduzione è l'acquisto di elettroni e comporta una diminuzione del numero di ossidazione della specie chimica interessata. La cede elettroni all'ossigeno descrive l'ossidazione, ed è il distrattore più insidioso perché nella respirazione aerobica i nutrienti vengono effettivamente ossidati.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q039",
+      "q": "Nel catabolismo, che cosa accade al carbonio dei nutrienti e ai coenzimi?",
+      "choices": [
+        "Il carbonio viene ossidato e i coenzimi si riducono",
+        "Il carbonio viene ridotto e i coenzimi si ossidano",
+        "Sia il carbonio sia i coenzimi si riducono",
+        "Sia il carbonio sia i coenzimi si ossidano",
+        "Il carbonio non subisce alcuna variazione"
+      ],
+      "answer": 0,
+      "explain": "Nel catabolismo ossidativo gli atomi di carbonio dei nutrienti perdono elettroni, mentre i coenzimi NAD+ e FAD li acquistano e si riducono a NADH e FADH2. Le due variazioni sono necessariamente accoppiate, perché gli elettroni rimossi dal substrato devono essere trasferiti a un accettore.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q040",
+      "q": "Quale coenzima, nella sua forma ossidata, accetta elettroni durante il catabolismo e li cede poi alla catena respiratoria?",
+      "choices": [
+        "L'ATP",
+        "Il NADPH",
+        "Il NAD+",
+        "Il FADH2 già ridotto",
+        "Il coenzima A"
+      ],
+      "answer": 2,
+      "explain": "Il NAD+ è la forma ossidata del coenzima nicotinammidico e accetta elettroni trasformandosi in NADH, che li cede alla catena respiratoria per la sintesi di ATP. Il FADH2 è già nella forma ridotta e quindi non può accettare altri elettroni, mentre il NADPH è il coenzima tipico delle biosintesi riduttive.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q041",
+      "q": "In che modo il NAD+ si trasforma in NADH?",
+      "choices": [
+        "Accettando uno ione idruro, cioè due elettroni e un protone",
+        "Cedendo un gruppo fosfato al substrato proteico",
+        "Legando covalentemente una molecola di ossigeno",
+        "Perdendo un elettrone e acquistando una carica positiva netta",
+        "Fondendosi con il coenzima A in acetil-CoA"
+      ],
+      "answer": 0,
+      "explain": "Chimicamente il NAD+ accetta uno ione idruro dal substrato, equivalente a due elettroni e un protone, e si riduce così a NADH. Non si tratta di un semplice trasferimento di un singolo elettrone, perché la nicotinammide accoglie l'idruro intero sul suo anello.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q042",
+      "q": "Quale coppia redox è tipicamente utilizzata nelle reazioni riduttive dell'anabolismo?",
+      "choices": [
+        "NAD+/NADH",
+        "FAD/FADH2",
+        "ATP/ADP",
+        "H2O/O2",
+        "NADP+/NADPH"
+      ],
+      "answer": 4,
+      "explain": "Il NADPH è il principale donatore di potere riducente nelle biosintesi, come la sintesi degli acidi grassi e del colesterolo. Il NADH è invece il coenzima preferenziale del catabolismo ossidativo, che cede elettroni alla catena respiratoria, e questa distinzione funzionale è il punto chiave da ricordare.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q043",
+      "q": "Le reazioni di ossidoriduzione comportano sempre...",
+      "choices": [
+        "L'idrolisi di un legame fosfoanidridico dell'ATP",
+        "La formazione di un legame peptidico tra due amminoacidi",
+        "Il trasferimento di elettroni tra donatore e accettore",
+        "L'aggiunta di acqua a un doppio legame carbonioso",
+        "La perdita di un gruppo carbossilico sotto forma di CO2"
+      ],
+      "answer": 2,
+      "explain": "In ogni reazione redox gli elettroni passano da una specie che si ossida a una specie che si riduce, e i due eventi sono inseparabili. L'aggiunta di acqua a un doppio legame è una reazione di idratazione, un tipo di reazione diverso che non implica trasferimento di elettroni.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q044",
+      "q": "Nel catabolismo, il potere riducente dei coenzimi ridotti viene utilizzato soprattutto...",
+      "choices": [
+        "Per sintetizzare acidi grassi e colesterolo nei tessuti",
+        "Per produrre ATP con la fosforilazione ossidativa",
+        "Per eliminare l'azoto sotto forma di urea nel fegato",
+        "Per duplicare il DNA durante la mitosi cellulare",
+        "Per trasportare ossigeno nel sangue con l'emoglobina"
+      ],
+      "answer": 1,
+      "explain": "Il NADH e il FADH2 prodotti dal catabolismo cedono i loro elettroni alla catena respiratoria, dove il flusso di elettroni è accoppiato alla sintesi di ATP. L'uso del potere riducente per sintetizzare acidi grassi e colesterolo è invece una funzione anabolica affidata al NADPH.",
+      "slide": 7
+    },
+    {
+      "id": "d02-b01-q045",
+      "q": "Qual è il numero di ossidazione del carbonio nella molecola di anidride carbonica (CO2)?",
+      "choices": [
+        "Meno quattro",
+        "Zero",
+        "Più due",
+        "Più quattro",
+        "Più uno"
+      ],
+      "answer": 3,
+      "explain": "Nella CO2 l'ossigeno ha numero di ossidazione -2 e, poiché la molecola è neutra, il carbonio deve valere +4: si tratta della forma più ossidata del carbonio. Il valore -4 corrisponde invece al carbonio del metano, che è la forma più ridotta e quindi il distrattore più ingannevole.",
+      "slide": 8
+    },
+    {
+      "id": "d02-b01-q046",
+      "q": "Nella respirazione aerobica, qual è il destino finale degli elettroni rimossi dai nutrienti?",
+      "choices": [
+        "Vengono trasferiti al NAD+ e vi rimangono indefinitamente",
+        "Riducono l'ossigeno molecolare con formazione di acqua",
+        "Vengono utilizzati per sintetizzare direttamente ATP senza catena respiratoria",
+        "Vengono ceduti al glucosio, che si riduce",
+        "Vengono dispersi come calore senza alcuna reazione chimica"
+      ],
+      "answer": 1,
+      "explain": "Alla fine della catena respiratoria gli elettroni riducono l'ossigeno molecolare, che accetta protoni e si trasforma in acqua; questa è la tappa che rende possibile l'ossidazione completa dei nutrienti. Il NADH non è un serbatoio definitivo di elettroni, perché deve essere continuamente riossidato a NAD+ per mantenere attive le vie cataboliche.",
+      "slide": 8
+    },
+    {
+      "id": "d02-b01-q047",
+      "q": "Quale classe di enzimi catalizza il trasferimento di elettroni dai substrati ai coenzimi?",
+      "choices": [
+        "Le idrolasi",
+        "Le isomerasi",
+        "Le ligasi",
+        "Le deidrogenasi",
+        "Le transferasi di gruppi amminici"
+      ],
+      "answer": 3,
+      "explain": "Le deidrogenasi rimuovono atomi di idrogeno, cioè elettroni e protoni, dal substrato e li trasferiscono a coenzimi come NAD+ o FAD. Le idrolasi catalizzano invece la rottura di legami con consumo di acqua, un tipo di reazione che non comporta trasferimento di elettroni.",
+      "slide": 8
+    },
+    {
+      "id": "d02-b01-q048",
+      "q": "Un agente ossidante biologico come l'ossigeno molecolare si comporta...",
+      "choices": [
+        "Cedendo elettroni e ossidandosi",
+        "Rimanendo chimicamente inerte",
+        "Cedendo protoni senza acquistare elettroni",
+        "Trasformandosi in glucosio",
+        "Accettando elettroni e riducendosi"
+      ],
+      "answer": 4,
+      "explain": "Un agente ossidante accetta elettroni da un'altra specie e per definizione si riduce: è esattamente ciò che fa l'ossigeno molecolare diventando acqua. Chi sceglie che cede elettroni confonde l'ossidante con il riducente, che è invece la specie che si ossida donando gli elettroni.",
+      "slide": 8
+    },
+    {
+      "id": "d02-b01-q049",
+      "q": "Perché le reazioni di ossidazione dei nutrienti sono accoppiate alla riduzione dei coenzimi?",
+      "choices": [
+        "Perché i coenzimi devono essere distrutti per produrre energia",
+        "Perché così gli elettroni vengono dispersi come calore in modo incontrollato",
+        "Perché gli elettroni vengono conservati e convogliati alla sintesi di ATP",
+        "Perché occorre aumentare il numero di ossidazione del NAD+",
+        "Perché i coenzimi ridotti sono la forma inattiva e di scarto"
+      ],
+      "answer": 2,
+      "explain": "Il trasferimento degli elettroni ai coenzimi permette di conservarli in una forma chimica stabile, il NADH o il FADH2, che li convoglia alla catena respiratoria dove serve a produrre ATP. Se gli elettroni venissero dispersi come calore, l'energia non sarebbe più utilizzabile per il lavoro cellulare.",
+      "slide": 8
+    },
+    {
+      "id": "d02-b01-q050",
+      "q": "In condizioni di carenza di ossigeno, che cosa accade al NADH prodotto dalla glicolisi?",
+      "choices": [
+        "Il NADH viene riossidato dalla fermentazione lattica del piruvato",
+        "Viene direttamente ossidato nella catena respiratoria mitocondriale",
+        "Si accumula nel citoplasma senza alcuna via di riossidazione",
+        "Viene convertito in ATP con un rendimento energetico maggiore",
+        "Viene trasferito ai ribosomi per la sintesi delle proteine"
+      ],
+      "answer": 0,
+      "explain": "Senza ossigeno come accettore finale, il NADH non può essere riossidato dalla catena respiratoria; la cellula rigenera allora il NAD+ riducendo il piruvato a lattato. Questa via non produce ATP in più, ma permette alla glicolisi anaerobica di continuare garantendo l'ossidazione del glucosio.",
+      "slide": 8
+    }
+  ]
+}

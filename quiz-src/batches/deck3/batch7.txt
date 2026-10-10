@@ -1,0 +1,60 @@
+# Deck 3 — Metabolismo dei lipidi (2025-10-30)
+# Batch 7 — argomento: Corpi chetonici, chetogenesi e sua regolazione
+# Slide da 59 a 67
+
+### Slide 59
+CORPI CHETONICI
+DIGIUNO
+
+### Slide 60
+• I corpi chetonici sono utilizzati (venendo demoliti sempre a livello del mitocondrio)
+nei mitocondri di cervello (nel digiuno prolungato ricava il 75% dell'energia dai corpi
+chetonici), muscolo scheletrico, cuore (li preferisce al glucoso) e corteccia renale.
+• Il fegato NON può utilizzare i corpi chetonici, ma solo fornirli agli altri tessuti.
+
+### Slide 61
+REGOLAZIONE CHETOGENESI
+digiuno:
+
+### Slide 62
+[Bellini T., Chimica medica e propedeutica biochimica 2E, 2024, Zanichelli editore S.p.A.]
+
+### Slide 63
+SINTESI DEGLI ACIDI GRASSI
+➢ Richiede l’intervento del sistema multienzimatico dell’acido grasso sintasi (citosol)
+➢ Gli intermedi sono legati covalentemente ai gruppi sulfidrilici di una proteina
+trasportatrice di acili (ACP)
+➢ Gli equivalenti riducenti necessari per la biosintesi sono forniti dal NADPH
+
+### Slide 64
+➢ β-chetoacilsintasi (KS)
+Acido grasso sintasi ➢ acetilCoA transacilasi (AT)
+➢ malonilCoA transacilasi (MT)
+➢ deidratasi (HD)
+➢ enoil reduttasi (ER)
+➢ chetoacil reduttasi (KR)
+SH fosfopanteteina ➢ ACP (acyl carrier protein) e tioesterasi
+cisteina SH
+KS MT SH
+SH
+AT ACP KR
+ER HD
+
+### Slide 65
+Bilancio energetico:
+➢ 7 ATP (acetil-CoA carbossilasi)
+➢ 8 ATP (citrato liasi)
+➢ 14 NADPH
+
+### Slide 66
+Regolazione coordinata della sintesi e della demolizione degli acidi grassi
+
+### Slide 67
+FEGATO e METABOLISMO dei LIPIDI
+Il fegato ha un ruolo centrale nel metabolismo dei lipidi:
+• produzione dei sali biliari (per la digestione ed assorbimento dei lipidi della dieta)
+• ossidazione degli acidi grassi
+• sintesi di acidi grassi, trigliceridi, fosfolipidi
+• sintesi del colesterolo
+• sintesi delle lipoproteine plasmatiche (eccetto chilomicroni, intestino)
+• sintesi dei corpi chetonici

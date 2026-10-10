@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 5,
+  "topic": "La glicolisi: tappe, enzimi e regolazione",
+  "questions": [
+    {
+      "id": "d02-b05-q001",
+      "q": "Da quale vitamina idrosolubile del gruppo B deriva il coenzima NAD?",
+      "choices": [
+        "Dalla tiamina, cioè la vitamina B1",
+        "Dalla riboflavina, cioè la vitamina B2",
+        "Dalla niacina, cioè la vitamina B3",
+        "Dalla piridossina, cioè la vitamina B6",
+        "Dall'acido pantotenico, cioè la vitamina B5"
+      ],
+      "answer": 2,
+      "explain": "Il NAD e il NADP sono coenzimi nicotinammidici che l'organismo sintetizza a partire dalla niacina, cioè la vitamina B3, presente come acido nicotinico e come nicotinammide. La riboflavina è il precursore di un coenzima diverso, il FAD, mentre la tiamina e la piridossina danno coenzimi coinvolti nel metabolismo dei gruppi carboniosi e degli amminoacidi. Il distrattore più insidioso è la riboflavina, perché anche il FAD è un coenzima redox, ma appartiene a un'altra vitamina.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q002",
+      "q": "Che cosa significa la sigla NAD?",
+      "choices": [
+        "Nicotinammide adenina dinucleotide",
+        "Nucleotide adeninico deidrogenasico",
+        "Nicotinammide acetilica derivata",
+        "Nucleoside adenosina difosfato",
+        "Niacina adenina deidrogenasi"
+      ],
+      "answer": 0,
+      "explain": "NAD sta per nicotinammide adenina dinucleotide: la molecola contiene una nicotinammide unita a un nucleotide adeninico attraverso due gruppi fosfato. Le altre sigle non corrispondono a coenzimi reali, perché il NADP non è una deidrogenasi ma un nucleotide nicotinammidico fosforilato. Il distrattore più insidioso è il nucleoside adenosina difosfato, che descrive una molecola simile ma priva dell'anello nicotinammidico responsabile delle ossidoriduzioni.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q003",
+      "q": "Quale affermazione distingue correttamente NAD+ e NADP+?",
+      "choices": [
+        "Il NADP+ contiene una flavina al posto della nicotinammide",
+        "Il NAD+ contiene due gruppi fosfato in più rispetto al NADP+",
+        "Il NAD+ è utilizzato solo nelle reazioni anaboliche e il NADP+ solo in quelle cataboliche",
+        "Il NADP+ non può essere ridotto e funziona unicamente nella catena respiratoria",
+        "Il NADP+ possiede un gruppo fosfato supplementare sul ribosio legato all'adenina"
+      ],
+      "answer": 4,
+      "explain": "La differenza strutturale fra i due coenzimi è un gruppo fosfato in più sul ribosio dell'adenosina nel NADP+, che non modifica il sito redox ma il riconoscimento da parte degli enzimi. Il NADH opera soprattutto nel catabolismo e cede elettroni alla catena respiratoria, mentre il NADPH fornisce potere riducente alle biosintesi riduttive. Il distrattore più insidioso è quello che inverte i due ruoli, perché entrambi i coenzimi trasportano elettroni ma in direzioni metaboliche opposte.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q004",
+      "q": "Nella sua forma ridotta, quale coenzima fornisce potere riducente alle reazioni biosintetiche dell'anabolismo?",
+      "choices": [
+        "Il NADH, che si forma soprattutto durante la glicolisi",
+        "Il NADPH, prodotto da vie come la via del pentoso fosfato",
+        "Il FADH2, che si forma nel ciclo di Krebs e cede elettroni alla catena",
+        "L'ATP, che cede direttamente gli elettroni necessari alle biosintesi",
+        "Il coenzima A, che trasporta gruppi acetile verso il ciclo di Krebs"
+      ],
+      "answer": 1,
+      "explain": "Il NADPH è la forma ridotta del NADP+ e rappresenta la principale fonte di elettroni per le biosintesi riduttive, come la sintesi degli acidi grassi. Il NADH ha invece un ruolo prevalentemente catabolico e cede i suoi elettroni alla catena di trasporto mitocondriale per produrre ATP. Il distrattore più insidioso è il NADH, perché è anch'esso un coenzima nicotinammidico ridotto, ma la cellula lo utilizza soprattutto per ricavare energia e non per ridurre i precursori biosintetici.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q005",
+      "q": "Quale funzione svolge il NAD+ nella glicolisi?",
+      "choices": [
+        "Cede elettroni al piruvato trasformandosi in NADH durante la fermentazione",
+        "Fornisce direttamente un gruppo fosfato all'ATP durante la fase di recupero energetico della glicolisi",
+        "Trasporta gruppi acetile verso il ciclo di Krebs e verso la sintesi dei lipidi",
+        "Accetta elettroni nella tappa catalizzata dalla gliceraldeide 3-fosfato deidrogenasi",
+        "Idrolizza il glucosio in due molecole a tre atomi di carbonio nel citosol"
+      ],
+      "answer": 3,
+      "explain": "Nella tappa della gliceraldeide 3-fosfato deidrogenasi il NAD+ è il coenzima ossidante che accetta gli elettroni rimossi dal trioso fosfato, trasformandosi in NADH. Il NAD+ non cede elettroni in questa via e non trasporta gruppi acetile, compito che spetta al coenzima A. Il distrattore più insidioso è il coenzima A, perché anch'esso compare nel metabolismo ossidativo del glucosio, ma interviene a livello del piruvato e del ciclo di Krebs, non nella glicolisi.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q006",
+      "q": "Perché la carenza di niacina compromette il metabolismo energetico cellulare?",
+      "choices": [
+        "Perché impedisce l'assorbimento intestinale del glucosio a livello degli enterociti",
+        "Perché blocca direttamente l'enzima esochinasi, che catalizza la prima tappa",
+        "Perché riduce la disponibilità di NAD e NADP, coenzimi essenziali nelle ossidoriduzioni",
+        "Perché sostituisce il NAD con il FAD in tutte le deidrogenasi cellulari",
+        "Perché provoca la distruzione delle membrane mitocondriali e la morte cellulare"
+      ],
+      "answer": 2,
+      "explain": "Senza niacina la cellula non può sintetizzare quantità adeguate di NAD e NADP, quindi le deidrogenasi dipendenti da questi coenzimi rallentano e il flusso di elettroni verso la catena respiratoria diminuisce. L'esochinasi e l'assorbimento intestinale del glucosio non dipendono dalla niacina. Il distrattore più insidioso è il blocco dell'esochinasi, perché la prima tappa della glicolisi richiede ATP e magnesio, ma non un coenzima nicotinammidico.",
+      "slide": 31
+    },
+    {
+      "id": "d02-b05-q007",
+      "q": "Quale malattia è causata dalla carenza di nicotinammide e di acido nicotinico?",
+      "choices": [
+        "Lo scorbuto",
+        "Il beri-beri",
+        "La cheilite angolare",
+        "La pellagra",
+        "L'anemia perniciosa"
+      ],
+      "answer": 3,
+      "explain": "La carenza di niacina, cioè di nicotinammide e di acido nicotinico, provoca la pellagra. Lo scorbuto deriva dalla carenza di vitamina C e il beri-beri dalla carenza di tiamina, mentre l'anemia perniciosa è legata alla vitamina B12. Il distrattore più insidioso è il beri-beri, perché è anch'esso una malattia da carenza di una vitamina del gruppo B, ma riguarda la tiamina e colpisce soprattutto il sistema nervoso e il cuore.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q008",
+      "q": "Quali sono le manifestazioni tipiche della pellagra?",
+      "choices": [
+        "Dermatite, diarrea e demenza",
+        "Cecità notturna, xeroftalmia e cheratomalacia",
+        "Rachitismo, osteomalacia e tetania",
+        "Anemia megaloblastica e degenerazione nervosa",
+        "Edema, ascite e insufficienza cardiaca"
+      ],
+      "answer": 0,
+      "explain": "La pellagra è una malattia da carenza di niacina caratterizzata dalla triade dermatite, diarrea e demenza, tanto da essere chiamata malattia delle tre D. Le altre triadi corrispondono ad altre carenze vitaminiche, come la vitamina A per i disturbi oculari e la vitamina D per le alterazioni ossee. Il distrattore più insidioso è l'anemia megaloblastica con degenerazione nervosa, tipica della carenza di vitamina B12, perché anche la pellagra può dare sintomi neurologici.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q009",
+      "q": "Quale situazione alimentare è una causa riconosciuta di pellagra?",
+      "choices": [
+        "Un eccesso di zuccheri semplici nella dieta quotidiana",
+        "Una dieta ricca di carne, di pesce, di uova e di legumi",
+        "L'assunzione eccessiva di vitamina C attraverso agrumi, kiwi e ortaggi",
+        "Un elevato consumo di latte, formaggi e derivati",
+        "Una dieta sbilanciata, povera di proteine e basata quasi solo sul mais"
+      ],
+      "answer": 4,
+      "explain": "Il mais è povero di niacina disponibile e di triptofano, l'amminoacido da cui l'organismo può ricavare la niacina, perciò una dieta ipoproteica monocereale predispone alla pellagra. Le diete ricche di carne, latte e legumi forniscono invece niacina e triptofano in quantità adeguate. Il distrattore più insidioso è la dieta ricca di carne e legumi, perché rappresenta semmai il fattore protettivo e non la causa della malattia.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q010",
+      "q": "Perché l'alcolismo cronico favorisce la comparsa della pellagra?",
+      "choices": [
+        "Perché l'alcol stimola la degradazione renale della niacina e del triptofano",
+        "Perché l'alcol aumenta il fabbisogno di vitamina C e di folati",
+        "Perché si associa a malnutrizione e a malassorbimento intestinale",
+        "Perché l'alcol blocca la sintesi epatica di NADP+ e di NAD+",
+        "Perché l'alcol impedisce l'assorbimento intestinale del ferro"
+      ],
+      "answer": 2,
+      "explain": "Nell'alcolismo cronico l'apporto alimentare è spesso insufficiente e l'assorbimento intestinale è compromesso, cosicché la niacina disponibile non basta a coprire il fabbisogno. Non esiste un blocco selettivo della sintesi epatica di NADP+ né un'aumentata eliminazione renale di niacina come meccanismo principale. Il distrattore più insidioso è il blocco della sintesi di NADP+, perché la niacina è davvero il precursore dei coenzimi nicotinammidici, ma il problema nasce dall'apporto e dall'assorbimento.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q011",
+      "q": "Quale farmaco è indicato fra le cause di carenza di niacina e di pellagra?",
+      "choices": [
+        "L'aspirina",
+        "La penicillina",
+        "Il paracetamolo",
+        "La metformina",
+        "L'isoniazide"
+      ],
+      "answer": 4,
+      "explain": "La terapia con isoniazide, impiegata nel trattamento della tubercolosi, può indurre una carenza di niacina e quindi una sindrome pellagrosa. L'aspirina, il paracetamolo e la penicillina non interferiscono in modo rilevante con il metabolismo della niacina. Il distrattore più insidioso è la metformina, perché è un farmaco cronico molto diffuso e può alterare l'assorbimento di alcune vitamine, ma non è la causa farmacologica classica della pellagra.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q012",
+      "q": "Il termine pellagra significa letteralmente pelle rugosa; quale affermazione è quindi corretta?",
+      "choices": [
+        "La pellagra è una malattia infettiva contagiosa trasmessa dagli alimenti",
+        "La pellagra è una malattia da carenza nutrizionale che si manifesta anche sulla cute",
+        "La pellagra è una malattia autoimmune che colpisce la pelle e le articolazioni",
+        "La pellagra è una malattia genetica del metabolismo delle purine e delle pirimidine",
+        "La pellagra è una reazione allergica al mais e agli altri cereali della dieta"
+      ],
+      "answer": 1,
+      "explain": "Il nome pellagra, che significa pelle rugosa, descrive una malattia carenziale: la mancanza di niacina danneggia la cute insieme all'intestino e al sistema nervoso. Non si tratta di una malattia infettiva, autoimmune o genetica, né di una semplice allergia al mais. Il distrattore più insidioso è la reazione allergica al mais, perché la dieta a base di mais è davvero associata alla malattia, ma il meccanismo è la carenza di niacina.",
+      "slide": 32
+    },
+    {
+      "id": "d02-b05-q013",
+      "q": "In una cellula che degrada glucosio in assenza di ossigeno, quale problema metabolico deve essere risolto perché la glicolisi continui?",
+      "choices": [
+        "La carenza di glucosio nel citosol",
+        "L'accumulo di NADH e l'esaurimento di NAD+",
+        "L'accumulo di ATP che inibisce la fosfofruttochinasi",
+        "La mancanza di acetil-coenzima A",
+        "L'eccesso di anidride carbonica nei mitocondri"
+      ],
+      "answer": 1,
+      "explain": "La glicolisi richiede NAD+ nella tappa della gliceraldeide 3-fosfato deidrogenasi, perciò senza ossigeno il NADH prodotto deve essere riconvertito in NAD+, altrimenti la via si arresta. Questo è il ruolo delle fermentazioni, che rigenerano il coenzima ossidato riducendo il piruvato o un suo derivato. Il distrattore più insidioso è l'accumulo di ATP, perché un eccesso di ATP inibisce davvero la fosfofruttochinasi, ma in anaerobiosi la resa energetica è bassa e il problema dominante resta la disponibilità di NAD+.",
+      "slide": 33
+    },
+    {
+      "id": "d02-b05-q014",
+      "q": "Quale coppia di coenzimi nicotinammidici è coinvolta, rispettivamente, nel catabolismo ossidativo e nelle biosintesi riduttive?",
+      "choices": [
+        "NADP+ e NAD+",
+        "FAD e NAD+",
+        "NADH e FADH2",
+        "NAD+ e NADPH",
+        "NADPH e NADH"
+      ],
+      "answer": 3,
+      "explain": "Il NAD+ raccoglie elettroni nelle ossidazioni cataboliche e diventa NADH, mentre il NADPH fornisce elettroni alle biosintesi riduttive anaboliche. La coppia NADP+ e NAD+ e la coppia NADPH e NADH invertono i due ruoli e sono perciò errate. Il distrattore più insidioso è la coppia formata da NADPH e NADH, che cita due forme ridotte ma non distingue il ruolo catabolico da quello anabolico.",
+      "slide": 33
+    },
+    {
+      "id": "d02-b05-q015",
+      "q": "Nella prima tappa della glicolisi, che cosa fa l'esochinasi?",
+      "choices": [
+        "Fosforila il glucosio a glucosio 6-fosfato utilizzando ATP",
+        "Idrolizza il glucosio in due molecole a tre atomi di carbonio",
+        "Ossida il glucosio ad acido gluconico con produzione di NADPH",
+        "Trasferisce un gruppo fosfato dal glucosio direttamente all'ADP",
+        "Isomerizza il glucosio a fruttosio 6-fosfato"
+      ],
+      "answer": 0,
+      "explain": "L'esochinasi catalizza il trasferimento del gruppo fosfato terminale dell'ATP sul carbonio sei del glucosio, producendo glucosio 6-fosfato e ADP. La scissione in due triosi avviene più avanti con l'aldolasi, mentre l'isomerizzazione a fruttosio 6-fosfato è compito della fosfoglucosio isomerasi. Il distrattore più insidioso è l'isomerizzazione, perché avviene nella tappa immediatamente successiva e usa un substrato già fosforilato, ma è catalizzata da un enzima diverso.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q016",
+      "q": "Perché la fosforilazione del glucosio a glucosio 6-fosfato è utile alla cellula?",
+      "choices": [
+        "Perché il glucosio 6-fosfato carico resta intrappolato nel citosol",
+        "Perché aumenta la concentrazione di glucosio libero disponibile nel citosol",
+        "Perché rende il glucosio più facilmente diffusibile attraverso la membrana plasmatica",
+        "Perché trasforma il glucosio in fruttosio all'interno del citosol",
+        "Perché genera direttamente due molecole di ATP nella prima tappa"
+      ],
+      "answer": 0,
+      "explain": "Il gruppo fosfato conferisce al glucosio 6-fosfato una carica negativa che gli impedisce di attraversare la membrana plasmatica, così la cellula trattiene il combustibile appena assorbito. La fosforilazione consuma ATP e non ne produce, e non facilita la diffusione del glucosio. Il distrattore più insidioso è la produzione di ATP, perché una tappa successiva della glicolisi genera davvero ATP, ma la prima tappa lo consuma.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q017",
+      "q": "Quale enzima converte il glucosio 6-fosfato in fruttosio 6-fosfato?",
+      "choices": [
+        "L'aldolasi",
+        "La fosfofruttochinasi 1",
+        "La trioso fosfato isomerasi",
+        "L'enolasi",
+        "La fosfoglucosio isomerasi"
+      ],
+      "answer": 4,
+      "explain": "La fosfoglucosio isomerasi, detta anche fosfoesosio isomerasi, sposta il gruppo carbonilico dal carbonio uno al carbonio due trasformando un aldosio in un chetosio. L'aldolasi scinde il fruttosio 1,6-bisfosfato, la fosfofruttochinasi lo forma e l'enolasi agisce molto più avanti sulla via. Il distrattore più insidioso è la trioso fosfato isomerasi, perché anch'essa catalizza un'isomerizzazione, ma opera sui triosi della fase di recupero energetico.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q018",
+      "q": "Che cosa produce la fosfofruttochinasi 1 a partire dal fruttosio 6-fosfato?",
+      "choices": [
+        "Fruttosio 1-fosfato e ADP",
+        "Glucosio 1,6-bisfosfato e ADP",
+        "Fruttosio 1,6-bisfosfato e ADP",
+        "Fruttosio 2,6-bisfosfato e ADP",
+        "Gliceraldeide 3-fosfato e diidrossiacetone fosfato"
+      ],
+      "answer": 2,
+      "explain": "La fosfofruttochinasi 1 fosforila il fruttosio 6-fosfato sul carbonio uno usando ATP, e il prodotto è il fruttosio 1,6-bisfosfato. Il fruttosio 2,6-bisfosfato è invece un potente attivatore allosterico della stessa fosfofruttochinasi e non il suo prodotto. Il distrattore più insidioso è il fruttosio 1-fosfato, che esiste nel metabolismo del fruttosio ma non è l'intermedio glicolitico.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q019",
+      "q": "Quale enzima scinde il fruttosio 1,6-bisfosfato in due molecole a tre atomi di carbonio?",
+      "choices": [
+        "La fosfofruttochinasi 1",
+        "L'aldolasi",
+        "La fosfoglucosio isomerasi",
+        "La piruvato chinasi",
+        "La fosfoglicerato chinasi"
+      ],
+      "answer": 1,
+      "explain": "L'aldolasi rompe il legame fra il carbonio tre e il carbonio quattro del fruttosio 1,6-bisfosfato, liberando diidrossiacetone fosfato e gliceraldeide 3-fosfato. La fosfofruttochinasi 1 produce proprio il substrato dell'aldolasi ed è quindi il distrattore più insidioso, ma non catalizza la scissione. La piruvato chinasi e la fosfoglicerato chinasi appartengono invece alla fase di recupero energetico.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q020",
+      "q": "Che cosa fa la trioso fosfato isomerasi nella glicolisi?",
+      "choices": [
+        "Fosforila il diidrossiacetone fosfato",
+        "Ossida la gliceraldeide 3-fosfato a 1,3-bisfosfoglicerato",
+        "Idrolizza il diidrossiacetone fosfato in due molecole",
+        "Converte il diidrossiacetone fosfato in gliceraldeide 3-fosfato",
+        "Trasferisce un gruppo fosfato dalla gliceraldeide 3-fosfato all'ADP"
+      ],
+      "answer": 3,
+      "explain": "La trioso fosfato isomerasi rende utilizzabile anche il diidrossiacetone fosfato trasformandolo in gliceraldeide 3-fosfato, l'unico trioso che prosegue nella via. In questo modo dalla scissione di un solo glucosio si ottengono due molecole di gliceraldeide 3-fosfato. Il distrattore più insidioso è l'ossidazione a 1,3-bisfosfoglicerato, che è la tappa successiva ma è catalizzata dalla gliceraldeide 3-fosfato deidrogenasi.",
+      "slide": 34
+    },
+    {
+      "id": "d02-b05-q021",
+      "q": "Quale enzima ossida la gliceraldeide 3-fosfato e lega contemporaneamente un gruppo fosfato al prodotto?",
+      "choices": [
+        "La fosfoglicerato chinasi, che trasferisce il fosfato all'ADP",
+        "La trioso fosfato isomerasi, che converte i due triosi",
+        "L'enolasi, che rimuove una molecola d'acqua dal substrato",
+        "La gliceraldeide 3-fosfato deidrogenasi",
+        "La piruvato chinasi, che chiude la via formando piruvato"
+      ],
+      "answer": 3,
+      "explain": "La gliceraldeide 3-fosfato deidrogenasi catalizza un'ossidazione accoppiata a una fosforilazione: il NAD+ accetta gli elettroni e un gruppo fosfato inorganico viene legato al prodotto, formando 1,3-bisfosfoglicerato. La fosfoglicerato chinasi utilizza poi questo intermedio per generare ATP. Il distrattore più insidioso è la fosfoglicerato chinasi, perché nella tappa successiva trasferisce davvero un fosfato, ma lo prende dall'1,3-bisfosfoglicerato invece di aggiungerlo al trioso.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q022",
+      "q": "Quante molecole di NADH si producono nella glicolisi per ogni molecola di glucosio?",
+      "choices": [
+        "Una",
+        "Due",
+        "Quattro",
+        "Sei",
+        "Otto"
+      ],
+      "answer": 1,
+      "explain": "Il NAD+ viene ridotto a NADH nella sola tappa della gliceraldeide 3-fosfato deidrogenasi, che però agisce su entrambi i triosi ottenuti dalla scissione del glucosio. Il bilancio è quindi di due NADH per molecola di glucosio. Il distrattore più insidioso è una sola molecola, perché si ragiona su un unico trioso dimenticando che il fruttosio 1,6-bisfosfato viene scisso in due unità a tre atomi di carbonio.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q023",
+      "q": "Quale enzima trasferisce il gruppo fosfato dell'1,3-bisfosfoglicerato all'ADP, formando ATP?",
+      "choices": [
+        "La fosfoglicerato chinasi",
+        "La gliceraldeide 3-fosfato deidrogenasi",
+        "La fosfoglicerato mutasi",
+        "La piruvato chinasi",
+        "L'esochinasi"
+      ],
+      "answer": 0,
+      "explain": "La fosfoglicerato chinasi catalizza una fosforilazione a livello del substrato: il gruppo fosfato ad alta energia dell'1,3-bisfosfoglicerato viene ceduto all'ADP, che diventa ATP. La piruvato chinasi compie la stessa operazione più avanti, ma sul fosfoenolpiruvato. Il distrattore più insidioso è la fosfoglicerato mutasi, perché agisce sullo stesso substrato nella tappa successiva spostando il fosfato da un carbonio all'altro, senza formare ATP.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q024",
+      "q": "Che reazione catalizza la fosfoglicerato mutasi?",
+      "choices": [
+        "La defosforilazione del 3-fosfoglicerato",
+        "L'idrolisi del 2-fosfoglicerato in piruvato",
+        "L'ossidazione del 3-fosfoglicerato a 1,3-bisfosfoglicerato",
+        "La fosforilazione del 3-fosfoglicerato a 1,3-bisfosfoglicerato",
+        "Lo spostamento del fosfato dal carbonio tre al carbonio due"
+      ],
+      "answer": 4,
+      "explain": "La fosfoglicerato mutasi sposta il gruppo fosfato dal carbonio tre al carbonio due, trasformando il 3-fosfoglicerato in 2-fosfoglicerato. Non si tratta di una nuova fosforilazione né di un'ossidazione, perché il numero di gruppi fosfato non cambia. Il distrattore più insidioso è la fosforilazione a 1,3-bisfosfoglicerato, che aggiungerebbe un secondo fosfato e riporterebbe la via indietro invece di farla procedere.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q025",
+      "q": "Quale enzima catalizza la disidratazione del 2-fosfoglicerato?",
+      "choices": [
+        "La fosfoglicerato mutasi",
+        "La piruvato chinasi",
+        "L'enolasi",
+        "L'aldolasi",
+        "La fosfoglicerato chinasi"
+      ],
+      "answer": 2,
+      "explain": "L'enolasi rimuove una molecola d'acqua dal 2-fosfoglicerato generando il fosfoenolpiruvato, un composto fosforilato ad alta energia. La piruvato chinasi utilizza poi il fosfoenolpiruvato per fosforilare l'ADP. Il distrattore più insidioso è la fosfoglicerato mutasi, che ha appena prodotto il substrato dell'enolasi, ma si limita a spostare il fosfato senza rimuovere acqua.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q026",
+      "q": "Che cosa si intende per fosforilazione a livello del substrato?",
+      "choices": [
+        "La sintesi di ATP accoppiata al trasferimento di elettroni nella catena respiratoria",
+        "La sintesi di ATP per trasferimento diretto di un gruppo fosfato da un substrato all'ADP",
+        "La fosforilazione di un substrato da parte dell'ATP",
+        "La sintesi di ATP per idrolisi del fosfoenolpiruvato ad opera dell'ATP sintasi",
+        "Il trasferimento di un gruppo fosfato da una proteina al glucosio"
+      ],
+      "answer": 1,
+      "explain": "Nella fosforilazione a livello del substrato l'ATP nasce dal trasferimento diretto di un gruppo fosfato ad alta energia da un intermedio della via all'ADP, come accade due volte nella glicolisi. La fosforilazione ossidativa, tipica dei mitocondri, è invece accoppiata al trasferimento di elettroni e all'ATP sintasi. Il distrattore più insidioso è la fosforilazione di un substrato da parte dell'ATP, che descrive il processo opposto, cioè il consumo di ATP per fosforilare un intermedio.",
+      "slide": 35
+    },
+    {
+      "id": "d02-b05-q027",
+      "q": "Quale enzima catalizza l'ultima tappa della glicolisi?",
+      "choices": [
+        "La piruvato chinasi",
+        "La fosfoglicerato chinasi",
+        "L'enolasi",
+        "La lattato deidrogenasi",
+        "La piruvato deidrogenasi"
+      ],
+      "answer": 0,
+      "explain": "La piruvato chinasi trasferisce il gruppo fosfato del fosfoenolpiruvato all'ADP, producendo una molecola di piruvato e una di ATP per ogni trioso. La lattato deidrogenasi e la piruvato deidrogenasi agiscono sul piruvato dopo la glicolisi. Il distrattore più insidioso è la lattato deidrogenasi, perché converte davvero il piruvato ma solo in condizioni anaerobie e senza produrre ATP.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q028",
+      "q": "Quale coppia di enzimi della glicolisi produce ATP per fosforilazione a livello del substrato?",
+      "choices": [
+        "Esochinasi e fosfofruttochinasi 1",
+        "Aldolasi e trioso fosfato isomerasi",
+        "Gliceraldeide 3-fosfato deidrogenasi ed enolasi",
+        "Fosfoglicerato chinasi e piruvato chinasi",
+        "Fosfoglucosio isomerasi e fosfoglicerato mutasi"
+      ],
+      "answer": 3,
+      "explain": "Le due tappe che generano ATP sono catalizzate dalla fosfoglicerato chinasi e dalla piruvato chinasi, che trasferiscono all'ADP il fosfato dell'1,3-bisfosfoglicerato e del fosfoenolpiruvato. Esochinasi e fosfofruttochinasi consumano ATP invece di produrlo, mentre aldolasi, isomerasi e mutasi non trasferiscono fosfato all'ADP. Il distrattore più insidioso è la coppia con la gliceraldeide 3-fosfato deidrogenasi, perché produce l'intermedio ad alta energia ma non l'ATP.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q029",
+      "q": "Perché l'ossidazione della gliceraldeide 3-fosfato è energeticamente accoppiata alla formazione di un composto fosforilato ad alta energia?",
+      "choices": [
+        "Perché l'ossidazione libera energia che viene dispersa sotto forma di calore",
+        "Perché il NADH prodotto viene immediatamente idrolizzato nel citosol",
+        "Perché l'ossidazione consuma una molecola di ATP per ogni trioso",
+        "Perché il gruppo fosfato deriva dall'ATP e non dal fosfato inorganico",
+        "Perché l'energia dell'ossidazione è conservata nel legame dell'acil fosfato"
+      ],
+      "answer": 4,
+      "explain": "L'ossidazione dell'aldeide ad acil fosfato è esergonica e la sua energia viene immagazzinata nel legame fosfoanidridico dell'1,3-bisfosfoglicerato, che ha un potenziale di trasferimento elevato. Questo permette alla tappa successiva di formare ATP senza consumare energia. Il distrattore più insidioso è che il fosfato derivi dall'ATP, perché in questa tappa il fosfato è inorganico e l'ATP non è coinvolto.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q030",
+      "q": "Quale ione metallico è essenziale per l'attività delle chinasi della glicolisi?",
+      "choices": [
+        "Il ferro, legato ai citocromi della catena respiratoria",
+        "Il magnesio",
+        "Il rame, presente nei citocromi ossidasi mitocondriali",
+        "Lo zinco, cofattore di molte proteine con dita di zinco",
+        "Il calcio, importante secondo messaggero nel citosol"
+      ],
+      "answer": 1,
+      "explain": "Le chinasi della glicolisi richiedono ioni magnesio, che si legano all'ATP e ne mascherano le cariche negative permettendo il trasferimento del fosfato. Il magnesio serve sia agli enzimi che consumano ATP, come l'esochinasi e la fosfofruttochinasi, sia a quelli che lo producono, come la piruvato chinasi. Il distrattore più insidioso è il calcio, perché è un importante secondo messaggero cellulare ma non è il cofattore delle chinasi glicolitiche.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q031",
+      "q": "In quale ordine compaiono gli intermedi della fase di recupero energetico della glicolisi?",
+      "choices": [
+        "Piruvato, fosfoenolpiruvato, 2-fosfoglicerato, 3-fosfoglicerato, 1,3-bisfosfoglicerato",
+        "1,3-bisfosfoglicerato, 3-fosfoglicerato, 2-fosfoglicerato, fosfoenolpiruvato, piruvato",
+        "1,3-bisfosfoglicerato, 2-fosfoglicerato, 3-fosfoglicerato, fosfoenolpiruvato, piruvato",
+        "Gliceraldeide 3-fosfato, fruttosio 1,6-bisfosfato, piruvato, acetil-coenzima A, lattato",
+        "3-fosfoglicerato, 1,3-bisfosfoglicerato, fosfoenolpiruvato, 2-fosfoglicerato, piruvato"
+      ],
+      "answer": 1,
+      "explain": "Nella fase di recupero energetico la gliceraldeide 3-fosfato viene ossidata a 1,3-bisfosfoglicerato, che perde un fosfato diventando 3-fosfoglicerato; seguono 2-fosfoglicerato, fosfoenolpiruvato e infine piruvato. L'ordine fra 3-fosfoglicerato e 2-fosfoglicerato è quello corretto perché la mutasi sposta il fosfato verso il carbonio due. Il distrattore più insidioso inverte proprio questi due intermedi, un errore frequente perché i due composti differiscono solo per la posizione del fosfato.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q032",
+      "q": "Quale enzima della glicolisi catalizza una lisi, cioè la rottura di un legame carbonio-carbonio?",
+      "choices": [
+        "L'esochinasi",
+        "L'enolasi",
+        "La piruvato chinasi",
+        "La trioso fosfato isomerasi",
+        "L'aldolasi"
+      ],
+      "answer": 4,
+      "explain": "L'aldolasi rompe il legame carbonio-carbonio del fruttosio 1,6-bisfosfato con un meccanismo di lisi aldolica, generando due triosi. L'enolasi rimuove acqua e le chinasi trasferiscono gruppi fosfato, senza scindere legami carbonio-carbonio. Il distrattore più insidioso è la trioso fosfato isomerasi, perché opera subito dopo la lisi sugli stessi triosi, ma si limita a isomerizzarli.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q033",
+      "q": "Perché la reazione catalizzata dalla piruvato chinasi è praticamente irreversibile nelle condizioni cellulari?",
+      "choices": [
+        "Perché la tappa consuma una molecola di ATP per ogni trioso",
+        "Perché la reazione produce anidride carbonica e consumo di NAD+",
+        "Perché la defosforilazione del fosfoenolpiruvato è fortemente esergonica",
+        "Perché il piruvato viene immediatamente trasportato nei mitocondri",
+        "Perché l'enzima è inibito dal fosfato inorganico presente nel citosol"
+      ],
+      "answer": 2,
+      "explain": "Il fosfoenolpiruvato è un intermedio ad alta energia: la sua defosforilazione accoppiata alla sintesi di ATP è fortemente esergonica, quindi la tappa procede in pratica solo verso il piruvato. Il trasporto del piruvato nei mitocondri avviene dopo e non rende irreversibile la reazione. Il distrattore più insidioso è il consumo di ATP, perché la tappa invece ne produce una molecola e non ne consuma.",
+      "slide": 36
+    },
+    {
+      "id": "d02-b05-q034",
+      "q": "Come viene regolata allostericamente la fosfofruttochinasi 1?",
+      "choices": [
+        "È inibita dall'ATP e dal citrato e attivata dall'AMP e dal fruttosio 2,6-bisfosfato",
+        "È inibita dall'AMP e attivata dall'ATP e dal citrato",
+        "È inibita dal fruttosio 2,6-bisfosfato e attivata dal citrato",
+        "È regolata soltanto dalla fosforilazione da parte di una protein chinasi",
+        "È inibita dal glucosio 6-fosfato e attivata dal piruvato e dal lattato"
+      ],
+      "answer": 0,
+      "explain": "La fosfofruttochinasi 1 è il principale punto di controllo della glicolisi: livelli elevati di ATP e di citrato segnalano abbondanza energetica e la inibiscono, mentre AMP e fruttosio 2,6-bisfosfato ne aumentano l'attività. La sua regolazione principale è allosterica e non soltanto covalente. Il distrattore più insidioso è quello che la dice inibita dal glucosio 6-fosfato, perché il glucosio 6-fosfato inibisce invece l'esochinasi.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q035",
+      "q": "Quale enzima della glicolisi è inibito dal glucosio 6-fosfato, cioè dal suo stesso prodotto?",
+      "choices": [
+        "L'aldolasi",
+        "La piruvato chinasi",
+        "La fosfofruttochinasi 1",
+        "L'esochinasi",
+        "L'enolasi"
+      ],
+      "answer": 3,
+      "explain": "Quando il glucosio 6-fosfato si accumula perché la cellula non lo utilizza, l'esochinasi viene inibita dal prodotto stesso ed evita un consumo inutile di ATP. La fosfofruttochinasi 1 riceve il glucosio 6-fosfato solo dopo l'isomerizzazione a fruttosio 6-fosfato. Il distrattore più insidioso è la fosfofruttochinasi 1, perché è il principale enzima regolato della via, ma risponde ad ATP, AMP, citrato e fruttosio 2,6-bisfosfato.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q036",
+      "q": "Quale caratteristica distingue la glucochinasi epatica dall'esochinasi degli altri tessuti?",
+      "choices": [
+        "La glucochinasi ha un'affinità molto alta per il glucosio e lavora anche a glicemie basse",
+        "La glucochinasi produce fruttosio 6-fosfato invece di glucosio 6-fosfato",
+        "La glucochinasi non richiede ATP perché lavora senza consumo energetico",
+        "La glucochinasi ha un'affinità più bassa per il glucosio e non è inibita dal prodotto",
+        "La glucochinasi si trova nel mitocondrio e non nel citosol"
+      ],
+      "answer": 3,
+      "explain": "La glucochinasi epatica ha una costante di Michaelis più elevata, quindi fosforila il glucosio solo quando la glicemia è alta, e non subisce l'inibizione da glucosio 6-fosfato: così il fegato può catturare il glucosio in eccesso dopo un pasto. L'esochinasi degli altri tessuti ha invece alta affinità e viene inibita dal prodotto. Il distrattore più insidioso è l'affinità alta, perché descrive proprio l'esochinasi e non la glucochinasi.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q037",
+      "q": "Quale metabolita intermedio della glicolisi potenzia l'attività della piruvato chinasi?",
+      "choices": [
+        "Il fruttosio 1,6-bisfosfato",
+        "Il glucosio 6-fosfato, che inibisce invece l'esochinasi",
+        "L'ATP, che segnala abbondanza energetica e inibisce la via",
+        "Il citrato, che segnala la saturazione del ciclo di Krebs",
+        "Il lattato, che si accumula quando l'ossigeno è insufficiente"
+      ],
+      "answer": 0,
+      "explain": "Il fruttosio 1,6-bisfosfato attiva la piruvato chinasi con un meccanismo di regolazione in avanti: quando il flusso glicolitico aumenta, viene stimolato anche l'enzima che chiude la via. ATP e citrato sono invece segnali di abbondanza energetica che inibiscono la via, e il glucosio 6-fosfato agisce a monte. Il distrattore più insidioso è l'ATP, perché è il prodotto finale della glicolisi ma la sua abbondanza inibisce la piruvato chinasi invece di attivarla.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q038",
+      "q": "Quale condizione segnala alla cellula di rallentare la glicolisi?",
+      "choices": [
+        "Un aumento del consumo di ATP da parte delle pompe ioniche",
+        "Un aumento della concentrazione di AMP",
+        "Una diminuzione del rapporto fra ATP e ADP",
+        "Un aumento del fruttosio 2,6-bisfosfato",
+        "Un aumento del rapporto fra ATP e ADP e del citrato"
+      ],
+      "answer": 4,
+      "explain": "Un rapporto elevato fra ATP e ADP insieme a un aumento del citrato indica che la cellula ha energia sufficiente e che il ciclo di Krebs è saturo, quindi la fosfofruttochinasi 1 rallenta la glicolisi. Un aumento di AMP o del fruttosio 2,6-bisfosfato segnala invece necessità di energia e accelera la via. Il distrattore più insidioso è la diminuzione del rapporto fra ATP e ADP, perché è proprio la condizione che attiva la glicolisi.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q039",
+      "q": "Quale ormone, agendo sul fegato durante il digiuno, riduce l'attività della piruvato chinasi?",
+      "choices": [
+        "L'insulina, che favorisce la glicolisi dopo il pasto",
+        "L'adrenalina, che agisce sul muscolo scheletrico durante lo sforzo",
+        "Il glucagone, attraverso la fosforilazione dell'enzima",
+        "Il cortisolo, che stimola la gluconeogenesi epatica",
+        "La tiroxina, che aumenta il metabolismo basale"
+      ],
+      "answer": 2,
+      "explain": "Nel digiuno il glucagone attiva la protein chinasi A, che fosforila la piruvato chinasi epatica inibendola: così il fegato risparmia il glucosio per gli altri tessuti. L'insulina agisce in senso opposto, favorendo la glicolisi dopo il pasto. Il distrattore più insidioso è l'insulina, perché è l'ormone dell'abbondanza di glucosio ma attiva la glicolisi invece di inibirla.",
+      "slide": 37
+    },
+    {
+      "id": "d02-b05-q040",
+      "q": "Che cos'è la fermentazione?",
+      "choices": [
+        "Una via metabolica che ossida completamente il glucosio nei mitocondri con produzione di ATP",
+        "Una via metabolica che estrae energia dai nutrienti sotto forma di ATP in assenza di ossigeno",
+        "La sintesi di glucosio a partire da precursori non glucidici come il lattato",
+        "La degradazione degli acidi grassi nel fegato con produzione di corpi chetonici",
+        "Il trasporto di elettroni lungo la catena respiratoria mitocondriale"
+      ],
+      "answer": 1,
+      "explain": "La fermentazione è una via metabolica che produce ATP dai nutrienti senza utilizzare l'ossigeno, quindi si svolge in anaerobiosi nel citosol. La sintesi di glucosio da precursori non glucidici è la gluconeogenesi, mentre la catena respiratoria è un processo aerobio legato alla membrana mitocondriale interna. Il distrattore più insidioso è la via mitocondriale ossidativa, perché produce molto più ATP ma richiede l'ossigeno come accettore finale di elettroni.",
+      "slide": 38
+    },
+    {
+      "id": "d02-b05-q041",
+      "q": "Da quale parola latina deriva il termine fermentazione e che cosa significa?",
+      "choices": [
+        "Da fervere, che significa bollire",
+        "Da ferrum, che significa ferro",
+        "Da fermentum, che significa lievito secco",
+        "Da ferveo, che significa riscaldare",
+        "Da frangere, che significa rompere"
+      ],
+      "answer": 0,
+      "explain": "Fermentazione deriva dal latino fervere, bollire, perché i mosti in fermentazione sviluppano bolle di anidride carbonica che sembrano un'ebollizione. Il significato non ha nulla a che vedere con il ferro o con la rottura delle molecole. Il distrattore più insidioso è fermentum, che indica il lievito e richiama il fenomeno, ma non è la radice del nome.",
+      "slide": 38
+    },
+    {
+      "id": "d02-b05-q042",
+      "q": "Quale reazione caratterizza la fermentazione lattica?",
+      "choices": [
+        "La decarbossilazione del piruvato ad acetaldeide con liberazione di anidride carbonica",
+        "La riduzione dell'acetaldeide a etanolo con ossidazione del NADH",
+        "L'ossidazione del lattato a piruvato con produzione di NADH",
+        "La riduzione del piruvato a lattato con ossidazione del NADH a NAD+",
+        "La conversione del piruvato in acetil-coenzima A nei mitocondri"
+      ],
+      "answer": 3,
+      "explain": "Nella fermentazione lattica la lattato deidrogenasi riduce il piruvato a lattato e, nello stesso passaggio, ossida il NADH a NAD+, rigenerando il coenzima necessario alla glicolisi. La decarbossilazione ad acetaldeide e la riduzione a etanolo appartengono invece alla fermentazione alcolica dei lieviti. Il distrattore più insidioso è la conversione in acetil-coenzima A, perché è la tappa aerobia che porta il piruvato verso il ciclo di Krebs.",
+      "slide": 38
+    },
+    {
+      "id": "d02-b05-q043",
+      "q": "Qual è lo scopo principale della fermentazione lattica nel muscolo che lavora intensamente?",
+      "choices": [
+        "Produrre anidride carbonica per il ciclo di Krebs",
+        "Rigenerare il NAD+ necessario perché la glicolisi continui",
+        "Aumentare la resa di ATP per molecola di glucosio",
+        "Trasformare il lattato in glucosio all'interno del muscolo stesso",
+        "Trasportare elettroni all'ossigeno mitocondriale"
+      ],
+      "answer": 1,
+      "explain": "Riducendo il piruvato a lattato, la cellula riossida il NADH e ricostituisce il NAD+ che serve alla gliceraldeide 3-fosfato deidrogenasi: senza questo passaggio la glicolisi anaerobia si arresterebbe. La fermentazione non aumenta la resa energetica, che resta di due ATP per glucosio, e non produce anidride carbonica. Il distrattore più insidioso è la trasformazione del lattato in glucosio nel muscolo, perché il muscolo non è in grado di compiere la gluconeogenesi.",
+      "slide": 38
+    },
+    {
+      "id": "d02-b05-q044",
+      "q": "Come si chiama la via con cui i lieviti trasformano il piruvato in etanolo e anidride carbonica?",
+      "choices": [
+        "Fermentazione lattica",
+        "Fermentazione malolattica",
+        "Fermentazione alcolica",
+        "Respirazione anaerobia",
+        "Glicogenolisi"
+      ],
+      "answer": 2,
+      "explain": "La fermentazione alcolica, tipica dei lieviti, decarbossila il piruvato ad acetaldeide e poi lo riduce a etanolo, liberando anidride carbonica e rigenerando il NAD+. La fermentazione lattica produce invece lattato, mentre la glicogenolisi mobilita il glicogeno. Il distrattore più insidioso è la respirazione anaerobia, che in biochimica indica l'uso di un accettore finale di elettroni diverso dall'ossigeno e non la fermentazione.",
+      "slide": 38
+    },
+    {
+      "id": "d02-b05-q045",
+      "q": "In quale alimento di uso comune la fermentazione lattica trasforma gli zuccheri del latte in acido lattico?",
+      "choices": [
+        "Nel pane lievitato con lievito di birra, che produce anidride carbonica",
+        "Nell'olio di oliva",
+        "Nel riso bianco bollito",
+        "Nella carne conservata sotto sale",
+        "Nello yogurt, dove i batteri lattici acidificano il latte"
+      ],
+      "answer": 4,
+      "explain": "Nello yogurt i batteri lattici fermentano il lattosio producendo acido lattico, che abbassa il pH e fa coagulare le proteine del latte. Il pane lievitato sfrutta invece la fermentazione alcolica del lievito di birra, che libera anidride carbonica. Il distrattore più insidioso è il pane, perché è un alimento fermentato, ma la fermentazione responsabile è quella alcolica e non quella lattica.",
+      "slide": 39
+    },
+    {
+      "id": "d02-b05-q046",
+      "q": "Perché durante un esercizio muscolare intenso si accumula acido lattico?",
+      "choices": [
+        "Perché il muscolo non possiede la lattato deidrogenasi necessaria alla reazione",
+        "Perché l'ossigeno in eccesso favorisce la riduzione del piruvato a lattato",
+        "Perché il glucosio viene degradato soltanto all'interno dei mitocondri",
+        "Perché il fegato produce grandi quantità di lattato durante l'esercizio",
+        "Perché la disponibilità di ossigeno è insufficiente a ossidare tutto il piruvato prodotto"
+      ],
+      "answer": 4,
+      "explain": "Quando lo sforzo supera la capacità di rifornimento di ossigeno, il piruvato non può essere ossidato nei mitocondri e viene ridotto a lattato per rigenerare il NAD+. Il muscolo possiede invece la lattato deidrogenasi, l'enzima che catalizza proprio questa reazione. Il distrattore più insidioso è la mancanza dell'enzima, perché la fermentazione lattica avviene normalmente nel muscolo e richiede al contrario un'attività enzimatica efficiente.",
+      "slide": 39
+    },
+    {
+      "id": "d02-b05-q047",
+      "q": "Quale reazione catalizza la lattato deidrogenasi?",
+      "choices": [
+        "La fosforilazione del lattato a lattato fosfato nel citosol",
+        "La decarbossilazione del piruvato ad acetaldeide e anidride carbonica",
+        "La riduzione reversibile del piruvato a lattato con il coenzima NAD",
+        "L'ossidazione del lattato ad acetil-coenzima A",
+        "Il trasporto del lattato attraverso la membrana mitocondriale"
+      ],
+      "answer": 2,
+      "explain": "La lattato deidrogenasi catalizza la riduzione reversibile del piruvato a lattato usando il NADH come donatore di elettroni e rigenerando NAD+. La reazione è reversibile e la direzione dipende dalle concentrazioni dei substrati e dal rapporto fra NADH e NAD+. Il distrattore più insidioso è l'ossidazione ad acetil-coenzima A, perché il piruvato può davvero entrare nel metabolismo ossidativo, ma quella tappa è opera della piruvato deidrogenasi.",
+      "slide": 40
+    },
+    {
+      "id": "d02-b05-q048",
+      "q": "Perché la lattato deidrogenasi aumenta nel sangue dopo un infarto del miocardio?",
+      "choices": [
+        "Perché il cuore aumenta la sintesi dell'enzima per produrre più ATP",
+        "Perché il fegato rilascia l'enzima in risposta all'ischemia",
+        "Perché l'enzima viene secreto attivamente dalle cellule cardiache sane",
+        "Perché l'enzima fuoriesce dalle cellule del miocardio danneggiate",
+        "Perché l'enzima si accumula nel sangue per mancata eliminazione renale"
+      ],
+      "answer": 3,
+      "explain": "Nell'infarto una parte del miocardio va incontro a morte cellulare e le membrane diventano permeabili, perciò enzimi intracellulari come la lattato deidrogenasi passano nel sangue, dove possono essere dosati. Non si tratta di un aumento della sintesi né di una secrezione attiva. Il distrattore più insidioso è la mancata eliminazione renale, perché una ridotta funzione renale può davvero aumentare alcuni enzimi plasmatici, ma dopo l'infarto il meccanismo è la liberazione dal tessuto danneggiato.",
+      "slide": 40
+    },
+    {
+      "id": "d02-b05-q049",
+      "q": "Quale coenzima è direttamente coinvolto nella conversione del lattato in piruvato?",
+      "choices": [
+        "Il coenzima A",
+        "Il NAD+",
+        "Il FAD",
+        "Il NADP+",
+        "Il tetraidrofolato"
+      ],
+      "answer": 1,
+      "explain": "La conversione del lattato in piruvato è un'ossidazione che richiede NAD+ come accettore di elettroni, con formazione di NADH. Il coenzima A interviene invece quando il piruvato entra nei mitocondri per diventare acetil-coenzima A. Il distrattore più insidioso è il NADP+, perché è un coenzima nicotinammidico molto simile al NAD+ ma è destinato soprattutto alle biosintesi riduttive.",
+      "slide": 40
+    },
+    {
+      "id": "d02-b05-q050",
+      "q": "Quale affermazione sul valore diagnostico della lattato deidrogenasi è corretta?",
+      "choices": [
+        "È un indicatore di danno cellulare, ma non è specifico del solo muscolo cardiaco",
+        "È un marcatore esclusivo dell'infarto del miocardio e delle altre cardiopatie",
+        "Aumenta unicamente in caso di danno epatico",
+        "È un enzima che si trova soltanto nel cuore",
+        "La sua concentrazione nel sangue non varia nelle condizioni patologiche"
+      ],
+      "answer": 0,
+      "explain": "La lattato deidrogenasi è presente in molti tessuti, perciò un suo aumento segnala un danno cellulare generico e va interpretato insieme al quadro clinico e ad altri marcatori. Non è un enzima esclusivo del cuore e non aumenta unicamente nelle malattie del fegato. Il distrattore più insidioso è il marcatore esclusivo dell'infarto, perché la lattato deidrogenasi aumenta davvero dopo un infarto, ma anche in molte altre condizioni di sofferenza tissutale.",
+      "slide": 40
+    }
+  ]
+}

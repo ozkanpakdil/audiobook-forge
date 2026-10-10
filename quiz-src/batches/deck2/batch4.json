@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 4,
+  "topic": "Assorbimento intestinale del glucosio e trasportatori SGLT1 e GLUT",
+  "questions": [
+    {
+      "id": "d02-b04-q001",
+      "q": "In quale sede il glucosio proveniente dalla dieta viene trasferito dal lume intestinale al sangue?",
+      "choices": [
+        "Nell'intestino tenue, attraverso l'epitelio degli enterociti",
+        "Nello stomaco, attraverso le ghiandole gastriche",
+        "Nell'esofago, attraverso l'epitelio squamoso",
+        "Nel colon, attraverso le cripte del colon",
+        "Nel dotto pancreatico, attraverso gli acini esocrini"
+      ],
+      "answer": 0,
+      "explain": "L'assorbimento dei monosaccaridi avviene nell'intestino tenue, dove gli enterociti completano la digestione e trasferiscono il glucosio al sangue dei capillari. Il colon è il distrattore più insidioso, perché riassorbe acqua ed elettroliti ma non il glucosio della dieta, che è già stato assorbito a monte.",
+      "slide": 22
+    },
+    {
+      "id": "d02-b04-q002",
+      "q": "Attraverso quale via il glucosio assorbito nell'intestino raggiunge il fegato?",
+      "choices": [
+        "Attraverso i vasi linfatici, insieme ai chilomicroni",
+        "Attraverso il sangue arterioso dell'aorta",
+        "Attraverso il dotto toracico",
+        "Attraverso il sangue venoso della vena porta",
+        "Attraverso il liquido peritoneale"
+      ],
+      "answer": 3,
+      "explain": "Il glucosio passa dall'enterocita ai capillari della parete intestinale, che confluiscono nella vena porta e lo portano direttamente al fegato. I vasi linfatici sono il distrattore più insidioso perché trasportano i lipidi assorbiti sotto forma di chilomicroni, non i monosaccaridi idrosolubili.",
+      "slide": 22
+    },
+    {
+      "id": "d02-b04-q003",
+      "q": "Quale condizione riduce più direttamente la capacità di assorbire il glucosio a livello intestinale?",
+      "choices": [
+        "L'aumento della motilita gastrica, che accelera lo svuotamento",
+        "La riduzione della superficie della mucosa intestinale",
+        "La presenza di glucosio nel lume dell'intestino tenue",
+        "La secrezione di acido cloridrico nella mucosa gastrica",
+        "L'aumento della temperatura corporea durante la digestione"
+      ],
+      "answer": 1,
+      "explain": "L'assorbimento dipende dalla superficie epiteliale disponibile: se la mucosa dell'intestino tenue si riduce, diminuiscono gli enzimi del bordo a spazzola e i trasportatori. La presenza di glucosio nel lume non riduce l'assorbimento, perché è proprio il substrato che viene trasportato.",
+      "slide": 22
+    },
+    {
+      "id": "d02-b04-q004",
+      "q": "Quale destinazione ha immediatamente il glucosio appena assorbito?",
+      "choices": [
+        "Viene eliminato con le feci sotto forma di polisaccaride",
+        "Viene convertito in acidi nucleici nei capillari intestinali",
+        "Viene trasformato in cheratina dagli enterociti del villo",
+        "Viene escreto dai reni senza essere riutilizzato dai tessuti",
+        "Viene ossidato per produrre energia o accumulato come glicogeno"
+      ],
+      "answer": 4,
+      "explain": "Il glucosio entra nel sangue e viene distribuito ai tessuti, che lo ossidano per ricavare energia o lo accumulano come glicogeno nel fegato e nel muscolo. L'eliminazione con le feci è errata perché in condizioni normali il glucosio viene assorbito quasi completamente.",
+      "slide": 22
+    },
+    {
+      "id": "d02-b04-q005",
+      "q": "Con quale meccanismo SGLT1 trasporta il glucosio attraverso la membrana apicale dell'enterocita?",
+      "choices": [
+        "Diffusione semplice attraverso il doppio strato lipidico",
+        "Trasporto attivo primario con idrolisi diretta di ATP",
+        "Trasporto attivo secondario, accoppiato al gradiente del sodio",
+        "Endocitosi mediata da recettori",
+        "Scambio con ioni cloruro"
+      ],
+      "answer": 2,
+      "explain": "SGLT1 sfrutta il gradiente elettrochimico del sodio, creato dalla pompa Na+/K+ ATPasi, per trasportare il glucosio contro il proprio gradiente: si parla perciò di trasporto attivo secondario. La scelta del trasporto attivo primario è insidiosa, perché SGLT1 non idrolizza direttamente l'ATP, che viene consumato invece dalla pompa basolaterale.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q006",
+      "q": "Quanti ioni sodio vengono trasportati insieme a una molecola di glucosio da SGLT1?",
+      "choices": [
+        "Nessuno, il sodio non è coinvolto",
+        "Un solo ione sodio",
+        "Tre ioni sodio",
+        "Quattro ioni sodio",
+        "Due ioni sodio"
+      ],
+      "answer": 4,
+      "explain": "SGLT1 è un cotrasportatore che lega due ioni sodio e una molecola di glucosio e li trasferisce insieme verso l'interno dell'enterocita. Il trasporto di un solo ione sodio appartiene ad altri cotrasportatori e non garantirebbe l'energia necessaria contro il gradiente del glucosio.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q007",
+      "q": "Quale enzima del bordo a spazzola idrolizza il lattosio?",
+      "choices": [
+        "Saccarasi",
+        "Lattasi",
+        "Maltasi",
+        "Isomaltasi",
+        "α-glicosidasi"
+      ],
+      "answer": 1,
+      "explain": "La lattasi scinde il lattosio nei due monosaccaridi che lo compongono, glucosio e galattosio. La saccarasi è il distrattore più insidioso perché è anch'essa una disaccaridasi del bordo a spazzola, ma agisce sul saccarosio e libera glucosio e fruttosio.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q008",
+      "q": "Quali monosaccaridi derivano dall'idrolisi del lattosio?",
+      "choices": [
+        "Glucosio e fruttosio",
+        "Due molecole di glucosio",
+        "Fruttosio e galattosio",
+        "Glucosio e galattosio",
+        "Maltosio e glucosio"
+      ],
+      "answer": 3,
+      "explain": "Il lattosio è un disaccaride formato da glucosio e galattosio, perciò la sua idrolisi libera esattamente questi due monosaccaridi. La coppia glucosio-fruttosio appartiene invece al saccarosio, ed è il distrattore più probabile perché entrambe le coppie contengono glucosio.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q009",
+      "q": "Quale enzima idrolizza il saccarosio sulla membrana apicale dell'enterocita?",
+      "choices": [
+        "Saccarasi",
+        "Lattasi",
+        "Maltasi",
+        "α-glicosidasi",
+        "Amilasi salivare"
+      ],
+      "answer": 0,
+      "explain": "La saccarasi, detta anche invertasi, scinde il saccarosio in glucosio e fruttosio sulla superficie dell'enterocita. L'amilasi salivare è un distrattore insidioso perché idrolizza l'amido, ma non i disaccaridi come il saccarosio.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q010",
+      "q": "Quale trasportatore permette al fruttosio di entrare nell'enterocita attraverso la membrana apicale?",
+      "choices": [
+        "SGLT1",
+        "GLUT2",
+        "GLUT5",
+        "Na+/K+ ATPasi",
+        "GLUT4"
+      ],
+      "answer": 2,
+      "explain": "Il fruttosio entra nell'enterocita per diffusione facilitata attraverso GLUT5, un trasportatore specifico che non dipende dal sodio. GLUT4 è il distrattore più insidioso perché è un trasportatore di glucosio, ma si trova nelle cellule muscolari e adipose ed è regolato dall'insulina.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q011",
+      "q": "Da quale trasportatore il glucosio esce dall'enterocita verso il capillare?",
+      "choices": [
+        "SGLT1",
+        "GLUT5",
+        "Na+/K+ ATPasi",
+        "GLUT2",
+        "Un canale per il cloruro"
+      ],
+      "answer": 3,
+      "explain": "Sulla membrana basolaterale dell'enterocita il glucosio passa al sangue attraverso GLUT2, che opera per diffusione facilitata. SGLT1 è il distrattore più insidioso perché trasporta davvero il glucosio, ma si trova sulla membrana apicale e usa il sodio.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q012",
+      "q": "Qual è il compito principale della pompa Na+/K+ ATPasi nella membrana basolaterale dell'enterocita?",
+      "choices": [
+        "Trasportare il glucosio dentro la cellula",
+        "Mantenere bassa la concentrazione intracellulare di sodio",
+        "Idrolizzare il lattosio in glucosio e galattosio",
+        "Trasportare il fruttosio verso il capillare",
+        "Trasportare gli amminoacidi nel lume intestinale"
+      ],
+      "answer": 1,
+      "explain": "La pompa espelle sodio verso lo spazio interstiziale e vi introduce potassio, consumando ATP: in questo modo mantiene bassa la concentrazione di sodio dentro l'enterocita. Il trasporto del glucosio non è compito della pompa ma di SGLT1 e GLUT2, che sfruttano o seguono il gradiente da essa creato.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q013",
+      "q": "In quale direzione si muove il sodio quando SGLT1 funziona?",
+      "choices": [
+        "Dal sangue verso il lume intestinale",
+        "Dal capillare verso l'enterocita contro gradiente",
+        "Dal citoplasma verso il lume intestinale",
+        "Non si muove, resta legato al trasportatore",
+        "Dal lume intestinale verso l'interno dell'enterocita"
+      ],
+      "answer": 4,
+      "explain": "Il sodio è più concentrato nel lume e nello spazio extracellulare che nel citoplasma, quindi entra nell'enterocita seguendo il proprio gradiente e trascina con sé il glucosio. Il movimento verso il lume sarebbe contro gradiente e richiederebbe energia, che SGLT1 non fornisce.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q014",
+      "q": "Quale fra i seguenti enzimi non è un enzima del bordo a spazzola intestinale?",
+      "choices": [
+        "Esochinasi",
+        "Lattasi",
+        "Maltasi",
+        "Saccarasi",
+        "Isomaltasi"
+      ],
+      "answer": 0,
+      "explain": "L'esochinasi è un enzima citoplasmatico che fosforila il glucosio all'inizio della glicolisi e non partecipa alla digestione intestinale. Lattasi, maltasi, saccarasi e isomaltasi sono invece disaccaridasi ancorate alla membrana apicale dell'enterocita.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q015",
+      "q": "Quale enzima completa la digestione delle destrine limite e del maltotriosio?",
+      "choices": [
+        "Lattasi, che scinde il lattosio in glucosio e galattosio",
+        "Saccarasi, che scinde il saccarosio in glucosio e fruttosio",
+        "α-glicosidasi, che idrolizza gli oligosaccaridi dell'amido",
+        "Esochinasi, che fosforila il glucosio all'inizio della glicolisi",
+        "Pepsina, che idrolizza le proteine nello stomaco"
+      ],
+      "answer": 2,
+      "explain": "L'α-glicosidasi del bordo a spazzola idrolizza gli oligosaccaridi derivati dall'amido, come il maltotriosio e le destrine limite, liberando glucosio. La pepsina è un distrattore insidioso perché è una proteasi gastrica e non ha alcun ruolo nella digestione dei carboidrati.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q016",
+      "q": "Perché il deficit di lattasi provoca diarrea e gonfiore addominale?",
+      "choices": [
+        "Perché aumenta l'assorbimento di sodio e acqua nel colon prossimale",
+        "Perché il glucosio non assorbito viene convertito in lattato nel lume",
+        "Perché la pompa Na+/K+ ATPasi degli enterociti viene inibita",
+        "Perché il fruttosio non può più usare il trasportatore GLUT5",
+        "Perché il lattosio non digerito richiama acqua ed è fermentato nel colon"
+      ],
+      "answer": 4,
+      "explain": "Senza lattasi il lattosio resta nel lume intestinale, trattiene osmoticamente acqua e viene fermentato dalla flora del colon producendo gas, da cui derivano diarrea e gonfiore. L'inibizione della pompa Na+/K+ ATPasi è un distrattore insidioso perché ridurrebbe l'assorbimento ma non è il meccanismo del deficit di lattasi.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q017",
+      "q": "Perché una soluzione reidratante orale contiene sia glucosio sia sodio?",
+      "choices": [
+        "Perché SGLT1 cotrasporta sodio e glucosio e con essi richiama acqua",
+        "Perché il glucosio tampona l'acidità gastrica nello stomaco",
+        "Perché il sodio idrolizza il lattosio nel lume intestinale",
+        "Perché il glucosio blocca la pompa Na+/K+ ATPasi basolaterale",
+        "Perché il fruttosio richiede la presenza di sodio nel lume"
+      ],
+      "answer": 0,
+      "explain": "Il cotrasporto di sodio e glucosio operato da SGLT1 trascina acqua nel circolo e rende più efficace la reidratazione. Il sodio non partecipa all'idrolisi del lattosio, che dipende dalla lattasi, quindi quella spiegazione è errata.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q018",
+      "q": "Dove si trovano gli enzimi che completano la digestione dei disaccaridi?",
+      "choices": [
+        "Liberi nel lume intestinale, come gli enzimi pancreatici",
+        "Nel citoplasma degli enterociti, insieme agli enzimi della glicolisi",
+        "Nel sangue dei capillari intestinali, dopo l'assorbimento",
+        "Sulla membrana apicale degli enterociti, nel bordo a spazzola",
+        "Nelle ghiandole gastriche, insieme alle cellule parietali"
+      ],
+      "answer": 3,
+      "explain": "Le disaccaridasi sono proteine integrali della membrana apicale dell'enterocita, dove il bordo a spazzola aumenta la superficie di contatto con il chimo. Gli enzimi pancreatici sono il distrattore più insidioso perché sono solubili nel lume, ma agiscono su amido, proteine e lipidi, non sui disaccaridi.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q019",
+      "q": "Quale sequenza descrive correttamente il percorso del glucosio attraverso l'enterocita?",
+      "choices": [
+        "Entra con GLUT2 sul lato apicale ed esce con SGLT1 sul lato basolaterale",
+        "Entra con SGLT1 sul lato apicale ed esce con GLUT2 sul lato basolaterale",
+        "Entra con GLUT5 sul lato apicale ed esce con SGLT1 sul lato basolaterale",
+        "Entra con la pompa Na+/K+ ATPasi ed esce con GLUT5 sul lato basolaterale",
+        "Entra ed esce sempre con SGLT1, senza cambiare trasportatore"
+      ],
+      "answer": 1,
+      "explain": "Il glucosio viene captato dal lume attraverso SGLT1 sulla membrana apicale e lasciato al capillare attraverso GLUT2 sulla membrana basolaterale. Invertire i due trasportatori è l'errore più frequente, perché GLUT2 non è accoppiato al sodio e non può sostenere l'ingresso contro gradiente.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q020",
+      "q": "Quale conseguenza ha un difetto genetico di SGLT1?",
+      "choices": [
+        "Aumento dell'assorbimento di fruttosio",
+        "Intolleranza al saccarosio con accumulo di fruttosio",
+        "Malassorbimento di glucosio e galattosio",
+        "Perdita di potassio nel colon",
+        "Difetto della digestione delle proteine"
+      ],
+      "answer": 2,
+      "explain": "SGLT1 è il trasportatore apicale comune a glucosio e galattosio: se funziona male, questi due monosaccaridi non vengono assorbiti e compaiono diarrea osmotica e disidratazione. Il fruttosio non è coinvolto, perché entra attraverso GLUT5 e non dipende da SGLT1.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q021",
+      "q": "Glucosio e galattosio da un lato, fruttosio dall'altro: quale affermazione è corretta?",
+      "choices": [
+        "Tutti e tre i monosaccaridi entrano con lo stesso SGLT1",
+        "Tutti e tre i monosaccaridi entrano con lo stesso GLUT5",
+        "Il glucosio entra con GLUT5 e il fruttosio entra con SGLT1",
+        "Il fruttosio entra con il sodio e il glucosio non lo usa",
+        "Glucosio e galattosio usano SGLT1, mentre il fruttosio usa GLUT5"
+      ],
+      "answer": 4,
+      "explain": "Solo glucosio e galattosio sono cotrasportati con il sodio da SGLT1, mentre il fruttosio sfrutta il trasportatore GLUT5, indipendente dal sodio. Scambiare i due trasportatori è l'errore più insidioso, perché porterebbe ad attribuire al fruttosio una dipendenza dal sodio che non esiste.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q022",
+      "q": "Nella diarrea osmotica da deficit di lattasi, quale zucchero rimane nel lume intestinale e richiama acqua?",
+      "choices": [
+        "Glucosio",
+        "Lattosio",
+        "Galattosio",
+        "Fruttosio",
+        "Maltotriosio"
+      ],
+      "answer": 1,
+      "explain": "In assenza di lattasi il lattosio non viene scisso e resta nel lume, dove esercita un effetto osmotico che richiama acqua. Il glucosio non si accumula, perché anche in questo caso viene assorbito normalmente da SGLT1.",
+      "slide": 23
+    },
+    {
+      "id": "d02-b04-q023",
+      "q": "Quale percentuale del peso corporeo rappresenta il cervello?",
+      "choices": [
+        "Circa il due per cento",
+        "Circa il quindici per cento",
+        "Circa il venti per cento",
+        "Circa il venticinque per cento",
+        "Circa il cinquanta per cento"
+      ],
+      "answer": 0,
+      "explain": "Il cervello rappresenta solo circa il due per cento del peso corporeo, ma consuma una quota molto maggiore di ossigeno e glucosio. Il venti e il venticinque per cento sono i distrattori più insidiosi perché sono le percentuali di ossigeno e di glucosio consumate, non quelle del peso.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q024",
+      "q": "Quale frazione della gettata cardiaca riceve il cervello?",
+      "choices": [
+        "Circa il due per cento",
+        "Circa il dieci per cento",
+        "Circa il quindici per cento",
+        "Circa il venticinque per cento",
+        "Circa il quaranta per cento"
+      ],
+      "answer": 2,
+      "explain": "Il cervello riceve circa il quindici per cento della gettata cardiaca, una quota elevata rispetto alla sua massa. Il venticinque per cento è il distrattore più insidioso, ma corrisponde alla percentuale di glucosio consumata a riposo, non al flusso ematico.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q025",
+      "q": "Quale percentuale dell'ossigeno corporeo totale consuma il cervello a riposo?",
+      "choices": [
+        "Circa il due per cento",
+        "Circa il quindici per cento",
+        "Circa il diciotto per cento",
+        "Circa il venti per cento",
+        "Circa il venticinque per cento"
+      ],
+      "answer": 3,
+      "explain": "A riposo il cervello consuma circa il venti per cento dell'ossigeno totale dell'organismo, pur essendo solo il due per cento della massa. Il venticinque per cento è il distrattore più insidioso perché è la quota di glucosio, non di ossigeno.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q026",
+      "q": "Quale percentuale del glucosio corporeo è utilizzata dal cervello a riposo?",
+      "choices": [
+        "Circa il due per cento",
+        "Circa il venticinque per cento",
+        "Circa il venti per cento",
+        "Circa il quindici per cento",
+        "Circa il cinquanta per cento"
+      ],
+      "answer": 1,
+      "explain": "A riposo il cervello utilizza circa il venticinque per cento del glucosio dell'organismo, pur pesando solo il due per cento del corpo. Il venti per cento è il distrattore più insidioso, perché è la percentuale di ossigeno consumata e non quella di glucosio.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q027",
+      "q": "Quanto glucosio consuma approssimativamente il cervello in un giorno?",
+      "choices": [
+        "Circa dodici grammi al giorno",
+        "Circa venti grammi al giorno",
+        "Circa cinquanta grammi al giorno",
+        "Circa duecento grammi al giorno",
+        "Circa centoventi grammi al giorno"
+      ],
+      "answer": 4,
+      "explain": "Il consumo giornaliero di glucosio del cervello è di circa centoventi grammi, una quantità che rende evidente la sua dipendenza dal rifornimento ematico continuo. Duecento grammi al giorno è il distrattore più vicino, ma sovrastima il valore reale.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q028",
+      "q": "Che cosa indica il fatto che il cervello riceva il quindici per cento della gettata cardiaca?",
+      "choices": [
+        "Che il cervello immagazzina grandi quantità di glicogeno di riserva",
+        "Che il cervello produce energia soltanto in anaerobiosi",
+        "Che il cervello consuma molto ossigeno e glucosio per la sua massa",
+        "Che il cervello non utilizza ossigeno per il suo metabolismo",
+        "Che il cervello dipende esclusivamente dai grassi come combustibile"
+      ],
+      "answer": 2,
+      "explain": "Un organo piccolo che riceve una quota così alta di sangue ha un metabolismo particolarmente attivo, sostenuto soprattutto dall'ossidazione del glucosio. L'idea che il cervello lavori solo in anaerobiosi è errata, perché il suo metabolismo è prevalentemente aerobico e consuma molto ossigeno.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q029",
+      "q": "Perché il cervello dipende in modo critico da un rifornimento continuo di glucosio?",
+      "choices": [
+        "Perché ha scarse riserve di glicogeno e lo consuma senza sosta",
+        "Perché non possiede enzimi glicolitici nel citosol",
+        "Perché non è in grado di utilizzare l'ossigeno per ossidare i substrati",
+        "Perché produce glucosio dal glicogeno dei muscoli scheletrici",
+        "Perché elimina il glucosio attraverso il liquido cerebrospinale"
+      ],
+      "answer": 0,
+      "explain": "Il tessuto nervoso ha riserve di glicogeno trascurabili e un fabbisogno energetico costante, quindi dipende dal glucosio portato dal sangue. La mancanza di enzimi glicolitici è errata, perché la glicolisi è proprio la via con cui il cervello utilizza il glucosio.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q030",
+      "q": "Quale disturbo compare precocemente quando la glicemia scende in modo marcato?",
+      "choices": [
+        "Aumento della memoria e della concentrazione",
+        "Riduzione del consumo di ossigeno da parte del fegato",
+        "Aumento della produzione di eritrociti",
+        "Incremento della filtrazione renale del glucosio",
+        "Confusione mentale e alterazione della coscienza"
+      ],
+      "answer": 4,
+      "explain": "Il cervello è il primo organo a risentire dell'ipoglicemia, perché non può utilizzare gli acidi grassi: compaiono confusione, sudorazione e alterazione della coscienza. L'aumento di memoria e concentrazione contraddice la fisiologia e serve solo a escludere l'ipotesi opposta.",
+      "slide": 24
+    },
+    {
+      "id": "d02-b04-q031",
+      "q": "Quante molecole di ossigeno sono necessarie per l'ossidazione completa di una molecola di glucosio?",
+      "choices": [
+        "Tre molecole di ossigeno",
+        "Sei molecole di ossigeno",
+        "Due molecole di ossigeno",
+        "Dodici molecole di ossigeno",
+        "Una sola molecola di ossigeno"
+      ],
+      "answer": 1,
+      "explain": "L'ossidazione completa del glucosio consuma sei molecole di ossigeno e produce sei molecole di anidride carbonica e acqua. Il numero due è il distrattore più insidioso perché corrisponde ai due piruvati formati dalla glicolisi, non alle molecole di ossigeno.",
+      "slide": 25
+    },
+    {
+      "id": "d02-b04-q032",
+      "q": "Durante un digiuno prolungato, quale substrato il cervello può utilizzare in parte al posto del glucosio?",
+      "choices": [
+        "Acidi grassi a catena lunga",
+        "Amminoacidi ramificati",
+        "Colesterolo",
+        "Corpi chetonici",
+        "Emoglobina"
+      ],
+      "answer": 3,
+      "explain": "In condizioni di digiuno prolungato il fegato produce corpi chetonici, che il cervello può ossidare e utilizzare come combustibile alternativo. Gli acidi grassi a catena lunga sono il distrattore più insidioso, perché sono la principale riserva energetica dell'organismo ma non attraversano la barriera ematoencefalica.",
+      "slide": 25
+    },
+    {
+      "id": "d02-b04-q033",
+      "q": "Che cosa produce la glicolisi a partire da una molecola di glucosio?",
+      "choices": [
+        "Due molecole di acetil-CoA",
+        "Sei molecole di anidride carbonica",
+        "Una molecola di glucosio-6-fosfato",
+        "Due molecole di lattato in ogni condizione",
+        "Due molecole di piruvato"
+      ],
+      "answer": 4,
+      "explain": "La glicolisi scinde il glucosio in due molecole di piruvato a tre atomi di carbonio, con produzione di ATP e NADH. L'acetil-CoA è il distrattore più insidioso perché si forma dal piruvato solo in presenza di ossigeno e in un compartimento diverso.",
+      "slide": 26
+    },
+    {
+      "id": "d02-b04-q034",
+      "q": "In quale compartimento cellulare si svolge la glicolisi?",
+      "choices": [
+        "Nel citosol",
+        "Nella matrice mitocondriale",
+        "Nello spazio intermembrana dei mitocondri",
+        "Nel reticolo endoplasmatico liscio",
+        "Nel nucleo"
+      ],
+      "answer": 0,
+      "explain": "Tutti gli enzimi della glicolisi sono solubili nel citosol, dove la via trasforma il glucosio in piruvato. La matrice mitocondriale è il distrattore più insidioso perché è la sede dell'ossidazione del piruvato e del ciclo di Krebs, che sono tappe successive.",
+      "slide": 26
+    },
+    {
+      "id": "d02-b04-q035",
+      "q": "Come si classifica la glicolisi dal punto di vista metabolico?",
+      "choices": [
+        "Via anabolica di sintesi del glucosio a partire da precursori",
+        "Via anabolica di sintesi delle proteine dai loro monomeri",
+        "Via catabolica che degrada il glucosio in piruvato",
+        "Via di trasporto transmembrana dei monosaccaridi",
+        "Via di detossificazione dall'ammoniaca nel fegato"
+      ],
+      "answer": 2,
+      "explain": "La glicolisi è una via catabolica: degrada il glucosio in piruvato e conserva parte dell'energia liberata sotto forma di ATP e NADH. La sintesi del glucosio è il distrattore più insidioso perché è il processo opposto e prende il nome di gluconeogenesi.",
+      "slide": 26
+    },
+    {
+      "id": "d02-b04-q036",
+      "q": "Quale enzima catalizza la prima tappa della glicolisi?",
+      "choices": [
+        "Fosfofruttocinasi-1",
+        "Esochinasi",
+        "Piruvato chinasi",
+        "Aldolasi",
+        "Gliceraldeide-3-fosfato deidrogenasi"
+      ],
+      "answer": 1,
+      "explain": "L'esochinasi fosforila il glucosio in glucosio-6-fosfato, intrappolando lo zucchero nella cellula fin dalla prima tappa. La fosfofruttocinasi-1 è il distrattore più insidioso perché è l'enzima chiave della regolazione, ma agisce più avanti, sul fruttosio-6-fosfato.",
+      "slide": 27
+    },
+    {
+      "id": "d02-b04-q037",
+      "q": "Quale enzima catalizza la tappa limitante della glicolisi?",
+      "choices": [
+        "Esochinasi, che fosforila il glucosio nella prima tappa",
+        "Aldolasi, che scinde il fruttosio-1,6-bisfosfato in due triosi",
+        "Piruvato chinasi, che produce piruvato e ATP nell'ultima tappa",
+        "Fosfofruttocinasi-1, che regola la velocità dell'intera via",
+        "Enolasi, che disidrata il 2-fosfoglicerato in fosfoenolpiruvato"
+      ],
+      "answer": 3,
+      "explain": "La fosfofruttocinasi-1 catalizza la conversione del fruttosio-6-fosfato in fruttosio-1,6-bisfosfato ed è il principale punto di regolazione della via. L'esochinasi è il distrattore più insidioso perché catalizza la prima tappa, ma la velocità complessiva della glicolisi è controllata soprattutto dalla fosfofruttocinasi-1.",
+      "slide": 27
+    },
+    {
+      "id": "d02-b04-q038",
+      "q": "In quale tappa della glicolisi si forma NADH?",
+      "choices": [
+        "Nella deidrogenazione della gliceraldeide-3-fosfato",
+        "Nella formazione del glucosio-6-fosfato da parte dell'esochinasi",
+        "Nella scissione del fruttosio-1,6-bisfosfato in due triosi",
+        "Nella conversione del fosfoenolpiruvato in piruvato da parte della chinasi",
+        "Nella conversione del 3-fosfoglicerato in 2-fosfoglicerato"
+      ],
+      "answer": 0,
+      "explain": "La gliceraldeide-3-fosfato deidrogenasi ossida la gliceraldeide-3-fosfato e riduce il NAD+ a NADH, formando 1,3-bisfosfoglicerato. La tappa del fosfoenolpiruvato è il distrattore più insidioso perché produce ATP, ma non NADH.",
+      "slide": 30
+    },
+    {
+      "id": "d02-b04-q039",
+      "q": "Perché gli eritrociti dipendono dalla glicolisi?",
+      "choices": [
+        "Perché contengono molti mitocondri e usano la fosforilazione ossidativa",
+        "Perché utilizzano soltanto acidi grassi come combustibile",
+        "Perché sono privi di mitocondri e producono ATP in anaerobiosi",
+        "Perché non contengono emoglobina e trasportano poco ossigeno",
+        "Perché producono glucosio dal glicogeno accumulato nel citoplasma"
+      ],
+      "answer": 2,
+      "explain": "Gli eritrociti maturi non possiedono mitocondri, quindi possono ricavare ATP solo dalla glicolisi anaerobica. L'idea che contengano molti mitocondri è l'errore opposto è più insidioso, perché renderebbe possibile la fosforilazione ossidativa che invece manca.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q040",
+      "q": "Quale coppia di strutture oculari dipende dalla glicolisi per il proprio fabbisogno energetico?",
+      "choices": [
+        "Retina e nervo ottico",
+        "Palpebra e ghiandola lacrimale",
+        "Iride e muscolo ciliare",
+        "Sclera e congiuntiva",
+        "Cornea e cristallino"
+      ],
+      "answer": 4,
+      "explain": "Cornea e cristallino sono strutture poco vascolarizzate che ricavano energia dalla glicolisi, mantenendo così la trasparenza necessaria alla visione. La retina è il distrattore più insidioso perché ha un metabolismo glucidico intenso, ma è un tessuto diverso e riccamente vascolarizzato.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q041",
+      "q": "Perché il glucosio è particolarmente adatto come combustibile di pronto uso?",
+      "choices": [
+        "Perché è insolubile e si accumula nelle membrane cellulari",
+        "Perché è assorbito rapidamente ed è subito disponibile",
+        "Perché può essere ossidato direttamente senza enzimi",
+        "Perché contiene più energia di qualunque lipide a parità di massa",
+        "Perché attraversa le membrane cellulari senza trasportatori"
+      ],
+      "answer": 1,
+      "explain": "Il glucosio è idrosolubile e il suo assorbimento intestinale è rapido, perciò giunge ai tessuti in tempi brevi ed è pronto per la glicolisi. Il confronto energetico con i lipidi è il distrattore più insidioso: a parita di massa i lipidi rendono più energia, ma non sono disponibili con la stessa rapidità.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q042",
+      "q": "In quali condizioni può procedere la glicolisi?",
+      "choices": [
+        "Solo in presenza di ossigeno, come la fosforilazione ossidativa",
+        "Solo negli eritrociti, che ne dipendono per l'ATP",
+        "Solo nei mitocondri, dove si completa l'ossidazione",
+        "Sia in aerobiosi sia in anaerobiosi, senza bisogno di ossigeno",
+        "Solo nei tessuti embrionali a rapida proliferazione"
+      ],
+      "answer": 3,
+      "explain": "La glicolisi è una via universale del citosol e funziona sia in aerobiosi sia in anaerobiosi, perché non richiede ossigeno. Limitarla all'aerobiosi è l'errore più insidioso, perché proprio negli eritrociti e nei tessuti poco ossigenati la glicolisi procede in assenza di ossigeno.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q043",
+      "q": "Perché la midollare renale ricava energia soprattutto dalla glicolisi?",
+      "choices": [
+        "Perché è poco perfusa e quindi relativamente ipossica",
+        "Perché non contiene acqua, che rallenta le reazioni",
+        "Perché produce glucosio dal glicogeno della corticale renale",
+        "Perché è priva di enzimi glicolitici e di mitocondri",
+        "Perché utilizza soltanto corpi chetonici come combustibile"
+      ],
+      "answer": 0,
+      "explain": "La midollare renale riceve un flusso ematico limitato e lavora in condizioni di bassa tensione di ossigeno, quindi dipende dalla glicolisi anaerobica. L'assenza di enzimi glicolitici contraddice il fatto stesso che questo tessuto usi la glicolisi.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q044",
+      "q": "Perché i tessuti embrionali hanno un elevato fabbisogno di glicolisi?",
+      "choices": [
+        "Perché non possiedono citosol e usano solo i mitocondri",
+        "Perché utilizzano soltanto lipidi come fonte di energia",
+        "Perché proliferano rapidamente e richiedono energia e precursori",
+        "Perché sono privi di membrana plasmatica e di trasportatori",
+        "Perché non possono usare il glucosio come combustibile"
+      ],
+      "answer": 2,
+      "explain": "La crescita rapida dei tessuti embrionali richiede sia ATP sia intermedi carboniosi per costruire nuove molecole, e la glicolisi fornisce entrambi. Il ricorso esclusivo ai lipidi è il distrattore più insidioso, perché i lipidi non riforniscono i precursori glucidici necessari alla sintesi.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q045",
+      "q": "In anaerobiosi, perché il piruvato viene ridotto a lattato?",
+      "choices": [
+        "Per eliminare l'azoto in eccesso sotto forma di urea",
+        "Per produrre anidride carbonica da destinare al sangue",
+        "Per consumare l'ATP prodotto in eccesso dalla glicolisi",
+        "Per formare glucosio nel fegato attraverso la gluconeogenesi",
+        "Per rigenerare NAD+, indispensabile alla glicolisi"
+      ],
+      "answer": 4,
+      "explain": "La riduzione del piruvato a lattato riossida il NADH a NAD+, permettendo alla gliceraldeide-3-fosfato deidrogenasi di continuare a funzionare e alla glicolisi di produrre ATP. La formazione di glucosio nel fegato è un distrattore insidioso: avviene nel fegato ma non è lo scopo della riduzione del piruvato.",
+      "slide": 28
+    },
+    {
+      "id": "d02-b04-q046",
+      "q": "In quante fasi viene suddivisa la glicolisi è come si chiamano?",
+      "choices": [
+        "In tre fasi: ossidativa, idrolitica e di trasporto",
+        "In due fasi: aerobica e anaerobica",
+        "In quattro fasi, una per ogni molecola di ATP prodotta",
+        "In due fasi: fase preparatoria e fase di recupero energetico",
+        "In una sola fase, detta fermentazione"
+      ],
+      "answer": 3,
+      "explain": "La glicolisi comprende una fase preparatoria, in cui il glucosio viene attivato e scisso, e una fase di recupero energetico, in cui si producono ATP e NADH. Le due fasi aerobica e anaerobica sono il distrattore più insidioso, ma indicano condizioni di lavoro della via, non le sue tappe interne.",
+      "slide": 29
+    },
+    {
+      "id": "d02-b04-q047",
+      "q": "Che cosa accade nella fase preparatoria della glicolisi?",
+      "choices": [
+        "Si producono quattro molecole di ATP per ogni glucosio",
+        "Si consumano due ATP per attivare il glucosio",
+        "Si forma lattato a partire dal piruvato in anaerobiosi",
+        "Si produce NADH in grandi quantità dalla gliceraldeide",
+        "Si forma acetil-CoA dal piruvato nei mitocondri"
+      ],
+      "answer": 1,
+      "explain": "Nella fase preparatoria il glucosio viene fosforilato due volte a spese di due molecole di ATP e poi scisso in due triosi fosforilati. La produzione di quattro molecole di ATP appartiene invece alla fase di recupero energetico, che è la tappa successiva.",
+      "slide": 29
+    },
+    {
+      "id": "d02-b04-q048",
+      "q": "Quante molecole di ATP si formano nella fase di recupero energetico per ogni glucosio?",
+      "choices": [
+        "Una sola molecola di ATP",
+        "Due molecole di ATP",
+        "Tre molecole di ATP",
+        "Sei molecole di ATP",
+        "Quattro molecole di ATP"
+      ],
+      "answer": 4,
+      "explain": "Nella fase di recupero energetico si formano quattro molecole di ATP per via della fosforilazione a livello del substrato, due per ciascuno dei due triosi. Due molecole di ATP è il distrattore più insidioso, perché corrisponde al guadagno netto dopo aver sottratto l'ATP consumato nella fase preparatoria.",
+      "slide": 29
+    },
+    {
+      "id": "d02-b04-q049",
+      "q": "In quale fase della glicolisi il glucosio viene scisso in due molecole a tre atomi di carbonio?",
+      "choices": [
+        "Nella fase di recupero energetico",
+        "Nella fermentazione lattica",
+        "Nella fase preparatoria",
+        "Nella fosforilazione ossidativa",
+        "Nel ciclo di Krebs"
+      ],
+      "answer": 2,
+      "explain": "La scissione del fruttosio-1,6-bisfosfato in due triosi avviene nella fase preparatoria, prima che inizi la produzione di ATP. La fase di recupero energetico è il distrattore più insidioso perché è quella che genera ATP, ma interviene solo dopo la scissione.",
+      "slide": 29
+    },
+    {
+      "id": "d02-b04-q050",
+      "q": "Qual è il bilancio netto di ATP della glicolisi per una molecola di glucosio?",
+      "choices": [
+        "Due molecole di ATP",
+        "Quattro molecole di ATP",
+        "Una molecola di ATP",
+        "Sei molecole di ATP",
+        "Trentadue molecole di ATP"
+      ],
+      "answer": 0,
+      "explain": "Il bilancio netto è di due ATP, perché se ne formano quattro nella fase di recupero energetico e se ne consumano due in quella preparatoria. Quattro molecole di ATP è il distrattore più insidioso, perché è la produzione lorda e non tiene conto dell'investimento iniziale.",
+      "slide": 29
+    }
+  ]
+}

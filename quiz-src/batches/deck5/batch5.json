@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 5,
+  "topic": "Il ciclo di Krebs",
+  "questions": [
+    {
+      "id": "d05-b05-q001",
+      "q": "Quale tipo di legame chimico caratterizza l'acetil-coenzima A e ne spiega l'elevata energia di idrolisi?",
+      "choices": [
+        "Un legame estere tra il gruppo acetile e un ossidrile",
+        "Un legame ammidico tra il gruppo acetile e un'ammina",
+        "Un legame glicosidico tra il gruppo acetile e un nucleotide",
+        "Un legame tioestere tra il gruppo acetile e un gruppo tiolico",
+        "Un legame a idrogeno tra il gruppo acetile e la parte adenilica"
+      ],
+      "answer": 3,
+      "explain": "Nel coenzima A il gruppo acetile è legato allo zolfo del gruppo tiolico della cisteammina mediante un legame tioestere. Questo legame possiede un'energia libera di idrolisi molto più negativa di quella di un normale estere, perché la sovrapposizione tra l'orbitale dello zolfo e quello del carbonio carbonilico è scarsa. Il legame estere con un ossigeno è il distrattore più insidioso, perché è chimicamente simile, ma l'estere corrispondente è molto meno reattivo e rilascia meno energia.",
+      "slide": 46
+    },
+    {
+      "id": "d05-b05-q002",
+      "q": "Perché l'idrolisi dell'acetil-coenzima A libera più energia di quella di un estere ordinario?",
+      "choices": [
+        "Perché il coenzima A contiene un legame ad alta energia di tipo fosfoanidridico",
+        "Perché l'idrolisi produce direttamente ATP",
+        "Perché il legame tioestere ha un'energia libera di idrolisi molto negativa",
+        "Perché lo zolfo del tiolo è più elettronegativo dell'ossigeno",
+        "Perché l'acetil-coenzima A è un composto ciclico molto stabile"
+      ],
+      "answer": 2,
+      "explain": "Il legame tioestere dell'acetil-coenzima A possiede un'energia libera di idrolisi molto negativa, superiore a quella di un estere con l'ossigeno. L'idrolisi è favorita perché il tiolato e l'acetato che si formano sono più stabili del tioestere di partenza. L'affermazione che lo zolfo sia più elettronegativo dell'ossigeno è falsa, dato che lo zolfo è meno elettronegativo, e proprio questo rende il tioestere più ricco di energia.",
+      "slide": 46
+    },
+    {
+      "id": "d05-b05-q003",
+      "q": "Che cosa rappresenta il coenzima A nel metabolismo ossidativo?",
+      "choices": [
+        "Un enzima che catalizza la condensazione con l'ossalacetato",
+        "Un trasportatore di elettroni della catena respiratoria",
+        "Il gruppo prostetico delle flavoproteine",
+        "Un trasportatore del gruppo acetile e di altri acili",
+        "Una vitamina liposolubile essenziale per la coagulazione"
+      ],
+      "answer": 3,
+      "explain": "Il coenzima A trasporta gruppi acilici, in particolare il gruppo acetile, sotto forma di tioesteri come l'acetil-coenzima A. Non è un enzima ma un coenzima, mentre la citrato sintasi è l'enzima che catalizza la condensazione con l'ossalacetato. Non è nemmeno un trasportatore di elettroni, perché questa funzione spetta a NAD, FAD e ai citocromi.",
+      "slide": 46
+    },
+    {
+      "id": "d05-b05-q004",
+      "q": "Da quale processo deriva principalmente l'acetil-coenzima A che entra nel ciclo di Krebs?",
+      "choices": [
+        "Dalla decarbossilazione ossidativa del piruvato e dalla β-ossidazione",
+        "Dalla glicolisi anaerobica, che produce direttamente acetil-coenzima A",
+        "Dalla fosforilazione ossidativa della membrana mitocondriale interna",
+        "Dal ciclo dell'urea epatico, che smaltisce l'azoto in eccesso",
+        "Dalla sintesi de novo degli acidi grassi nel citosol"
+      ],
+      "answer": 0,
+      "explain": "L'acetil-coenzima A che alimenta il ciclo deriva soprattutto dalla decarbossilazione ossidativa del piruvato, catalizzata dal complesso della piruvato deidrogenasi, e dalla β-ossidazione degli acidi grassi. La glicolisi produce piruvato e non acetil-coenzima A, mentre la fosforilazione ossidativa consuma i coenzimi ridotti prodotti dal ciclo invece di formarli. La sintesi degli acidi grassi utilizza l'acetil-coenzima A come mattone, sottraendolo al ciclo.",
+      "slide": 46
+    },
+    {
+      "id": "d05-b05-q005",
+      "q": "Che cosa caratterizza le flavine rispetto ai coenzimi piridinici come potere ossidante?",
+      "choices": [
+        "Sono agenti ossidanti più deboli e cedono elettroni all'ossigeno",
+        "Possono accettare solo un elettrone e mai due",
+        "Non contengono metalli e quindi non sono redox",
+        "Funzionano solo in ambiente privo di ossigeno",
+        "Sono agenti ossidanti più energici dei coenzimi piridinici"
+      ],
+      "answer": 4,
+      "explain": "Le flavine, FAD e FMN, hanno un potenziale redox più positivo dei coenzimi piridinici e quindi sono agenti ossidanti più energici. Questo permette loro di ossidare substrati che il NAD+ non riesce a ossidare, come il succinato. L'affermazione che accettino solo un elettrone è incompleta, perché possono accettare un elettrone formando semichinoni oppure due elettroni formando diidroflavine.",
+      "slide": 47
+    },
+    {
+      "id": "d05-b05-q006",
+      "q": "In quale forma si trova il FAD quando accetta un solo elettrone?",
+      "choices": [
+        "Come diidroflavina",
+        "Come semichinone",
+        "Come flavina completamente ossidata",
+        "Come radicale idrossilico",
+        "Come FADH2 stabile"
+      ],
+      "answer": 1,
+      "explain": "Le flavine possono accettare un elettrone alla volta dando origine a una specie radicalica intermedia detta semichinone. Quando accettano due elettroni si forma invece la forma completamente ridotta, cioè la diidroflavina, che corrisponde a FADH2. Il radicale idrossilico è una specie reattiva dell'ossigeno e non ha alcuna relazione con la chimica delle flavine.",
+      "slide": 47
+    },
+    {
+      "id": "d05-b05-q007",
+      "q": "Quanti elettroni accetta il FAD quando si riduce completamente a FADH2?",
+      "choices": [
+        "Un solo elettrone",
+        "Tre elettroni",
+        "Quattro elettroni",
+        "Due elettroni",
+        "Nessun elettrone, perché si limita a legare un protone"
+      ],
+      "answer": 3,
+      "explain": "La riduzione completa del FAD a FADH2 comporta l'acquisizione di due elettroni e due protoni, con formazione della forma diidroflavinica. Il trasferimento può avvenire anche in due tappe da un elettrone ciascuna, passando per il semichinone. Il FAD non può accettare quattro elettroni, perché il suo anello isoallossazinico possiede solo due centri redox utilizzabili.",
+      "slide": 47
+    },
+    {
+      "id": "d05-b05-q008",
+      "q": "Quale nucleotide flavinico si ottiene per fosforilazione della riboflavina?",
+      "choices": [
+        "Il FMN, flavina mononucleotide",
+        "Il FAD, flavina adenina dinucleotide",
+        "Il NAD, nicotinamide adenina dinucleotide",
+        "Il coenzima A",
+        "Il tiamina pirofosfato"
+      ],
+      "answer": 0,
+      "explain": "La riboflavina viene fosforilata a flavina mononucleotide, FMN, che rappresenta la forma più semplice del coenzima flavinico. Il FAD si forma in un secondo momento per aggiunta di un nucleotide adenilico al FMN. Il NAD deriva invece dalla nicotinamide, cioè dalla vitamina B3, e non ha alcuna relazione strutturale con le flavine.",
+      "slide": 47
+    },
+    {
+      "id": "d05-b05-q009",
+      "q": "Perché il FAD è particolarmente adatto a ossidare il succinato nella tappa della succinato deidrogenasi?",
+      "choices": [
+        "Perché il NAD+ ha un potenziale redox troppo positivo per questa reazione",
+        "Perché il succinato è un substrato lipofilo che richiede una flavina",
+        "Perché la coppia fumarato/succinato ha un potenziale troppo alto per il NAD+",
+        "Perché il FAD può trasferire un fosfato al GDP formando GTP",
+        "Perché il FAD è legato covalentemente all'ossalacetato e non all'enzima"
+      ],
+      "answer": 2,
+      "explain": "La coppia fumarato/succinato ha un potenziale di riduzione troppo positivo perché il NAD+ possa accettare i suoi elettroni in modo efficace. Il FAD, essendo un ossidante più energico, riesce a sottrarre gli elettroni al succinato. Il FAD non trasferisce fosfato e non è legato all'ossalacetato, perché esso è invece legato covalentemente all'enzima succinato deidrogenasi.",
+      "slide": 47
+    },
+    {
+      "id": "d05-b05-q010",
+      "q": "Da quale vitamina deriva il coenzima FAD?",
+      "choices": [
+        "Vitamina B1, tiamina",
+        "Vitamina B2, riboflavina",
+        "Vitamina B3, nicotinamide",
+        "Vitamina B5, acido pantotenico",
+        "Vitamina C, acido ascorbico"
+      ],
+      "answer": 1,
+      "explain": "Il FAD e il FMN derivano dalla riboflavina, cioè dalla vitamina B2. La tiamina, vitamina B1, è il precursore del tiamina pirofosfato, la nicotinamide dà NAD e NADP, e l'acido pantotenico è un componente del coenzima A. Confondere la B1 con la B2 è l'errore più frequente, ma solo la riboflavina possiede l'anello isoallossazinico delle flavine.",
+      "slide": 48
+    },
+    {
+      "id": "d05-b05-q011",
+      "q": "Quale proprietà della riboflavina ne rende difficile la conservazione negli alimenti?",
+      "choices": [
+        "È molto volatile e evapora a temperatura ambiente",
+        "È fortemente basica e viene neutralizzata dagli acidi",
+        "È un metallo e viene ossidata dall'aria",
+        "È insolubile in acqua e precipita sul fondo",
+        "È estremamente fotolabile e si degrada con la luce"
+      ],
+      "answer": 4,
+      "explain": "La riboflavina è estremamente fotolabile, quindi l'esposizione alla luce ne provoca la degradazione. Per questo motivo gli alimenti ricchi di vitamina B2, come il latte, vanno conservati al riparo dalla luce. La riboflavina non è un metallo né una sostanza volatile, e la sua idrosolubilità non ne compromette la stabilità.",
+      "slide": 48
+    },
+    {
+      "id": "d05-b05-q012",
+      "q": "In quali alimenti la riboflavina è particolarmente abbondante?",
+      "choices": [
+        "Burro e oli vegetali",
+        "Solo frutta secca e miele",
+        "Solo carne di maiale e insaccati",
+        "Solo vegetali a foglia verde scura",
+        "Fegato, latte e grano"
+      ],
+      "answer": 4,
+      "explain": "La riboflavina è ampiamente diffusa negli alimenti e abbonda soprattutto nel fegato, nel latte e nel grano. La sua ampia distribuzione rende la carenza rara nelle popolazioni ben nutrite. L'olio e il burro contengono soprattutto vitamine liposolubili, mentre la riboflavina è idrosolubile.",
+      "slide": 48
+    },
+    {
+      "id": "d05-b05-q013",
+      "q": "Quale quota della riboflavina disponibile nell'organismo proviene dalla flora intestinale?",
+      "choices": [
+        "La quasi totalità",
+        "Circa la metà",
+        "Nessuna quota, perché la flora non produce vitamine",
+        "Una quota pari a un quarto",
+        "Una piccola quota"
+      ],
+      "answer": 4,
+      "explain": "L'organismo ottiene la maggior parte della riboflavina dalla dieta, mentre solo una piccola quota è fornita dalla flora intestinale. Questo spiega perché una dieta povera di vitamina B2 difficilmente viene compensata dalla sintesi batterica. La flora intestinale non è in grado di coprire l'intero fabbisogno, come dimostra la comparsa della carenza in caso di alimentazione inadeguata.",
+      "slide": 48
+    },
+    {
+      "id": "d05-b05-q014",
+      "q": "Quale vitamina è il precursore dei coenzimi NAD e NADP?",
+      "choices": [
+        "Vitamina B1, tiamina",
+        "Vitamina B2, riboflavina",
+        "Vitamina B3, nicotinamide",
+        "Vitamina B5, acido pantotenico",
+        "Vitamina B6, piridossina"
+      ],
+      "answer": 2,
+      "explain": "Il NAD e il NADP contengono un anello nicotinammidico derivato dalla nicotinamide, cioè dalla vitamina B3. La riboflavina dà invece origine a FAD e FMN, e l'acido pantotenico al coenzima A. La distinzione è importante perché i coenzimi piridinici e quelli flavinici trasferiscono elettroni con meccanismi diversi.",
+      "slide": 49
+    },
+    {
+      "id": "d05-b05-q015",
+      "q": "Qual è la differenza strutturale tra NAD+ e NADP+?",
+      "choices": [
+        "Il NADP+ possiede un gruppo fosfato in più sul ribosio adenilico",
+        "Il NADP+ manca dell'anello nicotinamidico presente nel NAD+",
+        "Il NADP+ contiene una flavina al posto dell'adenina del NAD+",
+        "Il NADP+ è un mononucleotide mentre il NAD+ è un dinucleotide",
+        "Il NADP+ contiene un atomo di ferro al posto del fosfato terminale"
+      ],
+      "answer": 0,
+      "explain": "Il NADP+ è identico al NAD+ tranne che per la presenza di un gruppo fosfato aggiuntivo legato a un idrossile del ribosio adenilico. Questa piccola modifica è sufficiente a far riconoscere il coenzima da enzimi diversi e a separarne i ruoli metabolici. Il NADP+ mantiene intatto l'anello nicotinamidico e rimane un dinucleotide, quindi le altre alternative descrivono strutture inesistenti.",
+      "slide": 49
+    },
+    {
+      "id": "d05-b05-q016",
+      "q": "Che cosa si intende per coenzimi piridinici?",
+      "choices": [
+        "Coenzimi contenenti un anello pirimidinico, come il tiamina pirofosfato",
+        "Coenzimi derivati dalla piridossina, cioè la vitamina B6",
+        "Coenzimi con un anello piridinico derivato dalla nicotinamide",
+        "Coenzimi che trasferiscono gruppi amminici, come il piridossal fosfato",
+        "Coenzimi contenenti un anello porfirinico con ferro, come i citocromi"
+      ],
+      "answer": 2,
+      "explain": "I coenzimi piridinici, NAD e NADP, contengono un anello piridinico che corrisponde alla nicotinamide e funge da centro redox. La piridossina, vitamina B6, dà invece il piridossal fosfato, che partecipa al metabolismo degli aminoacidi. L'anello porfirinico con ferro appartiene ai citocromi e non ai coenzimi piridinici.",
+      "slide": 49
+    },
+    {
+      "id": "d05-b05-q017",
+      "q": "In quale forma il NAD+ accetta gli elettroni durante le ossidazioni del ciclo di Krebs?",
+      "choices": [
+        "Come ione idruro, cioè due elettroni e un protone",
+        "Come un singolo elettrone, senza protoni",
+        "Come atomo di ossigeno molecolare",
+        "Come ione idrogeno, cioè un solo protone",
+        "Legando covalentemente il substrato"
+      ],
+      "answer": 0,
+      "explain": "Il NAD+ accetta un ione idruro, formato da due elettroni e un protone, trasformandosi in NADH. Il secondo protone resta nel solvente, per cui la stechiometria complessiva è NAD+ più due elettroni più un protone. Il NAD non accetta un solo elettrone e non lega covalentemente il substrato, perché è un coenzima che si dissocia dall'enzima.",
+      "slide": 49
+    },
+    {
+      "id": "d05-b05-q018",
+      "q": "Quale coenzima fornisce il potere riducente nelle reazioni anaboliche di riduzione biosintetica?",
+      "choices": [
+        "Il NADH e il FADH2 usati come donatori diretti",
+        "Il NADH, usato in modo intercambiabile con il NADPH",
+        "Il NADPH, ottenuto per riduzione del NADP+",
+        "La forma ossidata del FAD",
+        "Il coenzima A e il tiamina pirofosfato"
+      ],
+      "answer": 2,
+      "explain": "Il NADPH, ottenuto per riduzione del NADP+, è il principale donatore di potere riducente nelle biosintesi, come la sintesi degli acidi grassi. Il NADH, al contrario, è soprattutto il prodotto delle ossidazioni cataboliche ed è destinato alla catena respiratoria. Confondere i due coenzimi è un errore comune, ma le cellule mantengono rapporti NADH/NAD+ e NADPH/NADP+ molto diversi proprio per separare catabolismo e anabolismo.",
+      "slide": 49
+    },
+    {
+      "id": "d05-b05-q019",
+      "q": "Qual è la sequenza corretta degli intermedi del ciclo di Krebs a partire dal citrato?",
+      "choices": [
+        "Citrato, malato, fumarato, succinato, succinil-coenzima A, α-chetoglutarato, isocitrato, ossalacetato",
+        "Ossalacetato, succinato, citrato, isocitrato, malato, fumarato, α-chetoglutarato",
+        "Citrato, α-chetoglutarato, isocitrato, succinato, fumarato, malato, ossalacetato",
+        "Citrato, isocitrato, succinato, succinil-coenzima A, fumarato, malato, α-chetoglutarato",
+        "Citrato, isocitrato, α-chetoglutarato, succinil-coenzima A, succinato, fumarato, malato, ossalacetato"
+      ],
+      "answer": 4,
+      "explain": "Il ciclo procede dal citrato all'isocitrato, poi all'α-chetoglutarato, al succinil-coenzima A, al succinato, al fumarato, al malato e infine all'ossalacetato, che rigenera il citrato. L'alternativa che colloca il malato subito dopo il citrato è chiaramente errata, perché il malato è il penultimo intermedio della via. Anche scambiare tra loro isocitrato e α-chetoglutarato rompe l'ordine delle due decarbossilazioni.",
+      "slide": 50
+    },
+    {
+      "id": "d05-b05-q020",
+      "q": "Quante tappe enzimatiche comprende il ciclo di Krebs?",
+      "choices": [
+        "Quattro",
+        "Sei",
+        "Sette",
+        "Otto",
+        "Dieci"
+      ],
+      "answer": 3,
+      "explain": "Il ciclo di Krebs è costituito da otto reazioni enzimatiche che riportano l'ossalacetato alla sua forma iniziale. Di queste, tre sono irreversibili e funzionano come punti di regolazione. Quattro sarebbero troppo poche per ossidare completamente il gruppo acetile, mentre dieci è il numero di tappe della glicolisi e non del ciclo.",
+      "slide": 50
+    },
+    {
+      "id": "d05-b05-q021",
+      "q": "Quale reazione apre il ciclo di Krebs?",
+      "choices": [
+        "La condensazione dell'acetil-coenzima A con l'ossalacetato",
+        "La decarbossilazione ossidativa dell'α-chetoglutarato",
+        "L'idratazione del fumarato a malato, catalizzata dalla fumarasi",
+        "L'ossidazione del malato a ossalacetato, con riduzione di NAD+",
+        "La conversione del succinato in succinil-coenzima A"
+      ],
+      "answer": 0,
+      "explain": "Il ciclo si apre con la condensazione dell'acetil-coenzima A con l'ossalacetato, catalizzata dalla citrato sintasi, che produce citrato e libera coenzima A. L'idratazione del fumarato e l'ossidazione del malato sono tappe finali del ciclo. La conversione del succinato in succinil-coenzima A non esiste, perché è il succinil-coenzima A che viene convertito in succinato con produzione di GTP.",
+      "slide": 50
+    },
+    {
+      "id": "d05-b05-q022",
+      "q": "Quale enzima catalizza la conversione dell'isocitrato in α-chetoglutarato?",
+      "choices": [
+        "La citrato sintasi",
+        "L'aconitasi",
+        "La isocitrato deidrogenasi",
+        "La α-chetoglutarato deidrogenasi",
+        "La succinato deidrogenasi"
+      ],
+      "answer": 2,
+      "explain": "La isocitrato deidrogenasi converte l'isocitrato in α-chetoglutarato, liberando una molecola di anidride carbonica e riducendo NAD+ a NADH. È una delle tappe irreversibili e costituisce un importante punto di regolazione del ciclo. L'aconitasi si limita a isomerizzare il citrato in isocitrato senza produrre coenzimi ridotti.",
+      "slide": 50
+    },
+    {
+      "id": "d05-b05-q023",
+      "q": "Quante molecole di ATP si ottengono complessivamente dall'ossidazione completa di una molecola di acetil-coenzima A nel ciclo di Krebs e nella fosforilazione ossidativa?",
+      "choices": [
+        "Due",
+        "Quattro",
+        "Sei",
+        "Otto",
+        "Dieci"
+      ],
+      "answer": 4,
+      "explain": "Da un giro del ciclo si ottengono tre NADH, un FADH2 e un GTP, e i coenzimi ridotti vengono riossidati dalla catena respiratoria producendo in totale circa dieci molecole di ATP. Il GTP formato per fosforilazione a livello del substrato equivale a una molecola di ATP. Un bilancio di due o quattro molecole sarebbe troppo basso, perché trascurerebbe il contributo dei tre NADH.",
+      "slide": 51
+    },
+    {
+      "id": "d05-b05-q024",
+      "q": "Quante molecole di NADH produce un singolo giro del ciclo di Krebs?",
+      "choices": [
+        "Una",
+        "Due",
+        "Quattro",
+        "Cinque",
+        "Tre"
+      ],
+      "answer": 4,
+      "explain": "In un giro del ciclo si formano tre NADH, rispettivamente nelle tappe catalizzate dalla isocitrato deidrogenasi, dalla α-chetoglutarato deidrogenasi e dalla malato deidrogenasi. Il FADH2 è un coenzima distinto e non va sommato a questo conteggio. Quattro o cinque molecole non sono compatibili con le tre ossidazioni NAD-dipendenti del ciclo.",
+      "slide": 51
+    },
+    {
+      "id": "d05-b05-q025",
+      "q": "Quante molecole di anidride carbonica si liberano per ogni giro completo del ciclo di Krebs?",
+      "choices": [
+        "Una",
+        "Tre",
+        "Quattro",
+        "Sei",
+        "Due"
+      ],
+      "answer": 4,
+      "explain": "Per ogni giro si liberano due molecole di anidride carbonica, una nella tappa della isocitrato deidrogenasi e una in quella della α-chetoglutarato deidrogenasi. Questi due carboni derivano dall'ossalacetato e vengono poi reintegrati dal gruppo acetile entrato con l'acetil-coenzima A. Un solo giro non può liberare una sola molecola, perché le decarbossilazioni ossidative del ciclo sono due.",
+      "slide": 51
+    },
+    {
+      "id": "d05-b05-q026",
+      "q": "Quale nucleotide trifosfato viene prodotto direttamente per fosforilazione a livello del substrato nel ciclo di Krebs?",
+      "choices": [
+        "ATP",
+        "UTP",
+        "CTP",
+        "GTP",
+        "TTP"
+      ],
+      "answer": 3,
+      "explain": "La succinil-coenzima A sintetasi produce direttamente GTP a partire dal succinil-coenzima A, dal GDP e dal fosfato inorganico. Il GTP può poi cedere il suo gruppo fosfato all'ADP per formare ATP in una reazione di trans-fosforilazione. L'ATP non è quindi il prodotto immediato di questa tappa, e UTP, CTP e TTP appartengono ad altre vie biosintetiche.",
+      "slide": 51
+    },
+    {
+      "id": "d05-b05-q027",
+      "q": "In quali tappe del ciclo di Krebs si libera anidride carbonica?",
+      "choices": [
+        "Nella citrato sintasi e nell'aconitasi, che non decarbossilano",
+        "Nella succinato deidrogenasi e nella fumarasi, che formano FADH2",
+        "Nella isocitrato deidrogenasi e nella α-chetoglutarato deidrogenasi",
+        "Nella malato deidrogenasi e nella succinil-coenzima A sintetasi",
+        "Nella citrato sintasi e nella malato deidrogenasi, tappe redox"
+      ],
+      "answer": 2,
+      "explain": "Le due decarbossilazioni del ciclo avvengono nella tappa della isocitrato deidrogenasi e in quella della α-chetoglutarato deidrogenasi. Entrambe sono reazioni irreversibili e producono anche NADH. La citrato sintasi e l'aconitasi non liberano anidride carbonica, perché si limitano a condensare e a isomerizzare il citrato.",
+      "slide": 52
+    },
+    {
+      "id": "d05-b05-q028",
+      "q": "Quale tappa del ciclo produce FADH2?",
+      "choices": [
+        "La conversione del succinato in fumarato",
+        "La conversione del malato in ossalacetato",
+        "La conversione dell'isocitrato in α-chetoglutarato",
+        "La conversione del citrato in isocitrato",
+        "La conversione del fumarato in malato"
+      ],
+      "answer": 0,
+      "explain": "La succinato deidrogenasi ossida il succinato a fumarato e trasferisce gli elettroni al FAD, formando FADH2. Le ossidazioni dell'isocitrato e del malato sono invece NAD-dipendenti e producono NADH. La conversione del fumarato in malato è una semplice idratazione e non comporta alcuna ossidoriduzione.",
+      "slide": 52
+    },
+    {
+      "id": "d05-b05-q029",
+      "q": "Quale tappa del ciclo di Krebs rappresenta una fosforilazione a livello del substrato?",
+      "choices": [
+        "La citrato sintasi, che condensa l'acetil-coenzima A",
+        "La succinil-coenzima A sintetasi, che produce GTP",
+        "La fumarasi, che idrata il fumarato a malato",
+        "La malato deidrogenasi, che produce NADH",
+        "La succinato deidrogenasi, che produce FADH2"
+      ],
+      "answer": 1,
+      "explain": "La succinil-coenzima A sintetasi scinde il succinil-coenzima A e conserva l'energia del legame tioestere formando GTP, in un processo di fosforilazione a livello del substrato. È l'unica tappa del ciclo che produce un nucleotide trifosfato senza ricorrere alla catena respiratoria. La malato deidrogenasi genera invece NADH, che deve essere riossidato dalla catena respiratoria per produrre ATP.",
+      "slide": 52
+    },
+    {
+      "id": "d05-b05-q030",
+      "q": "Quale enzima aggiunge una molecola d'acqua al doppio legame del fumarato?",
+      "choices": [
+        "L'aconitasi",
+        "La succinato deidrogenasi",
+        "La citrato sintasi",
+        "La isocitrato deidrogenasi",
+        "La fumarasi"
+      ],
+      "answer": 4,
+      "explain": "La fumarasi catalizza l'idratazione stereospecifica del fumarato a malato, aggiungendo acqua al doppio legame. L'aconitasi compie una disidratazione seguita da una reidratazione per isomerizzare il citrato, ma non agisce sul fumarato. La succinato deidrogenasi introduce invece il doppio legame che la fumarasi poi idrata.",
+      "slide": 52
+    },
+    {
+      "id": "d05-b05-q031",
+      "q": "Con quale altro nome è noto il ciclo di Krebs?",
+      "choices": [
+        "Ciclo della glicolisi, che ossida il glucosio a piruvato",
+        "Ciclo degli acidi tricarbossilici o ciclo dell'acido citrico",
+        "Ciclo dell'urea, che elimina l'azoto in eccesso",
+        "Ciclo del pentoso fosfato, che produce NADPH",
+        "Ciclo della β-ossidazione, che degrada gli acidi grassi"
+      ],
+      "answer": 1,
+      "explain": "Il ciclo di Krebs è detto anche ciclo degli acidi tricarbossilici o ciclo dell'acido citrico, perché il citrato è il primo intermedio che si forma. Il ciclo dell'urea serve a eliminare l'azoto sotto forma di urea, mentre il ciclo del pentoso fosfato produce NADPH e zuccheri a cinque atomi di carbonio. Si tratta quindi di vie metaboliche completamente distinte.",
+      "slide": 53
+    },
+    {
+      "id": "d05-b05-q032",
+      "q": "Qual è la funzione principale del ciclo di Krebs?",
+      "choices": [
+        "Sintetizzare glucosio a partire da precursori non glucidici",
+        "Trasportare ossigeno ai tessuti periferici",
+        "Degradare gli acidi grassi a unità di due atomi di carbonio",
+        "Ossidare completamente il gruppo acetile ad anidride carbonica e acqua",
+        "Produrre urea nel fegato"
+      ],
+      "answer": 3,
+      "explain": "Il ciclo di Krebs completa l'ossidazione del gruppo acetile trasformandolo in anidride carbonica e acqua, conservando l'energia sotto forma di coenzimi ridotti. La degradazione degli acidi grassi in unità a due carboni è compito della β-ossidazione, che precede il ciclo. Il trasporto dell'ossigeno è una funzione dell'emoglobina e la sintesi del glucosio da precursori non glucidici appartiene alla gluconeogenesi.",
+      "slide": 53
+    },
+    {
+      "id": "d05-b05-q033",
+      "q": "Perché il metabolismo del ciclo di Krebs è definito anfibolico?",
+      "choices": [
+        "Perché avviene sia nel citosol sia nel nucleo",
+        "Perché funziona sia in condizioni aerobiche sia anaerobiche",
+        "Perché partecipa sia al catabolismo sia all'anabolismo",
+        "Perché utilizza sia NAD sia FAD come accettori di elettroni",
+        "Perché è presente sia negli animali sia nei vegetali"
+      ],
+      "answer": 2,
+      "explain": "Il ciclo è anfibolico perché le sue reazioni appartengono al catabolismo ossidativo e, allo stesso tempo, i suoi intermedi vengono sottratti per le biosintesi e riforniti da vie anaplerotiche. L'uso di NAD e FAD non basta a definirne la natura anfibolica, perché riguarda solo il trasferimento di elettroni. La doppia localizzazione cellulare e la distribuzione tra specie sono invece caratteristiche inesatte per questa via.",
+      "slide": 53
+    },
+    {
+      "id": "d05-b05-q034",
+      "q": "Che fine fa l'ossalacetato alla fine di un giro del ciclo di Krebs?",
+      "choices": [
+        "Viene degradato definitivamente ad anidride carbonica",
+        "Viene riversato nel citosol come prodotto finale",
+        "Viene rigenerato e riutilizzato per condensare un nuovo acetile",
+        "Viene convertito in glucosio nella matrice mitocondriale",
+        "Viene trasformato in acetil-coenzima A dalla citrato sintasi"
+      ],
+      "answer": 2,
+      "explain": "L'ossalacetato non viene consumato dal ciclo, perché si rigenera alla fine di ogni giro ed è pronto a condensarsi con un nuovo gruppo acetile. Questa rigenerazione spiega perché il ciclo possa funzionare anche con concentrazioni molto basse di ossalacetato. Il suo consumo netto avverrebbe solo se un intermedio fosse sottratto per altre vie, situazione che richiede reazioni anaplerotiche di rifornimento.",
+      "slide": 53
+    },
+    {
+      "id": "d05-b05-q035",
+      "q": "Quale enzima catalizza l'ossidazione del malato a ossalacetato?",
+      "choices": [
+        "La malato deidrogenasi",
+        "La fumarasi",
+        "La succinato deidrogenasi",
+        "La citrato sintasi",
+        "La isocitrato deidrogenasi"
+      ],
+      "answer": 0,
+      "explain": "La malato deidrogenasi ossida il malato a ossalacetato riducendo NAD+ a NADH, ed è l'ultima tappa del ciclo. La fumarasi opera immediatamente prima, trasformando il fumarato in malato. La succinato deidrogenasi agisce invece sul succinato e produce FADH2.",
+      "slide": 54
+    },
+    {
+      "id": "d05-b05-q036",
+      "q": "I due atomi di carbonio che entrano nel ciclo con l'acetil-coenzima A vengono eliminati come anidride carbonica nello stesso giro?",
+      "choices": [
+        "Sì, entrambi vengono eliminati immediatamente come anidride carbonica",
+        "No, perché i carboni liberati in quel giro provengono dall'ossalacetato",
+        "Sì, perché la citrato sintasi li ossida subito dopo la condensazione",
+        "No, perché i carboni dell'acetile non vengono mai eliminati dal ciclo",
+        "Sì, ma solo nella tappa della succinato deidrogenasi"
+      ],
+      "answer": 1,
+      "explain": "Il gruppo acetile entra condensandosi con l'ossalacetato, ma le due molecole di anidride carbonica liberate in quel giro derivano dai carboni dell'ossalacetato stesso. Per questo motivo i carboni dell'acetile vengono rilasciati solo nei giri successivi. La citrato sintasi non è una reazione di ossidazione e non produce anidride carbonica.",
+      "slide": 54
+    },
+    {
+      "id": "d05-b05-q037",
+      "q": "Perché la citrato sintasi è considerata una tappa irreversibile del ciclo?",
+      "choices": [
+        "Perché idrolizza una molecola di ATP in modo irreversibile",
+        "Perché consuma il NADH prodotto dalle tappe precedenti",
+        "Perché produce una molecola di anidride carbonica",
+        "Perché la condensazione con l'ossalacetato è fortemente esoergonica",
+        "Perché è inibita dal coenzima A che si accumula"
+      ],
+      "answer": 3,
+      "explain": "La condensazione dell'acetil-coenzima A con l'ossalacetato è fortemente esoergonica, anche grazie all'idrolisi del legame tioestere, e quindi praticamente irreversibile. Insieme alla isocitrato deidrogenasi e alla α-chetoglutarato deidrogenasi, essa rende il ciclo unidirezionale. La citrato sintasi non consuma ATP, non produce anidride carbonica e non è inibita dal coenzima A, che è invece un prodotto della reazione.",
+      "slide": 54
+    },
+    {
+      "id": "d05-b05-q038",
+      "q": "Come avviene l'isomerizzazione del citrato a isocitrato?",
+      "choices": [
+        "Per una decarbossilazione ossidativa diretta del citrato",
+        "Per una disidratazione a cis-aconitato seguita da reidratazione",
+        "Per un trasferimento di un gruppo amminico dal glutammato",
+        "Per una riduzione NAD-dipendente del citrato",
+        "Per una fosforilazione a livello del substrato"
+      ],
+      "answer": 1,
+      "explain": "L'aconitasi rimuove prima una molecola d'acqua formando il cis-aconitato e poi la riaggiunge, spostando il gruppo ossidrilico e trasformando il citrato in isocitrato. Si tratta quindi di una isomerizzazione per disidratazione e reidratazione. Non c'è alcuna decarbossilazione né alcun trasferimento di elettroni, perché l'aconitasi non utilizza coenzimi redox.",
+      "slide": 54
+    },
+    {
+      "id": "d05-b05-q039",
+      "q": "Dove sono localizzati gli enzimi del ciclo di Krebs?",
+      "choices": [
+        "Nel citosol",
+        "Nella matrice mitocondriale",
+        "Nello spazio intermembrana mitocondriale",
+        "Sulla membrana plasmatica",
+        "Nel reticolo endoplasmatico liscio"
+      ],
+      "answer": 1,
+      "explain": "Gli enzimi del ciclo di Krebs sono localizzati nella matrice mitocondriale, con la sola eccezione della succinato deidrogenasi. Questa collocazione permette al ciclo di lavorare a stretto contatto con la catena respiratoria della membrana interna. La glicolisi, e non il ciclo di Krebs, si svolge nel citosol.",
+      "slide": 55
+    },
+    {
+      "id": "d05-b05-q040",
+      "q": "Quale enzima del ciclo di Krebs non si trova disciolto nella matrice mitocondriale?",
+      "choices": [
+        "La citrato sintasi, che forma il citrato",
+        "L'aconitasi, che isomerizza il citrato",
+        "La succinato deidrogenasi, che ossida il succinato",
+        "La fumarasi, che idrata il fumarato a malato",
+        "La malato deidrogenasi, che ossida il malato"
+      ],
+      "answer": 2,
+      "explain": "La succinato deidrogenasi è l'unico enzima del ciclo legato alla membrana mitocondriale interna invece che disciolto nella matrice. Questa posizione le consente di cedere direttamente gli elettroni all'ubichinone della catena respiratoria. Gli altri enzimi del ciclo, compresi citrato sintasi, aconitasi, fumarasi e malato deidrogenasi, sono solubili nella matrice.",
+      "slide": 55
+    },
+    {
+      "id": "d05-b05-q041",
+      "q": "Perché la succinato deidrogenasi è considerata anche il complesso secondo della catena respiratoria?",
+      "choices": [
+        "Perché trasporta protoni attraverso la membrana plasmatica",
+        "Perché è legata alla membrana interna e cede elettroni all'ubichinone",
+        "Perché riduce direttamente l'ossigeno molecolare ad acqua",
+        "Perché produce GTP per fosforilazione a livello del substrato",
+        "Perché sintetizza l'acetil-coenzima A nella matrice"
+      ],
+      "answer": 1,
+      "explain": "La succinato deidrogenasi è una flavoproteina integrale della membrana interna che ossida il succinato e cede gli elettroni all'ubichinone, fungendo da complesso secondo della catena respiratoria. Essa non pompa protoni e quindi non contribuisce direttamente al gradiente protonico. La produzione di GTP appartiene alla succinil-coenzima A sintetasi, che è un enzima diverso.",
+      "slide": 55
+    },
+    {
+      "id": "d05-b05-q042",
+      "q": "Qual è il vantaggio funzionale della vicinanza tra gli enzimi del ciclo e la catena respiratoria?",
+      "choices": [
+        "Permette la riossidazione dei coenzimi ridotti del ciclo",
+        "Consente al ciclo di funzionare in assenza di ossigeno",
+        "Permette la sintesi diretta di glucosio nella matrice",
+        "Impedisce l'ingresso dell'acetil-coenzima A nel mitocondrio",
+        "Rende inutile la presenza di ossigeno nella cellula"
+      ],
+      "answer": 0,
+      "explain": "I coenzimi ridotti prodotti dal ciclo devono essere riossidati per permettere al ciclo di proseguire, e la catena respiratoria della membrana interna svolge proprio questa funzione accoppiandola alla sintesi di ATP. Se la riossidazione si arresta, anche il ciclo si blocca per mancanza di NAD+ e FAD. Il ciclo non può funzionare in assenza di ossigeno, perché la catena respiratoria richiede l'ossigeno come accettore finale degli elettroni.",
+      "slide": 55
+    },
+    {
+      "id": "d05-b05-q043",
+      "q": "Perché la degradazione diretta dell'acetil-coenzima A ad anidride carbonica e acqua è energeticamente dispendiosa?",
+      "choices": [
+        "Perché l'acetil-coenzima A è una molecola molto stabile e inerte",
+        "Perché l'acetil-coenzima A non può essere ossidato da nessun enzima",
+        "Perché l'acetil-coenzima A contiene azoto che deve essere eliminato",
+        "Perché la sua condensazione con l'ossalacetato facilita la demolizione del gruppo acetile",
+        "Perché la sua ossidazione richiede la scissione di un legame carbonio-carbonio senza alcun apporto di energia"
+      ],
+      "answer": 3,
+      "explain": "La demolizione del gruppo acetile è energeticamente difficile se affrontata direttamente, mentre la condensazione con l'ossalacetato genera il citrato e rende possibile una sequenza di ossidazioni progressive. Il ciclo sfrutta questa strategia per estrarre elettroni ad alta energia in modo controllato. L'acetil-coenzima A non contiene azoto, e la sua ossidazione è ben possibile proprio grazie all'ingresso nel ciclo.",
+      "slide": 56
+    },
+    {
+      "id": "d05-b05-q044",
+      "q": "Che cosa si intende per reazione anaplerotica?",
+      "choices": [
+        "Una reazione che consuma intermedi del ciclo per altre vie biosintetiche",
+        "Una reazione che rifornisce il ciclo di intermedi sottratti",
+        "Una reazione che produce ATP senza catena respiratoria",
+        "Una reazione che trasferisce elettroni direttamente al FAD",
+        "Una reazione che degrada l'ossalacetato ad anidride carbonica"
+      ],
+      "answer": 1,
+      "explain": "Le reazioni anaplerotiche, come la carbossilazione del piruvato a ossalacetato, riforniscono il ciclo degli intermedi che vengono sottratti per le biosintesi. Senza di esse il ciclo si esaurirebbe, perché gli intermedi usati per costruire aminoacidi e altre molecole non verrebbero reintegrati. Le reazioni che invece consumano intermedi sono dette cataplerotiche, ed è la loro contrapposizione che mantiene il bilancio del ciclo.",
+      "slide": 56
+    },
+    {
+      "id": "d05-b05-q045",
+      "q": "Che cosa si intende per reazione cataplerotica?",
+      "choices": [
+        "Una reazione che introduce carbonio nel ciclo sotto forma di acetil-coenzima A",
+        "Una reazione che ossida il NADH a NAD+ nella matrice",
+        "Una reazione che rigenera l'ossalacetato alla fine del ciclo",
+        "Una reazione che sintetizza il coenzima A nella matrice",
+        "Una reazione che rimuove intermedi dal ciclo per altre vie biosintetiche"
+      ],
+      "answer": 4,
+      "explain": "Le reazioni cataplerotiche sottraggono intermedi del ciclo, per esempio l'ossalacetato per la gluconeogenesi o l'α-chetoglutarato per la sintesi del glutammato. Il loro effetto è quello di impoverire il ciclo, ed è per questo che devono essere bilanciate dalle reazioni anaplerotiche. Rigenerare l'ossalacetato è invece un evento fisiologico interno al ciclo stesso.",
+      "slide": 56
+    },
+    {
+      "id": "d05-b05-q046",
+      "q": "Perché il ciclo di Krebs è considerato il cuore del metabolismo intermedio?",
+      "choices": [
+        "Perché è l'unica via che produce ATP in tutte le cellule",
+        "Perché avviene in tutti gli organuli cellulari",
+        "Perché degrada direttamente proteine, lipidi e carboidrati",
+        "Perché i suoi intermedi collegano le principali vie metaboliche",
+        "Perché produce tutti gli aminoacidi dell'organismo"
+      ],
+      "answer": 3,
+      "explain": "Il ciclo è il centro del metabolismo intermedio perché i suoi intermedi sono i nodi di scambio tra catabolismo e anabolismo di glucidi, lipidi e aminoacidi. L'ingresso e l'uscita continui di intermedi spiegano la sua complessità e la necessità di reazioni anaplerotiche e cataplerotiche. Esso non degrada direttamente proteine o lipidi, che devono prima essere scissi nei loro costituenti, e non è l'unica fonte di ATP cellulare.",
+      "slide": 56
+    },
+    {
+      "id": "d05-b05-q047",
+      "q": "Quale coppia descrive correttamente un esempio di reazione anaplerotica e uno di reazione cataplerotica?",
+      "choices": [
+        "La carbossilazione del piruvato e la sottrazione di α-chetoglutarato",
+        "La sintesi di citrato e la sua isomerizzazione a isocitrato",
+        "La decarbossilazione del piruvato e la riduzione del NAD+",
+        "La β-ossidazione degli acidi grassi e la glicolisi anaerobica",
+        "La fosforilazione del GDP e la sintesi di GTP in un'unica tappa"
+      ],
+      "answer": 0,
+      "explain": "La carbossilazione del piruvato ad ossalacetato è l'esempio classico di reazione anaplerotica, perché reintegra un intermedio del ciclo. La sottrazione di α-chetoglutarato per formare il glutammato è invece cataplerotica, perché impoverisce il ciclo. La sintesi del citrato e la sua isomerizzazione sono normali tappe interne al ciclo e non modificano il bilancio degli intermedi.",
+      "slide": 56
+    },
+    {
+      "id": "d05-b05-q048",
+      "q": "Quale effetto hanno elevate concentrazioni di ATP e NADH sul ciclo di Krebs?",
+      "choices": [
+        "Lo accelerano, perché forniscono energia alla cellula",
+        "Lo inibiscono, segnalando che la cellula è già ricca di energia",
+        "Non hanno alcun effetto regolatore sul ciclo",
+        "Attivano selettivamente la succinato deidrogenasi",
+        "Bloccano in modo definitivo e irreversibile la citrato sintasi"
+      ],
+      "answer": 1,
+      "explain": "Alte concentrazioni di ATP e NADH inibiscono le tappe regolate del ciclo, perché indicano che la cellula dispone già di sufficiente energia e di potere riducente. Il ciclo rallenta così per non accumulare inutilmente coenzimi ridotti. L'ATP non è un attivatore del ciclo, perché sono invece ADP e NAD+ a segnalare la necessità di aumentare il flusso ossidativo.",
+      "slide": 57
+    },
+    {
+      "id": "d05-b05-q049",
+      "q": "Quali condizioni metaboliche attivano il ciclo di Krebs?",
+      "choices": [
+        "Un aumento di ADP e di NAD+",
+        "Un aumento di ATP e di NADH",
+        "Un aumento di succinil-coenzima A",
+        "Una diminuzione dell'ossigeno disponibile",
+        "Un aumento del rapporto NADH/NAD+"
+      ],
+      "answer": 0,
+      "explain": "Il ciclo è attivato quando aumenta la richiesta energetica, segnalata da elevate concentrazioni di ADP, e quando il NAD+ è disponibile in forma ossidata per accettare elettroni. In queste condizioni si attivano la citrato sintasi, la isocitrato deidrogenasi e la α-chetoglutarato deidrogenasi. Un aumento del rapporto NADH/NAD+ ha invece effetto inibitorio, perché segnala che i coenzimi ridotti non vengono smaltiti abbastanza rapidamente.",
+      "slide": 57
+    },
+    {
+      "id": "d05-b05-q050",
+      "q": "Quale effetto ha il succinil-coenzima A sulla regolazione del ciclo di Krebs?",
+      "choices": [
+        "Attiva la citrato sintasi e la isocitrato deidrogenasi",
+        "Attiva la isocitrato deidrogenasi e la malato deidrogenasi",
+        "Non partecipa alla regolazione del ciclo in nessuna tappa",
+        "Inibisce la α-chetoglutarato deidrogenasi e la citrato sintasi",
+        "Inibisce la catena respiratoria mitocondriale e la ATP sintasi"
+      ],
+      "answer": 3,
+      "explain": "Il succinil-coenzima A, prodotto della tappa catalizzata dalla α-chetoglutarato deidrogenasi, inibisce a retroazione la α-chetoglutarato deidrogenasi stessa e la citrato sintasi. In questo modo il ciclo si autoregola quando l'intermedio a valle si accumula. Esso non è un attivatore della citrato sintasi, perché l'accumulo del prodotto segnala una ridotta necessità di nuovo flusso.",
+      "slide": 57
+    }
+  ]
+}

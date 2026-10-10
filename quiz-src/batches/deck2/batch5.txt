@@ -1,0 +1,53 @@
+# Deck 2 — Metabolismo energetico e metabolismo dei carboidrati (2025-10-22)
+# Batch 5 — argomento: La glicolisi: tappe, enzimi e regolazione
+# Slide da 31 a 40
+
+### Slide 31
+NAD e NADP
+Vitamina B3
+
+### Slide 32
+➢ La carenza di nicotinammide e di acido
+nicotinico produce la pellagra
+(“pelle rugosa”)
+➢ Cause:
+• dieta sbilanciata (ipoproteica, solo mais)
+• alcolismo, malassorbimento intestinale
+• terapia con isoniazide
+
+### Slide 33
+Domande?
+
+### Slide 34
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 35
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 36
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 37
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 38
+FERMENTAZIONE (“fervere” = bollire)
+La fermentazione è una via metabolica che estrae energia dai
+nutrienti sotto forma di ATP in assenza di O2
+FERMENTAZIONE LATTICA
+
+### Slide 39
+[benessere360.com]
+
+### Slide 40
+LDH (Lactate DeHydrogenase)
++ +
+NADH + H NAD
+O O O O
+C C
+C O HO C H
+CH 3 CH 3
+lattato
+piruvato deidrogenasi L-lattato
+(LDH)
+LDH aumenta dopo infarto cardiaco

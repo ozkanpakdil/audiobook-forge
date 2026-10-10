@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 1,
+  "topic": "Introduzione al corso, la cellula e la composizione chimica del corpo umano",
+  "questions": [
+    {
+      "id": "d01-b01-q001",
+      "q": "Che cosa studia la biochimica?",
+      "choices": [
+        "Le basi molecolari della vita e le reazioni chimiche degli organismi",
+        "La struttura macroscopica degli organi e dei tessuti del corpo umano",
+        "Le leggi della meccanica che regolano il movimento dei corpi materiali",
+        "Le proprietà fisiche dell'acqua e dei gas nei sistemi inanimati",
+        "La classificazione e la storia evolutiva degli organismi viventi"
+      ],
+      "answer": 0,
+      "explain": "La biochimica è la chimica delle reazioni che avvengono negli organismi viventi e indaga le basi molecolari della vita. Lo studio della struttura macroscopica degli organi appartiene invece all'anatomia, che opera a un livello di organizzazione diverso da quello molecolare.",
+      "slide": 8
+    },
+    {
+      "id": "d01-b01-q002",
+      "q": "Qual è la prima domanda che la biochimica si pone quando indaga l'attività corporea?",
+      "choices": [
+        "Quale sia il costo energetico di una contrazione muscolare",
+        "Quale sia la composizione molecolare di un corpo umano normale",
+        "Quante cellule contenga in media un organo umano",
+        "Come vari la frequenza cardiaca durante l'esercizio",
+        "Quale sia la sequenza completa del genoma umano"
+      ],
+      "answer": 1,
+      "explain": "La biochimica si interessa alla dimensione molecolare dell'attività corporea e parte dalla composizione molecolare di un corpo umano «normale». La sequenza completa del genoma è un obiettivo della genomica, non la domanda di partenza della biochimica.",
+      "slide": 8
+    },
+    {
+      "id": "d01-b01-q003",
+      "q": "A quale livello di organizzazione si colloca principalmente lo studio biochimico dell'attività corporea?",
+      "choices": [
+        "Al livello degli organi e degli apparati",
+        "Al livello dei tessuti e delle loro funzioni",
+        "Al livello molecolare",
+        "Al livello delle popolazioni e degli ecosistemi",
+        "Al livello psicologico e comportamentale"
+      ],
+      "answer": 2,
+      "explain": "La biochimica si occupa della dimensione molecolare dell'attività corporea. Lo studio degli organi e degli apparati è invece compito dell'anatomia e della fisiologia macroscopica, mentre quello di popolazioni ed ecosistemi riguarda l'ecologia.",
+      "slide": 8
+    },
+    {
+      "id": "d01-b01-q004",
+      "q": "Qual è l'elemento chimico più abbondante nel corpo umano in termini di massa?",
+      "choices": [
+        "Il carbonio",
+        "Il calcio",
+        "L'azoto",
+        "L'ossigeno",
+        "Il fosforo"
+      ],
+      "answer": 3,
+      "explain": "L'ossigeno è l'elemento più abbondante del corpo umano in massa, perché è contenuto sia nell'acqua sia nella maggior parte delle biomolecole. Il carbonio è molto abbondante e costituisce lo scheletro delle biomolecole, ma in massa è meno rappresentato dell'ossigeno.",
+      "slide": 9
+    },
+    {
+      "id": "d01-b01-q005",
+      "q": "Qual è la molecola più abbondante nel corpo umano?",
+      "choices": [
+        "Il glucosio",
+        "Il colesterolo",
+        "L'emoglobina",
+        "Il DNA",
+        "L'acqua"
+      ],
+      "answer": 4,
+      "explain": "L'acqua è la molecola più abbondante del corpo umano e ne costituisce circa i due terzi della massa. Il glucosio, pur essendo fondamentale nel metabolismo energetico, è presente in quantità molto minori.",
+      "slide": 9
+    },
+    {
+      "id": "d01-b01-q006",
+      "q": "Quale classe di macromolecole costituisce la frazione organica più abbondante del corpo umano, esclusa l'acqua?",
+      "choices": [
+        "Gli acidi nucleici",
+        "Le proteine",
+        "I carboidrati",
+        "I sali minerali",
+        "Le vitamine"
+      ],
+      "answer": 1,
+      "explain": "Le proteine sono la classe di macromolecole organiche più abbondante nel corpo umano e svolgono funzioni strutturali, catalitiche e di trasporto. Gli acidi nucleici, pur essenziali per conservare l'informazione genetica, rappresentano una frazione di massa molto inferiore.",
+      "slide": 9
+    },
+    {
+      "id": "d01-b01-q007",
+      "q": "Da quale unità fondamentale sono costituiti tutti gli organismi viventi?",
+      "choices": [
+        "Dagli organuli citoplasmatici",
+        "Dai tessuti",
+        "Dai sistemi di organi",
+        "Dalle cellule",
+        "Dalle molecole inorganiche"
+      ],
+      "answer": 3,
+      "explain": "Tutti gli esseri viventi sono costituiti da cellule, piccole unità racchiuse da una membrana e piene di una soluzione acquosa concentrata di sostanze chimiche. I tessuti e i sistemi di organi sono livelli di organizzazione superiori, costruiti a partire dalle cellule.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q008",
+      "q": "Che cosa delimita la cellula separandola dall'ambiente esterno?",
+      "choices": [
+        "Una membrana",
+        "La parete cellulare di cellulosa",
+        "Il nucleo",
+        "Il citoscheletro",
+        "Una capsula proteica"
+      ],
+      "answer": 0,
+      "explain": "La cellula è descritta come una piccola unità racchiusa da una membrana e piena di una soluzione acquosa concentrata. La parete di cellulosa caratterizza solo le cellule vegetali, mentre il nucleo è una struttura interna e non rappresenta il confine della cellula.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q009",
+      "q": "Secondo la descrizione biochimica della materia vivente, le biomolecole che costituiscono gli organismi sono:",
+      "choices": [
+        "Dotate di vita propria e capaci di riprodursi da sole",
+        "Entità immutabili che non interagiscono tra loro",
+        "Regolate da leggi diverse da quelle dell'universo non vivente",
+        "Composte esclusivamente da elementi non presenti nella materia inerte",
+        "Di per sé prive di vita, ma interagenti per mantenere e perpetuare la vita"
+      ],
+      "answer": 4,
+      "explain": "Le molecole che costituiscono gli organismi viventi sono di per sé prive di vita e diventano capaci di sostenere la vita solo grazie alle loro interazioni. Esse seguono le stesse leggi fisiche e chimiche che governano l'universo non vivente, non leggi speciali.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q010",
+      "q": "Su che cosa si basano le interazioni tra le biomolecole che sostengono la vita?",
+      "choices": [
+        "Su leggi esclusive del mondo vivente, diverse da quelle della materia inerte",
+        "Su forze vitali non riproducibili in laboratorio",
+        "Sulle stesse leggi fisiche e chimiche che governano l'universo non vivente",
+        "Su principi puramente casuali e non deterministici",
+        "Su regole stabilite dalla sola informazione genetica"
+      ],
+      "answer": 2,
+      "explain": "Lo studio della biochimica mostra che le biomolecole interagiscono usando soltanto le leggi fisiche e chimiche valide anche per la materia non vivente. Non esistono forze vitali speciali: la specificità della vita nasce dall'organizzazione e dalla cooperazione delle molecole.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q011",
+      "q": "Le eccezionali caratteristiche degli organismi viventi derivano, secondo la biochimica, da:",
+      "choices": [
+        "Un'unica molecola universale presente in tutti gli organismi",
+        "Esclusivamente dall'acqua e dai sali minerali disciolti",
+        "Dalla sola molecola di DNA, indipendentemente dalle proteine",
+        "Migliaia di differenti biomolecole che interagiscono tra loro",
+        "Da un numero molto limitato di composti inorganici"
+      ],
+      "answer": 3,
+      "explain": "La biochimica cerca di spiegare come le caratteristiche degli organismi viventi derivino da migliaia di differenti biomolecole. Il DNA è fondamentale per conservare l'informazione, ma da solo non basta: servono anche proteine, lipidi, carboidrati e molte altre molecole.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q012",
+      "q": "Qual è la principale differenza tra una cellula eucariotica e una procariotica?",
+      "choices": [
+        "La presenza di un nucleo delimitato da una membrana",
+        "La presenza di una membrana plasmatica selettiva",
+        "La presenza di ribosomi liberi nel citoplasma",
+        "La presenza di materiale genetico circolare",
+        "La presenza di un citoplasma ricco di enzimi"
+      ],
+      "answer": 0,
+      "explain": "La cellula eucariotica possiede un nucleo delimitato da una membrana che separa il materiale genetico dal citoplasma, mentre in quella procariotica il DNA è libero nel citoplasma. Membrana plasmatica, ribosomi, materiale genetico e citoplasma sono invece presenti in entrambi i tipi cellulari.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q013",
+      "q": "Quale organulo cellulare è considerato la centrale energetica della cellula, sede principale della sintesi di ATP?",
+      "choices": [
+        "Il reticolo endoplasmatico rugoso",
+        "L'apparato di Golgi",
+        "Il mitocondrio",
+        "Il lisosoma",
+        "Il nucleolo"
+      ],
+      "answer": 2,
+      "explain": "Il mitocondrio è la sede della respirazione cellulare e della maggior parte della sintesi di ATP. L'apparato di Golgi, invece, modifica, smista e impacchetta le proteine, senza produrre direttamente energia.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q014",
+      "q": "In quale struttura della cellula eucariotica è contenuto il materiale genetico principale?",
+      "choices": [
+        "Nel mitocondrio",
+        "Nel reticolo endoplasmatico",
+        "Nel citoscheletro",
+        "Nei lisosomi",
+        "Nel nucleo"
+      ],
+      "answer": 4,
+      "explain": "Nella cellula eucariotica il DNA è racchiuso nel nucleo, delimitato da una doppia membrana. Il mitocondrio contiene una piccola quantità di DNA proprio, ma il materiale genetico principale risiede nel nucleo.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q015",
+      "q": "Quale affermazione descrive correttamente la membrana plasmatica?",
+      "choices": [
+        "È un sottile strato rigido di cellulosa che avvolge la cellula",
+        "È un doppio strato di fosfolipidi con proteine associate",
+        "È un singolo strato continuo di proteine senza lipidi",
+        "È una struttura continua formata da filamenti di DNA e RNA",
+        "È permeabile a qualunque sostanza senza alcun controllo"
+      ],
+      "answer": 1,
+      "explain": "La membrana plasmatica è un doppio strato di fosfolipidi in cui sono immerse proteine, con funzione di barriera selettiva. L'idea di uno strato rigido di cellulosa descrive la parete delle cellule vegetali, che è una struttura distinta e separata dalla membrana.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q016",
+      "q": "Quale organulo è responsabile della sintesi delle proteine?",
+      "choices": [
+        "Il lisosoma",
+        "Il mitocondrio",
+        "Il nucleolo",
+        "Il vacuolo",
+        "Il ribosoma"
+      ],
+      "answer": 4,
+      "explain": "I ribosomi sono i complessi in cui avviene la sintesi proteica, leggendo l'informazione portata dall'RNA messaggero. Il lisosoma è invece un organulo digestivo che degrada macromolecole tramite enzimi idrolitici.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q017",
+      "q": "Il citoplasma di una cellula è costituito principalmente da:",
+      "choices": [
+        "Un gel di lipidi puri privi di acqua",
+        "Un reticolo di DNA e proteine istoniche",
+        "Una soluzione acquosa di sali e macromolecole",
+        "Una matrice minerale di calcio e fosfato",
+        "Un insieme di membrane isolate senza contenuto liquido"
+      ],
+      "answer": 2,
+      "explain": "La cellula è descritta come piena di una soluzione acquosa concentrata di sostanze chimiche, e questa soluzione costituisce il citoplasma. Una matrice di calcio e fosfato descrive invece la componente minerale dell'osso, non il citoplasma.",
+      "slide": 11
+    },
+    {
+      "id": "d01-b01-q018",
+      "q": "Qual è il tema considerato centrale nella biochimica?",
+      "choices": [
+        "La classificazione delle specie viventi",
+        "L'energia",
+        "La struttura macroscopica degli organi",
+        "La genetica delle popolazioni",
+        "La tassonomia dei composti organici"
+      ],
+      "answer": 1,
+      "explain": "L'energia è il tema centrale della biochimica: i sistemi viventi devono estrarre, trasformare e utilizzare energia dall'ambiente. La classificazione delle specie e la genetica di popolazione appartengono ad altre discipline biologiche.",
+      "slide": 12
+    },
+    {
+      "id": "d01-b01-q019",
+      "q": "Che cosa sono capaci di fare i sistemi viventi rispetto all'energia?",
+      "choices": [
+        "Estrarre, trasformare e utilizzare energia dall'ambiente",
+        "Produrre energia dal nulla senza input esterni",
+        "Consumare energia senza trasformarla mai",
+        "Cedere energia all'ambiente senza mai acquisirne",
+        "Convertire la materia direttamente in energia nucleare"
+      ],
+      "answer": 0,
+      "explain": "I sistemi viventi sono capaci di estrarre energia dall'ambiente, trasformarla e utilizzarla per i propri processi. Non possono creare energia dal nulla, perché ciò violerebbe il principio di conservazione dell'energia.",
+      "slide": 12
+    },
+    {
+      "id": "d01-b01-q020",
+      "q": "In quali termini la biochimica descrive la materia vivente?",
+      "choices": [
+        "In termini anatomici e topografici degli organi",
+        "In termini psicologici e comportamentali del soggetto",
+        "In termini statistici ed epidemiologici di intere popolazioni",
+        "In termini di struttura, organizzazione e funzione molecolare",
+        "In termini geologici e ambientali del territorio"
+      ],
+      "answer": 3,
+      "explain": "La biochimica descrive la struttura, l'organizzazione e la funzione della materia vivente in termini molecolari. La descrizione anatomica e topografica riguarda invece l'anatomia, che studia le strutture macroscopiche.",
+      "slide": 12
+    },
+    {
+      "id": "d01-b01-q021",
+      "q": "Quali sono le quattro classi principali di biomolecole presenti negli organismi viventi?",
+      "choices": [
+        "Ossidi, acidi, basi e sali",
+        "Metalli, non metalli, gas nobili e alogeni",
+        "Carboidrati, lipidi, proteine e acidi nucleici",
+        "Monosaccaridi, disaccaridi, polisaccaridi e oligosaccaridi",
+        "Vitamine, ormoni, enzimi e anticorpi"
+      ],
+      "answer": 2,
+      "explain": "Le biomolecole si raggruppano in carboidrati, lipidi, proteine e acidi nucleici, ciascuna con funzioni caratteristiche. Vitamine, ormoni, enzimi e anticorpi non sono classi di biomolecole, ma categorie funzionali che ricadono in quelle principali.",
+      "slide": 13
+    },
+    {
+      "id": "d01-b01-q022",
+      "q": "Quale elemento chimico è alla base dello scheletro di tutte le biomolecole organiche?",
+      "choices": [
+        "L'azoto, che forma i gruppi amminici delle proteine",
+        "Il fosforo, che forma i gruppi fosfato degli acidi nucleici",
+        "Lo zolfo, che forma i ponti disolfuro nelle proteine",
+        "Il ferro, che forma il gruppo eme dell'emoglobina",
+        "Il carbonio, che forma catene di legami covalenti stabili"
+      ],
+      "answer": 4,
+      "explain": "Il carbonio è l'elemento centrale delle biomolecole organiche, perché forma quattro legami covalenti stabili e catene di lunghezza variabile. L'azoto è presente in proteine e acidi nucleici, ma non costituisce lo scheletro delle biomolecole.",
+      "slide": 13
+    },
+    {
+      "id": "d01-b01-q023",
+      "q": "Che cosa si intende per monomero nell'ambito delle biomolecole?",
+      "choices": [
+        "Una molecola inorganica di piccole dimensioni",
+        "Un enzima che catalizza la polimerizzazione",
+        "Un legame che unisce due catene proteiche",
+        "L'unità ripetuta di base che costituisce un polimero",
+        "Il prodotto finale della degradazione di un polimero"
+      ],
+      "answer": 3,
+      "explain": "Il monomero è l'unità di base che, ripetendosi, forma un polimero: gli amminoacidi per le proteine, i monosaccaridi per i polisaccaridi e i nucleotidi per gli acidi nucleici. Un enzima è una proteina che catalizza reazioni e non un'unità strutturale del polimero.",
+      "slide": 13
+    },
+    {
+      "id": "d01-b01-q024",
+      "q": "A quale gruppo di biomolecole appartengono gli acidi grassi e il colesterolo?",
+      "choices": [
+        "Le proteine",
+        "I lipidi",
+        "I carboidrati",
+        "Gli acidi nucleici",
+        "I sali minerali"
+      ],
+      "answer": 1,
+      "explain": "Gli acidi grassi e il colesterolo appartengono ai lipidi, molecole poco solubili in acqua che svolgono funzioni strutturali ed energetiche. I carboidrati comprendono invece zuccheri come glucosio e saccarosio, che hanno proprietà chimiche molto diverse.",
+      "slide": 13
+    },
+    {
+      "id": "d01-b01-q025",
+      "q": "Mediante quale tipo di legame si uniscono gli amminoacidi in una catena proteica?",
+      "choices": [
+        "Legame peptidico",
+        "Legame a idrogeno",
+        "Legame ionico",
+        "Legame glicosidico",
+        "Legame fosfodiesterico"
+      ],
+      "answer": 0,
+      "explain": "Gli amminoacidi si uniscono attraverso il legame peptidico, che si forma tra il gruppo carbossilico di un amminoacido e il gruppo amminico del successivo. Il legame glicosidico unisce invece i monosaccaridi nei carboidrati, e quello fosfodiesterico i nucleotidi negli acidi nucleici.",
+      "slide": 14
+    },
+    {
+      "id": "d01-b01-q026",
+      "q": "Qual è la funzione principale dei carboidrati nell'organismo?",
+      "choices": [
+        "Trasportare l'ossigeno nel sangue come l'emoglobina",
+        "Fornire energia pronta e costituire strutture di sostegno",
+        "Conservare l'informazione genetica nelle basi azotate",
+        "Catalizzare le reazioni metaboliche come gli enzimi",
+        "Formare la membrana plasmatica come componente principale"
+      ],
+      "answer": 1,
+      "explain": "I carboidrati rappresentano una fonte energetica di pronto utilizzo, come il glucosio, e contribuiscono a strutture di sostegno. Il trasporto dell'ossigeno è compito dell'emoglobina, una proteina, mentre l'informazione genetica è conservata negli acidi nucleici.",
+      "slide": 14
+    },
+    {
+      "id": "d01-b01-q027",
+      "q": "Di quali unità monomeriche sono polimeri gli acidi nucleici?",
+      "choices": [
+        "Amminoacidi",
+        "Monosaccaridi",
+        "Nucleotidi",
+        "Acidi grassi",
+        "Gruppi fosfato liberi"
+      ],
+      "answer": 2,
+      "explain": "Gli acidi nucleici, come DNA e RNA, sono polimeri di nucleotidi, ciascuno formato da uno zucchero, una base azotata e un gruppo fosfato. Gli amminoacidi sono invece i monomeri delle proteine.",
+      "slide": 14
+    },
+    {
+      "id": "d01-b01-q028",
+      "q": "Quale affermazione descrive correttamente le proteine?",
+      "choices": [
+        "Sono catene di amminoacidi con funzioni strutturali e catalitiche",
+        "Sono polimeri di nucleotidi con funzione di riserva energetica",
+        "Sono molecole inorganiche presenti solo nel plasma sanguigno",
+        "Sono lipidi complessi che formano le membrane cellulari",
+        "Sono polisaccaridi di riserva come il glicogeno epatico"
+      ],
+      "answer": 0,
+      "explain": "Le proteine sono catene di amminoacidi e svolgono funzioni molto varie, tra cui quella strutturale, catalitica e di trasporto. Le molecole che formano le membrane sono invece i fosfolipidi, che appartengono ai lipidi e non alle proteine.",
+      "slide": 14
+    },
+    {
+      "id": "d01-b01-q029",
+      "q": "Come si forma un polimero a partire dai suoi monomeri in una cellula?",
+      "choices": [
+        "Per idrolisi, con aggiunta di una molecola d'acqua",
+        "Per semplice diffusione senza formazione di legami",
+        "Per ossidazione completa dei monomeri",
+        "Per condensazione, con eliminazione di una molecola d'acqua",
+        "Per dissociazione in ioni di carica opposta"
+      ],
+      "answer": 3,
+      "explain": "La polimerizzazione avviene per condensazione: due monomeri si uniscono formando un legame con eliminazione di una molecola d'acqua. L'idrolisi è il processo inverso, che scinde il polimero consumando acqua.",
+      "slide": 15
+    },
+    {
+      "id": "d01-b01-q030",
+      "q": "Che cosa accade quando un polimero viene idrolizzato?",
+      "choices": [
+        "I monomeri si uniscono con perdita di acqua",
+        "Il polimero si ossida completamente in anidride carbonica",
+        "Il polimero si trasforma in un isomero senza rottura di legami",
+        "Il polimero precipita senza modifiche chimiche",
+        "Il legame tra i monomeri si rompe con consumo di una molecola d'acqua"
+      ],
+      "answer": 4,
+      "explain": "L'idrolisi rompe il legame tra i monomeri aggiungendo una molecola d'acqua e liberando le unità costitutive. La condensazione è il processo opposto, perché unisce i monomeri eliminando acqua invece di consumarla.",
+      "slide": 15
+    },
+    {
+      "id": "d01-b01-q031",
+      "q": "Quale tra le seguenti è una funzione tipica dei lipidi?",
+      "choices": [
+        "Conservare l'informazione genetica negli acidi nucleici",
+        "Catalizzare le reazioni del metabolismo come gli enzimi",
+        "Trasportare l'ossigeno nel sangue come l'emoglobina",
+        "Formare i ribosomi per la sintesi delle proteine",
+        "Costituire il doppio strato delle membrane cellulari"
+      ],
+      "answer": 4,
+      "explain": "I lipidi, in particolare i fosfolipidi, costituiscono il doppio strato delle membrane biologiche e svolgono anche funzioni di riserva energetica. La conservazione dell'informazione genetica è invece compito degli acidi nucleici.",
+      "slide": 15
+    },
+    {
+      "id": "d01-b01-q032",
+      "q": "Perché, per comprendere la salute e il funzionamento dell'organismo, è necessario conoscere il comportamento delle sostanze a livello atomico?",
+      "choices": [
+        "Perché le proprietà delle sostanze dipendono dalla struttura atomica",
+        "Perché gli atomi sono visibili a occhio nudo nei tessuti",
+        "Perché solo gli atomi isolati partecipano alle reazioni dell'organismo",
+        "Perché le molecole non hanno alcun ruolo nei processi biologici",
+        "Perché gli atomi e le molecole sono entità chimiche identiche"
+      ],
+      "answer": 0,
+      "explain": "Le proprietà chimiche e il comportamento delle sostanze dipendono dalla struttura atomica e dai legami che si formano tra gli atomi. Molecole e ioni, non i singoli atomi isolati, sono le specie che partecipano alla maggior parte delle reazioni biologiche.",
+      "slide": 16
+    },
+    {
+      "id": "d01-b01-q033",
+      "q": "Quali scoperte, alla fine del XIX secolo, aprirono la via allo studio della struttura dell'atomo?",
+      "choices": [
+        "La scoperta del neutrone e della fissione nucleare",
+        "La scoperta dei protoni e degli isotopi",
+        "La scoperta del DNA e del codice genetico",
+        "La scoperta dell'elettrone e della radioattività",
+        "La scoperta degli enzimi e della catalisi"
+      ],
+      "answer": 3,
+      "explain": "Alla fine del XIX secolo la scoperta dell'elettrone e della radioattività aprirono la via allo studio della struttura dell'atomo. Il neutrone fu scoperto più tardi, nel XX secolo, e non appartiene quindi a quel primo periodo.",
+      "slide": 16
+    },
+    {
+      "id": "d01-b01-q034",
+      "q": "Quale particella subatomica scoperta alla fine del XIX secolo ha carica elettrica negativa?",
+      "choices": [
+        "Il protone",
+        "Il neutrone",
+        "L'elettrone",
+        "Il fotone",
+        "Il positrone"
+      ],
+      "answer": 2,
+      "explain": "L'elettrone è la particella di carica negativa scoperta alla fine del XIX secolo, fondamentale per comprendere la struttura atomica. Il protone ha carica positiva e il neutrone è privo di carica.",
+      "slide": 16
+    },
+    {
+      "id": "d01-b01-q035",
+      "q": "Come è organizzato l'atomo secondo il modello nucleare?",
+      "choices": [
+        "Come una sfera omogenea e indivisibile di materia priva di parti",
+        "Come un nucleo con protoni e neutroni circondato dagli elettroni",
+        "Come un nucleo di elettroni circondato da protoni positivi",
+        "Come un insieme di atomi più piccoli e privi di carica elettrica",
+        "Come un'unica particella carica positivamente e priva di parti interne"
+      ],
+      "answer": 1,
+      "explain": "Nel modello nucleare l'atomo è formato da un nucleo centrale, contenente protoni e neutroni, attorno al quale si muovono gli elettroni. La descrizione di una sfera omogenea e indivisibile corrisponde al superato modello di Dalton, non al modello nucleare.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q036",
+      "q": "Che cosa indica il numero atomico di un elemento?",
+      "choices": [
+        "Il numero dei neutroni presenti nel nucleo",
+        "La somma di protoni e neutroni",
+        "Il numero degli elettroni di valenza",
+        "Il numero dei protoni presenti nel nucleo",
+        "La massa totale dell'atomo in unità di massa atomica"
+      ],
+      "answer": 3,
+      "explain": "Il numero atomico è il numero di protoni nel nucleo e identifica univocamente l'elemento chimico. La somma di protoni e neutroni definisce invece il numero di massa, che può variare tra gli isotopi di uno stesso elemento.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q037",
+      "q": "Quale particella del nucleo atomico è priva di carica elettrica?",
+      "choices": [
+        "Il protone",
+        "Il neutrone",
+        "L'elettrone",
+        "Lo ione positivo",
+        "Il catione"
+      ],
+      "answer": 1,
+      "explain": "Il neutrone è la particella del nucleo priva di carica elettrica, mentre il protone ha carica positiva. L'elettrone ha carica negativa e non risiede nel nucleo, ma si muove attorno a esso.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q038",
+      "q": "Dove è concentrata quasi tutta la massa di un atomo?",
+      "choices": [
+        "Nella nube elettronica esterna",
+        "Nei legami chimici con altri atomi",
+        "Negli orbitali più esterni",
+        "Nel vuoto tra nucleo ed elettroni",
+        "Nel nucleo"
+      ],
+      "answer": 4,
+      "explain": "Quasi tutta la massa dell'atomo è concentrata nel nucleo, dove si trovano protoni e neutroni, molto più pesanti degli elettroni. Gli elettroni occupano uno spazio molto ampio attorno al nucleo, ma contribuiscono in misura minima alla massa.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q039",
+      "q": "Che cosa sono gli isotopi di uno stesso elemento?",
+      "choices": [
+        "Atomi con lo stesso numero di protoni ma neutroni diversi",
+        "Atomi con diverso numero di protoni nel nucleo",
+        "Atomi con diverso numero di elettroni e carica netta",
+        "Molecole formate da atomi identici ma con massa differente",
+        "Atomi che hanno perso tutti gli elettroni di valenza"
+      ],
+      "answer": 0,
+      "explain": "Gli isotopi hanno lo stesso numero atomico, cioè lo stesso numero di protoni, ma differiscono per il numero di neutroni e quindi per la massa. Atomi con diverso numero di protoni appartengono invece a elementi chimici differenti.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q040",
+      "q": "Come si forma uno ione positivo, cioè un catione?",
+      "choices": [
+        "Quando un atomo acquista uno o più elettroni",
+        "Quando un atomo acquista neutroni nel nucleo",
+        "Quando un atomo perde uno o più elettroni",
+        "Quando un atomo perde protoni dal nucleo",
+        "Quando un atomo acquista protoni dall'ambiente"
+      ],
+      "answer": 2,
+      "explain": "Un catione si forma quando un atomo perde elettroni e resta con un eccesso di carica positiva. L'acquisto di elettroni produce invece un anione, carico negativamente, mentre il numero di protoni del nucleo non cambia nelle comuni reazioni chimiche.",
+      "slide": 17
+    },
+    {
+      "id": "d01-b01-q041",
+      "q": "Di che cosa si occupa la chimica?",
+      "choices": [
+        "Solo dei composti del carbonio",
+        "Esclusivamente delle particelle subatomiche",
+        "Della materia e delle trasformazioni che essa subisce",
+        "Della classificazione degli organismi viventi",
+        "Delle leggi del moto dei corpi celesti"
+      ],
+      "answer": 2,
+      "explain": "La chimica studia la materia e le trasformazioni che essa subisce, sia fisiche sia chimiche. Lo studio esclusivo dei composti del carbonio riguarda solo una parte della disciplina, la chimica organica, e non l'intera chimica.",
+      "slide": 18
+    },
+    {
+      "id": "d01-b01-q042",
+      "q": "Quale tra le seguenti è una trasformazione fisica e non chimica?",
+      "choices": [
+        "La reazione del sodio con il cloro",
+        "La combustione del glucosio",
+        "La formazione del cloruro di sodio",
+        "L'evaporazione dell'acqua",
+        "La ruggine del ferro esposto all'aria umida"
+      ],
+      "answer": 3,
+      "explain": "L'evaporazione dell'acqua è una trasformazione fisica: il materiale resta lo stesso, l'acqua, solo sotto forma di vapore. La reazione del sodio con il cloro, invece, produce una sostanza nuova, il cloruro di sodio, ed è quindi una trasformazione chimica.",
+      "slide": 18
+    },
+    {
+      "id": "d01-b01-q043",
+      "q": "Perché la fusione del ferro è classificata come trasformazione fisica?",
+      "choices": [
+        "Perché il ferro cambia composizione chimica",
+        "Perché il materiale resta lo stesso, ma in forma diversa",
+        "Perché si formano nuove sostanze gassose",
+        "Perché il ferro si combina con l'ossigeno dell'aria",
+        "Perché si libera energia sotto forma di legami chimici"
+      ],
+      "answer": 1,
+      "explain": "Nella fusione il ferro passa dallo stato solido a quello liquido senza cambiare la propria natura chimica: il materiale resta lo stesso sotto forma diversa. Se il ferro si combinasse con l'ossigeno formando ruggine, si avrebbe invece una trasformazione chimica.",
+      "slide": 18
+    },
+    {
+      "id": "d01-b01-q044",
+      "q": "La reazione tra sodio metallico e cloro gassoso per dare cloruro di sodio è un esempio di:",
+      "choices": [
+        "Trasformazione fisica per cambiamento di stato del metallo fuso",
+        "Miscuglio omogeneo di due elementi senza legami nuovi",
+        "Passaggio di stato senza alcuna reazione chimica",
+        "Dissoluzione fisica di un gas all'interno di un metallo",
+        "Trasformazione chimica con formazione di una sostanza nuova"
+      ],
+      "answer": 4,
+      "explain": "Il sodio e il cloro si trasformano in una sostanza diversa, il cloruro di sodio, con proprietà del tutto differenti da quelle dei reagenti: è quindi una trasformazione chimica. Un semplice cambiamento di stato lascerebbe invece inalterata l'identità chimica delle sostanze.",
+      "slide": 18
+    },
+    {
+      "id": "d01-b01-q045",
+      "q": "Qual è la caratteristica distintiva di una trasformazione chimica rispetto a una fisica?",
+      "choices": [
+        "Il materiale di partenza diventa un materiale diverso",
+        "Avviene sempre con sviluppo di calore e di luce visibile",
+        "Interessa solo i gas e mai i solidi o i liquidi",
+        "È sempre reversibile in modo spontaneo e completo",
+        "Non comporta mai rottura né formazione di legami"
+      ],
+      "answer": 0,
+      "explain": "Nella trasformazione chimica il materiale di partenza si trasforma in un materiale diverso, con nuove proprietà chimiche. Lo sviluppo di calore può accompagnare molte reazioni, ma non è una condizione necessaria per definire una trasformazione chimica.",
+      "slide": 18
+    },
+    {
+      "id": "d01-b01-q046",
+      "q": "Perché la conoscenza biochimica è utile per interpretare un parametro di laboratorio come la glicemia?",
+      "choices": [
+        "Perché la glicemia misura la concentrazione ematica del glucosio",
+        "Perché la glicemia è una misura puramente anatomica del sangue",
+        "Perché la glicemia non ha alcun rapporto con le molecole del corpo",
+        "Perché la glicemia dipende solo dalla massa ossea dell'individuo",
+        "Perché la glicemia è regolata da leggi diverse da quelle della chimica"
+      ],
+      "answer": 0,
+      "explain": "La glicemia misura la concentrazione ematica del glucosio, una biomolecola il cui metabolismo è oggetto della biochimica. Non si tratta di una misura anatomica, perché riguarda la quantità di una sostanza chimica e le reazioni che la regolano.",
+      "slide": 8
+    },
+    {
+      "id": "d01-b01-q047",
+      "q": "Che cosa distingue la materia vivente da quella non vivente secondo la biochimica?",
+      "choices": [
+        "L'uso di leggi fisiche diverse da quelle della materia inerte",
+        "La presenza di un tipo di atomi esclusivo dei viventi",
+        "L'assenza di reazioni chimiche nei tessuti viventi",
+        "La capacità di creare energia dal nulla senza input esterni",
+        "L'organizzazione di molecole che di per sé non sono vive"
+      ],
+      "answer": 4,
+      "explain": "La materia vivente è costituita dalle stesse molecole e dagli stessi atomi della materia inerte, ma la vita emerge dalla loro organizzazione e interazione. Non esistono atomi esclusivi dei viventi né leggi fisiche speciali che valgano solo per gli organismi.",
+      "slide": 10
+    },
+    {
+      "id": "d01-b01-q048",
+      "q": "Un organismo che degrada il glucosio per ottenere ATP esemplifica quale proprietà dei sistemi viventi?",
+      "choices": [
+        "La capacità di creare energia dal nulla",
+        "La capacità di evitare le trasformazioni chimiche",
+        "La capacità di estrarre e trasformare energia dall'ambiente",
+        "La capacità di conservare energia senza mai utilizzarla",
+        "La capacità di trasformare la materia in energia nucleare"
+      ],
+      "answer": 2,
+      "explain": "La degradazione del glucosio permette di estrarre energia dalla molecola e di convertirla in ATP, forma utilizzabile dalla cellula. Questo processo non crea energia, ma trasforma quella contenuta nei legami chimici del glucosio.",
+      "slide": 12
+    },
+    {
+      "id": "d01-b01-q049",
+      "q": "Perché lo studio delle particelle subatomiche è rilevante per la biochimica medica?",
+      "choices": [
+        "Perché gli elettroni determinano il colore di tutti i tessuti del corpo",
+        "Perché gli elettroni determinano il modo in cui gli atomi si legano",
+        "Perché i neutroni partecipano direttamente alle reazioni enzimatiche",
+        "Perché il nucleo atomico si modifica in ogni reazione metabolica",
+        "Perché solo i protoni sono coinvolti nei legami chimici dei tessuti"
+      ],
+      "answer": 1,
+      "explain": "La distribuzione e la carica degli elettroni determinano il modo in cui gli atomi si legano e quindi la reattività delle biomolecole. I neutroni e i protoni del nucleo non vengono modificati nelle comuni reazioni chimiche ed enzimatiche.",
+      "slide": 16
+    },
+    {
+      "id": "d01-b01-q050",
+      "q": "Un atomo di cloro con 17 protoni e 18 neutroni ha un numero di massa pari a:",
+      "choices": [
+        "17",
+        "18",
+        "34",
+        "35",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "Il numero di massa è la somma di protoni e neutroni, quindi 17 + 18 = 35. Il valore 17 corrisponde al solo numero atomico, cioè al numero di protoni, e non tiene conto dei neutroni presenti nel nucleo.",
+      "slide": 17
+    }
+  ]
+}

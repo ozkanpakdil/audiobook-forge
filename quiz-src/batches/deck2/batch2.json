@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 2,
+  "topic": "Catabolismo, anabolismo, ossidoriduzioni e ATP",
+  "questions": [
+    {
+      "id": "d02-b02-q001",
+      "q": "Che cosa ricava la cellula dall'ossidazione degli alimenti per svolgere le proprie funzioni?",
+      "choices": [
+        "Energia chimica sotto forma di ATP",
+        "Calore da dissipare obbligatoriamente nell'ambiente",
+        "Ossigeno molecolare da immagazzinare nei tessuti",
+        "Radicali liberi da accumulare nel citoplasma",
+        "Materiale genetico di riserva"
+      ],
+      "answer": 0,
+      "explain": "L'ossidazione degli alimenti libera energia che la cellula conserva nei legami ad alta energia dell'ATP, la molecola con cui alimenta le proprie funzioni. Una parte dell'energia compare comunque come calore, ma il calore è un prodotto inevitabile della conversione e non la forma con cui la cellula paga i propri processi, quindi non è il fine del catabolismo.",
+      "slide": 9
+    },
+    {
+      "id": "d02-b02-q002",
+      "q": "Perché gli alimenti sono definiti combustibili cellulari?",
+      "choices": [
+        "Perché vengono ossidati liberando energia utilizzabile dalla cellula",
+        "Perché si dissolvono nei liquidi corporei senza trasformarsi",
+        "Perché forniscono direttamente ossigeno ai mitocondri",
+        "Perché agiscono come enzimi del metabolismo energetico",
+        "Perché mantengono costante la temperatura corporea senza essere ossidati"
+      ],
+      "answer": 0,
+      "explain": "Gli alimenti energetici vengono degradati per ossidazione e l'energia liberata è in parte conservata come ATP, esattamente come un combustibile cede energia quando brucia. Dire che forniscono ossigeno ai mitocondri è un errore concettuale: l'ossigeno arriva dalla respirazione polmonare e funge da accettore finale di elettroni, non è contenuto negli alimenti.",
+      "slide": 9
+    },
+    {
+      "id": "d02-b02-q003",
+      "q": "Quale macronutriente fornisce la maggiore quantità di energia per grammo?",
+      "choices": [
+        "Carboidrati",
+        "Proteine",
+        "Vitamine",
+        "Sali minerali",
+        "Lipidi"
+      ],
+      "answer": 4,
+      "explain": "I lipidi rendono circa 9,3 kcal per grammo, un valore più che doppio rispetto a carboidrati e proteine, che si fermano entrambi intorno a 4,1 kcal per grammo. Il distrattore più insidioso è rappresentato dai carboidrati, perché sono il combustibile preferito da molte cellule, ma la preferenza d'uso non aumenta il loro contenuto energetico per grammo.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q004",
+      "q": "Quante chilocalorie fornisce un grammo di glucosio all'organismo?",
+      "choices": [
+        "Circa 9,3 kcal",
+        "Circa 7 kcal",
+        "Circa 4,1 kcal",
+        "Circa 17 kcal",
+        "Circa 2 kcal"
+      ],
+      "answer": 2,
+      "explain": "Il glucosio è un carboidrato e tutti i carboidrati della dieta rendono circa 4,1 kcal per grammo. Il valore di 17 non è in chilocalorie ma in kilojoule, perché lo stesso grammo di carboidrato corrisponde a circa 17 kJ: si tratta della stessa energia espressa in un'unità di misura diversa.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q005",
+      "q": "A quanto ammonta il valore calorico medio di un grammo di proteine?",
+      "choices": [
+        "Circa 9,3 kcal",
+        "Circa 17 kcal",
+        "Circa 39 kcal",
+        "Circa 7 kcal",
+        "Circa 4,1 kcal"
+      ],
+      "answer": 4,
+      "explain": "Le proteine hanno lo stesso valore calorico medio dei carboidrati, cioè circa 4,1 kcal per grammo. Il valore di 7 kcal per grammo è il distrattore più insidioso perché esiste davvero, ma appartiene all'alcol etilico e non alle proteine.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q006",
+      "q": "A quanto corrisponde il valore calorico di un grammo di lipidi?",
+      "choices": [
+        "Circa 4,1 kcal",
+        "Circa 7 kcal",
+        "Circa 39 kcal",
+        "Circa 17 kcal",
+        "Circa 9,3 kcal"
+      ],
+      "answer": 4,
+      "explain": "I lipidi forniscono circa 9,3 kcal per grammo, il valore più elevato fra i tre macronutrienti energetici. Il valore di 39 è un distrattore costruito sull'unità di misura sbagliata, perché 39 kJ per grammo è la stessa energia dei lipidi espressa in kilojoule e non in chilocalorie.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q007",
+      "q": "Quale valore calorico è attribuito all'alcol etilico?",
+      "choices": [
+        "Circa 4 kcal per grammo",
+        "Circa 9 kcal per grammo",
+        "Circa 12 kcal per grammo",
+        "Circa 2 kcal per grammo",
+        "Circa 7 kcal per grammo"
+      ],
+      "answer": 4,
+      "explain": "L'alcol etilico fornisce energia all'organismo e il suo valore calorico è di circa 7 kcal per grammo, intermedio fra quello dei carboidrati e quello dei lipidi. I 9 kcal per grammo appartengono ai lipidi, che restano la fonte più concentrata, quindi confondere i due valori sovrastima l'apporto dell'alcol.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q008",
+      "q": "Che cosa definisce esattamente la chilocaloria?",
+      "choices": [
+        "La quantità di ATP prodotta dall'ossidazione di 1 g di glucosio",
+        "La temperatura massima raggiunta da una soluzione durante una reazione esotermica",
+        "L'energia libera immagazzinata in una mole di ATP",
+        "La quantità di calore necessaria per portare 1 g di acqua a ebollizione",
+        "La quantità di calore necessaria per innalzare di 1 °C la temperatura di 1 kg di acqua"
+      ],
+      "answer": 4,
+      "explain": "La chilocaloria è definita come l'energia richiesta per aumentare di 1 °C la temperatura di 1 kg di acqua, un criterio calorimetrico preciso e riproducibile. Portare l'acqua a ebollizione richiede invece circa 540 kcal per chilogrammo, quindi la scelta della quantità di calore necessaria per l'ebollizione confonde un semplice salto di un grado con un cambiamento di stato.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q009",
+      "q": "Qual è il rapporto fra la Caloria nutrizionale e la chilocaloria?",
+      "choices": [
+        "La Caloria nutrizionale corrisponde a 1000 chilocalorie",
+        "La Caloria nutrizionale corrisponde a 4,18 kcal",
+        "La Caloria nutrizionale corrisponde a un decimo di chilocaloria",
+        "La Caloria nutrizionale corrisponde esattamente a una chilocaloria",
+        "La Caloria nutrizionale non ha alcun rapporto con la chilocaloria"
+      ],
+      "answer": 3,
+      "explain": "La Caloria nutrizionale, quella riportata nelle tabelle dietetiche, è definita come equivalente a una chilocaloria. Lo scambio più frequente consiste nel trattarla come un'unità mille volte più grande, ma il fattore 1000 riguarda il passaggio dalla piccola caloria alla chilocaloria, non quello dalla Caloria nutrizionale alla chilocaloria.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q010",
+      "q": "Quanti kilojoule corrispondono approssimativamente a una chilocaloria?",
+      "choices": [
+        "Circa 2,1 kJ",
+        "Circa 8,4 kJ",
+        "Circa 418 kJ",
+        "Circa 42 kJ",
+        "Circa 4,18 kJ"
+      ],
+      "answer": 4,
+      "explain": "Una chilocaloria equivale a circa 4,18 kJ, valore che permette di convertire i dati nutrizionali da un'unità all'altra. Il valore di 418 kJ è un distrattore di ordine di grandezza, perché nasce dallo spostamento della virgola e corrisponde a cento chilocalorie, non a una sola.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q011",
+      "q": "Due grammi di proteine e due grammi di carboidrati, a parità di peso, forniscono:",
+      "choices": [
+        "Il doppio di energia da parte delle proteine, che rendono 8,2 kcal per grammo",
+        "Il doppio di energia da parte dei carboidrati, che rendono 8,2 kcal per grammo",
+        "Energia nulla, perché proteine e carboidrati non sono combustibili cellulari",
+        "Un quarto di energia da parte dei carboidrati, che rendono 1 kcal per grammo",
+        "La stessa quantità di energia, perché entrambi rendono circa 4,1 kcal per grammo"
+      ],
+      "answer": 4,
+      "explain": "Carboidrati e proteine condividono lo stesso valore calorico medio di circa 4,1 kcal per grammo, quindi pesi uguali forniscono la stessa energia. Attribuire il doppio di energia alle proteine è l'errore più comune, perché le proteine hanno funzioni plastiche e strutturali e vengono spesso percepite come più energetiche, ma il loro rendimento calorico è identico a quello dei carboidrati.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q012",
+      "q": "Perché i lipidi sono il macronutriente più denso dal punto di vista energetico?",
+      "choices": [
+        "Perché contengono più ossigeno dei carboidrati e si ossidano più in fretta",
+        "Perché i loro carboni sono più ridotti e liberano più energia per grammo",
+        "Perché vengono digeriti più lentamente dei carboidrati e restano nel sangue",
+        "Perché i loro carboni sono più ossidati di quelli degli zuccheri semplici",
+        "Perché sono le uniche molecole in grado di produrre ATP nella cellula"
+      ],
+      "answer": 1,
+      "explain": "Negli acidi grassi la catena idrocarburica è povera di ossigeno e quindi fortemente ridotta, perciò la sua ossidazione completa libera molta più energia per grammo rispetto a uno zucchero già parzialmente ossidato. La digestione più lenta è un fatto reale, ma rallenta la velocità con cui l'energia compare e non aumenta la quantità di energia contenuta in un grammo di lipidi.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q013",
+      "q": "Da quale parametro dipende l'energia totale fornita da una porzione di alimento?",
+      "choices": [
+        "Dal solo contenuto di vitamine e sali minerali dell'alimento",
+        "Dalla quantità di acqua e di fibre presenti nell'alimento",
+        "Dal contenuto di ciascun macronutriente e dal peso della porzione",
+        "Dal colore, dall'odore e dalla consistenza dell'alimento",
+        "Dalla temperatura a cui l'alimento viene consumato e conservato"
+      ],
+      "answer": 2,
+      "explain": "L'apporto energetico di una porzione si ottiene sommando i grammi di carboidrati, lipidi, proteine ed eventuale alcol moltiplicati per i rispettivi valori calorici, perciò servono sia la composizione sia il peso. L'acqua è il distrattore più insidioso perché diluisce l'alimento, ma non fornisce energia: una porzione più ricca di acqua pesa di più senza apportare più chilocalorie.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q014",
+      "q": "Una porzione di alimento A contiene 20 g di lipidi, mentre una porzione di alimento B contiene 50 g di carboidrati. Quale porzione fornisce più energia?",
+      "choices": [
+        "La porzione A, con circa 186 kcal",
+        "Le due porzioni forniscono la stessa energia",
+        "La porzione A, con circa 930 kcal",
+        "La porzione B, con circa 850 kcal",
+        "La porzione B, con circa 205 kcal"
+      ],
+      "answer": 4,
+      "explain": "I 20 g di lipidi rendono circa 186 kcal, mentre i 50 g di carboidrati rendono circa 205 kcal, quindi la porzione B apporta più energia nonostante il lipide sia più concentrato per grammo. È proprio la maggiore concentrazione calorica dei lipidi a rendere insidiosa la scelta della porzione A, ma 20 g di lipidi non bastano a superare 50 g di carboidrati.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q015",
+      "q": "Uno spuntino contiene 50 g di carboidrati, 20 g di proteine e 20 g di lipidi. Qual è il suo apporto energetico approssimativo?",
+      "choices": [
+        "Circa 250 kcal",
+        "Circa 320 kcal",
+        "Circa 600 kcal",
+        "Circa 473 kcal",
+        "Circa 390 kcal"
+      ],
+      "answer": 3,
+      "explain": "Sommando i contributi si ottengono circa 205 kcal dai carboidrati, 82 kcal dalle proteine e 186 kcal dai lipidi, per un totale di circa 473 kcal. Il valore di circa 250 kcal nasce tipicamente dal contare i lipidi come i carboidrati, errore che sottostima di molto il contributo del componente più energetico.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q016",
+      "q": "Che cosa esprime il valore calorico di un alimento?",
+      "choices": [
+        "La temperatura raggiunta dall'alimento durante la digestione",
+        "L'energia chimica che l'organismo può ricavare ossidandolo",
+        "La quantità di acqua che l'alimento può trattenere",
+        "La velocità con cui l'alimento attraversa l'intestino",
+        "Il numero di molecole di ATP contenute nell'alimento"
+      ],
+      "answer": 1,
+      "explain": "Il valore calorico misura l'energia chimica potenzialmente disponibile, quella che l'organismo libera ossidando completamente l'alimento. Dire che corrisponde al numero di molecole di ATP contenute nell'alimento è un errore concettuale, perché l'ATP non è immagazzinato nel cibo ma viene sintetizzato dalla cellula usando l'energia ricavata dall'ossidazione.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q017",
+      "q": "Una porzione di 50 g di carboidrati fornisce circa 860 kJ. A quante chilocalorie corrisponde questo apporto?",
+      "choices": [
+        "Circa 200 kcal",
+        "Circa 820 kcal",
+        "Circa 1720 kcal",
+        "Circa 205 kcal",
+        "Circa 400 kcal"
+      ],
+      "answer": 3,
+      "explain": "Dividendo 860 kJ per circa 4,18 kJ per chilocaloria si ottengono circa 205 kcal, cioè il valore atteso per 50 g di carboidrati a 4,1 kcal per grammo. Il valore di circa 820 kcal è il distrattore più insidioso perché nasce dall'aver usato un fattore di conversione sbagliato, quasi vicino a uno, confondendo kilojoule e chilocalorie.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q018",
+      "q": "Una bevanda alcolica contiene 10 g di etanolo e nessun altro nutriente energetico. Quanta energia fornisce?",
+      "choices": [
+        "Circa 41 kcal",
+        "Circa 93 kcal",
+        "Circa 70 kcal",
+        "Circa 100 kcal",
+        "Circa 17 kcal"
+      ],
+      "answer": 2,
+      "explain": "L'etanolo rende circa 7 kcal per grammo, quindi 10 g forniscono circa 70 kcal. Il valore di circa 41 kcal è il distrattore più insidioso perché corrisponde a trattare l'alcol come un carboidrato, cioè a 4,1 kcal per grammo, sottostimando così l'apporto energetico reale della bevanda.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q019",
+      "q": "Una bevanda contiene 5 g di carboidrati ed è anche alcolica. Perché il suo apporto energetico supera quello dei soli 5 g di carboidrati?",
+      "choices": [
+        "Perché l'alcol apporta energia aggiuntiva, circa 7 kcal per grammo",
+        "Perché l'alcol aumenta l'assorbimento intestinale dei carboidrati",
+        "Perché i carboidrati disciolti in acqua rendono più energia per grammo",
+        "Perché l'alcol contiene proteine nascoste che si sommano ai carboidrati",
+        "Perché l'alcol rende l'acqua della bevanda una fonte energetica"
+      ],
+      "answer": 0,
+      "explain": "L'alcol etilico è un combustibile per l'organismo e aggiunge circa 7 kcal per ogni grammo assunto, perciò va sommato all'apporto dei carboidrati. Attribuire l'aumento a un migliore assorbimento dei carboidrati è l'errore più frequente, ma l'assorbimento modifica la velocità di ingresso dei nutrienti, non l'energia totale che essi contengono.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q020",
+      "q": "Quanta energia è disponibile nella molecola di ATP per i processi cellulari?",
+      "choices": [
+        "Circa 1 kcal per mole",
+        "Circa 4,1 kcal per mole",
+        "Circa 9,3 kcal per mole",
+        "Circa 30 kcal per mole",
+        "Circa 100 kcal per mole"
+      ],
+      "answer": 3,
+      "explain": "L'idrolisi del gruppo fosfato terminale dell'ATP libera circa 30 kcal per mole in condizioni cellulari, ed è questa energia che la cellula spende per i propri lavori. Il valore di circa 4,1 kcal per mole è un distrattore costruito sui valori calorici degli alimenti, che si riferiscono ai grammi di nutrienti e non all'energia di idrolisi di una mole di ATP.",
+      "slide": 11
+    },
+    {
+      "id": "d02-b02-q021",
+      "q": "Quali componenti chimici costituiscono la molecola di ATP?",
+      "choices": [
+        "Adenina, desossiribosio e due gruppi fosfato",
+        "Guanina, ribosio e tre gruppi fosfato",
+        "Adenina, ribosio e tre gruppi fosfato",
+        "Uracile, glucosio e un gruppo fosfato",
+        "Adenina, ribosio e un solo gruppo fosfato"
+      ],
+      "answer": 2,
+      "explain": "L'ATP è un nucleotide formato dalla base azotata adenina, dallo zucchero ribosio e da una catena di tre gruppi fosfato, da cui il nome adenosina trifosfato. La variante con desossiribosio è il distrattore più insidioso, perché il desossiribosio appartiene ai nucleotidi del DNA mentre l'ATP utilizza il ribosio.",
+      "slide": 11
+    },
+    {
+      "id": "d02-b02-q022",
+      "q": "Quale molecola funge da valuta energetica universale in tutte le cellule?",
+      "choices": [
+        "Il glucosio",
+        "L'ATP",
+        "Il NADH",
+        "Il colesterolo",
+        "L'emoglobina"
+      ],
+      "answer": 1,
+      "explain": "L'ATP è la valuta energetica universale, cioè la forma con cui l'energia viene trasferita ai processi cellulari in tutti i tipi di cellula. Il NADH è il distrattore più insidioso perché è una molecola ricca di energia, ma la sua funzione è quella di trasportare elettroni alla catena respiratoria, non di pagare direttamente i lavori cellulari.",
+      "slide": 11
+    },
+    {
+      "id": "d02-b02-q023",
+      "q": "Perché l'idrolisi del gruppo fosfato terminale dell'ATP libera energia?",
+      "choices": [
+        "Perché si rompe un legame senza alcuna trasformazione chimica dei prodotti",
+        "Perché i prodotti ADP e fosfato sono più stabili dell'ATP per risonanza",
+        "Perché l'ADP contiene un legame a idrogeno che assorbe energia dal mezzo",
+        "Perché la reazione richiede ossigeno molecolare come accettore di elettroni",
+        "Perché il fosfato inorganico è un enzima che catalizza la reazione stessa"
+      ],
+      "answer": 1,
+      "explain": "Il legame fosfoanidridico terminale è definito ad alta energia perché i prodotti dell'idrolisi sono più stabili del reagente, grazie alla risonanza e alla migliore solvatazione dei fosfati liberati. Non si tratta quindi di un semplice allentamento di un legame, e nemmeno di un assorbimento di energia: l'idrolisi dell'ATP è una reazione esoergonica.",
+      "slide": 11
+    },
+    {
+      "id": "d02-b02-q024",
+      "q": "Quale processo cellulare utilizza direttamente l'ATP come fonte di energia?",
+      "choices": [
+        "Il trasporto passivo per diffusione semplice",
+        "Il trasferimento di elettroni lungo la catena respiratoria",
+        "La contrazione muscolare",
+        "L'ossidazione dei carboidrati alimentari",
+        "La filtrazione glomerulare del sangue"
+      ],
+      "answer": 2,
+      "explain": "La contrazione muscolare è un lavoro meccanico che richiede direttamente ATP per il ciclo dei ponti actinamiosina e per il rilasciamento del muscolo. La catena respiratoria è il distrattore più insidioso perché produce ATP invece di consumarlo: il trasferimento di elettroni genera il gradiente protonico che serve alla sintesi dell'ATP.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q025",
+      "q": "Quale affermazione descrive correttamente un ruolo dell'ATP nella cellula?",
+      "choices": [
+        "Fornisce l'energia per il trasporto di sostanze attraverso le membrane",
+        "Costituisce la riserva energetica a lungo termine del tessuto adiposo",
+        "Trasporta l'ossigeno dai polmoni ai tessuti come fa l'emoglobina",
+        "Costituisce l'impalcatura lipidica delle membrane cellulari",
+        "Funziona da messaggero ormonale nel circolo sanguigno"
+      ],
+      "answer": 0,
+      "explain": "L'ATP alimenta i trasporti transmembrana, per esempio quelli operati dalle pompe ioniche che spostano sostanze contro il gradiente di concentrazione. L'ATP non è però una riserva a lungo termine, perché è una riserva energetica di pronto uso e viene continuamente rigenerata: la riserva a lungo termine dell'organismo è il grasso del tessuto adiposo.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q026",
+      "q": "In quali processi cellulari è impegnata la maggiore quantità di ATP prodotta dal catabolismo?",
+      "choices": [
+        "Nella sola contrazione muscolare, che consuma ATP per i ponti actina-miosina",
+        "Nella sola replicazione del DNA, che consuma ATP per separare i filamenti",
+        "Nella sola trasmissione nervosa, che consuma ATP per le pompe ioniche",
+        "Nel solo assorbimento intestinale, che consuma ATP per i trasportatori",
+        "In una varietà di processi, fra cui biosintesi, trasporti e lavoro meccanico"
+      ],
+      "answer": 4,
+      "explain": "L'ATP viene consumato in molti processi diversi, dalla biosintesi delle molecole ai trasporti transmembrana fino al lavoro meccanico della contrazione. Limitarlo alla sola contrazione muscolare è l'errore più comune, ma il muscolo è soltanto uno dei tanti distretti che attingono alla stessa valuta energetica, che è universale.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q027",
+      "q": "Quale lavoro cellulare è alimentato dall'ATP nell'ambito della biosintesi?",
+      "choices": [
+        "La diffusione dell'acqua attraverso la membrana plasmatica",
+        "La sintesi di catene polipeptidiche a partire dagli amminoacidi",
+        "La dissoluzione dei cristalli di sale presenti nel citoplasma",
+        "La dispersione del calore prodotto nell'ambiente circostante",
+        "L'aumento della temperatura corporea durante l'esercizio fisico"
+      ],
+      "answer": 1,
+      "explain": "La formazione del legame peptidico durante la sintesi proteica è una reazione endoergonica che viene resa possibile dall'energia fornita dall'ATP. La diffusione dell'acqua è un processo passivo che non consuma ATP, quindi non può essere considerata un lavoro biosintetico.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q028",
+      "q": "Perché l'ATP è descritto come valuta energetica della cellula?",
+      "choices": [
+        "Perché si trova in grandi scorte all'interno del nucleo cellulare",
+        "Perché viene prodotto una sola volta e riutilizzato senza consumo",
+        "Perché viene continuamente prodotto e consumato nei processi cellulari",
+        "Perché contiene più energia di qualunque altra molecola dell'organismo",
+        "Perché può essere sintetizzato soltanto dal tessuto muscolare"
+      ],
+      "answer": 2,
+      "explain": "Il paragone con una valuta indica che l'ATP è la forma di pagamento energetico della cellula: viene continuamente guadagnato dal catabolismo e speso dai processi anabolici e funzionali. Le scorte cellulari di ATP sono invece molto piccole e vanno ricostituite in modo continuo, quindi l'idea di una riserva accumulata nel nucleo è sbagliata.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q029",
+      "q": "Quale delle seguenti attività rappresenta un lavoro di trasporto transmembrana alimentato dall'ATP?",
+      "choices": [
+        "Il passaggio di anidride carbonica dal sangue agli alveoli polmonari",
+        "Il movimento dell'ossigeno secondo il gradiente di pressione parziale",
+        "Il movimento del glucosio per diffusione facilitata attraverso la membrana",
+        "Il trasporto di ioni sodio e potassio contro il loro gradiente",
+        "La filtrazione del plasma attraverso la parete dei capillari"
+      ],
+      "answer": 3,
+      "explain": "Spostare gli ioni sodio e potassio contro il proprio gradiente richiede un lavoro termodinamico che la cellula paga con l'ATP, come accade nella pompa sodio-potassio. Il trasporto del glucosio per diffusione facilitata è un buon distrattore perché utilizza un trasportatore di membrana, ma si svolge secondo gradiente e quindi non consuma ATP.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q030",
+      "q": "Un farmaco che blocca la sintesi mitocondriale di ATP provoca rapidamente la morte cellulare. Qual è la spiegazione più diretta?",
+      "choices": [
+        "La cellula perde il rinnovamento delle molecole e i gradienti ionici",
+        "La cellula perde la capacità di produrre calore per riscaldarsi",
+        "La cellula perde la capacità di far entrare l'ossigeno dal sangue",
+        "La cellula perde la capacità di digerire gli alimenti nel lume intestinale",
+        "La cellula perde la capacità di far passare l'acqua per osmosi"
+      ],
+      "answer": 0,
+      "explain": "Senza ATP vengono meno la sintesi delle biomolecole e il funzionamento delle pompe ioniche, con perdita dei gradienti transmembrana e rapido collasso dell'omeostasi cellulare. La mancata produzione di calore è una conseguenza reale ma non è la causa diretta della morte cellulare, perché l'organismo può contare su altri sistemi di termoregolazione.",
+      "slide": 13
+    },
+    {
+      "id": "d02-b02-q031",
+      "q": "Che cosa indica il processo di catabolismo?",
+      "choices": [
+        "La demolizione ossidativa delle molecole complesse con produzione di ATP",
+        "La sintesi di molecole complesse a partire da precursori semplici",
+        "La duplicazione del materiale genetico prima della divisione cellulare",
+        "La conversione dell'ADP in sostanza di riserva del tessuto adiposo",
+        "L'eliminazione dei prodotti di scarto attraverso le vie urinarie"
+      ],
+      "answer": 0,
+      "explain": "Il catabolismo comprende le vie degradative in cui le molecole complesse degli alimenti vengono ossidate e l'energia liberata è conservata in ATP. La sintesi di molecole complesse descrive invece l'anabolismo, che rappresenta il processo opposto e consuma ATP anziché produrlo.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q032",
+      "q": "Quale processo porta alla demolizione delle molecole alimentari con liberazione di energia?",
+      "choices": [
+        "L'anabolismo",
+        "Il catabolismo",
+        "La replicazione del DNA",
+        "La trascrizione genica",
+        "L'omeostasi termica"
+      ],
+      "answer": 1,
+      "explain": "Il catabolismo è l'insieme delle reazioni degradative che demoliscono gli alimenti e liberano l'energia utilizzabile dalla cellula. L'anabolismo è il distrattore più insidioso perché è la via complementare, ma procede nella direzione opposta e consuma energia per costruire molecole.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q033",
+      "q": "Qual è la caratteristica generale delle vie cataboliche?",
+      "choices": [
+        "Sono convergenti, perché sostanze diverse confluiscono verso intermedi comuni",
+        "Sono divergenti, perché da un precursore nascono molti prodotti",
+        "Consumano ATP per sintetizzare nuove molecole",
+        "Richiedono sempre una molecola di ossigeno come prodotto finale",
+        "Non sono regolate da enzimi"
+      ],
+      "answer": 0,
+      "explain": "Le vie cataboliche sono convergenti: carboidrati, lipidi e proteine vengono degradati verso pochi intermedi comuni, come l'acetil-CoA, che entrano nella stessa via finale ossidativa. La descrizione divergente appartiene invece all'anabolismo, dove da pochi precursori si costruiscono molecole diverse e più complesse.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q034",
+      "q": "In quale forma viene conservata l'energia liberata dal catabolismo per essere utilizzata dalla cellula?",
+      "choices": [
+        "Come potenziale elettrico di membrana accumulato come riserva",
+        "Come calore accumulato nel citoplasma sotto forma di riserva",
+        "Come ATP, prodotto anche per riduzione di coenzimi come il NAD+",
+        "Come ADP, che è la vera valuta energetica della cellula",
+        "Come fosfato inorganico libero presente nel citosol cellulare"
+      ],
+      "answer": 2,
+      "explain": "L'energia liberata dalle ossidazioni viene temporaneamente conservata nei coenzimi ridotti, come NADH e FADH2, e poi convertita in ATP, la forma direttamente spendibile. L'ADP è il distrattore più insidioso perché fa parte del ciclo dell'ATP, ma è la forma scarica e non può cedere energia utile alla cellula.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q035",
+      "q": "Quale affermazione distingue correttamente anabolismo e catabolismo?",
+      "choices": [
+        "Il catabolismo consuma ATP, mentre l'anabolismo lo produce",
+        "Il catabolismo produce ATP e l'anabolismo consuma ATP per costruire",
+        "Entrambi sintetizzano molecole complesse e consumano ATP",
+        "Entrambi demoliscono molecole e producono ATP per la cellula",
+        "Il catabolismo avviene solo nel fegato e l'anabolismo solo nei muscoli"
+      ],
+      "answer": 1,
+      "explain": "Catabolismo e anabolismo sono le due facce complementari del metabolismo: il primo degrada ossidando e produce ATP, il secondo costruisce consumando ATP. Invertire i due processi è l'errore più frequente, pertanto conviene ricordare che il prefisso cata indica demolizione e ana indica costruzione.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q036",
+      "q": "Come sono legate tra loro le vie cataboliche e quelle anaboliche in una cellula?",
+      "choices": [
+        "Sono totalmente indipendenti e non condividono alcun intermedio comune",
+        "Condividono gli stessi enzimi regolati in modo identico in ogni tappa",
+        "Sono l'inverso esatto l'una dell'altra in ogni singola tappa del processo",
+        "Si alternano nel tempo senza mai essere attive insieme nella stessa cellula",
+        "Condividono intermedi comuni e sono regolate in modo coordinato e separato"
+      ],
+      "answer": 4,
+      "explain": "Le due vie condividono molti intermedi, ma sono coordinate da una regolazione distinta, così che una via sia favorita quando l'altra rallenta. Dire che sono l'inverso esatto l'una dell'altra è l'errore più comune, perché almeno una tappa delle vie opposte è catalizzata da un enzima diverso proprio per evitare cicli inutili e dissipativi.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q037",
+      "q": "Quale delle seguenti affermazioni sul catabolismo è corretta?",
+      "choices": [
+        "Il catabolismo produce ATP e trasferisce elettroni a coenzimi come NAD+",
+        "Il catabolismo produce ATP e libera direttamente ossigeno molecolare",
+        "Il catabolismo produce ATP e richiede sempre consumo di ATP",
+        "Il catabolismo produce ATP grazie alla sintesi di nuove proteine strutturali",
+        "Il catabolismo produce ATP senza alcun trasferimento di elettroni"
+      ],
+      "answer": 0,
+      "explain": "Nelle ossidazioni cataboliche gli elettroni rimossi dai substrati vengono raccolti dai coenzimi NAD+ e FAD, che passano alla forma ridotta e alimentano la catena respiratoria. L'affermazione che il catabolismo avvenga senza trasferimento di elettroni contraddice la natura stessa di ossidazione, cioè di perdita di elettroni.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q038",
+      "q": "Per quale motivo il catabolismo è definito una via ossidativa?",
+      "choices": [
+        "Perché le molecole organiche di partenza vengono ridotte acquistando idrogeno",
+        "Perché i substrati organici perdono elettroni e li cedono ad accettori",
+        "Perché l'ossigeno viene incorporato nei prodotti senza alcun trasferimento di elettroni",
+        "Perché l'acqua viene consumata come unico reagente",
+        "Perché il carbonio dei substrati non cambia stato di ossidazione"
+      ],
+      "answer": 1,
+      "explain": "Ossidare un substrato significa sottrargli elettroni, e nel catabolismo questi elettroni vengono trasferiti a coenzimi accettori come il NAD+. L'idea che i substrati vengano ridotti acquistando idrogeno descrive il processo opposto, perché la riduzione è acquisto di elettroni e appartiene alle vie biosintetiche.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q039",
+      "q": "Quale ruolo svolgono le ossidoriduzioni nel metabolismo energetico?",
+      "choices": [
+        "Trasferiscono gruppi fosfato dall'ATP ai substrati della via",
+        "Trasferiscono elettroni conservando l'energia in coenzimi ridotti",
+        "Demoliscono l'ATP per liberare fosfato inorganico nel citosol",
+        "Legano gli amminoacidi per formare le proteine strutturali della cellula",
+        "Trasportano l'ossigeno dai polmoni ai tessuti periferici"
+      ],
+      "answer": 1,
+      "explain": "Le reazioni di ossidoriduzione spostano elettroni dalle molecole alimentari ai coenzimi, che li custodiscono in forma ridotta e li consegnano poi alla catena respiratoria per la sintesi di ATP. Il trasferimento di gruppi fosfato dall'ATP è un processo diverso, la fosforilazione, che non è una reazione redox.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q040",
+      "q": "Quali coenzimi raccolgono gli elettroni rimossi dai substrati durante il catabolismo?",
+      "choices": [
+        "NAD+ e FAD",
+        "ATP e ADP",
+        "Emoglobina e mioglobina",
+        "Insulina e glucagone",
+        "DNA e RNA"
+      ],
+      "answer": 0,
+      "explain": "Il NAD+ e il FAD sono i principali accettori di elettroni del catabolismo e si convertono nelle forme ridotte NADH e FADH2, che trasferiscono gli elettroni alla catena respiratoria. L'ATP e l'ADP sono il distrattore più insidioso perché sono anch'essi protagonisti del metabolismo energetico, ma la loro funzione riguarda il trasferimento di gruppi fosfato e non di elettroni.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q041",
+      "q": "Una cellula che cresce e sintetizza nuove proteine in grande quantità ha un bisogno particolarmente elevato di:",
+      "choices": [
+        "Produrre calore per riscaldare il citoplasma",
+        "Eliminare l'ossigeno in eccesso",
+        "Trasformare l'ATP in ADP senza rigenerarlo",
+        "ATP, perché il lavoro biosintetico consuma energia",
+        "Accumulare ATP sotto forma di deposito permanente"
+      ],
+      "answer": 3,
+      "explain": "La sintesi delle proteine è un processo anabolico che consuma ATP, quindi una cellula in forte attività biosintetica deve disporre di un rifornimento continuo di ATP. Accumularlo sotto forma di deposito permanente non è possibile, perché l'ATP viene continuamente rigenerato e consumato e non costituisce una riserva a lungo termine.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q042",
+      "q": "Qual è il prodotto comune verso cui convergono le vie cataboliche di carboidrati, lipidi e proteine prima dell'ossidazione completa?",
+      "choices": [
+        "L'acetil-CoA",
+        "L'ATP",
+        "Il glicogeno",
+        "L'urea",
+        "L'ossigeno molecolare"
+      ],
+      "answer": 0,
+      "explain": "Carboidrati, lipidi e proteine vengono degradati verso l'acetil-CoA, che entra nel ciclo dell'acido citrico e viene ossidato completamente a anidride carbonica. L'urea è un buon distrattore perché è un prodotto reale del catabolismo delle proteine, ma è un prodotto di scarto destinato all'eliminazione e non un intermedio comune delle vie ossidative.",
+      "slide": 12
+    },
+    {
+      "id": "d02-b02-q043",
+      "q": "Quale affermazione descrive correttamente il destino dei tre principali gruppi di biomolecole nel metabolismo?",
+      "choices": [
+        "Solo i lipidi vengono ossidati per produrre energia nella cellula",
+        "Solo i carboidrati alimentano il catabolismo energetico dell'organismo",
+        "Carboidrati, lipidi e proteine possono tutti essere ossidati per produrre energia",
+        "Le proteine non possono mai essere utilizzate a scopo energetico nella cellula",
+        "I carboidrati sono gli unici precursori delle membrane della cellula"
+      ],
+      "answer": 2,
+      "explain": "Il metabolismo energetico può trarre ATP da tutte e tre le classi di macronutrienti, anche se con vie d'ingresso e rendimenti diversi. Escludere le proteine è l'errore più comune, perché esse svolgono soprattutto funzioni plastiche e strutturali, ma in caso di necessità i loro amminoacidi possono essere ossidati a scopo energetico.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q044",
+      "q": "Da quali fonti l'organismo ricava l'energia che immagazzina e utilizza ogni giorno?",
+      "choices": [
+        "Esclusivamente dall'acqua e dai sali minerali",
+        "Da carboidrati, lipidi e proteine assunti con la dieta",
+        "Dall'ossigeno inspirato e dall'anidride carbonica espirata",
+        "Dalle vitamine liposolubili e dall'acido ascorbico",
+        "Dai minerali come calcio e ferro"
+      ],
+      "answer": 1,
+      "explain": "Carboidrati, lipidi e proteine costituiscono i substrati energetici della dieta, cioè le molecole che l'organismo ossida per ricavare ATP. Vitamine e sali minerali sono micronutrienti indispensabili per il funzionamento degli enzimi, ma non forniscono energia e non vengono ossidati a questo scopo.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q045",
+      "q": "Perché i lipidi rappresentano la principale riserva energetica dell'organismo?",
+      "choices": [
+        "Perché sono solubili in acqua e quindi facilmente mobilizzabili",
+        "Perché rendono circa 4,1 kcal per grammo e sono compatti nel deposito",
+        "Perché contengono azoto utilizzabile per costruire nuove proteine",
+        "Perché sono privi di idrogeno e quindi chimicamente più stabili",
+        "Perché rendono circa 9,3 kcal per grammo e si conservano anidri"
+      ],
+      "answer": 4,
+      "explain": "I lipidi sono la riserva energetica più efficiente perché ogni grammo rende circa 9,3 kcal e il tessuto adiposo li conserva in forma praticamente anidra, occupando poco volume e peso. Il valore di 4,1 kcal per grammo appartiene a carboidrati e proteine, e la maggiore idrofilia dei carboidrati li rende anzi meno adatti come deposito compatto.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q046",
+      "q": "Qual è la differenza principale di significato fra anabolismo e catabolismo?",
+      "choices": [
+        "L'anabolismo degrada gli alimenti e produce ATP come il catabolismo",
+        "Il catabolismo costruisce le biomolecole consumando ATP come l'anabolismo",
+        "L'anabolismo produce ATP, mentre il catabolismo costruisce molecole",
+        "L'anabolismo consuma ATP per costruire, il catabolismo produce ATP degradando",
+        "Entrambi consumano ATP per degradare le molecole alimentari della dieta"
+      ],
+      "answer": 3,
+      "explain": "L'anabolismo è la fase costruttiva e consuma ATP per assemblare molecole complesse, mentre il catabolismo è la fase degradativa che produce ATP ossidando i substrati. Chi inverte i due termini cade nel distrattore che attribuisce l'anabolismo alla degradazione, ma la costruzione di legami richiede energia e non può liberarla.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q047",
+      "q": "Quale substrato energetico fornisce la maggior quantità di ATP per grammo quando viene ossidato?",
+      "choices": [
+        "I lipidi",
+        "I carboidrati",
+        "Le proteine",
+        "L'acqua",
+        "Le vitamine"
+      ],
+      "answer": 0,
+      "explain": "Poiché i lipidi rendono circa 9,3 kcal per grammo contro circa 4,1 kcal per grammo di carboidrati e proteine, a parità di peso forniscono anche la maggiore quantità di ATP. I carboidrati sono il distrattore più insidioso perché vengono ossidati rapidamente e sono il combustibile preferito di molti tessuti, ma la velocità d'uso non cambia il rendimento per grammo.",
+      "slide": 10
+    },
+    {
+      "id": "d02-b02-q048",
+      "q": "Che cosa si intende per metabolismo?",
+      "choices": [
+        "Solo la digestione degli alimenti nel canale intestinale",
+        "Solo la respirazione cellulare che consuma ossigeno nei mitocondri",
+        "L'insieme delle reazioni di sintesi e di degradazione della cellula",
+        "L'insieme dei processi di trasporto degli ioni attraverso le membrane",
+        "La sola produzione di calore da parte dell'organismo umano"
+      ],
+      "answer": 2,
+      "explain": "Il metabolismo è l'insieme completo delle reazioni chimiche cellulari, che comprende sia le vie degradative sia quelle biosintetiche. Ridurlo alla sola respirazione cellulare è l'errore più diffuso, perché la respirazione è solo una delle tappe del catabolismo e non esaurisce la varietà delle trasformazioni metaboliche.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q049",
+      "q": "In che modo il glucosio in eccesso rispetto al fabbisogno immediato viene conservato nell'organismo?",
+      "choices": [
+        "Come deposito permanente di ATP all'interno del fegato",
+        "Come glucosio libero accumulato nel sangue in attesa dell'uso",
+        "Come glicogeno nel fegato e nei muscoli e in parte come grassi",
+        "Come ossigeno immagazzinato nei tessuti per il fabbisogno",
+        "Come amminoacidi liberi accumulati nel tessuto adiposo"
+      ],
+      "answer": 2,
+      "explain": "Il glucosio in eccesso viene polimerizzato in glicogeno nel fegato e nel muscolo e, quando le scorte sono sature, convertito in acidi grassi e conservato nel tessuto adiposo. Mantenerlo come glucosio libero nel sangue è un distrattore plausibile ma errato, perché la glicemia viene mantenuta entro limiti ristretti e il glucosio circolante non costituisce una riserva.",
+      "slide": 14
+    },
+    {
+      "id": "d02-b02-q050",
+      "q": "Quale tra le seguenti affermazioni sul rapporto fra alimenti, catabolismo e ATP è corretta?",
+      "choices": [
+        "Gli alimenti contengono ATP pronto per l'uso, che viene liberato durante la digestione",
+        "L'ATP si accumula nel tessuto adiposo come riserva a lungo termine",
+        "Il catabolismo consuma ATP per demolire gli alimenti della dieta",
+        "L'ATP viene sintetizzato solo quando l'organismo è a digiuno",
+        "L'energia degli alimenti è convertita in ATP dalle vie cataboliche"
+      ],
+      "answer": 4,
+      "explain": "Gli alimenti non contengono ATP utilizzabile: la loro energia chimica viene liberata dalle vie cataboliche e in parte conservata in ATP, che la cellula spende poi nei propri processi. Dire che l'ATP si accumula come riserva a lungo termine è l'errore più insidioso, perché l'ATP è una riserva di pronto uso che viene continuamente rigenerata, mentre il deposito a lungo termine è rappresentato dai grassi.",
+      "slide": 9
+    }
+  ]
+}

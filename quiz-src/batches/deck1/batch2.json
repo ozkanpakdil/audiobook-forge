@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 2,
+  "topic": "L'atomo, la tavola periodica e i legami chimici",
+  "questions": [
+    {
+      "id": "d01-b02-q001",
+      "q": "Secondo il modello atomico di Rutherford del 1911, come è strutturato l'atomo?",
+      "choices": [
+        "Un nucleo centrale con protoni e neutroni, circondato da elettroni",
+        "Una sfera di carica positiva uniforme in cui sono immersi gli elettroni",
+        "Solo elettroni distribuiti in orbitali, senza alcun nucleo",
+        "Un nucleo formato esclusivamente da elettroni e neutroni",
+        "Un nucleo centrale con elettroni e protoni, circondato da neutroni"
+      ],
+      "answer": 0,
+      "explain": "Il modello di Rutherford del 1911 descrive un nucleo centrale molto piccolo e denso, contenente protoni e neutroni, attorno al quale si muovono gli elettroni. La sfera positiva uniforme con gli elettroni immersi è invece il modello di Thomson, precedente e superato proprio dagli esperimenti di Rutherford.",
+      "slide": 20
+    },
+    {
+      "id": "d01-b02-q002",
+      "q": "Quale delle seguenti affermazioni sulle particelle subatomiche è corretta?",
+      "choices": [
+        "Il protone ha carica negativa e massa trascurabile",
+        "Il neutrone è privo di carica elettrica",
+        "L'elettrone ha carica positiva",
+        "Il neutrone ha carica positiva e massa uguale a quella dell'elettrone",
+        "Il protone è privo di carica e ha massa trascurabile"
+      ],
+      "answer": 1,
+      "explain": "Il neutrone è una particella del nucleo priva di carica elettrica, con massa confrontabile con quella del protone. Il protone ha carica positiva, mentre l'elettrone ha carica negativa e massa molto piccola: attribuire carica positiva al neutrone o massa trascurabile al protone è quindi errato.",
+      "slide": 20
+    },
+    {
+      "id": "d01-b02-q003",
+      "q": "Rispetto a protoni e neutroni, quale caratteristica distingue l'elettrone?",
+      "choices": [
+        "Ha massa maggiore e carica positiva",
+        "Ha la stessa massa del protone ma carica opposta",
+        "Ha massa molto minore e carica negativa",
+        "Ha massa molto minore e carica positiva",
+        "Non possiede alcuna carica elettrica"
+      ],
+      "answer": 2,
+      "explain": "L'elettrone possiede carica negativa e una massa circa duemila volte inferiore a quella del protone e del neutrone. Per questo la quasi totalità della massa dell'atomo è concentrata nel nucleo, mentre gli elettroni occupano lo spazio esterno.",
+      "slide": 20
+    },
+    {
+      "id": "d01-b02-q004",
+      "q": "Che cosa caratterizza una reazione chimica dal punto di vista della materia?",
+      "choices": [
+        "Gli atomi si trasformano in elementi diversi",
+        "La massa totale dei prodotti è sempre maggiore di quella dei reagenti",
+        "Il numero di atomi cambia durante la reazione",
+        "Gli atomi si ridistribuiscono senza essere creati né distrutti",
+        "Solo i composti ionici possono prendere parte a una reazione"
+      ],
+      "answer": 3,
+      "explain": "In una reazione chimica gli atomi non vengono creati né distrutti: essi si riorganizzano formando nuove sostanze, con conservazione della massa complessiva. L'idea che gli atomi si trasformino in elementi diversi descrive invece una trasformazione nucleare, non una reazione chimica.",
+      "slide": 19
+    },
+    {
+      "id": "d01-b02-q005",
+      "q": "In una reazione chimica, come si definiscono le sostanze di partenza e quelle che si formano?",
+      "choices": [
+        "Catalizzatori e prodotti",
+        "Solventi e soluti",
+        "Reagenti e catalizzatori",
+        "Prodotti e reagenti",
+        "Reagenti e prodotti"
+      ],
+      "answer": 4,
+      "explain": "Le sostanze di partenza che vengono consumate si chiamano reagenti, mentre quelle che si formano si chiamano prodotti. Invertire i due termini è un errore comune: i prodotti sono il risultato della reazione, non ciò che la innesca.",
+      "slide": 19
+    },
+    {
+      "id": "d01-b02-q006",
+      "q": "In base a quale criterio gli elementi sono ordinati nella tavola periodica moderna?",
+      "choices": [
+        "In base alla massa atomica crescente",
+        "In base al numero atomico crescente",
+        "In base alla densità crescente",
+        "In ordine alfabetico di simbolo chimico",
+        "In base al punto di ebollizione"
+      ],
+      "answer": 1,
+      "explain": "La tavola periodica moderna ordina gli elementi in base al numero atomico crescente, cioè al numero di protoni del nucleo. L'ordinamento per massa atomica fu usato da Mendeleev, ma generava alcune incoerenze che il criterio del numero atomico ha risolto.",
+      "slide": 21
+    },
+    {
+      "id": "d01-b02-q007",
+      "q": "Perché gli elementi dello stesso gruppo della tavola periodica hanno proprietà chimiche simili?",
+      "choices": [
+        "Perché hanno tutti la stessa massa atomica",
+        "Perché possiedono lo stesso numero di neutroni",
+        "Perché hanno la stessa configurazione di valenza",
+        "Perché hanno tutti lo stesso numero atomico",
+        "Perché possiedono lo stesso numero di protoni"
+      ],
+      "answer": 2,
+      "explain": "Gli elementi di uno stesso gruppo possiedono lo stesso numero di elettroni nello strato più esterno, cioè la stessa configurazione di valenza, e per questo mostrano reattività simile. Numero atomico, massa e numero di neutroni variano invece all'interno del gruppo.",
+      "slide": 21
+    },
+    {
+      "id": "d01-b02-q008",
+      "q": "Che cosa esprime la posizione di un elemento nella tavola periodica?",
+      "choices": [
+        "Il numero di neutroni presenti nel suo nucleo atomico",
+        "Il volume occupato da una mole della sostanza pura",
+        "La temperatura di fusione tipica dell'elemento puro",
+        "La periodicità delle sue proprietà chimiche e della reattività",
+        "La sua solubilità in acqua a temperatura ambiente"
+      ],
+      "answer": 3,
+      "explain": "La posizione di un elemento nella tavola periodica riassume la periodicità delle sue proprietà chimiche e della sua reattività. Non fornisce invece informazioni dirette su neutroni, punto di fusione o solubilità, che dipendono da altri fattori.",
+      "slide": 21
+    },
+    {
+      "id": "d01-b02-q009",
+      "q": "Da quali elettroni dipende la reattività chimica di un elemento?",
+      "choices": [
+        "Dagli elettroni più interni, vicini al nucleo",
+        "Dagli elettroni del primo livello energetico",
+        "Dai neutroni presenti nel nucleo",
+        "Dagli elettroni dei livelli completamente saturi",
+        "Dagli elettroni più esterni, detti di valenza"
+      ],
+      "answer": 4,
+      "explain": "La reattività chimica è determinata dagli elettroni più esterni, detti di valenza, perché sono quelli che possono essere condivisi o trasferiti. Gli elettroni interni sono fortemente legati al nucleo e non partecipano alla formazione dei legami.",
+      "slide": 23
+    },
+    {
+      "id": "d01-b02-q010",
+      "q": "Che rapporto esiste tra elettroni di valenza e formazione dei legami?",
+      "choices": [
+        "I legami nascono da elettroni di valenza trasferiti o condivisi",
+        "I legami coinvolgono soltanto gli elettroni interni dell'atomo",
+        "I legami si formano soltanto tra i neutroni del nucleo",
+        "I legami dipendono dal numero di neutroni presenti nel nucleo",
+        "I legami coinvolgono il nucleo atomico nella sua totalità"
+      ],
+      "answer": 0,
+      "explain": "Sono gli elettroni di valenza a essere condivisi o trasferiti quando si forma un legame, e il loro numero determina quanti legami un atomo può formare. Gli elettroni interni e i neutroni non prendono parte a questo processo.",
+      "slide": 23
+    },
+    {
+      "id": "d01-b02-q011",
+      "q": "Per quale ragione generale gli atomi tendono a legarsi tra loro?",
+      "choices": [
+        "Per aumentare il numero di neutroni del nucleo",
+        "Per trasformarsi in elementi chimici più pesanti",
+        "Per raggiungere una configurazione elettronica stabile",
+        "Per perdere sempre tutti gli elettroni di valenza",
+        "Per aumentare la propria massa atomica complessiva"
+      ],
+      "answer": 2,
+      "explain": "Gli atomi tendono a legarsi per raggiungere una configurazione elettronica più stabile, tipicamente quella del gas nobile più vicino. Non si tratta di aumentare la massa o il numero di neutroni, che restano invariati in una reazione chimica.",
+      "slide": 24
+    },
+    {
+      "id": "d01-b02-q012",
+      "q": "Che cosa si intende per legame chimico?",
+      "choices": [
+        "Una forza che respinge due atomi vicini",
+        "Una particolare forma di radioattività",
+        "Una reazione che produce calore",
+        "Ciò che tiene uniti due o più atomi tra loro",
+        "L'insieme dei neutroni presenti in una molecola"
+      ],
+      "answer": 3,
+      "explain": "Il legame chimico è ciò che tiene unito un atomo a un altro e si forma sempre tra almeno due atomi. Non è una forza di repulsione né una forma di radioattività, e non coincide con l'insieme dei neutroni di una molecola.",
+      "slide": 25
+    },
+    {
+      "id": "d01-b02-q013",
+      "q": "Che cosa indica il trattino scritto tra i simboli di due atomi, per esempio in C–C?",
+      "choices": [
+        "Che i due atomi si respingono",
+        "Che i due atomi hanno carica opposta",
+        "Che i due atomi sono ionizzati",
+        "Che i due atomi appartengono a elementi diversi",
+        "Che i due atomi sono legati tra loro"
+      ],
+      "answer": 4,
+      "explain": "Il trattino interposto tra due simboli indica che gli atomi sono legati tra loro, come in C–C o H–H. Non implica cariche opposte, ionizzazione o repulsione: indica semplicemente l'esistenza di un legame.",
+      "slide": 25
+    },
+    {
+      "id": "d01-b02-q014",
+      "q": "Quali sono i due principali tipi di legame chimico considerati nella trattazione di base?",
+      "choices": [
+        "Legame ionico e legame covalente",
+        "Legame a idrogeno e legame peptidico",
+        "Legame idrofobico e legame ionico",
+        "Legame covalente e legame a idrogeno",
+        "Forze di London e legame ionico"
+      ],
+      "answer": 0,
+      "explain": "I due legami principali sono il legame ionico e il legame covalente, che si distinguono per il modo in cui vengono gestiti gli elettroni di valenza. Il legame a idrogeno e le forze di London appartengono invece alle interazioni deboli intermolecolari.",
+      "slide": 25
+    },
+    {
+      "id": "d01-b02-q015",
+      "q": "In che modo gli atomi formano i legami chimici secondo la definizione generale?",
+      "choices": [
+        "Scambiandosi i neutroni presenti nei nuclei",
+        "Condividendo in parte o del tutto gli elettroni esterni",
+        "Cedendo sempre tutti gli elettroni più interni",
+        "Fondendo insieme i nuclei dei due atomi vicini",
+        "Variando il numero di protoni presenti nel nucleo"
+      ],
+      "answer": 1,
+      "explain": "Secondo la definizione generale, gli atomi formano legami condividendo in parte o del tutto gli elettroni esterni. Non si scambiano neutroni né fondono i nuclei, perché il nucleo resta invariato nelle trasformazioni chimiche.",
+      "slide": 25
+    },
+    {
+      "id": "d01-b02-q016",
+      "q": "Nel legame ionico del cloruro di sodio, che cosa accade agli elettroni?",
+      "choices": [
+        "Sono messi in comune in modo perfettamente simmetrico",
+        "Restano legati al nucleo del sodio",
+        "Sono ceduti dal cloro al sodio",
+        "Sono ceduti dal sodio al cloro",
+        "Non vengono coinvolti nel legame"
+      ],
+      "answer": 3,
+      "explain": "Nel cloruro di sodio il sodio cede un elettrone al cloro, diventando ione positivo, mentre il cloro diventa ione negativo. L'opzione che inverte la direzione dello scambio è insidiosa perché descrive un trasferimento opposto a quello reale.",
+      "slide": 26
+    },
+    {
+      "id": "d01-b02-q017",
+      "q": "Quali specie si formano quando il sodio cede un elettrone al cloro?",
+      "choices": [
+        "Due atomi neutri con la stessa carica",
+        "Un catione cloruro e un anione sodio",
+        "Due cationi",
+        "Due anioni",
+        "Un catione sodio e un anione cloruro"
+      ],
+      "answer": 4,
+      "explain": "Il sodio, cedendo un elettrone, si trasforma nel catione sodio positivo, mentre il cloro acquistandolo diventa l'anione cloruro negativo. I due ioni di carica opposta si attraggono e costituiscono il legame ionico del sale.",
+      "slide": 26
+    },
+    {
+      "id": "d01-b02-q018",
+      "q": "Su quale forza si basa il legame ionico?",
+      "choices": [
+        "L'attrazione elettrostatica tra ioni opposti",
+        "La condivisione di una coppia di elettroni",
+        "L'attrazione tra dipoli temporanei e indotti",
+        "Il legame a idrogeno tra molecole d'acqua",
+        "La repulsione tra cariche dello stesso segno"
+      ],
+      "answer": 0,
+      "explain": "Il legame ionico è l'attrazione elettrostatica tra ioni di carica opposta, come il sodio positivo e il cloruro negativo. La condivisione di elettroni caratterizza invece il legame covalente, mentre i dipoli temporanei riguardano le forze di London.",
+      "slide": 26
+    },
+    {
+      "id": "d01-b02-q019",
+      "q": "Che cosa caratterizza il legame covalente?",
+      "choices": [
+        "Il trasferimento completo di elettroni da un atomo all'altro",
+        "La condivisione di uno o più elettroni tra due atomi",
+        "L'attrazione tra ioni positivi e negativi",
+        "La formazione di dipoli permanenti tra molecole",
+        "Il movimento degli elettroni verso il nucleo"
+      ],
+      "answer": 1,
+      "explain": "Il legame covalente consiste nella condivisione di uno o più elettroni tra due atomi, che restano entrambi legati alla coppia condivisa. Il trasferimento completo di elettroni è invece tipico del legame ionico.",
+      "slide": 27
+    },
+    {
+      "id": "d01-b02-q020",
+      "q": "Quale delle seguenti coppie di atomi forma tipicamente un legame covalente?",
+      "choices": [
+        "Sodio e cloro, che trasferiscono un elettrone",
+        "Calcio e cloro, che formano un composto ionico",
+        "Due atomi di idrogeno, che condividono elettroni",
+        "Due ioni sodio, entrambi con carica positiva",
+        "Un catione e un anione, che si attraggono"
+      ],
+      "answer": 2,
+      "explain": "Due atomi di idrogeno formano un legame covalente mettendo in comune i rispettivi elettroni, dando la molecola di idrogeno. Le coppie sodio-cloro e calcio-cloro danno invece legami di tipo ionico, con formazione di ioni.",
+      "slide": 27
+    },
+    {
+      "id": "d01-b02-q021",
+      "q": "Che cosa sono le forze intermolecolari deboli?",
+      "choices": [
+        "Legami che trasferiscono elettroni tra due atomi",
+        "Forze che uniscono i protoni all'interno del nucleo",
+        "Legami covalenti molto forti",
+        "Interazioni che si formano solo nei solidi ionici",
+        "Interazioni elettrostatiche tra dipoli vicini"
+      ],
+      "answer": 4,
+      "explain": "Le forze intermolecolari deboli sono interazioni elettrostatiche tra dipoli vicini, permanenti o temporanei. Non sono legami covalenti né legami ionici, e non comportano trasferimento di elettroni tra atomi.",
+      "slide": 28
+    },
+    {
+      "id": "d01-b02-q022",
+      "q": "Come si originano i dipoli che generano le forze intermolecolari deboli?",
+      "choices": [
+        "Da una distribuzione asimmetrica della carica",
+        "Dalla fusione dei nuclei degli atomi vicini",
+        "Dal trasferimento di protoni tra le molecole",
+        "Dalla rottura dei legami covalenti interni",
+        "Dalla perdita di neutroni da parte del nucleo"
+      ],
+      "answer": 0,
+      "explain": "I dipoli nascono da una distribuzione asimmetrica della carica, che può essere permanente, come nelle molecole polari, o temporanea, come nelle forze di London. Non derivano dalla fusione dei nuclei né dalla rottura dei legami covalenti.",
+      "slide": 28
+    },
+    {
+      "id": "d01-b02-q023",
+      "q": "Che cosa sono le forze di London, o di Van der Waals?",
+      "choices": [
+        "Legami ionici tra ioni in soluzione",
+        "Forze attrattive fluttuanti dovute a dipoli temporanei",
+        "Legami covalenti polari molto forti",
+        "Legami a idrogeno tra azoto, ossigeno e fluoro",
+        "Interazioni che si stabiliscono tra i nuclei atomici"
+      ],
+      "answer": 1,
+      "explain": "Le forze di London, o di Van der Waals, sono attrazioni fluttuanti e temporanee dovute a dipoli istantanei che si formano tra atomi e molecole vicini. Esse non vanno confuse con i legami ionici né con il legame a idrogeno, che ha natura e forza diverse.",
+      "slide": 29
+    },
+    {
+      "id": "d01-b02-q024",
+      "q": "Perché forze deboli e temporanee come quelle di London possono comunque essere importanti?",
+      "choices": [
+        "Perché trasformano gli atomi neutri in ioni positivi",
+        "Perché rompono i legami covalenti interni alle molecole",
+        "Perché, sommandosi tra molte molecole, tengono unita la materia",
+        "Perché aumentano il numero atomico degli elementi coinvolti",
+        "Perché eliminano i dipoli permanenti delle molecole polari"
+      ],
+      "answer": 2,
+      "explain": "Singolarmente molto deboli, le forze di London diventano significative quando si sommano tra un numero elevato di molecole, garantendo la coesione di liquidi e solidi. Non trasformano gli atomi in ioni né modificano i legami covalenti interni.",
+      "slide": 29
+    },
+    {
+      "id": "d01-b02-q025",
+      "q": "Tra quali atomi si forma il legame a idrogeno?",
+      "choices": [
+        "Tra atomi di carbonio e idrogeno legati tra loro",
+        "Tra atomi di sodio e cloro di un sale ionico",
+        "Tra atomi di elio e neon, gas nobili vicini",
+        "Tra idrogeno e un atomo molto elettronegativo",
+        "Tra due atomi di idrogeno neutri e vicini"
+      ],
+      "answer": 3,
+      "explain": "Il legame a idrogeno si forma quando l'idrogeno è legato a un atomo molto elettronegativo, in particolare azoto, ossigeno o fluoro. Non riguarda idrogeno legato al carbonio in modo apolare, né interazioni tra metalli o gas nobili.",
+      "slide": 30
+    },
+    {
+      "id": "d01-b02-q026",
+      "q": "Il punto di ebollizione dell'acqua è 100 °C, mentre in assenza di legami a idrogeno sarebbe circa −80 °C. Che cosa dimostra questo confronto?",
+      "choices": [
+        "Che il legame a idrogeno tiene unite le molecole d'acqua",
+        "Che l'acqua è una molecola apolare e senza cariche",
+        "Che l'acqua non forma dipoli permanenti né temporanei",
+        "Che il legame covalente tra ossigeno e idrogeno è molto debole",
+        "Che l'acqua bolle già a temperatura ambiente normale"
+      ],
+      "answer": 0,
+      "explain": "Il confronto tra il punto di ebollizione reale dell'acqua, 100 °C, e quello teorico di circa −80 °C dimostra quanto il legame a idrogeno sia efficace nel tenere unite le molecole. Senza queste interazioni l'acqua sarebbe gassosa a temperature molto più basse.",
+      "slide": 30
+    },
+    {
+      "id": "d01-b02-q027",
+      "q": "Come si colloca il legame a idrogeno rispetto al legame covalente?",
+      "choices": [
+        "È sempre più forte di un legame covalente tipico",
+        "È più debole del legame covalente, ma resta direzionale",
+        "Ha la stessa energia di un legame covalente tipico",
+        "Non è un'interazione di natura elettrostatica",
+        "Implica il trasferimento completo di un elettrone"
+      ],
+      "answer": 1,
+      "explain": "Il legame a idrogeno è più debole di un legame covalente, ma resta un'interazione direzionale e relativamente forte rispetto alle altre forze intermolecolari. Non comporta trasferimento completo di elettroni e non ha la stessa energia di un legame covalente.",
+      "slide": 30
+    },
+    {
+      "id": "d01-b02-q028",
+      "q": "In una molecola polare come l'acqua, che cosa indicano i simboli delta positivo e delta negativo?",
+      "choices": [
+        "La presenza di ioni completi con carica netta",
+        "La carica elettrica positiva del nucleo atomico",
+        "Cariche parziali da una distribuzione disomogenea degli elettroni",
+        "Il numero di elettroni di valenza presenti nella molecola",
+        "La forza del legame covalente interno alla molecola d'acqua"
+      ],
+      "answer": 2,
+      "explain": "I simboli delta positivo e delta negativo indicano cariche parziali che derivano da una distribuzione disomogenea degli elettroni nella molecola. Non si tratta di ioni completi: la molecola resta globalmente neutra ma presenta estremi parzialmente positivi e negativi.",
+      "slide": 31
+    },
+    {
+      "id": "d01-b02-q029",
+      "q": "Quale caratteristica permette all'acqua di formare legami a idrogeno con altre molecole d'acqua?",
+      "choices": [
+        "L'assenza di elettroni di valenza nella molecola",
+        "La sua natura apolare e priva di cariche",
+        "Il suo peso molecolare molto elevato",
+        "La presenza di idrogeno legato all'ossigeno",
+        "La presenza di ioni liberi nella soluzione"
+      ],
+      "answer": 3,
+      "explain": "L'acqua può formare legami a idrogeno perché contiene idrogeno legato all'ossigeno, un atomo molto elettronegativo che polarizza fortemente il legame ossigeno-idrogeno. La natura polare che ne deriva permette l'attrazione con altre molecole d'acqua.",
+      "slide": 31
+    },
+    {
+      "id": "d01-b02-q030",
+      "q": "Oltre all'acqua, quale molecola polare può formare legami a idrogeno?",
+      "choices": [
+        "Il metano",
+        "Il cloruro di sodio",
+        "L'anidride carbonica",
+        "L'ossigeno molecolare",
+        "L'ammoniaca"
+      ],
+      "answer": 4,
+      "explain": "L'ammoniaca, come l'acqua, presenta idrogeno legato a un atomo molto elettronegativo, l'azoto, e può quindi formare legami a idrogeno. Il metano e l'anidride carbonica non sono polari, mentre il cloruro di sodio è un composto ionico.",
+      "slide": 31
+    },
+    {
+      "id": "d01-b02-q031",
+      "q": "Quali tipi di composti l'acqua è in grado di solubilizzare bene?",
+      "choices": [
+        "Solo i composti apolari come i grassi",
+        "I composti polari e i composti ionici",
+        "Solo i gas nobili",
+        "Esclusivamente i metalli puri",
+        "Solo le molecole prive di cariche parziali"
+      ],
+      "answer": 1,
+      "explain": "L'acqua dissolve bene i composti ionici, come il cloruro di sodio, e i composti polari, come il saccarosio, perché può interagire con le loro cariche. I composti apolari, come i grassi, sono invece poco solubili in acqua.",
+      "slide": 32
+    },
+    {
+      "id": "d01-b02-q032",
+      "q": "Che cosa si intende per alone di idratazione?",
+      "choices": [
+        "Lo strato di vapore acqueo che si forma sopra una soluzione",
+        "La pellicola di grasso che ricopre le molecole apolari",
+        "Lo strato di molecole d'acqua attorno a specie disciolte",
+        "L'insieme dei legami covalenti interni alla molecola d'acqua",
+        "Il precipitato che si raccoglie sul fondo del recipiente"
+      ],
+      "answer": 2,
+      "explain": "L'alone di idratazione è il rivestimento di molecole d'acqua che circonda uno ione o una molecola disciolta, stabilizzandone la presenza in soluzione. Non è un precipitato né un film di grasso, e non coincide con i legami covalenti interni dell'acqua.",
+      "slide": 32
+    },
+    {
+      "id": "d01-b02-q033",
+      "q": "Perché il saccarosio si dissolve bene in acqua?",
+      "choices": [
+        "Perché è un composto ionico che si dissocia in ioni",
+        "Perché è una molecola apolare che interagisce con i grassi",
+        "Perché non possiede gruppi polari nella sua struttura",
+        "Perché le sue molecole polari vengono circondate dall'acqua",
+        "Perché galleggia sulla superficie dell'acqua senza sciogliersi"
+      ],
+      "answer": 3,
+      "explain": "Il saccarosio è una molecola polare: i suoi gruppi possono interagire con l'acqua e venire circondati da un alone di idratazione, il che ne spiega l'elevata solubilità. Non è un composto ionico e non si dissolve per dissociazione in ioni.",
+      "slide": 32
+    },
+    {
+      "id": "d01-b02-q034",
+      "q": "Che cosa sono le soluzioni?",
+      "choices": [
+        "Miscugli eterogenei in cui si distinguono fasi diverse",
+        "Composti chimici con formula fissa",
+        "Sospensioni di particelle solide visibili a occhio nudo",
+        "Legami chimici che si formano tra soluto e solvente",
+        "Miscugli omogenei formati da un soluto e da un solvente"
+      ],
+      "answer": 4,
+      "explain": "Le soluzioni sono miscugli omogenei, formati da un soluto disciolto in un solvente, in cui non si distinguono fasi separate. Non sono composti a formula fissa né miscugli eterogenei con particelle visibili.",
+      "slide": 33
+    },
+    {
+      "id": "d01-b02-q035",
+      "q": "In una soluzione ottenuta sciogliendo un solido in un liquido, come si chiamano i due componenti?",
+      "choices": [
+        "Il solido è il soluto e il liquido è il solvente",
+        "Il solido è il solvente e il liquido è il soluto",
+        "Entrambi i componenti sono solventi",
+        "Entrambi i componenti sono soluti",
+        "Il liquido è il solvente e il solido è un catalizzatore"
+      ],
+      "answer": 0,
+      "explain": "Quando un solido viene sciolto in un liquido, il solido è il soluto e il liquido è il solvente, perché il solvente è il componente presente in maggiore quantità. Scambiare i due termini è l'errore più frequente.",
+      "slide": 33
+    },
+    {
+      "id": "d01-b02-q036",
+      "q": "Che cosa esprime la concentrazione in grammi per cento peso/peso (% w/w)?",
+      "choices": [
+        "I grammi di soluto presenti in 100 mL di soluzione",
+        "I millilitri di soluto presenti in 100 mL di soluzione",
+        "I grammi di soluto presenti in 100 g di soluzione",
+        "Le moli di soluto presenti in un litro di soluzione",
+        "I grammi di solvente presenti in 100 g di soluto"
+      ],
+      "answer": 2,
+      "explain": "La percentuale peso/peso esprime i grammi di soluto presenti in 100 grammi di soluzione, quindi rapporta massa a massa. Non va confusa con la percentuale peso/volume, che rapporta i grammi di soluto a 100 mL di soluzione.",
+      "slide": 34
+    },
+    {
+      "id": "d01-b02-q037",
+      "q": "Che cosa esprime la concentrazione in grammi per cento peso/volume (% w/v)?",
+      "choices": [
+        "I grammi di soluto presenti in 100 g di soluzione",
+        "I millilitri di soluto presenti in 100 mL di soluzione",
+        "Le moli di soluto presenti in 100 g di solvente",
+        "I grammi di soluto presenti in 100 mL di soluzione",
+        "I grammi di solvente presenti in 100 mL di soluto"
+      ],
+      "answer": 3,
+      "explain": "La percentuale peso/volume esprime i grammi di soluto contenuti in 100 mL di soluzione e viene spesso usata in ambito clinico, per esempio per la glicemia. La variante peso/peso rapporta invece la massa del soluto a 100 g di soluzione.",
+      "slide": 34
+    },
+    {
+      "id": "d01-b02-q038",
+      "q": "Che cosa esprime la concentrazione in per cento volume/volume (% v/v)?",
+      "choices": [
+        "I grammi di soluto presenti in 100 g di soluzione",
+        "I grammi di soluto presenti in 100 mL di soluzione",
+        "Le moli di soluto presenti per litro di soluzione",
+        "I millilitri di solvente presenti in 100 g di soluzione",
+        "I millilitri di soluto presenti in 100 mL di soluzione"
+      ],
+      "answer": 4,
+      "explain": "La percentuale volume/volume esprime i millilitri di soluto presenti in 100 mL di soluzione ed è utile per le miscele di liquidi. Non va confusa con la percentuale peso/volume, che misura grammi di soluto per 100 mL di soluzione.",
+      "slide": 34
+    },
+    {
+      "id": "d01-b02-q039",
+      "q": "Come viene definita la mole nel contesto delle soluzioni?",
+      "choices": [
+        "La quantità in grammi pari al peso atomico o molecolare",
+        "La quantità di sostanza pari esattamente a un grammo",
+        "Il numero di atomi contenuti in un millilitro di soluzione",
+        "La massa di solvente necessaria a sciogliere un soluto",
+        "Il volume occupato in soluzione da un grammo di soluto"
+      ],
+      "answer": 0,
+      "explain": "La mole è definita come la quantità di sostanza in grammi pari al peso atomico o al peso molecolare, e corrisponde a un numero definito di particelle. Non è un grammo esatto né una unità di volume.",
+      "slide": 34
+    },
+    {
+      "id": "d01-b02-q040",
+      "q": "Perché nel caso delle soluzioni è preferibile esprimere la concentrazione in moli anziché in grammi?",
+      "choices": [
+        "Perché i grammi non si possono misurare in laboratorio",
+        "Perché la mole tiene conto del numero di particelle",
+        "Perché le moli sono sempre numeri interi e semplici",
+        "Perché i grammi variano con la temperatura della soluzione",
+        "Perché la mole è una unità di volume e non di massa"
+      ],
+      "answer": 1,
+      "explain": "Esprimere la concentrazione in moli è preferibile perché la mole tiene conto del numero di particelle e permette di confrontare correttamente le quantità che reagiscono. I grammi, da soli, non informano sul numero di entità chimiche presenti.",
+      "slide": 34
+    },
+    {
+      "id": "d01-b02-q041",
+      "q": "Che cosa indica la molarità (M) di una soluzione?",
+      "choices": [
+        "I grammi di soluto per 100 g di soluzione",
+        "I millilitri di soluto per 100 mL di soluzione",
+        "Le moli di soluto per chilogrammo di solvente",
+        "Le moli di soluto per litro di soluzione",
+        "I grammi di soluto per litro di solvente"
+      ],
+      "answer": 3,
+      "explain": "La molarità esprime il numero di moli di soluto disciolte in un litro di soluzione. La molalità, che non è la stessa cosa, rapporta invece le moli a un chilogrammo di solvente.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q042",
+      "q": "Qual è la concentrazione plasmatica indicata per lo ione sodio?",
+      "choices": [
+        "5 mM",
+        "2,5 mM",
+        "100 mM",
+        "26 mM",
+        "135 mM"
+      ],
+      "answer": 4,
+      "explain": "Tra le concentrazioni plasmatiche riportate, lo ione sodio è indicato a 135 mM. Valori come 5 mM, 2,5 mM e 100 mM corrispondono rispettivamente a potassio, calcio e cloruro.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q043",
+      "q": "Qual è la concentrazione plasmatica indicata per lo ione potassio?",
+      "choices": [
+        "5 mM",
+        "135 mM",
+        "26 mM",
+        "100 mM",
+        "2,5 mM"
+      ],
+      "answer": 0,
+      "explain": "La concentrazione plasmatica dello ione potassio è indicata come 5 mM, un valore molto inferiore a quello del sodio. Il valore 135 mM appartiene al sodio e 100 mM al cloruro.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q044",
+      "q": "La concentrazione plasmatica dello ione calcio è indicata come 2,5 mM; a quale valore corrisponde in mEq/L?",
+      "choices": [
+        "1 mEq/L",
+        "5 mEq/L",
+        "10 mEq/L",
+        "2,5 mEq/L",
+        "135 mEq/L"
+      ],
+      "answer": 1,
+      "explain": "Poiché lo ione calcio ha carica doppia positiva, una concentrazione di 2,5 mmol/L corrisponde a 5 mEq/L, come riportato tra i valori plasmatici. Il valore 2,5 mEq/L sarebbe corretto solo per uno ione monovalente.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q045",
+      "q": "Qual è la concentrazione plasmatica indicata per lo ione cloruro?",
+      "choices": [
+        "26 mM",
+        "5 mM",
+        "100 mM",
+        "135 mM",
+        "2,5 mM"
+      ],
+      "answer": 2,
+      "explain": "La concentrazione plasmatica dello ione cloruro è indicata come 100 mM. I valori 135 mM, 26 mM e 5 mM si riferiscono invece a sodio, bicarbonato e potassio.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q046",
+      "q": "Qual è la concentrazione plasmatica indicata per lo ione bicarbonato?",
+      "choices": [
+        "100 mM",
+        "135 mM",
+        "5 mM",
+        "1,3 mM",
+        "26 mM"
+      ],
+      "answer": 4,
+      "explain": "La concentrazione plasmatica dello ione bicarbonato è indicata come 26 mM. Il valore 1,3 mM appartiene all'anidride carbonica, mentre 100 mM è il cloruro.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q047",
+      "q": "Come è indicata la concentrazione plasmatica del glucosio, cioè la glicemia, tra i valori riportati?",
+      "choices": [
+        "90 mg/100 mL",
+        "200 mg/100 mL",
+        "7 g/100 mL",
+        "26 mM",
+        "100 mM"
+      ],
+      "answer": 0,
+      "explain": "La glicemia, cioè la concentrazione plasmatica del glucosio, è indicata come 90 mg/100 mL. Il valore 200 mg/100 mL corrisponde invece al colesterolo e 7 g/100 mL alle proteine.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q048",
+      "q": "Quale valore è indicato per il colesterolo plasmatico?",
+      "choices": [
+        "90 mg per 100 mL",
+        "200 mg per 100 mL",
+        "7 g per 100 mL",
+        "135 mmol per litro",
+        "1,3 mmol per litro"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo plasmatico è indicato come 200 mg/100 mL. Il valore 90 mg/100 mL riguarda il glucosio e 7 g/100 mL le proteine totali.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q049",
+      "q": "La concentrazione plasmatica dell'anidride carbonica è indicata come 1,3 mM; a quale pressione parziale corrisponde?",
+      "choices": [
+        "26 mmHg",
+        "100 mmHg",
+        "44 mmHg",
+        "5 mmHg",
+        "90 mmHg"
+      ],
+      "answer": 2,
+      "explain": "La concentrazione plasmatica dell'anidride carbonica è indicata come 1,3 mM, equivalente a una pressione parziale di 44 mmHg. Il valore 26 mM appartiene invece allo ione bicarbonato.",
+      "slide": 35
+    },
+    {
+      "id": "d01-b02-q050",
+      "q": "Da che cosa dipende la solubilità di un composto in acqua?",
+      "choices": [
+        "Solo dal peso molecolare della sua molecola",
+        "Dalla sua capacità di formare legami covalenti con l'acqua",
+        "Dalla sua temperatura di fusione e dal suo stato fisico",
+        "Dalla capacità delle sue molecole di interagire con l'acqua",
+        "Dal numero di neutroni presenti nei nuclei dei suoi atomi"
+      ],
+      "answer": 3,
+      "explain": "La solubilità in acqua dipende dalla capacità delle molecole del composto di interagire con l'acqua e di venire circondate da un alone di idratazione. Massa molecolare, punto di fusione e numero di neutroni non spiegano da soli questo comportamento.",
+      "slide": 32
+    }
+  ]
+}

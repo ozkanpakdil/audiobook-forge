@@ -1,0 +1,362 @@
+[
+ {
+  "deck": 1,
+  "batch": 1,
+  "slide_from": 1,
+  "slide_to": 18,
+  "topic": "Introduzione al corso, la cellula e la composizione chimica del corpo umano",
+  "count": 50,
+  "out": "batches/deck1/batch1.json"
+ },
+ {
+  "deck": 1,
+  "batch": 2,
+  "slide_from": 19,
+  "slide_to": 35,
+  "topic": "L'atomo, la tavola periodica e i legami chimici",
+  "count": 50,
+  "out": "batches/deck1/batch2.json"
+ },
+ {
+  "deck": 1,
+  "batch": 3,
+  "slide_from": 36,
+  "slide_to": 47,
+  "topic": "Interazioni deboli e idrofobiche, reazioni di ossidoriduzione",
+  "count": 50,
+  "out": "batches/deck1/batch3.json"
+ },
+ {
+  "deck": 1,
+  "batch": 4,
+  "slide_from": 48,
+  "slide_to": 69,
+  "topic": "Cinetica chimica, soluzioni, solubilita e proprieta dell'acqua",
+  "count": 50,
+  "out": "batches/deck1/batch4.json"
+ },
+ {
+  "deck": 1,
+  "batch": 5,
+  "slide_from": 70,
+  "slide_to": 93,
+  "topic": "I carboidrati e i lipidi: monosaccaridi, disaccaridi, polisaccaridi e lipidi",
+  "count": 50,
+  "out": "batches/deck1/batch5.json"
+ },
+ {
+  "deck": 1,
+  "batch": 6,
+  "slide_from": 94,
+  "slide_to": 101,
+  "topic": "Steroli, colesterolo e i suoi destini metabolici",
+  "count": 50,
+  "out": "batches/deck1/batch6.json"
+ },
+ {
+  "deck": 1,
+  "batch": 7,
+  "slide_from": 102,
+  "slide_to": 110,
+  "topic": "Gli amminoacidi e la struttura delle proteine",
+  "count": 50,
+  "out": "batches/deck1/batch7.json"
+ },
+ {
+  "deck": 1,
+  "batch": 8,
+  "slide_from": 111,
+  "slide_to": 119,
+  "topic": "Biochimica metabolica: sintesi e collegamenti del corso",
+  "count": 50,
+  "out": "batches/deck1/batch8.json"
+ },
+ {
+  "deck": 2,
+  "batch": 1,
+  "slide_from": 1,
+  "slide_to": 8,
+  "topic": "Introduzione al metabolismo e all'energia metabolica",
+  "count": 50,
+  "out": "batches/deck2/batch1.json"
+ },
+ {
+  "deck": 2,
+  "batch": 2,
+  "slide_from": 9,
+  "slide_to": 14,
+  "topic": "Catabolismo, anabolismo, ossidoriduzioni e ATP",
+  "count": 50,
+  "out": "batches/deck2/batch2.json"
+ },
+ {
+  "deck": 2,
+  "batch": 3,
+  "slide_from": 15,
+  "slide_to": 21,
+  "topic": "Digestione dei carboidrati: amido, legami glicosidici, intolleranza al lattosio",
+  "count": 50,
+  "out": "batches/deck2/batch3.json"
+ },
+ {
+  "deck": 2,
+  "batch": 4,
+  "slide_from": 22,
+  "slide_to": 30,
+  "topic": "Assorbimento intestinale del glucosio e trasportatori SGLT1 e GLUT",
+  "count": 50,
+  "out": "batches/deck2/batch4.json"
+ },
+ {
+  "deck": 2,
+  "batch": 5,
+  "slide_from": 31,
+  "slide_to": 40,
+  "topic": "La glicolisi: tappe, enzimi e regolazione",
+  "count": 50,
+  "out": "batches/deck2/batch5.json"
+ },
+ {
+  "deck": 2,
+  "batch": 6,
+  "slide_from": 41,
+  "slide_to": 50,
+  "topic": "Bilancio energetico della glicolisi, NAD e NADP, fermentazione",
+  "count": 50,
+  "out": "batches/deck2/batch6.json"
+ },
+ {
+  "deck": 2,
+  "batch": 7,
+  "slide_from": 51,
+  "slide_to": 67,
+  "topic": "Metabolismo del glicogeno: glicogenosintesi e glicogenolisi",
+  "count": 50,
+  "out": "batches/deck2/batch7.json"
+ },
+ {
+  "deck": 2,
+  "batch": 8,
+  "slide_from": 68,
+  "slide_to": 85,
+  "topic": "Ipoglicemia, carenza di ATP e correlazioni cliniche",
+  "count": 50,
+  "out": "batches/deck2/batch8.json"
+ },
+ {
+  "deck": 3,
+  "batch": 1,
+  "slide_from": 1,
+  "slide_to": 14,
+  "topic": "Alimentazione, trigliceridi della dieta, NEFA e fonti di acidi grassi",
+  "count": 50,
+  "out": "batches/deck3/batch1.json"
+ },
+ {
+  "deck": 3,
+  "batch": 2,
+  "slide_from": 15,
+  "slide_to": 24,
+  "topic": "Acidi biliari, lipoproteine plasmatiche e apolipoproteine",
+  "count": 50,
+  "out": "batches/deck3/batch2.json"
+ },
+ {
+  "deck": 3,
+  "batch": 3,
+  "slide_from": 25,
+  "slide_to": 32,
+  "topic": "Chilomicroni, VLDL, LDL, HDL e lipoproteinlipasi",
+  "count": 50,
+  "out": "batches/deck3/batch3.json"
+ },
+ {
+  "deck": 3,
+  "batch": 4,
+  "slide_from": 33,
+  "slide_to": 42,
+  "topic": "Tessuto adiposo, lipolisi e grasso viscerale",
+  "count": 50,
+  "out": "batches/deck3/batch4.json"
+ },
+ {
+  "deck": 3,
+  "batch": 5,
+  "slide_from": 43,
+  "slide_to": 50,
+  "topic": "Catabolismo degli acidi grassi e beta-ossidazione",
+  "count": 50,
+  "out": "batches/deck3/batch5.json"
+ },
+ {
+  "deck": 3,
+  "batch": 6,
+  "slide_from": 51,
+  "slide_to": 58,
+  "topic": "Vitamina B12 e lipogenesi: sintesi e regolazione degli acidi grassi",
+  "count": 50,
+  "out": "batches/deck3/batch6.json"
+ },
+ {
+  "deck": 3,
+  "batch": 7,
+  "slide_from": 59,
+  "slide_to": 67,
+  "topic": "Corpi chetonici, chetogenesi e sua regolazione",
+  "count": 50,
+  "out": "batches/deck3/batch7.json"
+ },
+ {
+  "deck": 3,
+  "batch": 8,
+  "slide_from": 68,
+  "slide_to": 76,
+  "topic": "Profilo lipidico e correlazioni cliniche",
+  "count": 50,
+  "out": "batches/deck3/batch8.json"
+ },
+ {
+  "deck": 4,
+  "batch": 1,
+  "slide_from": 1,
+  "slide_to": 8,
+  "topic": "Digestione degli steroidi e assorbimento dei lipidi",
+  "count": 50,
+  "out": "batches/deck4/batch1.json"
+ },
+ {
+  "deck": 4,
+  "batch": 2,
+  "slide_from": 9,
+  "slide_to": 20,
+  "topic": "Lipoproteine plasmatiche e trasporto del colesterolo",
+  "count": 50,
+  "out": "batches/deck4/batch2.json"
+ },
+ {
+  "deck": 4,
+  "batch": 3,
+  "slide_from": 21,
+  "slide_to": 30,
+  "topic": "LDL, HDL, aterosclerosi e colesterolemia",
+  "count": 50,
+  "out": "batches/deck4/batch3.json"
+ },
+ {
+  "deck": 4,
+  "batch": 4,
+  "slide_from": 31,
+  "slide_to": 39,
+  "topic": "Biosintesi endogena del colesterolo, sua regolazione e statine",
+  "count": 50,
+  "out": "batches/deck4/batch4.json"
+ },
+ {
+  "deck": 4,
+  "batch": 5,
+  "slide_from": 40,
+  "slide_to": 48,
+  "topic": "Derivati del colesterolo e digestione delle proteine",
+  "count": 50,
+  "out": "batches/deck4/batch5.json"
+ },
+ {
+  "deck": 4,
+  "batch": 6,
+  "slide_from": 49,
+  "slide_to": 59,
+  "topic": "Metabolismo degli amminoacidi: transaminazione e deaminazione",
+  "count": 50,
+  "out": "batches/deck4/batch6.json"
+ },
+ {
+  "deck": 4,
+  "batch": 7,
+  "slide_from": 60,
+  "slide_to": 68,
+  "topic": "Il fegato, l'eliminazione dell'ammonio e il ciclo dell'urea",
+  "count": 50,
+  "out": "batches/deck4/batch7.json"
+ },
+ {
+  "deck": 4,
+  "batch": 8,
+  "slide_from": 69,
+  "slide_to": 73,
+  "topic": "Anabolismo degli amminoacidi e metabolismo intermedio",
+  "count": 50,
+  "out": "batches/deck4/batch8.json"
+ },
+ {
+  "deck": 5,
+  "batch": 1,
+  "slide_from": 1,
+  "slide_to": 9,
+  "topic": "Profilo proteico ed elettroforesi delle proteine plasmatiche",
+  "count": 50,
+  "out": "batches/deck5/batch1.json"
+ },
+ {
+  "deck": 5,
+  "batch": 2,
+  "slide_from": 10,
+  "slide_to": 20,
+  "topic": "Enzimi: cinetica, coenzimi e regolazione",
+  "count": 50,
+  "out": "batches/deck5/batch2.json"
+ },
+ {
+  "deck": 5,
+  "batch": 3,
+  "slide_from": 21,
+  "slide_to": 34,
+  "topic": "Enzimi nella diagnostica clinica: CK, LDH, HBDH, troponina, ELISA",
+  "count": 50,
+  "out": "batches/deck5/batch3.json"
+ },
+ {
+  "deck": 5,
+  "batch": 4,
+  "slide_from": 35,
+  "slide_to": 45,
+  "topic": "Metabolismo intermedio, complesso della PDH e mitocondrio",
+  "count": 50,
+  "out": "batches/deck5/batch4.json"
+ },
+ {
+  "deck": 5,
+  "batch": 5,
+  "slide_from": 46,
+  "slide_to": 57,
+  "topic": "Il ciclo di Krebs",
+  "count": 50,
+  "out": "batches/deck5/batch5.json"
+ },
+ {
+  "deck": 5,
+  "batch": 6,
+  "slide_from": 58,
+  "slide_to": 67,
+  "topic": "Respirazione cellulare, catena di trasporto degli elettroni, fosforilazione ossidativa",
+  "count": 50,
+  "out": "batches/deck5/batch6.json"
+ },
+ {
+  "deck": 5,
+  "batch": 7,
+  "slide_from": 68,
+  "slide_to": 73,
+  "topic": "Sintesi dell'ATP, termogenesi e termogenina",
+  "count": 50,
+  "out": "batches/deck5/batch7.json"
+ },
+ {
+  "deck": 5,
+  "batch": 8,
+  "slide_from": 74,
+  "slide_to": 81,
+  "topic": "Vitamine, ioni, profilo idroelettrolitico ed equilibrio acido-base",
+  "count": 50,
+  "out": "batches/deck5/batch8.json"
+ }
+]

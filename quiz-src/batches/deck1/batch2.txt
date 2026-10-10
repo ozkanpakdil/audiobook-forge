@@ -1,0 +1,117 @@
+# Deck 1 — Chimica generale e propedeutica biochimica (2025-10-15)
+# Batch 2 — argomento: L'atomo, la tavola periodica e i legami chimici
+# Slide da 19 a 35
+
+### Slide 19
+REAZIONE CHIMICA
+[Bettelheim F.A. Chimica e Propedeutica Biochimica 3E, 2025, Edises]
+
+### Slide 20
+Atomo di Rutherford (1911):
+elettrone
+protone
+neutrone
+
+### Slide 21
+➢ REATTIVITA’ di un ATOMO
+TAVOLA PERIODICA
+[Bellini T., Chimica medica e propedeutica biochimica 2E, 2024, Zanichelli editore S.p.A.]
+
+### Slide 22
+(slide senza testo: contiene solo immagini)
+
+### Slide 23
+➢ La reattività chimica di un elemento
+dipende dagli elettroni più esterni (elettroni
+di valenza).
+➢ Gli elettroni caratterizzano la reattività di un elemento chimico: formazione di LEGAMI
+
+### Slide 24
+Come si legano gli ATOMI tra loro?
+
+### Slide 25
+➢ Si chiama legame chimico ciò che tiene unito un atomo ad un altro e si forma
+sempre fra almeno due atomi.
+➢ Per indicare che due atomi sono legati, si interpone un trattino fra i loro simboli (C-
+C, H-H, ecc).
+➢ Gli atomi formano legami chimici condividendo, in modo parziale o totale, gli
+elettroni più esterni.
+➢ Principali legami chimici: legame IONICO e legame COVALENTE.
+
+### Slide 26
+Legame IONICO:
+NaCl
+
+### Slide 27
+Legame COVALENTE:
+
+### Slide 28
+FORZE INTERMOLACOLARI DEBOLI
+Formazione di dipoli permanenti o temporanei e conseguente realizzarsi di
+interazioni elettrostatiche tra dipoli vicini.
+
+### Slide 29
+Forze di London (o di Van der Waals):
+Legame DIPOLO-DIPOLO
+➢ In ogni istante un numero molto elevato di atomi o molecole di una sostanza può formare queste forze
+attrattive fluttuanti che, per quanto deboli e temporanee, sommate tra loro possono garantire una
+coesione sufficiente perché la sostanza sia in fase liquida, solida o gassosa.
+
+### Slide 30
+CHIMICA e PROPEDEUTICA BIOCHIMICA
+Legame IDROGENO
+• punto di ebollizione dell’acqua (H2O) = 100°C
+• punto di ebollizione teorico = -80°C
+A e B = N, O e F
+
+### Slide 31
+MOLECOLE POLARI: legame IDROGENO
+− −
+− −
++ + + + +
++ + + + +
+H O H O NH NH
+2 2 3 3
+
+### Slide 32
+H2O = solvente composti polari e ionici
+NaCl
+saccarosio
+La solubilità di un composto in
+acqua dipende quindi dalla capacità
+delle sue molecole di interagire con
+l'acqua e di venire circondate da un
+alone di idratazione.
+Alone di idratazione
+
+### Slide 33
+SOLUZIONI e SOLUBILITA’
+➢ Le soluzioni sono miscugli omogenei, più spesso di
+solidi in liquidi: il solido si chiama soluto e il liquido
+solvente
+
+### Slide 34
+Come si esprime la concentrazione di un soluto in una soluzione?
+➢ grammi per cento peso/peso = % w/w (= weight/weight) =
+g di soluto/100 g di soluzione
+➢ grammi per cento peso/volume = % w/v (= weight/volume)
+= g di soluto/100 ml di soluzione
+➢ per cento volume/volume = % v/v = ml di soluto/100 ml di
+soluzione
+Nel caso delle soluzioni è preferibile ricorrere alle MOLI anzichè ai grammi come unità
+di concentrazione
+mole (mol): quantità di sostanza in grammi pari al peso atomico o al peso molecolare
+
+### Slide 35
+➢ La concentrazione di soluto in una soluzione si esprime in termini di MOLARITA’
+Molarità (M) = moli di soluto per litro di soluzione
+Concentrazioni plasmatiche di alcuni soluti
+• ione sodio 135 mM
+• ione potassio 5 mM
+• ione calcio 2,5 mM (o 5 mEq/L)
+• ione cloruro 100 mM
+• ione bicarbonato 26 mM
+• anidride carbonica 1,3 mM (o 44 mmHg)
+• glucosio (glicemia) 90 mg/100 mL
+• colesterolo 200 mg/100 mL
+• proteine 7 g/100 mL

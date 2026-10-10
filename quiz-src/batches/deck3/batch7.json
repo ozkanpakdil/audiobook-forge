@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 7,
+  "topic": "Corpi chetonici, chetogenesi e sua regolazione",
+  "questions": [
+    {
+      "id": "d03-b07-q001",
+      "q": "Quali composti sono indicati come corpi chetonici?",
+      "choices": [
+        "Acetoacetato, β-idrossibutirrato e acetone",
+        "Acidi grassi a catena corta, glicerolo e butirrato",
+        "Aminoacidi ramificati e urea",
+        "Intermedi del ciclo di Krebs e ossalacetato",
+        "Lattato, piruvato e alanina"
+      ],
+      "answer": 0,
+      "explain": "I corpi chetonici sono tre molecole idrosolubili sintetizzate nel fegato a partire dall'acetil-CoA: acetoacetato, β-idrossibutirrato e acetone, che deriva dalla decarbossilazione spontanea dell'acetoacetato. Il lattato e il piruvato sono invece prodotti della glicolisi e non appartengono a questa classe di combustibili.",
+      "slide": 59
+    },
+    {
+      "id": "d03-b07-q002",
+      "q": "In quale condizione metabolica il fegato aumenta in modo marcato la produzione di corpi chetonici?",
+      "choices": [
+        "Subito dopo un pasto ricco di carboidrati",
+        "In corso di iperglicemia con insulina elevata",
+        "Durante una dieta ipercalorica ricca di zuccheri semplici",
+        "Durante il digiuno prolungato",
+        "Nella fase post-prandiale precoce"
+      ],
+      "answer": 3,
+      "explain": "La chetogenesi epatica si attiva quando il glucosio scarseggia, cioè nel digiuno prolungato, quando bassi livelli di insulina e alti livelli di glucagone mobilitano gli acidi grassi dal tessuto adiposo. Dopo un pasto ricco di carboidrati prevale la situazione opposta, con insulina elevata che stimola la sintesi degli acidi grassi e inibisce la chetogenesi.",
+      "slide": 59
+    },
+    {
+      "id": "d03-b07-q003",
+      "q": "Quale tessuto produce i corpi chetonici che vengono poi utilizzati dagli altri organi?",
+      "choices": [
+        "Il muscolo scheletrico",
+        "La corteccia renale",
+        "Il cervello",
+        "Il tessuto adiposo",
+        "Il fegato"
+      ],
+      "answer": 4,
+      "explain": "Il fegato è l'unico tessuto che possiede l'assetto enzimatico necessario a sintetizzare i corpi chetonici e li esporta agli organi periferici. Il cervello e la corteccia renale li consumano ma non li producono, mentre il tessuto adiposo si limita a liberare gli acidi grassi precursori.",
+      "slide": 59
+    },
+    {
+      "id": "d03-b07-q004",
+      "q": "In quale compartimento cellulare avviene la demolizione dei corpi chetonici?",
+      "choices": [
+        "Nel citosol",
+        "Nei mitocondri",
+        "Nel reticolo endoplasmatico liscio",
+        "Nei perossisomi",
+        "Nel nucleo"
+      ],
+      "answer": 1,
+      "explain": "L'acetoacetato viene attivato ad acetoacetil-CoA e poi scisso in due molecole di acetil-CoA all'interno della matrice mitocondriale, dove l'acetil-CoA entra nel ciclo di Krebs. Gli eritrociti, privi di mitocondri, non possono quindi utilizzare i corpi chetonici.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q005",
+      "q": "Nel digiuno prolungato, quale quota dell'energia del cervello proviene dai corpi chetonici?",
+      "choices": [
+        "Circa il dieci per cento",
+        "Circa il venticinque per cento",
+        "Circa il settantacinque per cento",
+        "Circa il cinquanta per cento",
+        "Circa il novanta per cento"
+      ],
+      "answer": 2,
+      "explain": "Nel digiuno prolungato il cervello ricava circa il settantacinque per cento della propria energia dall'ossidazione dei corpi chetonici, che sostituiscono in gran parte il glucosio. Questa quota non va confusa con la situazione degli eritrociti, che dipendono esclusivamente dalla glicolisi e non usano corpi chetonici.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q006",
+      "q": "Per quale motivo il cuore è considerato un utilizzatore privilegiato dei corpi chetonici?",
+      "choices": [
+        "Perché li trasforma in glicogeno di riserva",
+        "Perché li utilizza solo in condizioni di carenza di ossigeno",
+        "Perché li impiega come precursori degli acidi grassi",
+        "Perché li preferisce al glucosio come combustibile",
+        "Perché è privo di mitocondri e li ossida nel citosol"
+      ],
+      "answer": 3,
+      "explain": "Il miocardio ossida preferenzialmente i corpi chetonici rispetto al glucosio, ricavandone acetil-CoA da inviare al ciclo di Krebs. Il cuore è invece ricchissimo di mitocondri, perciò l'affermazione che li ossiderebbe nel citosol è priva di fondamento.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q007",
+      "q": "Per quale ragione il fegato non è in grado di utilizzare i corpi chetonici che produce?",
+      "choices": [
+        "Perché non possiede la β-chetoacil-CoA transferasi",
+        "Perché è privo dei mitocondri necessari all'attivazione",
+        "Perché non possiede la β-idrossibutirrato deidrogenasi",
+        "Perché non dispone di acetil-CoA mitocondriale",
+        "Perché il pH del citosol epatico impedisce la reazione"
+      ],
+      "answer": 0,
+      "explain": "Il fegato non esprime la β-chetoacil-CoA transferasi, l'enzima che converte l'acetoacetato in acetoacetil-CoA, primo passaggio obbligato del catabolismo dei corpi chetonici. La β-idrossibutirrato deidrogenasi è invece presente nel fegato, che la usa per interconvertire acetoacetato e β-idrossibutirrato prima di esportarli.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q008",
+      "q": "Quale tra i seguenti tessuti utilizza i corpi chetonici come combustibile?",
+      "choices": [
+        "Gli eritrociti maturi",
+        "Il cristallino",
+        "L'intestino tenue",
+        "Il midollo osseo",
+        "La corteccia renale"
+      ],
+      "answer": 4,
+      "explain": "La corteccia renale è uno dei tessuti che demoliscono i corpi chetonici nei mitocondri per ricavarne energia. Gli eritrociti e il cristallino sono privi di mitocondri e dipendono dalla glicolisi anaerobia, quindi non possono ossidare i corpi chetonici.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q009",
+      "q": "Nel digiuno prolungato l'utilizzo cerebrale dei corpi chetonici ha quale principale conseguenza metabolica?",
+      "choices": [
+        "Aumenta la glicolisi anaerobia dei neuroni corticali",
+        "Riduce il consumo di glucosio e il catabolismo proteico",
+        "Blocca la gluconeogenesi epatica a partire dagli aminoacidi",
+        "Impedisce la lipolisi del tessuto adiposo periferico",
+        "Aumenta la produzione di lattato da parte del cervello"
+      ],
+      "answer": 1,
+      "explain": "Quando il cervello copre gran parte del proprio fabbisogno con i corpi chetonici consuma meno glucosio; si riduce così la necessità di sintetizzarlo con la gluconeogenesi e, di conseguenza, il catabolismo degli aminoacidi provenienti dalle proteine muscolari. La lipolisi resta invece attiva, perché è proprio l'aumento degli acidi grassi liberi a sostenere la chetogenesi.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q010",
+      "q": "Quale affermazione descrive correttamente il destino metabolico dei corpi chetonici nei tessuti utilizzatori?",
+      "choices": [
+        "Sono convertiti direttamente in glucosio nel fegato",
+        "Sono degradati nel citosol a piruvato",
+        "Sono ossidati ad acetil-CoA che entra nel ciclo di Krebs",
+        "Sono trasformati in acidi grassi nel cervello",
+        "Sono eliminati immodificati con le urine"
+      ],
+      "answer": 2,
+      "explain": "Nei mitocondri dei tessuti utilizzatori i corpi chetonici vengono riconvertiti in acetil-CoA, che viene ossidato nel ciclo degli acidi tricarbossilici per produrre energia. La conversione in glucosio non è possibile, perché nei mammiferi l'acetil-CoA non può essere trasformato in piruvato e quindi in glucosio.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q011",
+      "q": "Perché i corpi chetonici rappresentano un combustibile utile per i tessuti periferici durante il digiuno?",
+      "choices": [
+        "Perché sono idrosolubili e diffondono nel plasma fino ai tessuti",
+        "Perché sono liposolubili e viaggiano legati all'albumina plasmatica",
+        "Perché vengono trasportati dalle lipoproteine plasmatiche epatiche",
+        "Perché vengono trasportati dall'emoglobina degli eritrociti maturi",
+        "Perché vengono trasportati dalla carnitina presente nel plasma"
+      ],
+      "answer": 0,
+      "explain": "I corpi chetonici sono idrosolubili, non richiedono proteine trasportatrici e diffondono nel plasma dal fegato ai tessuti utilizzatori, dove vengono ritrasformati in acetil-CoA. Gli acidi grassi, al contrario, sono praticamente insolubili in acqua e viaggiano legati all'albumina o all'interno delle lipoproteine.",
+      "slide": 60
+    },
+    {
+      "id": "d03-b07-q012",
+      "q": "Quale ormone stimola la chetogenesi epatica durante il digiuno?",
+      "choices": [
+        "L'insulina",
+        "L'aldosterone",
+        "La calcitonina",
+        "Il paratormone",
+        "Il glucagone"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno il glucagone, insieme al calo dell'insulina, attiva la lipolisi nel tessuto adiposo e favorisce nel fegato l'ossidazione degli acidi grassi e la produzione di corpi chetonici. L'insulina ha l'effetto opposto: quando è elevata, come dopo un pasto, stimola la sintesi degli acidi grassi e inibisce la chetogenesi.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q013",
+      "q": "Nel digiuno, da quale evento dipende principalmente l'aumento degli acidi grassi che raggiungono il fegato?",
+      "choices": [
+        "Dall'aumentata sintesi di acidi grassi nel tessuto adiposo",
+        "Dall'attivazione della lipolisi del tessuto adiposo",
+        "Dalla ridotta captazione epatica dei chilomicroni intestinali",
+        "Dall'inibizione della lipoproteina lipasi del tessuto adiposo",
+        "Dalla diminuzione della carnitina nel plasma epatico"
+      ],
+      "answer": 1,
+      "explain": "Il calo dell'insulina e l'aumento del glucagone attivano la lipasi ormone-sensibile del tessuto adiposo, che libera acidi grassi e glicerolo nel sangue; il fegato li capta e li ossida. La lipoproteina lipasi serve invece a prelevare i lipidi dalle lipoproteine per farli entrare nei tessuti e non è la sorgente degli acidi grassi epatici.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q014",
+      "q": "Quale enzima rappresenta il passaggio limitante della chetogenesi epatica?",
+      "choices": [
+        "L'HMG-CoA sintasi mitocondriale",
+        "L'acetil-CoA carbossilasi citosolica",
+        "La citrato sintasi del ciclo di Krebs",
+        "La piruvato chinasi glicolitica",
+        "La lipoproteina lipasi endoteliale"
+      ],
+      "answer": 0,
+      "explain": "L'HMG-CoA sintasi mitocondriale condensa acetil-CoA con acetoacetil-CoA formando HMG-CoA ed è il punto di controllo della chetogenesi, indotto dallo stato di digiuno. L'acetil-CoA carbossilasi appartiene invece alla sintesi degli acidi grassi e, producendo malonil-CoA, frena la chetogenesi.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q015",
+      "q": "Nel digiuno la caduta del malonil-CoA epatico favorisce la chetogenesi perché...",
+      "choices": [
+        "Attiva direttamente l'acetil-CoA carbossilasi epatica",
+        "Aumenta la sintesi degli acidi grassi nel fegato",
+        "Blocca la β-ossidazione mitocondriale degli acidi grassi",
+        "Inibisce la lipolisi del tessuto adiposo periferico",
+        "Rimuove l'inibizione sulla carnitina aciltransferasi I"
+      ],
+      "answer": 4,
+      "explain": "Il malonil-CoA è un inibitore fisiologico della carnitina aciltransferasi I; quando la sua concentrazione diminuisce, gli acidi grassi entrano più facilmente nei mitocondri e vengono ossidati ad acetil-CoA, che alimenta la chetogenesi. Un aumento del malonil-CoA avrebbe l'effetto contrario, perché segnala disponibilità di glucosio e attivazione della sintesi lipidica.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q016",
+      "q": "Come influenza l'insulina la chetogenesi quando il glucosio è disponibile?",
+      "choices": [
+        "La stimola attivando la lipolisi del tessuto adiposo",
+        "La stimola attivando la carnitina aciltransferasi I",
+        "La inibisce stimolando l'acetil-CoA carbossilasi",
+        "Non esercita alcun effetto diretto sul fegato",
+        "La inibisce bloccando la glicolisi epatica"
+      ],
+      "answer": 2,
+      "explain": "L'insulina attiva per defosforilazione l'acetil-CoA carbossilasi; il malonil-CoA aumenta, inibisce la carnitina aciltransferasi I e riduce l'ossidazione degli acidi grassi, sottraendo acetil-CoA alla chetogenesi. Inoltre l'insulina inibisce la lipolisi nel tessuto adiposo, diminuendo l'afflusso di acidi grassi al fegato.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q017",
+      "q": "Quale sequenza di eventi collega il calo dell'insulina all'aumento della chetogenesi nel digiuno prolungato?",
+      "choices": [
+        "Riduzione della lipolisi, meno acidi grassi al fegato, minore β-ossidazione",
+        "Aumento della lipolisi, maggiore afflusso di acidi grassi al fegato, β-ossidazione aumentata e abbondante acetil-CoA",
+        "Aumento della sintesi degli acidi grassi, aumento del malonil-CoA, stimolazione della chetogenesi",
+        "Aumento della glicolisi epatica, aumento del piruvato, stimolazione della chetogenesi",
+        "Riduzione della proteolisi muscolare, minore disponibilità di aminoacidi, stimolazione della chetogenesi"
+      ],
+      "answer": 1,
+      "explain": "Il calo dell'insulina libera la lipolisi adipocitaria, il fegato riceve più acidi grassi, li ossida nei mitocondri e accumula acetil-CoA, che viene convogliato verso la sintesi dei corpi chetonici. Un aumento del malonil-CoA avrebbe invece bloccato la carnitina aciltransferasi I e quindi la stessa β-ossidazione.",
+      "slide": 61
+    },
+    {
+      "id": "d03-b07-q018",
+      "q": "In quale compartimento dell'epatocita si svolge la sintesi dei corpi chetonici?",
+      "choices": [
+        "Nel citosol",
+        "Nel reticolo endoplasmatico liscio",
+        "Nell'apparato di Golgi",
+        "Nella matrice mitocondriale",
+        "Nello spazio intermembrana"
+      ],
+      "answer": 3,
+      "explain": "La chetogenesi si svolge nella matrice mitocondriale degli epatociti, dove si trovano la tiolasi, l'HMG-CoA sintasi e l'HMG-CoA liasi necessarie a convertire l'acetil-CoA in acetoacetato. La sintesi degli acidi grassi, che è il processo opposto, avviene invece nel citosol.",
+      "slide": 62
+    },
+    {
+      "id": "d03-b07-q019",
+      "q": "Quale enzima scinde l'HMG-CoA liberando acetoacetato?",
+      "choices": [
+        "L'HMG-CoA reduttasi",
+        "L'HMG-CoA sintasi",
+        "La tiolasi",
+        "L'acetil-CoA carbossilasi",
+        "L'HMG-CoA liasi"
+      ],
+      "answer": 4,
+      "explain": "L'HMG-CoA liasi catalizza la scissione dell'HMG-CoA in acetoacetato e acetil-CoA, completando la via della chetogenesi. L'HMG-CoA reduttasi, nonostante il nome simile, appartiene alla sintesi del colesterolo e riduce l'HMG-CoA a mevalonato.",
+      "slide": 62
+    },
+    {
+      "id": "d03-b07-q020",
+      "q": "L'acetone rilevabile nel respiro di una persona in chetosi deriva da...",
+      "choices": [
+        "La decarbossilazione spontanea dell'acetoacetato",
+        "La riduzione enzimatica del β-idrossibutirrato",
+        "L'ossidazione del butirrato nel fegato",
+        "La deaminazione della glutammina nel rene",
+        "L'idrolisi dei trigliceridi del tessuto adiposo bianco"
+      ],
+      "answer": 0,
+      "explain": "Una piccola quota di acetoacetato va incontro a decarbossilazione spontanea, non enzimatica, dando acetone, che è volatile ed è eliminato in parte con il respiro. Il β-idrossibutirrato è invece il prodotto della riduzione dell'acetoacetato e non è la fonte dell'acetone.",
+      "slide": 62
+    },
+    {
+      "id": "d03-b07-q021",
+      "q": "Oltre al digiuno, quale condizione aumenta la produzione di corpi chetonici?",
+      "choices": [
+        "Un pasto ricco di amido e zuccheri semplici",
+        "L'infusione endovenosa di glucosio e insulina",
+        "Una dieta molto povera di carboidrati",
+        "La somministrazione di insulina esogena",
+        "Una dieta ricca di zuccheri semplici e fruttosio"
+      ],
+      "answer": 2,
+      "explain": "La chetogenesi dipende dalla disponibilità di glucosio: una dieta molto povera di carboidrati riproduce lo stato ormonale del digiuno, con insulina bassa e glucagone alto, e quindi stimola la produzione di corpi chetonici. Somministrare glucosio o insulina riporta invece il fegato verso la sintesi degli acidi grassi e spegne la chetogenesi.",
+      "slide": 62
+    },
+    {
+      "id": "d03-b07-q022",
+      "q": "In quale compartimento cellulare avviene la sintesi degli acidi grassi?",
+      "choices": [
+        "Nel mitocondrio",
+        "Nel citosol",
+        "Nel reticolo endoplasmatico rugoso",
+        "Nel nucleo",
+        "Nel perossisoma"
+      ],
+      "answer": 1,
+      "explain": "Il sistema multienzimatico dell'acido grasso sintasi è localizzato nel citosol, dove trova NADPH e acetil-CoA. Nel mitocondrio avviene invece la β-ossidazione, cioè il processo opposto, ed è anche per questa separazione che sintesi e degradazione non procedono insieme.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q023",
+      "q": "Quale sistema enzimatico catalizza la sintesi degli acidi grassi?",
+      "choices": [
+        "Il complesso della piruvato deidrogenasi mitocondriale",
+        "La β-chetotiolasi della β-ossidazione",
+        "La carnitina aciltransferasi I mitocondriale",
+        "La lipoproteina lipasi endoteliale",
+        "Il sistema multienzimatico dell'acido grasso sintasi"
+      ],
+      "answer": 4,
+      "explain": "La sintesi degli acidi grassi è catalizzata dal sistema multienzimatico dell'acido grasso sintasi, che nel citosol allunga la catena aggiungendo unità bicarboniose. La β-chetotiolasi appartiene invece alla demolizione, perché scinde l'acetoacetil-CoA durante la β-ossidazione.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q024",
+      "q": "A quale gruppo funzionale si legano covalentemente gli intermedi della sintesi degli acidi grassi?",
+      "choices": [
+        "Ai gruppi amminici dei residui di lisina",
+        "Ai gruppi fosfato dei fosfolipidi di membrana",
+        "Al gruppo eme della catena respiratoria",
+        "Ai gruppi sulfidrilici dell'ACP",
+        "Ai gruppi carbossilici del malonato libero"
+      ],
+      "answer": 3,
+      "explain": "Gli intermedi acilici restano legati come tioesteri ai gruppi sulfidrilici dell'acil-carrier protein, che li tiene ancorati al complesso e li presenta ai diversi siti catalitici. Non si tratta di un semplice legame non covalente, ma di un vero tioestere, la cui energia favorisce le reazioni successive.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q025",
+      "q": "Quale coenzima fornisce gli equivalenti riducenti per la biosintesi degli acidi grassi?",
+      "choices": [
+        "Il NADPH",
+        "Il NADH",
+        "Il FADH2",
+        "Il coenzima Q",
+        "L'ATP"
+      ],
+      "answer": 0,
+      "explain": "Le reazioni di riduzione della sintesi degli acidi grassi consumano NADPH, prodotto soprattutto nella via del pentoso fosfato e dall'enzima malico. Il NADH e il FADH2 sono invece i coenzimi ridotti che si generano nella β-ossidazione e alimentano la catena respiratoria.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q026",
+      "q": "Quale enzima introduce il carbonio nella via biosintetica producendo malonil-CoA?",
+      "choices": [
+        "La citrato liasi",
+        "La tioesterasi",
+        "L'acetil-CoA carbossilasi",
+        "La malato deidrogenasi",
+        "La piruvato carbossilasi"
+      ],
+      "answer": 2,
+      "explain": "L'acetil-CoA carbossilasi carbossila l'acetil-CoA trasformandolo in malonil-CoA, che è l'unità bicarboniosa donatrice usata per allungare la catena. La piruvato carbossilasi produce invece ossalacetato per la gluconeogenesi e non è coinvolta nella sintesi degli acidi grassi.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q027",
+      "q": "Da quale molecola donatrice provengono prevalentemente le unità bicarboniose aggiunte durante la sintesi degli acidi grassi?",
+      "choices": [
+        "Dal malonil-CoA",
+        "Dall'acetil-CoA",
+        "Dal succinil-CoA",
+        "Dal propionil-CoA",
+        "Dal β-idrossibutirrato"
+      ],
+      "answer": 0,
+      "explain": "Ogni ciclo di allungamento aggiunge due atomi di carbonio forniti dal malonil-CoA, con perdita di una molecola di anidride carbonica nella condensazione. L'acetil-CoA è il substrato iniziale che forma l'estremità metilica della catena, ma non è il donatore delle unità aggiunte nei cicli successivi.",
+      "slide": 63
+    },
+    {
+      "id": "d03-b07-q028",
+      "q": "Quale attività del complesso acido grasso sintasi carica il gruppo acetilico?",
+      "choices": [
+        "La malonil-CoA transacilasi",
+        "La β-chetoacilsintasi",
+        "La deidratasi",
+        "L'enoil reduttasi",
+        "L'acetil-CoA transacilasi"
+      ],
+      "answer": 4,
+      "explain": "L'acetil-CoA transacilasi trasferisce il gruppo acetilico dall'acetil-CoA al gruppo sulfidrilico del complesso, caricandolo per il primo ciclo. La malonil-CoA transacilasi compie la stessa operazione sul malonile, che è il donatore delle unità bicarboniose.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q029",
+      "q": "Quale attività del complesso carica il malonile sul gruppo fosfopanteteinico?",
+      "choices": [
+        "L'acetil-CoA transacilasi",
+        "La β-chetoacilsintasi",
+        "La tioesterasi",
+        "La malonil-CoA transacilasi",
+        "La chetoacil reduttasi"
+      ],
+      "answer": 3,
+      "explain": "La malonil-CoA transacilasi trasferisce il gruppo malonilico al gruppo fosfopanteteinico dell'ACP, rendendolo disponibile per la condensazione. L'acetil-CoA transacilasi agisce invece sull'acetile, che occupa il sito della cisteina della β-chetoacilsintasi.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q030",
+      "q": "Quale enzima catalizza la condensazione decarbossilativa che allunga la catena?",
+      "choices": [
+        "La deidratasi",
+        "La β-chetoacilsintasi",
+        "L'enoil reduttasi",
+        "La chetoacil reduttasi",
+        "La tioesterasi"
+      ],
+      "answer": 1,
+      "explain": "La β-chetoacilsintasi condensa il gruppo acetilico o acilico con il malonile, liberando anidride carbonica e formando un β-chetoacile con due carboni in più. La deidratasi interviene subito dopo, eliminando acqua dal β-idrossiacile.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q031",
+      "q": "Quale attività introduce un doppio legame eliminando una molecola d'acqua?",
+      "choices": [
+        "La β-chetoacilsintasi",
+        "La chetoacil reduttasi",
+        "L'enoil reduttasi",
+        "La deidratasi",
+        "La tioesterasi"
+      ],
+      "answer": 3,
+      "explain": "La deidratasi rimuove acqua dal β-idrossiacil-ACP generando un doppio legame nell'intermedio enoilico. L'enoil reduttasi agisce subito dopo, saturando quel doppio legame con consumo di NADPH.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q032",
+      "q": "Quale enzima riduce il doppio legame dell'intermedio consumando NADPH?",
+      "choices": [
+        "La chetoacil reduttasi",
+        "L'enoil reduttasi",
+        "La deidratasi",
+        "La β-chetoacilsintasi",
+        "La tioesterasi"
+      ],
+      "answer": 1,
+      "explain": "L'enoil reduttasi satura il doppio legame dell'intermedio enoilico usando NADPH come donatore di elettroni, completando il ciclo di allungamento. La chetoacil reduttasi riduce invece il gruppo chetonico nel passaggio precedente, anch'esso con consumo di NADPH.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q033",
+      "q": "Quale enzima riduce il gruppo chetonico del β-chetoacile formato nella condensazione?",
+      "choices": [
+        "L'enoil reduttasi",
+        "La deidratasi",
+        "La chetoacil reduttasi",
+        "La β-chetoacilsintasi",
+        "L'acetil-CoA transacilasi"
+      ],
+      "answer": 2,
+      "explain": "La chetoacil reduttasi converte il gruppo chetonico in un gruppo alcolico, formando il β-idrossiacil-ACP e consumando NADPH. La deidratasi agisce su questo alcol nel passaggio successivo, non sul chetone.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q034",
+      "q": "Quale gruppo chimico della fosfopanteteina dell'ACP lega gli intermedi acilici?",
+      "choices": [
+        "Un gruppo sulfidrilico",
+        "Un gruppo carbossilico",
+        "Un gruppo amminico",
+        "Un gruppo fosfato",
+        "Un gruppo idrossilico"
+      ],
+      "answer": 0,
+      "explain": "La fosfopanteteina espone un gruppo sulfidrilico che forma un legame tioestere con il gruppo acilico, funzionando come un braccio mobile che trasporta l'intermedio da un sito catalitico all'altro. Il gruppo fosfato della fosfopanteteina serve invece ad ancorare la protesi all'ACP e non lega gli acili.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q035",
+      "q": "Quale funzione svolge la tioesterasi del complesso acido grasso sintasi?",
+      "choices": [
+        "Carica l'acetil-CoA sul gruppo sulfidrilico del complesso",
+        "Riduce il doppio legame dell'intermedio enoilico",
+        "Elimina acqua dal β-idrossiacile legato all'ACP",
+        "Trasferisce il malonile sull'ACP del complesso",
+        "Idrolizza il legame tioestere e libera l'acido grasso"
+      ],
+      "answer": 4,
+      "explain": "Quando la catena ha raggiunto la lunghezza del palmitato, la tioesterasi idrolizza il legame tioestere che la ancora all'ACP e la rilascia come acido grasso libero. Le transacilasi, invece, si occupano del caricamento dei substrati e non del rilascio del prodotto finale.",
+      "slide": 64
+    },
+    {
+      "id": "d03-b07-q036",
+      "q": "Nel bilancio energetico della biosintesi degli acidi grassi, quanti ATP sono attribuiti all'acetil-CoA carbossilasi?",
+      "choices": [
+        "Due ATP",
+        "Quattro ATP",
+        "Sette ATP",
+        "Otto ATP",
+        "Quattordici ATP"
+      ],
+      "answer": 2,
+      "explain": "La carbossilazione dell'acetil-CoA a malonil-CoA richiede ATP e il bilancio della biosintesi attribuisce a questo passaggio sette ATP. Il valore di otto ATP compare nel bilancio per un'altra tappa, quella della citrato liasi, e non va confuso con la carbossilazione.",
+      "slide": 65
+    },
+    {
+      "id": "d03-b07-q037",
+      "q": "Quanti NADPH sono complessivamente richiesti dalla biosintesi degli acidi grassi secondo il bilancio energetico?",
+      "choices": [
+        "Quattordici NADPH, due per ciascun ciclo",
+        "Sette NADPH, uno per ciascun ciclo",
+        "Otto NADPH, due per ciascun ciclo",
+        "Ventotto NADPH, quattro per ciascun ciclo",
+        "Due NADPH, uno per ciascun ciclo"
+      ],
+      "answer": 0,
+      "explain": "Il bilancio della biosintesi indica quattordici NADPH, necessari alle due reazioni di riduzione che si ripetono a ogni ciclo di allungamento. Il NADPH non viene rigenerato dalla catena respiratoria, ma prodotto nel citosol dalla via del pentoso fosfato e dall'enzima malico.",
+      "slide": 65
+    },
+    {
+      "id": "d03-b07-q038",
+      "q": "Nel bilancio energetico della biosintesi degli acidi grassi, all'azione della citrato liasi è attribuito un costo di...",
+      "choices": [
+        "Due ATP",
+        "Quattordici ATP",
+        "Sedici ATP",
+        "Otto ATP",
+        "Sette ATP"
+      ],
+      "answer": 3,
+      "explain": "Il bilancio attribuisce otto ATP alla citrato liasi, l'enzima citosolico che scinde il citrato in acetil-CoA e ossalacetato; i sette ATP sono invece attribuiti all'acetil-CoA carbossilasi. Le due voci vanno tenute distinte perché riguardano tappe diverse della preparazione dei substrati.",
+      "slide": 65
+    },
+    {
+      "id": "d03-b07-q039",
+      "q": "Quale enzima citosolico contribuisce a generare il NADPH utilizzato nella sintesi degli acidi grassi?",
+      "choices": [
+        "La citrato liasi",
+        "L'acetil-CoA carbossilasi",
+        "La tioesterasi",
+        "La carnitina aciltransferasi",
+        "L'enzima malico"
+      ],
+      "answer": 4,
+      "explain": "L'enzima malico decarbossila ossidativamente il malato producendo piruvato e NADPH, che viene usato dalle reduttasi della sintesi degli acidi grassi. La citrato liasi fornisce acetil-CoA e ossalacetato, ma non genera potere riducente.",
+      "slide": 65
+    },
+    {
+      "id": "d03-b07-q040",
+      "q": "Perché la sintesi degli acidi grassi è classificata come processo riducente ed endoergonico?",
+      "choices": [
+        "Perché produce NADPH e ATP durante il ciclo",
+        "Perché consuma NADPH e ATP a ogni ciclo",
+        "Perché ha un bilancio energetico complessivamente nullo",
+        "Perché genera FADH2 cedendo elettroni alla catena",
+        "Perché sfrutta il gradiente protonico mitocondriale"
+      ],
+      "answer": 1,
+      "explain": "La biosintesi è riducente perché ogni ciclo consuma NADPH e richiede ATP per attivare il malonile, quindi nel complesso è endoergonica. La β-ossidazione è il processo speculare: è ossidativa ed esoergonica e produce NADH, FADH2 e ATP.",
+      "slide": 65
+    },
+    {
+      "id": "d03-b07-q041",
+      "q": "In che modo l'insulina favorisce la sintesi degli acidi grassi nel fegato?",
+      "choices": [
+        "Fosforilando e attivando l'acetil-CoA carbossilasi",
+        "Inibendo la citrato liasi che produce acetil-CoA",
+        "Stimolando la lipolisi del tessuto adiposo periferico",
+        "Attivando la carnitina aciltransferasi I epatica",
+        "Defosforilando l'acetil-CoA carbossilasi epatica"
+      ],
+      "answer": 4,
+      "explain": "L'insulina attiva le fosfatasi, che defosforilano l'acetil-CoA carbossilasi rendendola attiva e aumentando la produzione di malonil-CoA, substrato della sintesi. La fosforilazione dell'enzima, mediata dall'AMPK, ha invece effetto inibitorio ed è tipica dello stato di digiuno.",
+      "slide": 66
+    },
+    {
+      "id": "d03-b07-q042",
+      "q": "Per quale meccanismo il glucagone e l'AMPK inibiscono la sintesi degli acidi grassi?",
+      "choices": [
+        "Defosforilando l'acetil-CoA carbossilasi epatica",
+        "Fosforilando l'acetil-CoA carbossilasi",
+        "Attivando la citrato liasi citosolica",
+        "Aumentando la disponibilità di malonil-CoA",
+        "Inibendo la lipolisi del tessuto adiposo"
+      ],
+      "answer": 1,
+      "explain": "La fosforilazione dell'acetil-CoA carbossilasi, catalizzata dall'AMPK, ne riduce l'attività e abbassa il malonil-CoA, spegnendo la sintesi e favorendo l'ossidazione. Il risultato opposto si osserva dopo un pasto, quando l'insulina prevale e l'enzima viene defosforilato e riattivato.",
+      "slide": 66
+    },
+    {
+      "id": "d03-b07-q043",
+      "q": "Nel fegato ben rifornito di glucosio, come coordina la sintesi e l'ossidazione degli acidi grassi l'aumento del malonil-CoA?",
+      "choices": [
+        "Inibisce la carnitina aciltransferasi I epatica",
+        "Attiva la carnitina aciltransferasi I mitocondriale",
+        "Stimola la chetogenesi epatica nel digiuno",
+        "Aumenta la demolizione dei trigliceridi adiposi",
+        "Blocca la glicolisi epatica e la glicemia"
+      ],
+      "answer": 0,
+      "explain": "Il malonil-CoA segnala abbondanza di glucosio e inibisce la carnitina aciltransferasi I, impedendo agli acidi grassi di entrare nei mitocondri: la sintesi prevale così sulla demolizione. Quando il malonil-CoA cala, come nel digiuno, l'inibizione viene rimossa e la β-ossidazione riprende.",
+      "slide": 66
+    },
+    {
+      "id": "d03-b07-q044",
+      "q": "Quale coppia di coenzimi distingue la biosintesi degli acidi grassi dalla loro ossidazione mitocondriale?",
+      "choices": [
+        "NADH per la sintesi e NADP+ per l'ossidazione",
+        "NADH per entrambi i processi",
+        "NADPH per la sintesi e NAD+ e FAD per l'ossidazione",
+        "FADH2 per la sintesi e NADPH per l'ossidazione",
+        "ATP per la sintesi e ADP per l'ossidazione"
+      ],
+      "answer": 2,
+      "explain": "La sintesi usa NADPH come donatore di elettroni, mentre la β-ossidazione genera NADH e FADH2 che cedono elettroni alla catena respiratoria. Questa differenza di coenzimi contribuisce a mantenere separati i due processi e a evitarne la contemporaneità nella stessa cellula.",
+      "slide": 66
+    },
+    {
+      "id": "d03-b07-q045",
+      "q": "A quale scopo serve la separazione tra citosol e mitocondrio nella regolazione del metabolismo degli acidi grassi?",
+      "choices": [
+        "A produrre più ATP durante la sintesi citosolica",
+        "A consentire l'uso degli stessi enzimi nei due processi",
+        "A rendere la β-ossidazione indipendente dall'ossigeno",
+        "A evitare cicli futili tra sintesi e degradazione",
+        "A lasciar passare liberamente il NADH nella matrice"
+      ],
+      "answer": 3,
+      "explain": "La sintesi avviene nel citosol e la β-ossidazione nella matrice mitocondriale: la membrana mitocondriale interna impedisce che i due processi opposti funzionino insieme, dissipando energia in un ciclo futile. La regolazione ormonale completa questo controllo, attivando un processo e spegnendo l'altro.",
+      "slide": 66
+    },
+    {
+      "id": "d03-b07-q046",
+      "q": "Quale funzione epatica è indispensabile per la digestione e l'assorbimento dei lipidi della dieta?",
+      "choices": [
+        "La produzione dei sali biliari",
+        "La sintesi dei chilomicroni",
+        "La sintesi dell'insulina",
+        "L'assorbimento intestinale dei trigliceridi",
+        "La secrezione della lipasi pancreatica"
+      ],
+      "answer": 0,
+      "explain": "Il fegato produce i sali biliari, che emulsionano i lipidi della dieta rendendoli accessibili alle lipasi e ne favoriscono l'assorbimento intestinale. I chilomicroni sono invece sintetizzati dalla mucosa intestinale, non dal fegato.",
+      "slide": 67
+    },
+    {
+      "id": "d03-b07-q047",
+      "q": "Quale via del metabolismo lipidico epatico produce l'acetil-CoA che può essere indirizzato alla sintesi dei corpi chetonici?",
+      "choices": [
+        "La sintesi degli acidi grassi citosolica",
+        "La β-ossidazione mitocondriale",
+        "La sintesi del colesterolo epatico",
+        "La via del pentoso fosfato citosolica",
+        "La lipolisi dei trigliceridi epatici"
+      ],
+      "answer": 1,
+      "explain": "La β-ossidazione degli acidi grassi nella matrice mitocondriale genera acetil-CoA, che nel fegato in digiuno viene convogliato verso la chetogenesi. La sintesi degli acidi grassi consuma invece acetil-CoA e NADPH e non può alimentare la produzione di corpi chetonici.",
+      "slide": 67
+    },
+    {
+      "id": "d03-b07-q048",
+      "q": "Un paziente con grave insufficienza epatica presenta bassi livelli plasmatici di lipoproteine e ridotto assorbimento dei grassi. Quale funzione epatica risulta compromessa?",
+      "choices": [
+        "La sintesi dei chilomicroni intestinali",
+        "L'assorbimento intestinale dei lipidi alimentari",
+        "La lipolisi del tessuto adiposo periferico",
+        "La sintesi di lipoproteine e sali biliari",
+        "La produzione di insulina endogena"
+      ],
+      "answer": 3,
+      "explain": "Il fegato sintetizza le lipoproteine plasmatiche, necessarie a trasportare i lipidi nel sangue, e i sali biliari, che servono a emulsionare i grassi della dieta: la loro carenza spiega sia l'ipolipoproteinemia sia il malassorbimento. I chilomicroni, invece, sono prodotti dall'intestino e non dal fegato.",
+      "slide": 67
+    },
+    {
+      "id": "d03-b07-q049",
+      "q": "Oltre agli acidi grassi, ai trigliceridi e ai fosfolipidi, quale lipide il fegato sintetizza attivamente?",
+      "choices": [
+        "Gli acidi biliari coniugati con la taurina",
+        "I chilomicroni",
+        "L'insulina",
+        "Le vitamine liposolubili della dieta",
+        "Il colesterolo"
+      ],
+      "answer": 4,
+      "explain": "Il fegato è il principale sito di sintesi del colesterolo, che utilizza come componente delle membrane, come precursore dei sali biliari e come base per gli ormoni steroidei. Gli acidi biliari coniugati sono un derivato del colesterolo, ma il loro nome non indica la molecola di partenza della via biosintetica.",
+      "slide": 67
+    },
+    {
+      "id": "d03-b07-q050",
+      "q": "Dopo un pasto ricco di carboidrati, nel fegato prevale la sintesi di acidi grassi e trigliceridi. Quale destino hanno questi trigliceridi?",
+      "choices": [
+        "Sono convertiti in corpi chetonici nel fegato",
+        "Sono degradati a glucosio per mantenere la glicemia nel digiuno",
+        "Sono esportati ai tessuti periferici nelle lipoproteine",
+        "Sono immagazzinati nel fegato come glicogeno",
+        "Sono escreti nella bile come sali biliari coniugati"
+      ],
+      "answer": 2,
+      "explain": "Nel fegato ben nutrito i trigliceridi neoformati vengono incorporati nelle lipoproteine plasmatiche e trasportati ai tessuti periferici, in particolare al tessuto adiposo. La conversione in corpi chetonici avviene invece nel digiuno, quando la sintesi lipidica è spenta e prevale l'ossidazione degli acidi grassi.",
+      "slide": 67
+    }
+  ]
+}

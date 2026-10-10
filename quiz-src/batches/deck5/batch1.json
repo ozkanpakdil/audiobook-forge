@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 1,
+  "topic": "Profilo proteico ed elettroforesi delle proteine plasmatiche",
+  "questions": [
+    {
+      "id": "d05-b01-q001",
+      "q": "Che cos'è il profilo proteico?",
+      "choices": [
+        "Un esame che misura la concentrazione degli elettroliti nel siero",
+        "Un esame biochimico che separa le proteine del sangue per elettroforesi",
+        "Un test genetico che ricerca le mutazioni responsabili delle emoglobinopatie",
+        "Un esame che valuta la funzionalità epatica dosando le transaminasi nel sangue",
+        "Un'analisi delle urine che quantifica la proteinuria delle 24 ore"
+      ],
+      "answer": 1,
+      "explain": "Il profilo proteico è un esame biochimico clinico che separa e quantifica le proteine del sangue, soprattutto tramite elettroforesi proteica, per valutare lo stato di salute generale e orientare la diagnosi. Il dosaggio delle transaminasi è un esame enzimatico distinto, utile per la funzionalità epatica ma estraneo al profilo proteico, mentre la proteinuria delle 24 ore valuta la perdita di proteine con le urine.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q002",
+      "q": "Quali frazioni proteiche vengono separate e misurate nel profilo proteico?",
+      "choices": [
+        "Emoglobina, mioglobina, transferrina e ferritina",
+        "Albumina, fibrinogeno, protrombina e plasminogeno",
+        "Immunoglobuline G, A, M, E e D",
+        "Albumina, globuline alfa-1, alfa-2, beta e gamma",
+        "Lipoproteine HDL, LDL, VLDL e chilomicroni"
+      ],
+      "answer": 3,
+      "explain": "L'elettroforesi proteica separa le proteine plasmatiche in albumina e nelle frazioni globuliniche alfa-1, alfa-2, beta e gamma, che vengono poi quantificate. Le classi di immunoglobuline sono una sottodivisione della sola frazione gamma, mentre le lipoproteine si studiano con tecniche dedicate e non corrispondono alle frazioni del profilo proteico.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q003",
+      "q": "Quale gruppo di condizioni può essere suggerito da un profilo proteico alterato?",
+      "choices": [
+        "Infiammazioni, malattie autoimmuni, patologie epatiche e renali e mielomi",
+        "Solo le anemie da carenza di ferro e di vitamina B12",
+        "Esclusivamente le infezioni batteriche acute delle vie urinarie",
+        "Solo i disturbi del metabolismo dei carboidrati e delle lipoproteine",
+        "Unicamente le malattie genetiche del tessuto muscolare e del collagene"
+      ],
+      "answer": 0,
+      "explain": "Le alterazioni delle frazioni proteiche possono indicare infiammazioni, malattie autoimmuni, patologie epatiche e renali e mielomi, orientando verso ulteriori indagini. Restringere il profilo proteico alle sole anemie o alle infezioni urinarie è riduttivo, perché l'esame non è specifico per una singola categoria di malattie.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q004",
+      "q": "Su quale proprietà delle proteine si basa la loro separazione durante l'elettroforesi?",
+      "choices": [
+        "Sulla loro solubilità in solventi organici",
+        "Sul loro peso molecolare, valutato con una centrifugazione",
+        "Sulla loro carica elettrica e sulla loro massa",
+        "Sulla loro affinità per anticorpi immobilizzati su una colonna",
+        "Sulla loro capacità di legare il calcio"
+      ],
+      "answer": 2,
+      "explain": "Nell'elettroforesi le proteine si muovono in un campo elettrico e si separano in base alla carica elettrica e alla massa, che ne condizionano velocità e posizione sul supporto. La cromatografia di affinità con anticorpi immobilizzati è una tecnica diversa, così come la centrifugazione, che separa in base alla densità e non alla carica.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q005",
+      "q": "Che cosa fornisce l'analisi del tracciato elettroforetico?",
+      "choices": [
+        "Il valore assoluto della clearance renale",
+        "La sequenza amminoacidica delle proteine separate",
+        "La concentrazione degli elettroliti sierici",
+        "Il numero di copie dei geni che codificano le immunoglobuline",
+        "Il grafico delle frazioni proteiche e dei loro livelli"
+      ],
+      "answer": 4,
+      "explain": "Al termine dell'elettroforesi si ottiene un tracciato, cioè un grafico in cui ciascuna frazione proteica appare come un picco la cui ampiezza riflette il suo livello. La tecnica non rivela la sequenza amminoacidica né il numero di copie geniche, informazioni che richiedono metodiche completamente diverse.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q006",
+      "q": "Quale materiale biologico viene prelevato per eseguire il profilo proteico?",
+      "choices": [
+        "Un campione di sangue venoso analizzato in laboratorio",
+        "Un campione di urina raccolto nelle 24 ore",
+        "Un campione di saliva raccolto a digiuno",
+        "Un frammento di biopsia epatica prelevato con ago",
+        "Un campione di liquido cerebrospinale per puntura lombare"
+      ],
+      "answer": 0,
+      "explain": "Il profilo proteico si esegue su un campione di sangue prelevato e analizzato in laboratorio, dove le proteine vengono separate e quantificate. Le urine delle 24 ore servono a valutare la proteinuria, mentre la biopsia epatica è un esame istologico e non è richiesta per l'elettroforesi delle proteine plasmatiche.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q007",
+      "q": "Quale proteina costituisce la maggior parte delle proteine plasmatiche?",
+      "choices": [
+        "Il fibrinogeno",
+        "La transferrina",
+        "Le immunoglobuline della frazione gamma",
+        "L'albumina",
+        "La ceruloplasmina"
+      ],
+      "answer": 3,
+      "explain": "L'albumina rappresenta circa il 59-69% delle proteine plasmatiche ed è quindi la frazione quantitativamente prevalente. Il fibrinogeno appartiene alle globuline beta e le immunoglobuline alla frazione gamma; entrambe sono presenti in percentuali molto inferiori rispetto all'albumina.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q008",
+      "q": "Quali sono le due funzioni principali dell'albumina plasmatica?",
+      "choices": [
+        "La difesa immunitaria specifica e la coagulazione del sangue",
+        "Il trasporto di sostanze e il mantenimento della pressione osmotica",
+        "La digestione dei lipidi e l'assorbimento del ferro",
+        "La catalisi delle reazioni della glicolisi e del ciclo di Krebs",
+        "La sintesi degli anticorpi e la regolazione della glicemia"
+      ],
+      "answer": 1,
+      "explain": "L'albumina è fondamentale per il trasporto di numerose sostanze nel plasma e per il mantenimento della pressione osmotica, detta anche oncotica. La difesa immunitaria specifica è affidata alle immunoglobuline della frazione gamma e la coagulazione a fattori come il fibrinogeno, non all'albumina.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q009",
+      "q": "Per quale ambito sono particolarmente importanti le frazioni alfa-1 e alfa-2 delle globuline?",
+      "choices": [
+        "Per il trasporto del ferro e del rame",
+        "Per la coagulazione del sangue",
+        "Per le risposte infiammatorie",
+        "Per la difesa immunitaria anticorpale",
+        "Per il trasporto dei trigliceridi esogeni"
+      ],
+      "answer": 2,
+      "explain": "Le globuline alfa-1 e alfa-2 comprendono molte proteine della fase acuta e sono quindi importanti nelle risposte infiammatorie. La difesa anticorpale è propria della frazione gamma, mentre il trasporto dei lipidi è tipicamente attribuito alla frazione beta.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q010",
+      "q": "Quale tipo di proteine comprende la frazione gamma delle globuline?",
+      "choices": [
+        "Le lipoproteine responsabili del trasporto dei lipidi",
+        "Le proteine della fase acuta dell'infiammazione",
+        "I fattori della coagulazione prodotti dal fegato",
+        "Le proteine che legano l'emoglobina libera",
+        "Gli anticorpi, che svolgono la difesa immunitaria"
+      ],
+      "answer": 4,
+      "explain": "La frazione gamma è costituita prevalentemente dalle immunoglobuline, cioè dagli anticorpi responsabili della difesa immunitaria specifica. Le proteine della fase acuta appartengono soprattutto alle frazioni alfa-1 e alfa-2, mentre il trasporto dei lipidi è svolto dalle lipoproteine della frazione beta.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q011",
+      "q": "Quale proteina plasmatica è considerata un marcatore precoce e sensibile di malnutrizione proteica?",
+      "choices": [
+        "La prealbumina, o transtiretina, con vita media breve",
+        "L'alfa-2-macroglobulina, proteina della fase acuta",
+        "Il fibrinogeno, proteina della coagulazione plasmatica",
+        "La beta-2-microglobulina, marcatore del turnover cellulare",
+        "La proteina C-reattiva, marcatore dell'infiammazione acuta"
+      ],
+      "answer": 0,
+      "explain": "La prealbumina, o transtiretina, ha una vita media breve e per questo diminuisce precocemente nella malnutrizione proteica, risultando un marcatore sensibile. L'alfa-2-macroglobulina e il fibrinogeno appartengono invece alle proteine della fase acuta, che tendono ad aumentare durante l'infiammazione.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q012",
+      "q": "Quale condizione può determinare un aumento dei livelli totali delle proteine plasmatiche?",
+      "choices": [
+        "Una grave insufficienza epatica con ridotta sintesi proteica",
+        "Una sindrome nefrosica con perdita urinaria di proteine",
+        "Una malnutrizione proteico-calorica protratta",
+        "La disidratazione, che concentra le proteine del plasma",
+        "Un malassorbimento intestinale cronico"
+      ],
+      "answer": 3,
+      "explain": "La disidratazione riduce la quota acquosa del plasma e determina un aumento relativo, detto emoconcentrazione, delle proteine totali. L'insufficienza epatica, la sindrome nefrosica, la malnutrizione e il malassorbimento provocano invece una riduzione delle proteine plasmatiche.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q013",
+      "q": "Quale quadro può spiegare una riduzione delle proteine plasmatiche totali?",
+      "choices": [
+        "Un'emoconcentrazione da sudorazione abbondante",
+        "La malnutrizione, una malattia epatica cronica o un disturbo dell'assorbimento",
+        "Un mieloma multiplo con produzione monoclonale di immunoglobuline",
+        "Una disidratazione da febbre elevata",
+        "Un'infiammazione acuta con aumento delle proteine della fase acuta"
+      ],
+      "answer": 1,
+      "explain": "La riduzione delle proteine totali può indicare malnutrizione, malattie croniche o epatiche oppure problemi di assorbimento intestinale. La disidratazione e l'emoconcentrazione tendono invece ad aumentare le proteine totali, mentre nel mieloma multiplo la produzione di immunoglobuline può far salire la componente monoclonale.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q014",
+      "q": "Perché nel mieloma multiplo il profilo proteico può risultare alterato?",
+      "choices": [
+        "Perché il fegato riduce la sintesi dell'albumina e delle globuline",
+        "Perché i reni eliminano selettivamente le globuline della frazione alfa",
+        "Perché un clone di plasmacellule produce una sola immunoglobulina in eccesso",
+        "Perché aumenta la produzione epatica di proteine della fase acuta",
+        "Perché si riduce l'assorbimento intestinale degli amminoacidi"
+      ],
+      "answer": 2,
+      "explain": "Nel mieloma multiplo le plasmacellule neoplastiche producono in eccesso una singola immunoglobulina, che genera una componente monoclonale ben visibile nel tracciato. Non si tratta di una perdita renale selettiva né di una riduzione dell'assorbimento degli amminoacidi, anche se l'albumina può ridursi in corso di malattia avanzata.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q015",
+      "q": "Quando l'elettroforesi evidenzia proteine anomale o l'assenza di proteine normalmente presenti, che cosa indica questo rilievo?",
+      "choices": [
+        "Che sono necessari ulteriori accertamenti diagnostici",
+        "Che l'esame è sicuramente da ripetere per un errore tecnico",
+        "Che il paziente è sicuramente affetto da un mieloma multiplo",
+        "Che non vi è alcuna alterazione clinicamente rilevante",
+        "Che la terapia antibiotica può essere sospesa"
+      ],
+      "answer": 0,
+      "explain": "La presenza di bande anomale o l'assenza di frazioni normali è un reperto che orienta verso ulteriori indagini diagnostiche, non una diagnosi definitiva. Attribuire automaticamente il quadro a un mieloma è scorretto, perché molte condizioni diverse possono modificare il tracciato proteico.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q016",
+      "q": "Quale conseguenza è tipica del deficit di alfa-1-antitripsina?",
+      "choices": [
+        "Un aumento del rischio di sanguinamento capillare",
+        "La comparsa di anticorpi monoclonali nel siero e nelle urine",
+        "Un'ipercalcemia severa con calcificazioni renali",
+        "Un accumulo di rame nel fegato e nei gangli della base",
+        "Una predisposizione all'enfisema e al danno epatico"
+      ],
+      "answer": 4,
+      "explain": "L'alfa-1-antitripsina è un inibitore delle proteasi; la sua carenza lascia l'elastasi libera di danneggiare il polmone e favorisce l'enfisema, mentre nel fegato la proteina mutata può accumularsi. L'accumulo di rame è tipico della malattia di Wilson e riguarda la ceruloplasmina, non l'alfa-1-antitripsina.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q017",
+      "q": "Quale funzione svolge l'aptoglobina, proteina della frazione alfa-2?",
+      "choices": [
+        "Trasporta il rame nel plasma e partecipa al metabolismo del ferro",
+        "Inibisce le proteasi liberate dai granulociti attivati",
+        "Lega l'emoglobina impedendone la perdita con le urine",
+        "Trasporta gli ormoni tiroidei e la vitamina A nel plasma",
+        "Neutralizza i radicali liberi dell'ossigeno nel plasma"
+      ],
+      "answer": 2,
+      "explain": "L'aptoglobina lega l'emoglobina libera rilasciata dalla lisi dei globuli rossi e ne impedisce l'eliminazione con le urine. Il trasporto del rame è compito della ceruloplasmina, mentre l'inibizione delle proteasi è svolta da alfa-1-antitripsina e alfa-2-macroglobulina.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q018",
+      "q": "Quale proteina plasmatica è responsabile del trasporto del rame?",
+      "choices": [
+        "La ferritina",
+        "La ceruloplasmina",
+        "L'aptoglobina",
+        "La transferrina",
+        "La prealbumina"
+      ],
+      "answer": 1,
+      "explain": "La ceruloplasmina, appartenente alla frazione alfa-2, trasporta il rame nel plasma e partecipa al metabolismo del ferro. La transferrina trasporta il ferro e la ferritina è la principale proteina di deposito del ferro, mentre l'aptoglobina lega l'emoglobina libera.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q019",
+      "q": "Quale proteina della frazione beta è deputata al trasporto del ferro nel plasma?",
+      "choices": [
+        "L'albumina",
+        "La ceruloplasmina",
+        "L'alfa-2-macroglobulina",
+        "La transferrina",
+        "L'immunoglobulina A"
+      ],
+      "answer": 3,
+      "explain": "La transferrina, che migra nella frazione beta, è la proteina di trasporto del ferro nel plasma. La ceruloplasmina trasporta invece il rame, mentre l'albumina lega molte sostanze ma non è il trasportatore fisiologico specifico del ferro.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q020",
+      "q": "Quali classi principali comprendono le immunoglobuline della frazione gamma?",
+      "choices": [
+        "IgG, IgA, IgM, IgE e IgD",
+        "Albumina, alfa-1, alfa-2, beta e gamma",
+        "HDL, LDL, VLDL e chilomicroni",
+        "Transferrina, ferritina, aptoglobina e ceruloplasmina",
+        "Pepsina, tripsina, chimotripsina e carbossipeptidasi"
+      ],
+      "answer": 0,
+      "explain": "Le immunoglobuline della frazione gamma si distinguono in cinque classi principali, IgG, IgA, IgM, IgE e IgD, ciascuna con funzioni difensive diverse. Le altre opzioni elencano frazioni elettroforetiche, lipoproteine, proteine di trasporto o enzimi digestivi, che non sono classi di immunoglobuline.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q021",
+      "q": "In quale frazione del tracciato elettroforetico del plasma migra il fibrinogeno, che invece manca nel siero?",
+      "choices": [
+        "Nella frazione alfa-1, insieme alle proteine della fase acuta",
+        "Nell'albumina, la frazione più abbondante del tracciato",
+        "Nella frazione beta, dove si sovrappone alle proteine adiacenti",
+        "Nella frazione gamma, insieme alle immunoglobuline",
+        "Non migra e resta nel pozzetto di deposizione del campione"
+      ],
+      "answer": 2,
+      "explain": "Il fibrinogeno è una proteina della coagulazione che migra nella frazione beta e, poiché viene consumato durante la coagulazione, è assente nel siero ma presente nel plasma. Per questo l'elettroforesi eseguita sul plasma mostra una banda beta meno definita rispetto a quella eseguita sul siero.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q022",
+      "q": "Che cosa esprime il rapporto albumina/globuline, detto rapporto A/G, nel profilo proteico?",
+      "choices": [
+        "La quantità di acqua plasmatica rispetto alle proteine",
+        "Il rapporto tra proteine totali e creatinina sierica",
+        "Il rapporto tra immunoglobuline e proteine della fase acuta",
+        "La percentuale di albumina rispetto alle proteine totali",
+        "Il rapporto tra la concentrazione dell'albumina e delle globuline"
+      ],
+      "answer": 4,
+      "explain": "Il rapporto A/G confronta la concentrazione dell'albumina con quella complessiva delle globuline e normalmente è superiore a 1. Nel mieloma multiplo e nelle epatopatie croniche il rapporto può invertirsi, perché l'albumina diminuisce e le globuline aumentano.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q023",
+      "q": "Quale alterazione del profilo proteico si osserva tipicamente nella sindrome nefrosica?",
+      "choices": [
+        "Un aumento dell'albumina con riduzione delle alfa-2 e delle beta",
+        "Una riduzione dell'albumina con aumento delle alfa-2 e delle beta",
+        "Un picco monoclonale netto e stretto nella frazione gamma",
+        "Un aumento isolato delle immunoglobuline IgA con calo delle IgG",
+        "La scomparsa completa della frazione alfa-1 con calo delle beta"
+      ],
+      "answer": 1,
+      "explain": "Nella sindrome nefrosica la perdita urinaria di proteine riduce soprattutto l'albumina, mentre le globuline di elevato peso molecolare, come l'alfa-2-macroglobulina, restano in circolo e aumentano in percentuale. Il picco monoclonale nella frazione gamma è invece tipico delle gammopatie monoclonali, non della sindrome nefrosica.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q024",
+      "q": "Quale reperto elettroforetico è caratteristico della cirrosi epatica?",
+      "choices": [
+        "Un picco monoclonale netto nella frazione gamma",
+        "Un aumento isolato dell'albumina",
+        "La scomparsa della frazione alfa-1",
+        "Una riduzione dell'albumina con ponte beta-gamma",
+        "Un aumento selettivo delle immunoglobuline IgE"
+      ],
+      "answer": 3,
+      "explain": "Nella cirrosi il fegato sintetizza meno albumina e la produzione policlonale di immunoglobuline salda le frazioni beta e gamma nel cosiddetto ponte beta-gamma. Un picco monoclonale è invece espressione di una proliferazione clonale di plasmacellule e non del danno epatico cronico.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q025",
+      "q": "Quale delle seguenti è una proteina della fase acuta che aumenta nelle infiammazioni?",
+      "choices": [
+        "La proteina C-reattiva",
+        "L'albumina",
+        "La prealbumina",
+        "La transferrina",
+        "La beta-2-microglobulina"
+      ],
+      "answer": 0,
+      "explain": "La proteina C-reattiva è una proteina della fase acuta sintetizzata dal fegato che aumenta rapidamente nelle infiammazioni. Albumina, prealbumina e transferrina sono invece proteine della fase acuta negative, perché la loro concentrazione tende a diminuire durante la risposta infiammatoria.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q026",
+      "q": "Qual è l'intervallo di riferimento orientativo delle proteine totali nel siero dell'adulto?",
+      "choices": [
+        "2,0-3,0 g/dL",
+        "4,0-5,0 g/dL",
+        "6,5-8,5 g/dL",
+        "10,0-12,0 g/dL",
+        "12,0-15,0 g/dL"
+      ],
+      "answer": 2,
+      "explain": "Nel siero dell'adulto le proteine totali sono normalmente comprese tra circa 6,5 e 8,5 g/dL, somma dell'albumina e delle globuline. Valori molto inferiori orientano verso malnutrizione o perdita proteica, mentre valori superiori possono derivare da disidratazione o da un aumento delle globuline.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q027",
+      "q": "Qual è l'intervallo di riferimento orientativo dell'albumina sierica nell'adulto?",
+      "choices": [
+        "0,5-1,5 g/dL",
+        "1,5-2,5 g/dL",
+        "2,0-3,0 g/dL",
+        "5,5-6,5 g/dL",
+        "3,5-5,0 g/dL"
+      ],
+      "answer": 4,
+      "explain": "Nell'adulto l'albumina sierica è normalmente compresa tra circa 3,5 e 5,0 g/dL e costituisce la frazione più abbondante del profilo proteico. Valori chiaramente inferiori si osservano in epatopatie, malnutrizione e sindrome nefrosica, con possibile comparsa di edemi.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q028",
+      "q": "Quale differenza esiste tra siero e plasma per quanto riguarda le proteine?",
+      "choices": [
+        "Il siero contiene fibrinogeno, il plasma no",
+        "Il plasma non contiene albumina",
+        "Il siero contiene solo immunoglobuline",
+        "Il plasma contiene fibrinogeno, il siero ne è privo",
+        "Siero e plasma hanno identica composizione proteica"
+      ],
+      "answer": 3,
+      "explain": "Il plasma è la parte liquida del sangue ottenuta in presenza di un anticoagulante e contiene fibrinogeno e gli altri fattori della coagulazione; il siero si ottiene dopo la coagulazione e quindi ne è privo. Questa differenza spiega perché la banda beta può apparire diversa nei due campioni.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q029",
+      "q": "Perché l'elettroforesi proteica da sola non permette di identificare una singola proteina alterata?",
+      "choices": [
+        "Perché quantifica soltanto la frazione dell'albumina",
+        "Perché separa gruppi di proteine con mobilità simile",
+        "Perché non è in grado di separare le immunoglobuline",
+        "Perché richiede sempre una biopsia epatica di conferma",
+        "Perché misura solo la carica e non la massa delle proteine"
+      ],
+      "answer": 1,
+      "explain": "Ogni frazione elettroforetica contiene numerose proteine diverse, quindi un'alterazione di frazione non identifica la singola proteina responsabile. Per questo si ricorre a metodiche più specifiche, come l'immunofissazione o il dosaggio immunologico delle singole proteine.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q030",
+      "q": "Quale condizione può provocare una perdita di proteine con le urine e quindi un profilo proteico alterato?",
+      "choices": [
+        "Una malattia renale con proteinuria",
+        "Una disidratazione marcata",
+        "Un mieloma multiplo in fase iniziale",
+        "Un'infiammazione acuta delle vie aeree",
+        "Una steatosi epatica lieve"
+      ],
+      "answer": 0,
+      "explain": "Le patologie renali che causano proteinuria determinano una perdita di proteine, in particolare albumina, con conseguente riduzione delle proteine totali. La disidratazione tende invece ad aumentare le proteine totali per emoconcentrazione e non comporta perdita urinaria di proteine.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q031",
+      "q": "Se le proteine totali sono 7,0 g/dL e l'albumina rappresenta il 60% del totale, quale è la concentrazione approssimativa dell'albumina?",
+      "choices": [
+        "2,8 g/dL",
+        "3,5 g/dL",
+        "4,2 g/dL",
+        "5,6 g/dL",
+        "6,0 g/dL"
+      ],
+      "answer": 2,
+      "explain": "Il 60% di 7,0 g/dL corrisponde a 0,60 per 7,0, cioè 4,2 g/dL, valore compreso nell'intervallo di riferimento dell'albumina. Il valore di 3,5 g/dL corrisponderebbe al 50% del totale, mentre 5,6 g/dL corrisponderebbe all'80%.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q032",
+      "q": "Se l'albumina è 3,0 g/dL e le globuline totali sono 4,0 g/dL, quale è il rapporto A/G e come si interpreta?",
+      "choices": [
+        "1,33, rapporto nella norma per prevalenza dell'albumina",
+        "0,43, rapporto decisamente ridotto rispetto alla norma",
+        "7,0, rapporto molto aumentato per eccesso di globuline",
+        "1,00, rapporto al limite inferiore della norma",
+        "0,75, rapporto invertito rispetto alla norma"
+      ],
+      "answer": 4,
+      "explain": "Il rapporto A/G si calcola dividendo l'albumina per le globuline, quindi 3,0 diviso 4,0 equivale a 0,75, un valore inferiore a 1 che indica inversione del rapporto. Il valore 1,33 si otterrebbe con globuline pari a 2,25 g/dL, mentre 7,0 è la somma delle due concentrazioni e non un rapporto.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q033",
+      "q": "Quale elemento distingue una gammopatia monoclonale da un aumento policlonale delle gamma?",
+      "choices": [
+        "L'aumento policlonale delle gamma è sempre dovuto a un mieloma",
+        "La monoclonale dà una banda stretta, la policlonale un aumento diffuso",
+        "La gammopatia monoclonale interessa soltanto le globuline alfa-2",
+        "L'aumento policlonale comporta la scomparsa dell'albumina",
+        "Le due condizioni sono indistinguibili all'elettroforesi"
+      ],
+      "answer": 1,
+      "explain": "Nelle gammopatie monoclonali una singola popolazione di plasmacellule produce un'unica immunoglobulina, che compare come banda stretta e omogenea; nelle risposte policlonali, tipiche delle infezioni croniche e delle malattie autoimmuni, l'aumento della frazione gamma è diffuso. Il mieloma multiplo è una causa di gammopatia monoclonale, non di aumento policlonale.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q034",
+      "q": "Quale esame permette di tipizzare la classe dell'immunoglobulina responsabile di una componente monoclonale?",
+      "choices": [
+        "Il dosaggio delle transaminasi",
+        "L'emocromo con formula",
+        "Il dosaggio degli elettroliti sierici",
+        "L'immunofissazione",
+        "La conta delle piastrine"
+      ],
+      "answer": 3,
+      "explain": "L'immunofissazione combina l'elettroforesi con anticorpi specifici e permette di stabilire se la componente monoclonale appartiene, per esempio, alle IgG o alle IgA e se presenta catene leggere kappa o lambda. L'emocromo e il dosaggio degli elettroliti non identificano la natura dell'immunoglobulina.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q035",
+      "q": "Un paziente disidratato presenta proteine totali aumentate con albumina nei limiti: quale interpretazione è più corretta?",
+      "choices": [
+        "Si tratta di un aumento relativo da emoconcentrazione",
+        "Si tratta di una vera iperproduzione epatica di proteine",
+        "Si tratta di una perdita renale di proteine con le urine",
+        "Si tratta di una malnutrizione proteica con ipoalbuminemia",
+        "Si tratta di un deficit di sintesi epatica delle proteine"
+      ],
+      "answer": 0,
+      "explain": "La disidratazione riduce il volume plasmatico e concentra le proteine già presenti, dando un aumento relativo che non indica una maggiore produzione. Un'iperproduzione si osserva invece per le proteine della fase acuta, mentre deficit di sintesi e malnutrizione riducono le proteine plasmatiche.",
+      "slide": 8
+    },
+    {
+      "id": "d05-b01-q036",
+      "q": "Quale enzima avvia la digestione delle proteine nello stomaco?",
+      "choices": [
+        "La tripsina",
+        "La carbossipeptidasi pancreatica",
+        "La pepsina",
+        "L'amilasi salivare",
+        "La lipasi pancreatica"
+      ],
+      "answer": 2,
+      "explain": "Nello stomaco la pepsina, secreta come pepsinogeno e attivata dall'acido cloridrico, avvia la digestione delle proteine in peptidi. La tripsina e la carbossipeptidasi agiscono invece nel lume intestinale dopo la secrezione pancreatica, mentre amilasi e lipasi digeriscono carboidrati e lipidi.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q037",
+      "q": "Quale gruppo di enzimi pancreatici completa la digestione delle proteine nel piccolo intestino?",
+      "choices": [
+        "Pepsina, rennina e catepsina gastrica",
+        "Amilasi, lipasi e colesterolo esterasi",
+        "Lattasi, saccarasi e maltasi intestinali",
+        "Transaminasi, fosfatasi alcalina e aldolasi",
+        "Tripsina, chimotripsina e carbossipeptidasi"
+      ],
+      "answer": 4,
+      "explain": "Il pancreas secerne proteasi come tripsina, chimotripsina e carbossipeptidasi, che idrolizzano i peptidi nel piccolo intestino fino a formare amminoacidi e piccoli peptidi. L'amilasi e la lipasi digeriscono rispettivamente carboidrati e lipidi, mentre le transaminasi sono enzimi intracellulari del metabolismo degli amminoacidi.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q038",
+      "q": "In quale forma vengono prevalentemente assorbiti gli amminoacidi derivanti dalla digestione delle proteine?",
+      "choices": [
+        "Solo come proteine intatte non digerite",
+        "Come amminoacidi liberi e di- o tripeptidi",
+        "Esclusivamente come urea prodotta dal fegato",
+        "Come acidi grassi a catena corta",
+        "Solo come amminoacidi a catena ramificata"
+      ],
+      "answer": 1,
+      "explain": "L'assorbimento intestinale avviene tramite trasportatori specifici che introducono gli amminoacidi liberi e i di- o tripeptidi nelle cellule della mucosa. Le proteine intatte vengono in larga parte degradate, mentre l'urea è il prodotto finale del catabolismo dell'azoto e non una forma di assorbimento.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q039",
+      "q": "Quale coenzima è coinvolto nelle reazioni di transaminazione degli amminoacidi?",
+      "choices": [
+        "Il NADP+, coenzima delle reazioni anaboliche",
+        "Il coenzima A, derivato dell'acido pantotenico",
+        "Il tetraidrofolato, derivato dell'acido folico",
+        "Il piridossalfosfato, derivato della vitamina B6",
+        "La biotina, coenzima delle carbossilasi"
+      ],
+      "answer": 3,
+      "explain": "Le transaminasi trasferiscono il gruppo amminico da un amminoacido a un chetoacido utilizzando il piridossalfosfato, forma coenzimatica della vitamina B6, come accettore transitorio del gruppo amminico. Il coenzima A e la biotina intervengono in altre reazioni metaboliche, come la decarbossilazione ossidativa e le carbossilazioni.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q040",
+      "q": "Qual è la funzione principale del ciclo dell'urea?",
+      "choices": [
+        "Convertire l'azoto amminico in urea eliminabile con le urine",
+        "Produrre ATP mediante la fosforilazione ossidativa mitocondriale",
+        "Sintetizzare gli amminoacidi essenziali dai chetoacidi",
+        "Trasportare gli acidi grassi nel mitocondrio tramite la carnitina",
+        "Convertire il glucosio in glicogeno nel fegato e nel muscolo"
+      ],
+      "answer": 0,
+      "explain": "Il ciclo dell'urea trasforma l'ammoniaca, tossica per l'organismo, in urea meno tossica e facilmente eliminabile con le urine. La fosforilazione ossidativa produce ATP e la sintesi degli amminoacidi essenziali avviene per vie diverse, non nel ciclo dell'urea.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q041",
+      "q": "Che cosa caratterizza un amminoacido glucogenico rispetto a uno chetogenico?",
+      "choices": [
+        "Il glucogenico è un amminoacido essenziale, il chetogenico no",
+        "Il glucogenico contiene zolfo, il chetogenico non lo contiene",
+        "Il glucogenico dà glucosio, il chetogenico dà corpi chetonici",
+        "Il glucogenico si assorbe nello stomaco, il chetogenico nell'intestino",
+        "Il glucogenico è di origine vegetale, il chetogenico animale"
+      ],
+      "answer": 2,
+      "explain": "Gli amminoacidi glucogenici vengono degradati a intermedi che possono essere utilizzati per la gluconeogenesi, mentre quelli chetogenici danno origine ad acetil-CoA o ad acetoacetato e alimentano la sintesi dei corpi chetonici. La distinzione non dipende dall'essenzialità dell'amminoacido né dalla sua origine alimentare.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q042",
+      "q": "Che cosa accade al metabolismo delle proteine durante il digiuno prolungato, sotto l'effetto del glucagone?",
+      "choices": [
+        "Aumenta la sintesi proteica nei muscoli scheletrici",
+        "Aumenta la proteolisi e gli amminoacidi alimentano la gluconeogenesi",
+        "Si blocca completamente il catabolismo degli amminoacidi",
+        "L'urea prodotta dal fegato diminuisce fino ad annullarsi",
+        "Gli amminoacidi vengono tutti convertiti in acidi grassi"
+      ],
+      "answer": 1,
+      "explain": "Nel digiuno il glucagone favorisce la degradazione delle proteine, soprattutto muscolari, e gli amminoacidi liberati vengono impiegati dal fegato per la gluconeogenesi, contribuendo a mantenere la glicemia. Il catabolismo degli amminoacidi comporta la produzione di urea, che quindi non si annulla.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q043",
+      "q": "Come vengono misurate abitualmente le transaminasi nel sangue?",
+      "choices": [
+        "Con una elettroforesi delle proteine plasmatiche",
+        "Con una conta leucocitaria automatizzata con formula",
+        "Con una misura della pressione osmotica del plasma",
+        "Con un dosaggio immunologico degli anticorpi specifici",
+        "Con un metodo enzimatico spettrofotometrico"
+      ],
+      "answer": 4,
+      "explain": "Le transaminasi si dosano con metodi enzimatici spettrofotometrici, che accoppiano la reazione a quella di enzimi ausiliari e seguono la variazione di assorbanza del NADH. L'elettroforesi separa le proteine plasmatiche e non misura l'attività catalitica di questi enzimi.",
+      "slide": 2
+    },
+    {
+      "id": "d05-b01-q044",
+      "q": "In quale frazione del tracciato elettroforetico si localizza di norma una componente monoclonale di tipo IgG?",
+      "choices": [
+        "Nella frazione gamma",
+        "Nella frazione alfa-1",
+        "Nella frazione alfa-2",
+        "Nell'albumina",
+        "Nella frazione beta"
+      ],
+      "answer": 0,
+      "explain": "Le IgG sono immunoglobuline e migrano quindi nella frazione gamma, dove la componente monoclonale appare come un picco stretto. Le frazioni alfa e beta contengono invece proteine di trasporto e della fase acuta, e l'albumina ha una mobilità completamente diversa.",
+      "slide": 3
+    },
+    {
+      "id": "d05-b01-q045",
+      "q": "Perché in elettroforesi le proteine plasmatiche migrano verso l'anodo?",
+      "choices": [
+        "Perché il tampone ha pH 2,0 e le proteine sono cariche positivamente",
+        "Perché vengono trascinate dal flusso dell'acqua nel supporto",
+        "Perché a pH alcalino acquistano una carica negativa netta",
+        "Perché le attira il campo magnetico dello strumento",
+        "Perché la loro massa è inferiore a quella delle molecole d'acqua"
+      ],
+      "answer": 2,
+      "explain": "A pH alcalino, intorno a 8,6, le proteine plasmatiche possiedono una carica netta negativa e migrano verso l'elettrodo positivo, cioè l'anodo. A pH acido la carica netta sarebbe positiva e le proteine migrerebbero in direzione opposta, verso il catodo.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q046",
+      "q": "In quale ordine migrano le frazioni proteiche in una normale elettroforesi, dalla più veloce alla più lenta?",
+      "choices": [
+        "Gamma, beta, alfa-2, alfa-1, albumina",
+        "Albumina, gamma, beta, alfa-2, alfa-1",
+        "Beta, alfa-1, alfa-2, gamma, albumina",
+        "Alfa-2, alfa-1, albumina, beta, gamma",
+        "Albumina, alfa-1, alfa-2, beta, gamma"
+      ],
+      "answer": 4,
+      "explain": "L'albumina è la frazione più veloce e migra più lontano verso l'anodo, seguita nell'ordine da alfa-1, alfa-2, beta e infine gamma, la più lenta. L'ordine inverso descrive la posizione delle bande partendo dal catodo, non la velocità di migrazione.",
+      "slide": 4
+    },
+    {
+      "id": "d05-b01-q047",
+      "q": "Perché una marcata riduzione dell'albumina può causare edemi?",
+      "choices": [
+        "Perché aumenta la pressione idrostatica nei capillari",
+        "Perché cala la pressione oncotica e il liquido passa nell'interstizio",
+        "Perché aumenta la permeabilità dei capillari linfatici",
+        "Perché si riduce la coagulazione del sangue nei capillari",
+        "Perché aumenta la ritenzione renale di potassio e di acqua"
+      ],
+      "answer": 1,
+      "explain": "L'albumina è il principale responsabile della pressione oncotica plasmatica; quando diminuisce, l'acqua fuoriesce dai capillari verso lo spazio interstiziale e compaiono edemi. L'aumento della pressione idrostatica è un meccanismo diverso, tipico dello scompenso cardiaco, e non dipende dalla concentrazione dell'albumina.",
+      "slide": 5
+    },
+    {
+      "id": "d05-b01-q048",
+      "q": "Nella quantificazione densitometrica del tracciato elettroforetico, che cosa rappresenta l'area di ciascun picco?",
+      "choices": [
+        "La quantità relativa di proteine contenuta in quella frazione",
+        "Il peso molecolare medio delle proteine della frazione",
+        "Il numero di amminoacidi della proteina principale",
+        "La carica elettrica netta della frazione",
+        "La velocità di migrazione della frazione"
+      ],
+      "answer": 0,
+      "explain": "Il densitometro misura l'assorbanza del tracciato e l'area di ogni picco è proporzionale alla quantità di proteine di quella frazione, espressa come percentuale del totale. Carica e velocità di migrazione determinano la posizione della banda, non l'area del picco.",
+      "slide": 6
+    },
+    {
+      "id": "d05-b01-q049",
+      "q": "Un aumento diffuso e policlonale della frazione gamma si osserva tipicamente in quale situazione?",
+      "choices": [
+        "Nel deficit di alfa-1-antitripsina con enfisema",
+        "Nella sindrome nefrosica con proteinuria",
+        "Nell'emoconcentrazione da disidratazione marcata",
+        "Nelle infezioni croniche e nelle malattie autoimmuni",
+        "Nel deficit di ceruloplasmina con accumulo di rame"
+      ],
+      "answer": 3,
+      "explain": "Nelle infezioni croniche e nelle malattie autoimmuni molti cloni di linfociti B producono immunoglobuline diverse, determinando un aumento policlonale e diffuso della frazione gamma. Il deficit di alfa-1-antitripsina e la sindrome nefrosica modificano soprattutto le frazioni alfa e l'albumina, non producono un aumento policlonale delle gamma.",
+      "slide": 7
+    },
+    {
+      "id": "d05-b01-q050",
+      "q": "Un tracciato che mostra albumina ridotta con aumento delle alfa-1 e delle alfa-2 è tipico di quale condizione?",
+      "choices": [
+        "Di un mieloma multiplo con componente monoclonale",
+        "Di un deficit isolato di immunoglobuline sieriche",
+        "Di un'infiammazione acuta con proteine della fase acuta",
+        "Di una disidratazione con emoconcentrazione plasmatica",
+        "Di un deficit di ferro con riduzione della transferrina"
+      ],
+      "answer": 2,
+      "explain": "Nella infiammazione acuta il fegato aumenta la sintesi delle proteine della fase acuta, che migrano nelle frazioni alfa-1 e alfa-2, e riduce quella dell'albumina, considerata una proteina della fase acuta negativa. Il mieloma multiplo produce invece una banda monoclonale nella frazione gamma.",
+      "slide": 9
+    }
+  ]
+}

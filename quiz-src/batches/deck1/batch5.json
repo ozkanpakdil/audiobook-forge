@@ -1,0 +1,707 @@
+{
+ "deck": 1,
+ "batch": 5,
+ "topic": "I carboidrati e i lipidi: monosaccaridi, disaccaridi, polisaccaridi e lipidi",
+ "questions": [
+  {
+   "id": "d01-b05-q001",
+   "q": "Il glucosio è un aldoesoso. Che cosa significa questa classificazione?",
+   "choices": [
+    "Che possiede un gruppo aldeidico e sei atomi di carbonio",
+    "Che possiede un gruppo chetonico e sei atomi di carbonio",
+    "Che possiede sei gruppi alcolici e nessun carbonile",
+    "Che possiede un gruppo carbossilico e sei atomi di carbonio",
+    "Che possiede un gruppo amminico e cinque atomi di carbonio"
+   ],
+   "answer": 0,
+   "explain": "Il glucosio è un aldoesoso perché la sua catena di sei atomi di carbonio porta un gruppo aldeidico sul carbonio uno. Il fruttosio, l'altro esoso di riferimento, è invece un chetoesoso: il suo gruppo carbonilico è di natura chetonica, non aldeidica.",
+   "slide": 70
+  },
+  {
+   "id": "d01-b05-q002",
+   "q": "In quale posizione della catena si trova il gruppo carbonilico del fruttosio?",
+   "choices": [
+    "Sul carbonio uno",
+    "Sul carbonio due",
+    "Sul carbonio tre",
+    "Sul carbonio cinque",
+    "Sul carbonio sei"
+   ],
+   "answer": 1,
+   "explain": "Il fruttosio è un chetoesoso e il suo gruppo carbonilico, di natura chetonica, si trova sul carbonio due. Nel glucosio lo stesso gruppo è un'aldeide sul carbonio uno: proprio per questo il fruttosio non è classificabile come aldoesoso.",
+   "slide": 70
+  },
+  {
+   "id": "d01-b05-q003",
+   "q": "Quale caratteristica distingue il deossiribosio dal ribosio?",
+   "choices": [
+    "Ha un atomo di carbonio in più nella catena, sul carbonio cinque",
+    "Ha un gruppo fosfato legato al carbonio cinque della catena",
+    "Manca di un ossigeno, cioè di un gruppo ossidrilico, sul carbonio due",
+    "Contiene un gruppo aldeidico al posto di un gruppo chetonico",
+    "È un esoso ramificato a sei atomi invece di un pentoso lineare"
+   ],
+   "answer": 2,
+   "explain": "Il deossiribosio è un deossimonosaccaride: rispetto al ribosio perde l'ossigeno sul carbonio due e proprio questa assenza lo rende il monosaccaride caratteristico del DNA. Il gruppo fosfato non appartiene al monosaccaride in sé, ma viene aggiunto quando si costruisce il nucleotide.",
+   "slide": 71
+  },
+  {
+   "id": "d01-b05-q004",
+   "q": "Che cos'è un disaccaride?",
+   "choices": [
+    "Un monosaccaride che contiene due gruppi aldeidici liberi",
+    "Una catena di più di dieci monosaccaridi legati fra loro",
+    "Un lipide formato da due acidi grassi e da un glicerolo",
+    "L'unione di due monosaccaridi con un legame glicosidico alfa o beta",
+    "Un monosaccaride modificato con un gruppo amminico"
+   ],
+   "answer": 3,
+   "explain": "Il disaccaride nasce dall'unione di due monosaccaridi tramite un legame glicosidico, che può avere configurazione alfa o beta, e questa configurazione ne condiziona la digestione. Una catena di molti monosaccaridi è invece un polisaccaride, non un disaccaride.",
+   "slide": 72
+  },
+  {
+   "id": "d01-b05-q005",
+   "q": "Da quali monosaccaridi è formato il saccarosio?",
+   "choices": [
+    "Glucosio e glucosio",
+    "Glucosio e galattosio",
+    "Fruttosio e fruttosio",
+    "Galattosio e fruttosio",
+    "Glucosio e fruttosio"
+   ],
+   "answer": 4,
+   "explain": "Il saccarosio, lo zucchero da cucina, è il disaccaride formato da una molecola di glucosio e una di fruttosio. La coppia glucosio-galattosio corrisponde invece al lattosio, il disaccaride del latte, ed è il distrattore più insidioso.",
+   "slide": 72
+  },
+  {
+   "id": "d01-b05-q006",
+   "q": "Quale disaccaride è costituito da glucosio e galattosio?",
+   "choices": [
+    "Il lattosio",
+    "Il saccarosio",
+    "Il maltosio",
+    "L'amilosio",
+    "Il glicogeno"
+   ],
+   "answer": 0,
+   "explain": "Il lattosio, lo zucchero presente nel latte, è formato dall'unione di glucosio e galattosio. Il maltosio è invece formato da due unità di glucosio, mentre amilosio e glicogeno sono polisaccaridi e non disaccaridi.",
+   "slide": 72
+  },
+  {
+   "id": "d01-b05-q007",
+   "q": "Il maltosio, disaccaride tipico dei cereali, deriva dall'unione di quali unità?",
+   "choices": [
+    "Glucosio e fruttosio",
+    "Due molecole di glucosio",
+    "Galattosio e fruttosio",
+    "Due molecole di fruttosio",
+    "Glucosio e galattosio"
+   ],
+   "answer": 1,
+   "explain": "Il maltosio è un dimero di glucosio, cioè contiene due unità di glucosio unite da legame glicosidico. La coppia glucosio-fruttosio identifica il saccarosio, quindi non può descrivere il maltosio.",
+   "slide": 72
+  },
+  {
+   "id": "d01-b05-q008",
+   "q": "Dove si trovano gli enzimi maltasi, lattasi e saccarasi che digeriscono i disaccaridi?",
+   "choices": [
+    "Nel succo gastrico dello stomaco, insieme alla pepsina",
+    "Nel lume del colon, insieme alla flora batterica",
+    "Sulla superficie esterna dei microvilli intestinali",
+    "All'interno dei globuli rossi, legati all'emoglobina",
+    "Nel fegato, da cui sono riversati nella bile"
+   ],
+   "answer": 2,
+   "explain": "Maltasi, lattasi e saccarasi sono enzimi della membrana degli enterociti e agiscono sulla superficie esterna dei microvilli, a contatto con il contenuto intestinale. Il succo gastrico e la bile non contengono questi enzimi, che non hanno quindi alcun ruolo nella digestione dei disaccaridi.",
+   "slide": 73
+  },
+  {
+   "id": "d01-b05-q009",
+   "q": "Quali monosaccaridi vengono assorbiti dal nostro corpo dopo l'idrolisi dei legami glicosidici?",
+   "choices": [
+    "Glucosio, saccarosio e maltosio",
+    "Fruttosio, lattosio e galattosio",
+    "Solo glucosio e fruttosio",
+    "Glucosio, fruttosio e galattosio",
+    "Glucosio, galattosio e amilosio"
+   ],
+   "answer": 3,
+   "explain": "L'idrolisi dei disaccaridi libera glucosio, fruttosio e galattosio, che sono i monosaccaridi effettivamente assorbiti dalla mucosa intestinale. Saccarosio, lattosio e maltosio sono disaccaridi e devono prima essere idrolizzati, quindi non vengono assorbiti come tali.",
+   "slide": 73
+  },
+  {
+   "id": "d01-b05-q010",
+   "q": "La carenza di quale enzima causa l'intolleranza al lattosio?",
+   "choices": [
+    "La maltasi",
+    "La saccarasi",
+    "L'amilasi salivare",
+    "La cellulasi",
+    "La lattasi"
+   ],
+   "answer": 4,
+   "explain": "Se la lattasi, l'enzima dei microvilli che idrolizza il lattosio, è carente, il disaccaride non viene scisso e raggiunge non digerito il colon, provocando i sintomi dell'intolleranza. Maltasi e saccarasi agiscono su altri disaccaridi, mentre la cellulasi non è prodotta dall'uomo.",
+   "slide": 73
+  },
+  {
+   "id": "d01-b05-q011",
+   "q": "Che cosa caratterizza un omopolisaccaride?",
+   "choices": [
+    "È formato dalla ripetizione di un solo tipo di monosaccaride",
+    "È formato da due o più monosaccaridi diversi",
+    "È formato da monosaccaridi legati a lipidi o a proteine",
+    "È formato da due monosaccaridi uniti da un legame glicosidico",
+    "È formato da amminoacidi ripetuti in catena"
+   ],
+   "answer": 0,
+   "explain": "L'omopolisaccaride è un polimero in cui si ripete sempre lo stesso monosaccaride, come accade in amido, glicogeno e cellulosa. Quando i monosaccaridi sono di tipo diverso si parla di eteropolisaccaride, non di omopolisaccaride.",
+   "slide": 74
+  },
+  {
+   "id": "d01-b05-q012",
+   "q": "Quale dei seguenti è un esempio di eteropolisaccaride?",
+   "choices": [
+    "Il glicogeno, omopolisaccaride di riserva degli animali",
+    "I mucopolisaccaridi, formati da monosaccaridi diversi",
+    "La cellulosa, omopolisaccaride strutturale dei vegetali",
+    "L'amido, omopolisaccaride di riserva dei vegetali",
+    "Il maltosio, disaccaride formato da due glucosi"
+   ],
+   "answer": 1,
+   "explain": "I mucopolisaccaridi sono eteropolisaccaridi perché contengono due o più monosaccaridi diversi. Amido, glicogeno e cellulosa sono invece omopolisaccaridi, formati dalla sola ripetizione di glucosio, e il maltosio è soltanto un disaccaride.",
+   "slide": 74
+  },
+  {
+   "id": "d01-b05-q013",
+   "q": "Come si definiscono i polisaccaridi coniugati?",
+   "choices": [
+    "Polisaccaridi formati da un solo monosaccaride ripetuto",
+    "Polisaccaridi che si trovano soltanto nel regno animale",
+    "Polisaccaridi uniti a lipidi o a proteine",
+    "Polisaccaridi che hanno perso il legame glicosidico",
+    "Polisaccaridi con meno di dieci unità saccaridiche"
+   ],
+   "answer": 2,
+   "explain": "I polisaccaridi coniugati risultano dall'unione di monosaccaridi con lipidi o proteine e comprendono quindi glicolipidi e glicoproteine. La ripetizione di un solo monosaccaride definisce invece un omopolisaccaride, che non è necessariamente coniugato con altre molecole.",
+   "slide": 74
+  },
+  {
+   "id": "d01-b05-q014",
+   "q": "Quali sono i polisaccaridi di riserva rispettivamente dei vegetali e degli animali?",
+   "choices": [
+    "Cellulosa nei vegetali e mucopolisaccaridi negli animali",
+    "Amido nei vegetali e cellulosa negli animali",
+    "Glicogeno nei vegetali e amido negli animali",
+    "Amido nei vegetali e glicogeno negli animali",
+    "Mucopolisaccaridi nei vegetali e glicogeno negli animali"
+   ],
+   "answer": 3,
+   "explain": "I vegetali accumulano glucosio sotto forma di amido, mentre gli animali lo accumulano come glicogeno, soprattutto nel fegato e nel muscolo. La cellulosa e i mucopolisaccaridi sono invece polisaccaridi strutturali, con funzione di sostegno.",
+   "slide": 75
+  },
+  {
+   "id": "d01-b05-q015",
+   "q": "Dove svolgono la loro funzione strutturale i mucopolisaccaridi negli animali?",
+   "choices": [
+    "Nel citoplasma degli adipociti come riserva energetica",
+    "Nel nucleo cellulare, associati ai filamenti di DNA",
+    "Nel lume intestinale, come enzimi della digestione",
+    "Nel sangue, legati all'emoglobina dei globuli rossi",
+    "Nelle membrane e negli spazi extracellulari"
+   ],
+   "answer": 4,
+   "explain": "I mucopolisaccaridi sono polisaccaridi di sostegno che si trovano nelle membrane, nelle pareti cellulari e negli spazi extracellulari, dove contribuiscono alla coesione dei tessuti. Non hanno funzione di riserva energetica, che spetta invece al glicogeno.",
+   "slide": 75
+  },
+  {
+   "id": "d01-b05-q016",
+   "q": "Quale gruppo di polisaccaridi è formato esclusivamente da omopolisaccaridi?",
+   "choices": [
+    "Amido, glicogeno e cellulosa",
+    "Amido, mucopolisaccaridi e cellulosa",
+    "Glicogeno, glicolipidi e amido",
+    "Cellulosa, glicoproteine e glicogeno",
+    "Mucopolisaccaridi, glicolipidi e glicoproteine"
+   ],
+   "answer": 0,
+   "explain": "Amido, glicogeno e cellulosa sono tutti omopolisaccaridi perché derivano dalla ripetizione della sola unità di glucosio. Mucopolisaccaridi, glicolipidi e glicoproteine contengono invece monosaccaridi diversi o sono coniugati con altre molecole.",
+   "slide": 76
+  },
+  {
+   "id": "d01-b05-q017",
+   "q": "Perché la cellulosa non è digeribile dai vertebrati, con l'eccezione dei ruminanti?",
+   "choices": [
+    "Perché è solubile in acqua e viene persa con le feci",
+    "Perché manca l'enzima capace di idrolizzare i suoi legami beta-glicosidici",
+    "Perché contiene azoto e non può essere attaccata dagli enzimi",
+    "Perché è un disaccaride troppo piccolo per essere idrolizzato",
+    "Perché è formata da fruttosio invece che da glucosio"
+   ],
+   "answer": 1,
+   "explain": "La cellulosa è un polimero di glucosio con legami beta-glicosidici, che i vertebrati non possiedono gli enzimi capaci di scindere; i ruminanti la digeriscono grazie ai microrganismi simbionti del rumine. La cellulosa non è un disaccaride e non contiene azoto, quindi le altre spiegazioni non sono corrette.",
+   "slide": 77
+  },
+  {
+   "id": "d01-b05-q018",
+   "q": "Quale funzione svolge la cellulosa nella parete delle cellule vegetali?",
+   "choices": [
+    "Funge da riserva di glucosio per la germinazione",
+    "Trasporta l'acqua dalle radici alle foglie",
+    "Conferisce resistenza osmotica e meccanica",
+    "Catalizza la sintesi della clorofilla",
+    "Costituisce il materiale genetico della cellula"
+   ],
+   "answer": 2,
+   "explain": "Nella parete cellulare la cellulosa forma fibre rigide che danno alla cellula vegetale resistenza sia meccanica sia osmotica, cioè la capacità di sopportare la pressione dell'acqua. La riserva di glucosio dei vegetali è invece l'amido, non la cellulosa.",
+   "slide": 77
+  },
+  {
+   "id": "d01-b05-q019",
+   "q": "Per quale meccanismo una dieta ricca di fibre contribuisce a prevenire i tumori del colon?",
+   "choices": [
+    "Neutralizza direttamente le sostanze cancerogene con un'azione enzimatica",
+    "Aumenta l'assorbimento dei grassi animali nel colon",
+    "Riduce la produzione di acidi biliari da parte del fegato",
+    "Accelera la peristalsi, riducendo il contatto con i cancerogeni",
+    "Rende più alcalino il contenuto gastrico, diluendo i cancerogeni"
+   ],
+   "answer": 3,
+   "explain": "Le fibre accelerano la peristalsi e quindi diminuiscono il tempo di contatto tra la mucosa del colon e le sostanze cancerogene presenti nel lume. Un secondo effetto protettivo è la riduzione percentuale dei grassi animali nella dieta, che sembrano aumentare il rischio di questi tumori.",
+   "slide": 78
+  },
+  {
+   "id": "d01-b05-q020",
+   "q": "Oltre ai ruminanti, quali organismi sono in grado di digerire la cellulosa?",
+   "choices": [
+    "Tutti i mammiferi marini, per mezzo della flora del loro intestino",
+    "Gli uccelli rapaci, grazie agli enzimi del loro stomaco",
+    "I pesci ossei di acqua dolce, grazie alla flora delle branchie",
+    "Tutti i primati, compreso l'uomo, grazie alla cellulasi salivare",
+    "Le termiti e alcune specie di scarafaggi, grazie ai simbionti"
+   ],
+   "answer": 4,
+   "explain": "Oltre ai ruminanti, la cellulosa può essere digerita dalle termiti e da alcune specie di scarafaggi, che ospitano microrganismi capaci di scindere i legami beta-glicosidici. L'uomo e gli altri primati non producono questi enzimi e non possono utilizzare la cellulosa come fonte energetica.",
+   "slide": 78
+  },
+  {
+   "id": "d01-b05-q021",
+   "q": "Per quale motivo i vegetali accumulano il glucosio sotto forma di amido?",
+   "choices": [
+    "Per limitare la pressione osmotica all'interno delle cellule",
+    "Per rendere il glucosio più facilmente assorbibile dagli animali",
+    "Per aumentare la pressione osmotica e richiamare acqua",
+    "Per trasformare il glucosio in cellulosa durante la notte",
+    "Per continuare la fotosintesi anche nelle ore di buio"
+   ],
+   "answer": 0,
+   "explain": "Se il glucosio restasse libero in grandi quantità richiamerebbe acqua e farebbe salire pericolosamente la pressione osmotica; accumularlo come amido, polimero osmoticamente poco attivo, evita questo problema. L'amido non serve quindi ad aumentare la pressione osmotica, ma a contenerla.",
+   "slide": 79
+  },
+  {
+   "id": "d01-b05-q022",
+   "q": "Che cosa accade quando l'amido viene posto in acqua?",
+   "choices": [
+    "Si dissolve completamente formando una soluzione limpida",
+    "Si rigonfia, perché l'acqua rompe i legami a idrogeno fra le catene",
+    "Si idrolizza spontaneamente in glucosio senza enzimi",
+    "Precipita sul fondo, perché è del tutto insolubile in acqua",
+    "Si trasforma in cellulosa, perdendo l'acqua di idratazione"
+   ],
+   "answer": 1,
+   "explain": "L'acqua penetra tra le catene dell'amido, rompe i legami a idrogeno che le tengono unite e ne forma di nuovi con la superficie della molecola, provocando il rigonfiamento. L'amido non si dissolve come uno zucchero semplice, ma non è nemmeno una fibra insolubile come la cellulosa.",
+   "slide": 79
+  },
+  {
+   "id": "d01-b05-q023",
+   "q": "Da quali componenti è formato l'amido?",
+   "choices": [
+    "Soltanto da amilosio lineare, senza componenti ramificate",
+    "Da glicogeno e cellulosa in parti uguali fra loro",
+    "Da amilosio al venti per cento e amilopectina all'ottanta per cento",
+    "Da amilopectina al venti per cento e amilosio all'ottanta per cento",
+    "Da maltosio e saccarosio legati fra loro da legami glicosidici"
+   ],
+   "answer": 2,
+   "explain": "L'amido è una miscela di due polimeri di glucosio: l'amilosio, la frazione lineare presente per circa il venti per cento, e l'amilopectina, la frazione ramificata presente per circa l'ottanta per cento. Invertire le due percentuali è l'errore più comune, perché l'amilopectina è il componente largamente prevalente.",
+   "slide": 80
+  },
+  {
+   "id": "d01-b05-q024",
+   "q": "Quali legami glicosidici si trovano nell'amilopectina?",
+   "choices": [
+    "Soltanto legami beta(1→4), come nella cellulosa",
+    "Soltanto legami alfa(1→6) lungo tutta la catena",
+    "Legami alfa(1→4) e beta(1→4) alternati fra loro",
+    "Legami alfa(1→4) lineari e alfa(1→6) alle ramificazioni",
+    "Legami peptidici e glicosidici alternati nella stessa catena"
+   ],
+   "answer": 3,
+   "explain": "Nell'amilopectina le unità di glucosio sono unite da legami alfa(1→4) lungo la catena e da legami alfa(1→6) nei punti in cui la catena si ramifica. I legami beta(1→4) sono caratteristici della cellulosa, che infatti ha una struttura lineare e non ramificata.",
+   "slide": 80
+  },
+  {
+   "id": "d01-b05-q025",
+   "q": "Quale monosaccaride costituisce l'unità ripetuta dell'amido?",
+   "choices": [
+    "Il fruttosio",
+    "Il galattosio",
+    "Il beta-glucosio",
+    "Il deossiribosio",
+    "L'alfa-glucosio"
+   ],
+   "answer": 4,
+   "explain": "L'amido è un polimero di alfa-glucosio: la configurazione alfa del carbonio anomerico è ciò che permette all'uomo di digerirlo con le alfa-glucosidasi. Il beta-glucosio è invece l'unità della cellulosa, che resta indigeribile per l'uomo.",
+   "slide": 80
+  },
+  {
+   "id": "d01-b05-q026",
+   "q": "Quante unità saccaridiche contiene in media una molecola di glicogeno?",
+   "choices": [
+    "Da sessantamila a seicentomila unità",
+    "Da sei a sessanta unità",
+    "Da seicento a seimila unità",
+    "Da due a dieci unità",
+    "Da sei milioni a sessanta milioni di unità"
+   ],
+   "answer": 0,
+   "explain": "Il glicogeno è un polimero molto grande, formato da circa sessantamila fino a seicentomila unità saccaridiche. Le dimensioni minori, come due o dieci unità, corrispondono a oligosaccaridi o disaccaridi e non al glicogeno.",
+   "slide": 81
+  },
+  {
+   "id": "d01-b05-q027",
+   "q": "Dove si accumula il glicogeno nei vertebrati?",
+   "choices": [
+    "Nel tessuto adiposo sotto forma di gocce lipidiche",
+    "In granuli nel fegato e nei muscoli",
+    "Nel plasma sanguigno legato all'albumina",
+    "Nelle ossa, come deposito minerale",
+    "Nel lume intestinale, pronto per l'assorbimento"
+   ],
+   "answer": 1,
+   "explain": "Il glicogeno è la principale riserva di carboidrati dei vertebrati e si accumula in granuli all'interno delle cellule del fegato e del muscolo. Nel tessuto adiposo la riserva energetica è invece costituita da trigliceridi, non da glicogeno.",
+   "slide": 82
+  },
+  {
+   "id": "d01-b05-q028",
+   "q": "Quanto glicogeno è contenuto rispettivamente nel fegato e nei muscoli di un adulto?",
+   "choices": [
+    "Da venti a quaranta grammi nel fegato e da cinquanta a sessanta grammi nei muscoli",
+    "Da duecento a quattrocento grammi nel fegato e da cinquanta a sessanta grammi nei muscoli",
+    "Da duecento a quattrocento grammi nel fegato e da cinquecento a seicento grammi nei muscoli",
+    "Da cinquecento a seicento grammi nel fegato e da duecento a quattrocento grammi nei muscoli",
+    "Da due a quattro chilogrammi sia nel fegato sia nei muscoli"
+   ],
+   "answer": 2,
+   "explain": "Il fegato contiene da duecento a quattrocento grammi di glicogeno e la massa muscolare complessiva da cinquecento a seicento grammi, perché la massa dei muscoli è molto più abbondante di quella del fegato. Scambiare le due quantità è l'errore tipico, così come sottovalutarle di dieci volte.",
+   "slide": 82
+  },
+  {
+   "id": "d01-b05-q029",
+   "q": "Qual è il vantaggio funzionale dei numerosi legami alfa(1→6) del glicogeno?",
+   "choices": [
+    "Rendono il glicogeno insolubile in acqua e quindi più stabile",
+    "Impediscono del tutto la degradazione enzimatica del polimero",
+    "Trasformano il glicogeno in un disaccaride assorbibile dall'intestino",
+    "Moltiplicano le estremità non riducenti da cui si libera il glucosio",
+    "Permettono al glicogeno di legare l'ossigeno nel tessuto muscolare"
+   ],
+   "answer": 3,
+   "explain": "Le ramificazioni alfa(1→6) moltiplicano le estremità non riducenti della molecola e quindi i punti su cui gli enzimi possono agire contemporaneamente, consentendo una mobilizzazione rapida del glucosio quando serve energia. Le ramificazioni non bloccano la degradazione, anzi la accelerano.",
+   "slide": 83
+  },
+  {
+   "id": "d01-b05-q030",
+   "q": "Come si definiscono i lipidi dal punto di vista della solubilità?",
+   "choices": [
+    "Molecole solubili in acqua e insolubili nei solventi organici",
+    "Molecole ioniche solubili nelle soluzioni saline acquose",
+    "Molecole apolari che si sciolgono soltanto in ambiente acido",
+    "Molecole polari identiche agli zuccheri per comportamento",
+    "Molecole insolubili in acqua e solubili nei solventi organici"
+   ],
+   "answer": 4,
+   "explain": "I lipidi sono definiti proprio dalla loro solubilità: sono praticamente insolubili in acqua e si sciolgono bene nei solventi organici apolari. Il comportamento opposto, cioè la solubilità in acqua, è tipico degli zuccheri e delle molecole polari.",
+   "slide": 84
+  },
+  {
+   "id": "d01-b05-q031",
+   "q": "In quale tessuto sono immagazzinati principalmente i lipidi di riserva?",
+   "choices": [
+    "Nel tessuto adiposo",
+    "Nel tessuto muscolare scheletrico",
+    "Nel tessuto osseo",
+    "Nel tessuto nervoso",
+    "Nella mucosa intestinale"
+   ],
+   "answer": 0,
+   "explain": "Il tessuto adiposo è la sede principale di deposito dei lipidi di riserva, che vi si accumulano sotto forma di trigliceridi. Il tessuto muscolare scheletrico contiene soltanto una piccola quantità di trigliceridi, destinata al consumo locale durante la contrazione.",
+   "slide": 84
+  },
+  {
+   "id": "d01-b05-q032",
+   "q": "Per quale motivo trigliceridi e fosfolipidi sono classificati come lipidi saponificabili?",
+   "choices": [
+    "Perché contengono un gruppo fosfato nella loro struttura",
+    "Perché i loro acidi grassi si idrolizzano in ambiente basico",
+    "Perché sono privi di acidi grassi e contengono soltanto steroidi",
+    "Perché sono solubili in acqua e formano micelle globulari",
+    "Perché contengono azoto nella catena carboniosa dell'alcol"
+   ],
+   "answer": 1,
+   "explain": "Un lipide è saponificabile quando la sua molecola contiene acidi grassi legati a un alcol: in ambiente basico questi legami si idrolizzano e si formano i sali degli acidi grassi, cioè i saponi. Steroidi e vitamine liposolubili non contengono acidi grassi e per questo sono detti non saponificabili.",
+   "slide": 85
+  },
+  {
+   "id": "d01-b05-q033",
+   "q": "Quale delle seguenti non è una funzione biologica dei lipidi?",
+   "choices": [
+    "Costituire componenti strutturali delle membrane cellulari",
+    "Costituire una riserva e un mezzo di trasporto di energia chimica",
+    "Catalizzare le reazioni del metabolismo energetico",
+    "Formare un rivestimento protettivo superficiale",
+    "Partecipare al riconoscimento intercellulare e all'immunità tessutale"
+   ],
+   "answer": 2,
+   "explain": "I lipidi svolgono funzioni strutturali, energetiche, di rivestimento protettivo, di riconoscimento cellulare e di precursori di vitamine e ormoni, ma non hanno funzione catalitica. La catalisi delle reazioni metaboliche è compito degli enzimi, che sono proteine.",
+   "slide": 86
+  },
+  {
+   "id": "d01-b05-q034",
+   "q": "Oltre a essere componenti delle membrane, di quali molecole i lipidi sono precursori?",
+   "choices": [
+    "Degli acidi nucleici e delle proteine strutturali",
+    "Degli enzimi digestivi e degli anticorpi",
+    "Del glucosio e del glicogeno",
+    "Delle vitamine liposolubili e degli ormoni",
+    "Dell'emoglobina e della mioglobina"
+   ],
+   "answer": 3,
+   "explain": "Fra le funzioni dei lipidi rientra quella di essere precursori di vitamine liposolubili e di ormoni, come gli ormoni steroidei. Acidi nucleici, proteine ed emoglobina non derivano dai lipidi, perché sono sintetizzati a partire da altri precursori.",
+   "slide": 86
+  },
+  {
+   "id": "d01-b05-q035",
+   "q": "In quale processo biologico i lipidi partecipano come molecole di riconoscimento?",
+   "choices": [
+    "Nella sintesi delle proteine sui ribosomi del citoplasma",
+    "Nella duplicazione del DNA durante la divisione cellulare",
+    "Nel trasporto dell'ossigeno nel sangue da parte dell'emoglobina",
+    "Nella contrazione muscolare guidata dall'actina e dalla miosina",
+    "Nel riconoscimento intercellulare e nell'immunità dei tessuti"
+   ],
+   "answer": 4,
+   "explain": "Alcuni lipidi, in particolare quelli coniugati con zuccheri, espongono sulla membrana segnali di riconoscimento che permettono alle cellule di identificarsi e al sistema immunitario di distinguere il self dal non self. La sintesi proteica, la duplicazione del DNA e il trasporto di ossigeno non sono funzioni lipidiche.",
+   "slide": 86
+  },
+  {
+   "id": "d01-b05-q036",
+   "q": "Qual è il ruolo rispettivo di trigliceridi e fosfolipidi nell'organismo?",
+   "choices": [
+    "I trigliceridi sono la riserva di energia e i fosfolipidi formano le membrane",
+    "I trigliceridi formano le membrane e i fosfolipidi sono la riserva energetica",
+    "Entrambi formano le membrane cellulari e le mantengono stabili",
+    "Entrambi costituiscono la principale riserva energetica del corpo",
+    "I trigliceridi sono precursori degli ormoni e i fosfolipidi degli acidi nucleici"
+   ],
+   "answer": 0,
+   "explain": "I trigliceridi rappresentano la forma di deposito dell'energia chimica, mentre i fosfolipidi sono lipidi strutturali presenti nelle membrane cellulari. Invertire i due ruoli è l'errore più frequente, perché entrambi sono lipidi ma hanno funzioni del tutto diverse.",
+   "slide": 87
+  },
+  {
+   "id": "d01-b05-q037",
+   "q": "Quale proprietà rende i fosfolipidi adatti a formare le membrane cellulari?",
+   "choices": [
+    "Sono completamente apolari e quindi insolubili in ogni solvente",
+    "Sono anfipatici, cioè possiedono una testa polare e code apolari",
+    "Sono cationi che si legano ai gruppi fosfato del DNA",
+    "Sono piccoli monosaccaridi con carica positiva",
+    "Sono enzimi capaci di idrolizzare i trigliceridi"
+   ],
+   "answer": 1,
+   "explain": "I fosfolipidi sono molecole anfipatiche: la testa polare, che contiene il fosfato, si dispone verso l'acqua, mentre le code apolari degli acidi grassi si nascondono all'interno. Questa doppia natura li porta a organizzarsi spontaneamente in doppio strato, la struttura di base delle membrane.",
+   "slide": 87
+  },
+  {
+   "id": "d01-b05-q038",
+   "q": "Che cosa caratterizza i trigliceridi contenuti nell'adipocita?",
+   "choices": [
+    "Hanno un'emivita di molti anni e non vengono mai rinnovati",
+    "Non vengono mai idrolizzati finché la cellula è viva",
+    "Hanno un'emivita di pochi giorni, con un elevato turnover",
+    "Si trovano in quantità maggiore nel muscolo scheletrico che nell'adipocita",
+    "Sono identici ai fosfolipidi di membrana"
+   ],
+   "answer": 2,
+   "explain": "I trigliceridi dell'adipocita vengono continuamente idrolizzati e risintetizzati, tanto che la loro emivita è di pochi giorni e il turnover è elevato. Non si tratta quindi di un deposito inerte e permanente, ma di una riserva in continuo rinnovamento.",
+   "slide": 88
+  },
+  {
+   "id": "d01-b05-q039",
+   "q": "Qual è la particolarità dei trigliceridi accumulati nel muscolo scheletrico?",
+   "choices": [
+    "Sono la principale riserva energetica di tutto l'organismo",
+    "Hanno un'emivita di diversi anni",
+    "Vengono esportati nel sangue per essere usati dal fegato",
+    "Se ne accumula una piccola quantità, destinata al consumo locale",
+    "Sono privi di acidi grassi e contengono soltanto glicerolo"
+   ],
+   "answer": 3,
+   "explain": "Nel muscolo scheletrico si accumula soltanto una piccola quantità di trigliceridi, che vengono consumati localmente per sostenere la contrazione. La grande riserva lipidica dell'organismo è invece quella del tessuto adiposo, che può essere mobilizzata e distribuita a tutti i tessuti.",
+   "slide": 88
+  },
+  {
+   "id": "d01-b05-q040",
+   "q": "Che cosa rende essenziali gli acidi linoleico e linolenico?",
+   "choices": [
+    "Sono gli unici acidi grassi saturi presenti nell'organismo",
+    "Vengono sintetizzati dall'uomo ma non dai vegetali superiori",
+    "Si trovano soltanto nei trigliceridi del tessuto adiposo",
+    "Sono gli unici acidi grassi che formano le membrane cellulari",
+    "Sono sintetizzati solo dai vegetali e vanno assunti con la dieta"
+   ],
+   "answer": 4,
+   "explain": "Gli acidi linoleico e linolenico sono acidi grassi essenziali perché l'organismo umano non è in grado di sintetizzarli: soltanto i vegetali li producono, e per questo devono essere introdotti con gli alimenti. Non sono acidi grassi saturi e non sono gli unici componenti delle membrane.",
+   "slide": 89
+  },
+  {
+   "id": "d01-b05-q041",
+   "q": "Quali sintomi provoca una carenza di acidi grassi essenziali?",
+   "choices": [
+    "Dermatiti e scarsa tendenza alla cicatrizzazione",
+    "Anemia emolitica con ittero e pallore cutaneo",
+    "Rachitismo con deformità ossee e dolori articolari",
+    "Cecità notturna e secchezza della congiuntiva oculare",
+    "Gozzo e alterazioni della termoregolazione corporea"
+   ],
+   "answer": 0,
+   "explain": "La carenza di acidi grassi essenziali si manifesta con dermatiti e con una scarsa tendenza alla cicatrizzazione delle ferite, perché l'acido linoleico è un costituente importante dell'epidermide. Le altre manifestazioni citate dipendono da carenze vitaminiche o minerali, non da quella degli acidi grassi essenziali.",
+   "slide": 89
+  },
+  {
+   "id": "d01-b05-q042",
+   "q": "Quale funzione svolge l'acido linoleico nell'epidermide?",
+   "choices": [
+    "Trasporta l'ossigeno fino ai cheratinociti dell'epidermide",
+    "È un costituente della pelle e forma una barriera idrorepellente",
+    "Catalizza la sintesi della melanina nei melanociti",
+    "Costituisce la principale riserva energetica della pelle",
+    "Forma i legami peptidici che uniscono la cheratina"
+   ],
+   "answer": 1,
+   "explain": "L'acido linoleico è un componente strutturale dell'epidermide e contribuisce alla barriera idrorepellente che limita la perdita di acqua attraverso la cute. Non è un trasportatore di ossigeno né un enzima, e la riserva energetica della cute non è la sua funzione principale.",
+   "slide": 89
+  },
+  {
+   "id": "d01-b05-q043",
+   "q": "Qual è la percentuale di grasso corporeo di riferimento in un adulto?",
+   "choices": [
+    "Circa il due per cento nei maschi e il sei per cento nelle femmine",
+    "Circa il dodici per cento nei maschi e il sedici per cento nelle femmine",
+    "Circa il ventuno per cento nei maschi e il ventisei per cento nelle femmine",
+    "Circa il ventisei per cento nei maschi e il ventuno per cento nelle femmine",
+    "Circa il cinquanta per cento in entrambi i sessi"
+   ],
+   "answer": 2,
+   "explain": "Nell'adulto il grasso corporeo rappresenta circa il ventuno per cento del peso nei maschi e circa il ventisei per cento nelle femmine, valori che riflettono la differente composizione corporea dei due sessi. Invertire le percentuali o sottovalutarle di molto è l'errore più comune.",
+   "slide": 90
+  },
+  {
+   "id": "d01-b05-q044",
+   "q": "Quanto possono sostenere il digiuno, rispettivamente, la riserva lipidica e quella di glicogeno?",
+   "choices": [
+    "Entrambe per meno di un giorno",
+    "Il grasso per meno di un giorno e il glicogeno per due o tre mesi",
+    "Entrambe per due o tre mesi",
+    "Il grasso per due o tre mesi e il glicogeno per meno di un giorno",
+    "Il grasso per una settimana e il glicogeno per un mese"
+   ],
+   "answer": 3,
+   "explain": "La riserva lipidica di un adulto consente di sopravvivere a digiuni di due o tre mesi, mentre il glicogeno copre il fabbisogno per meno di un giorno. Questa enorme differenza dipende dalla diversa densità energetica dei trigliceridi rispetto ai carboidrati e dalla loro diversa idratazione.",
+   "slide": 90
+  },
+  {
+   "id": "d01-b05-q045",
+   "q": "Perché bere latte rallenta l'assorbimento intestinale dell'alcol?",
+   "choices": [
+    "Perché l'alcol viene distrutto dagli enzimi del latte",
+    "Perché il lattosio si lega chimicamente all'alcol",
+    "Perché il latte aumenta la velocità dello svuotamento gastrico",
+    "Perché il calcio del latte neutralizza l'alcol nello stomaco",
+    "Perché i grassi del latte rallentano lo svuotamento gastrico"
+   ],
+   "answer": 4,
+   "explain": "I grassi rallentano lo svuotamento dello stomaco e quindi ritardano il passaggio dell'alcol nell'intestino, dove avviene il suo assorbimento. Il latte non distrugge l'alcol né lo lega chimicamente: l'effetto dipende soltanto dalla velocità con cui lo stomaco si svuota.",
+   "slide": 90
+  },
+  {
+   "id": "d01-b05-q046",
+   "q": "Quali sono le due principali classi di fosfolipidi?",
+   "choices": [
+    "Glicerofosfolipidi e sfingofosfolipidi",
+    "Trigliceridi e glicolipidi",
+    "Amilosio e amilopectina",
+    "Steroidi e vitamine liposolubili",
+    "Mucopolisaccaridi e glicoproteine"
+   ],
+   "answer": 0,
+   "explain": "I fosfolipidi si distinguono in glicerofosfolipidi, che hanno come scheletro il glicerolo, e sfingofosfolipidi, che hanno come scheletro la sfingosina. Trigliceridi, steroidi e vitamine liposolubili appartengono ad altre classi di lipidi, mentre amilosio e amilopectina sono polisaccaridi.",
+   "slide": 91
+  },
+  {
+   "id": "d01-b05-q047",
+   "q": "Quale alcol forma lo scheletro di uno sfingofosfolipide?",
+   "choices": [
+    "Il glicerolo",
+    "La sfingosina",
+    "Il colesterolo",
+    "Il glucosio",
+    "Il galattosio"
+   ],
+   "answer": 1,
+   "explain": "Gli sfingofosfolipidi contengono sfingosina, un amminoalcol a catena lunga, al posto del glicerolo presente nei glicerofosfolipidi. Il colesterolo è uno steroide e il glucosio è un monosaccaride, quindi non possono formare lo scheletro di un fosfolipide.",
+   "slide": 91
+  },
+  {
+   "id": "d01-b05-q048",
+   "q": "Su che cosa si basa l'identificazione del gruppo sanguigno?",
+   "choices": [
+    "Sulla quantità di emoglobina contenuta nei globuli rossi",
+    "Sulla forma del nucleo dei globuli rossi",
+    "Sugli antigeni presenti sulla superficie dei globuli rossi",
+    "Sul numero di piastrine circolanti",
+    "Sulla concentrazione di colesterolo nella membrana"
+   ],
+   "answer": 2,
+   "explain": "Il gruppo sanguigno è una componente ereditaria e viene identificato grazie agli antigeni presenti sulla superficie dei globuli rossi. Non dipende dalla quantità di emoglobina né dal numero delle piastrine, che sono parametri indipendenti dal gruppo sanguigno.",
+   "slide": 92
+  },
+  {
+   "id": "d01-b05-q049",
+   "q": "Quale classe di molecole costituisce i determinanti antigenici dei gruppi sanguigni?",
+   "choices": [
+    "Le proteine del citoscheletro",
+    "Gli acidi grassi essenziali",
+    "I trigliceridi del plasma",
+    "I glicosfingolipidi della membrana",
+    "Gli acidi nucleici del globulo rosso"
+   ],
+   "answer": 3,
+   "explain": "I determinanti dei gruppi sanguigni sono glicosfingolipidi, cioè lipidi di membrana che portano catene oligosaccaridiche esposte sulla superficie del globulo rosso. Proprio la parte zuccherina di queste molecole rappresenta l'antigene riconosciuto dagli anticorpi.",
+   "slide": 92
+  },
+  {
+   "id": "d01-b05-q050",
+   "q": "Perché i fosfolipidi di membrana si dispongono spontaneamente in un doppio strato?",
+   "choices": [
+    "Perché sono molecole completamente idrofobiche e si respingono",
+    "Perché formano legami covalenti fra le code degli acidi grassi",
+    "Perché sono attirati dai carboidrati del glicocalice esterno",
+    "Perché la cellula li dispone attivamente uno per uno nella membrana",
+    "Perché la loro natura anfipatica separa code apolari e teste polari"
+   ],
+   "answer": 4,
+   "explain": "In ambiente acquoso le teste polari dei fosfolipidi si orientano verso l'acqua, mentre le code apolari si dispongono all'interno, lontano da essa: il risultato è il doppio strato che costituisce la base di ogni membrana. L'assemblaggio è spontaneo e non richiede un consumo di energia da parte della cellula.",
+   "slide": 93
+  }
+ ]
+}

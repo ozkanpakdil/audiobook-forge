@@ -1,0 +1,94 @@
+# Deck 4 — Metabolismo del colesterolo e delle proteine (2025-11-05)
+# Batch 7 — argomento: Il fegato, l'eliminazione dell'ammonio e il ciclo dell'urea
+# Slide da 60 a 68
+
+### Slide 60
+FEGATO
+ELIMINAZIONE
+
+### Slide 61
+ELIMINAZIONE NH4+
+CICLO dell’UREA
+
+### Slide 62
+(slide senza testo: contiene solo immagini)
+
+### Slide 63
+➢ L'urea passa nel sangue, raggiunge il rene e
+passa nelle urine
+
+### Slide 64
+▪ Il ciclo dell’urea aumenta sia dopo un apporto di proteine (per smaltire gli aa
+eccesso) che dopo un digiuno prolungato (quando gli aa muscolari cominciano ad
+essere utilizzati a scopo gluconeogenetico ed energetico).
+▪ Una dieta iperproteica e il digiuno inoltre inducono gli enzimi del ciclo dell'urea
+di 10-20 volte.
+▪ La REGOLAZIONE del ciclo dell’urea è basata sulla disponibilità di SUBSTRATO.
+
+### Slide 65
+VITAMINE nel METABOLISMO degli AA
+ACIDO FOLICO (vitamina B9)
+VITAMINA B12
+
+### Slide 66
+pirimidina pirazina
+_
+COO
+1 8
+H2 N N 8a N CH2
+7
+ACIDO FOLICO
+2
+CH2
+6 9 10 H
+N
+3 4a CH2 N C N CH
+4 5N H _
+O COO
+OH
+• L’acido folico (pteroilglutammato, folacina, vit. Bc, vit. B9), è una vitamina sintetizzata solo dai
+batteri, ma si chiama così per la6-metilpterina acido p-aminobenzoico
+sua diffusione nelle glutamato
+foglie (dal latino folia, foglia) di verdure verdi (in
+particolare spinaci). acido pteroico
+acido pteroilglutamico (acido folico)
+• E’ largamente presente negli alimenti animali (fegato, carni) e vegetali (cereali, verdure, frutta), una
+piccola quota è fornita dalla flora intestinale.
+_
+COO
+H
+H2 N N N CH2
+H
+H CH2
+H H
+N
+CH2 N C N CH
+N H _
+H COO
+OH O
+tetraidrofolato (FH4 )
+
+### Slide 67
+➢ La richiesta di folato aumenta in
+gravidanza, essendo necessario per la
+crescita del feto: la sua somministrazione
+nelle prime settimane di gravidanza previene la
+spina bifida ed altri difetti di sviluppo del
+tubo neurale (però in questo periodo spesso la
+madre non sa di essere incinta).
+
+### Slide 68
+non essenziali essenziali
+Ala His
+Arg* Ile
+Asn Leu
+Asp Lys
+Cys*# Met
+Glu Phe
+Gln Thr
+Gly Trp
+Pro Val
+Ser
+Tyr#
+*: è essenziale nei primi anni di vita
+#: sono sintetizzati a partire da aminoacidi essenziali

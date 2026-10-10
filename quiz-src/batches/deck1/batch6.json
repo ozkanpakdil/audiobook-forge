@@ -1,0 +1,707 @@
+{
+ "deck": 1,
+ "batch": 6,
+ "topic": "Steroli, colesterolo e i suoi destini metabolici",
+ "questions": [
+  {
+   "id": "d01-b06-q001",
+   "q": "Qual è la struttura di base comune a tutti gli steroli?",
+   "choices": [
+    "Un nucleo formato da tre anelli cicloesano e un anello ciclopentano fusi",
+    "Una catena lineare di atomi di carbonio con un gruppo carbossilico terminale",
+    "Un anello aromatico a sei termini con tre doppi legami coniugati",
+    "Due catene di acidi grassi legate a una molecola di glicerolo",
+    "Un polimero a catena aperta di unità isopreniche"
+   ],
+   "answer": 0,
+   "explain": "Il nucleo steroideo, comune a tutti gli steroli, è formato da quattro anelli fusi: tre cicloesano e un ciclopentano. La struttura con due acidi grassi esterificati al glicerolo descrive invece un trigliceride, che non possiede il nucleo steroideo e appartiene ai lipidi saponificabili.",
+   "slide": 94
+  },
+  {
+   "id": "d01-b06-q002",
+   "q": "Perché gli steroli come il colesterolo sono considerati molecole anfipatiche?",
+   "choices": [
+    "Perché contengono un gruppo fosfato polare e due catene idrocarburiche apolari",
+    "Perché possiedono un ossidrile polare sul carbonio tre e un nucleo steroideo apolare",
+    "Perché sono solubili sia in acqua sia nei solventi organici in qualsiasi proporzione",
+    "Perché legano ioni sodio e potassio sulla superficie della membrana",
+    "Perché sono formati da una porzione proteica e da una porzione lipidica"
+   ],
+   "answer": 1,
+   "explain": "Nel colesterolo l'unico gruppo polare è l'ossidrile in posizione tre, mentre il nucleo steroideo e la catena laterale sono apolari: da qui il comportamento anfipatico. La descrizione con gruppo fosfato e due catene di acidi grassi corrisponde ai fosfolipidi, una classe diversa di lipidi di membrana.",
+   "slide": 94
+  },
+  {
+   "id": "d01-b06-q003",
+   "q": "A differenza dei trigliceridi, gli steroli sono classificati come lipidi non saponificabili. Per quale motivo?",
+   "choices": [
+    "Perché non contengono atomi di carbonio e non sono idrolizzabili dagli alcali",
+    "Perché sono solubili in acqua e precipitano in presenza di sali biliari",
+    "Perché non formano legami estere con acidi grassi e non danno saponi",
+    "Perché contengono esclusivamente legami peptidici, resistenti agli alcali",
+    "Perché sono formati soltanto da glicerolo e glucosio, privi di acidi grassi"
+   ],
+   "answer": 2,
+   "explain": "La saponificazione è l'idrolisi alcalina dei legami estere tra glicerolo e acidi grassi: gli steroli non possiedono tali legami e per questo sono detti non saponificabili. I trigliceridi, che contengono tre legami estere, sono invece saponificabili e forniscono appunto i saponi.",
+   "slide": 94
+  },
+  {
+   "id": "d01-b06-q004",
+   "q": "Quale sterolo è tipico delle membrane dei funghi e viene assunto come bersaglio da alcuni farmaci antimicotici?",
+   "choices": [
+    "Il colesterolo",
+    "Il β-sitosterolo",
+    "Il glicogeno",
+    "L'ergosterolo",
+    "La fosfatidilcolina"
+   ],
+   "answer": 3,
+   "explain": "Nelle membrane dei funghi lo sterolo prevalente è l'ergosterolo, che alcuni antimicotici sfruttano come bersaglio selettivo. Il colesterolo è lo sterolo tipico delle cellule animali e il β-sitosterolo quello delle piante, mentre glicogeno e fosfatidilcolina non sono steroli.",
+   "slide": 94
+  },
+  {
+   "id": "d01-b06-q005",
+   "q": "Quanti atomi di carbonio contiene la molecola del colesterolo?",
+   "choices": [
+    "Diciannove",
+    "Ventidue",
+    "Ventiquattro",
+    "Trenta",
+    "Ventisette"
+   ],
+   "answer": 4,
+   "explain": "La molecola del colesterolo contiene ventisette atomi di carbonio, distribuiti nel nucleo steroideo e nella catena laterale ramificata. Il valore diciannove corrisponde invece al nucleo di alcuni ormoni steroidei androgeni, che derivano dal colesterolo ma possiedono una catena laterale più corta.",
+   "slide": 95
+  },
+  {
+   "id": "d01-b06-q006",
+   "q": "Quale gruppo funzionale rende debolmente polare un'estremità della molecola di colesterolo?",
+   "choices": [
+    "Il gruppo carbossilico in posizione tre",
+    "Il gruppo fosfato in posizione uno",
+    "Il gruppo ossidrilico in posizione tre",
+    "Il gruppo amminico in posizione quattro",
+    "Il gruppo aldeidico in posizione sei"
+   ],
+   "answer": 2,
+   "explain": "L'estremità polare del colesterolo è rappresentata dall'ossidrile legato al carbonio tre del nucleo steroideo. Il gruppo carbossilico compare invece negli acidi biliari, che derivano dal colesterolo ma hanno acquisito una catena laterale con funzione acida.",
+   "slide": 95
+  },
+  {
+   "id": "d01-b06-q007",
+   "q": "In quale posizione del nucleo steroideo il colesterolo presenta il suo unico doppio legame?",
+   "choices": [
+    "Tra il carbonio cinque e il carbonio sei",
+    "Tra il carbonio tre e il carbonio quattro",
+    "Tra il carbonio sette e il carbonio otto",
+    "In corrispondenza del gruppo ossidrilico",
+    "Il colesterolo è privo di doppi legami"
+   ],
+   "answer": 0,
+   "explain": "Il colesterolo possiede un solo doppio legame, collocato tra il carbonio cinque e il carbonio sei dell'anello B. L'assenza di doppi legami è una proprietà del nucleo sterano completamente saturo, non del colesterolo, che è appunto un delta-cinque-sterolo.",
+   "slide": 95
+  },
+  {
+   "id": "d01-b06-q008",
+   "q": "Qual è la solubilità del colesterolo in acqua?",
+   "choices": [
+    "Duecento milligrammi per cento millilitri",
+    "Venti milligrammi per cento millilitri",
+    "Due grammi per cento millilitri",
+    "Due decimi di milligrammo per cento millilitri",
+    "Il colesterolo è del tutto insolubile, senza alcuna solubilità misurabile"
+   ],
+   "answer": 3,
+   "explain": "La solubilità del colesterolo in acqua è di circa zero virgola due milligrammi per cento millilitri, un valore bassissimo rispetto alla sua concentrazione ematica. Il valore di duecento milligrammi per cento millilitri è invece una concentrazione plasmatica, resa possibile soltanto dal legame con le lipoproteine.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q009",
+   "q": "In quale forma il colesterolo viene trasportato nel sangue?",
+   "choices": [
+    "Come colesterolo libero disciolto nel plasma",
+    "Legato alle lipoproteine",
+    "Legato all'emoglobina dei globuli rossi",
+    "Come cristalli sospesi nel siero",
+    "Legato agli ioni calcio"
+   ],
+   "answer": 1,
+   "explain": "Poiché è quasi insolubile in acqua, il colesterolo circola nel plasma associato alle lipoproteine, che ne consentono il trasporto. La forma libera disciolta nel plasma non sarebbe compatibile con le concentrazioni ematiche abituali, molto superiori alla sua solubilità.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q010",
+   "q": "Quale percentuale del colesterolo contenuto nelle lipoproteine si trova in forma esterificata?",
+   "choices": [
+    "Circa il venti per cento",
+    "Circa il trentacinque per cento",
+    "Circa il cinquanta per cento",
+    "Circa il novanta per cento",
+    "Circa il sessantacinque per cento"
+   ],
+   "answer": 4,
+   "explain": "Nelle lipoproteine circa due terzi del colesterolo, cioè il sessantacinque per cento, si trova in forma esterificata. Il restante trentacinque per cento rimane in forma libera, con l'ossidrile esposto sulla superficie della particella.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q011",
+   "q": "Come è distribuito il colesterolo tra i diversi gruppi di organismi viventi?",
+   "choices": [
+    "Solo nei procarioti e nei virus, dove sostituisce gli steroli di membrana",
+    "Solo nelle piante e nei funghi, dove è lo sterolo di membrana tipico",
+    "In tutti gli organismi viventi, batteri compresi, senza alcuna eccezione",
+    "In tutti gli eucarioti, mentre è assente nella maggior parte dei procarioti",
+    "Solo negli organismi anaerobi, dove mantiene fluide le membrane"
+   ],
+   "answer": 3,
+   "explain": "Il colesterolo è ubiquitario negli eucarioti ma manca nella maggior parte dei procarioti, le cui membrane contengono altri lipidi. L'affermazione che sia presente in tutti gli organismi, batteri compresi, è quindi errata, perché i procarioti ne sono in gran parte privi.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q012",
+   "q": "Perché il colesterolo è comparso sulla Terra soltanto dopo l'arricchimento dell'atmosfera in ossigeno?",
+   "choices": [
+    "Perché la sua biosintesi richiede ossigeno molecolare",
+    "Perché deriva direttamente dalla fotosintesi clorofilliana",
+    "Perché è un prodotto della fermentazione anaerobica",
+    "Perché senza ossigeno non può essere legato alle lipoproteine",
+    "Perché l'ossigeno lo degrada e quindi si accumula solo in sua assenza"
+   ],
+   "answer": 0,
+   "explain": "La via biosintetica del colesterolo comprende tappe che utilizzano ossigeno molecolare, per esempio l'epossidazione dello squalene, e per questo è comparsa solo dopo l'arricchimento dell'atmosfera in ossigeno. Il legame alle lipoproteine riguarda invece il trasporto plasmatico e non è la ragione della dipendenza evolutiva dall'ossigeno.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q013",
+   "q": "Qual è la funzione strutturale principale del colesterolo nelle membrane cellulari?",
+   "choices": [
+    "Costituisce da solo l'intero doppio strato al posto dei fosfolipidi",
+    "Forma canali ionici selettivi per il sodio",
+    "Rappresenta il principale deposito energetico della cellula",
+    "Trasporta l'ossigeno attraverso la membrana",
+    "Modula la fluidità e la stabilità del doppio strato lipidico"
+   ],
+   "answer": 4,
+   "explain": "Inserendosi tra i fosfolipidi, il colesterolo regola la fluidità e la stabilità della membrana, rendendola meno permeabile alle piccole molecole idrosolubili. Non sostituisce i fosfolipidi come impalcatura del doppio strato né svolge funzione di deposito energetico, che spetta ai trigliceridi.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q014",
+   "q": "Quanto colesterolo sintetizza ogni giorno l'organismo umano?",
+   "choices": [
+    "Circa cinquanta milligrammi",
+    "Circa trecento milligrammi",
+    "Circa ottocento milligrammi",
+    "Circa millecinquecento milligrammi",
+    "Circa cinque grammi"
+   ],
+   "answer": 2,
+   "explain": "L'organismo umano sintetizza ogni giorno circa ottocento milligrammi di colesterolo, una quota superiore a quella introdotta con gli alimenti. Il valore di trecento milligrammi si riferisce invece all'apporto medio giornaliero con la dieta, non alla sintesi endogena.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q015",
+   "q": "Quanto colesterolo introduce ogni giorno l'uomo con la dieta, secondo il bilancio di riferimento?",
+   "choices": [
+    "Circa trenta milligrammi",
+    "Circa trecento milligrammi",
+    "Circa ottocento milligrammi",
+    "Circa mille milligrammi",
+    "Circa cinque grammi"
+   ],
+   "answer": 1,
+   "explain": "Secondo il bilancio di riferimento l'uomo introduce ogni giorno con la dieta circa trecento milligrammi di colesterolo. Il valore di ottocento milligrammi corrisponde invece alla sintesi endogena, che è la quota quantitativamente maggiore.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q016",
+   "q": "Quale relazione lega la sintesi endogena di colesterolo all'apporto di colesterolo con la dieta?",
+   "choices": [
+    "Sono direttamente proporzionali, perché più colesterolo si assume più se ne sintetizza",
+    "Sono del tutto indipendenti l'una dall'altra",
+    "La sintesi endogena si annulla soltanto in chi non assume colesterolo",
+    "L'apporto dietetico non influenza mai la sintesi endogena",
+    "Sono inversamente correlate: un maggiore apporto riduce la sintesi endogena"
+   ],
+   "answer": 4,
+   "explain": "La sintesi endogena di colesterolo diminuisce quando aumenta l'apporto esogeno, grazie a un controllo per retroazione sull'attività degli enzimi della via biosintetica. Affermare che le due variabili sono direttamente proporzionali è quindi sbagliato, perché descrive l'opposto del rapporto osservato.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q017",
+   "q": "In Occidente la dieta contiene circa cinquecento milligrammi di colesterolo al giorno e circa il settanta per cento viene assimilato. Quanti milligrammi vengono effettivamente assorbiti?",
+   "choices": [
+    "Circa centocinquanta milligrammi",
+    "Circa duecentocinquanta milligrammi",
+    "Circa trecentocinquanta milligrammi",
+    "Circa quattrocentocinquanta milligrammi",
+    "Circa cinquecento milligrammi"
+   ],
+   "answer": 2,
+   "explain": "Il settanta per cento di cinquecento milligrammi corrisponde a circa trecentocinquanta milligrammi, la quota effettivamente assimilata. Il valore di cinquecento milligrammi rappresenta invece il contenuto totale della dieta occidentale, non la frazione assorbita.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q018",
+   "q": "In quale parte della lipoproteina si colloca preferenzialmente il colesterolo esterificato?",
+   "choices": [
+    "Sulla superficie della particella, insieme alle teste polari dei fosfolipidi",
+    "Nel core apolare della particella, insieme ai trigliceridi",
+    "Nel doppio strato della membrana del globulo rosso",
+    "Nel citosol dell'epatocita",
+    "Nel lume intestinale, prima dell'assorbimento"
+   ],
+   "answer": 1,
+   "explain": "Essendo privo dell'ossidrile libero, il colesterolo esterificato è apolare e si colloca nel core della lipoproteina insieme ai trigliceridi. La superficie è invece occupata dal colesterolo libero, che con il suo gruppo ossidrilico può interagire con la fase acquosa.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q019",
+   "q": "Perché il colesterolo non può circolare semplicemente disciolto nel plasma?",
+   "choices": [
+    "Perché viene rapidamente degradato dagli enzimi idrolitici del plasma",
+    "Perché è una molecola troppo piccola per essere trattenuta dai capillari",
+    "Perché forma legami covalenti stabili con l'albumina plasmatica",
+    "Perché la sua concentrazione plasmatica supera la sua solubilità in acqua",
+    "Perché a temperatura corporea si comporta come un gas disciolto"
+   ],
+   "answer": 3,
+   "explain": "La concentrazione ematica del colesterolo, dell'ordine di centinaia di milligrammi per cento millilitri, è enormemente superiore alla sua solubilità in acqua di circa due decimi di milligrammo per cento millilitri: senza un trasportatore precipiterebbe. Il legame con l'albumina non è di tipo covalente ed è tipico di altre molecole lipofile, come gli acidi grassi liberi.",
+   "slide": 96
+  },
+  {
+   "id": "d01-b06-q020",
+   "q": "Per quale motivo il nucleo steroideo del colesterolo è una struttura rigida e quasi planare?",
+   "choices": [
+    "Perché la catena laterale ramificata avvolge e irrigidisce il nucleo",
+    "Perché il doppio legame in posizione cinque blocca l'intera molecola",
+    "Perché l'ossidrile in posizione tre forma legami a idrogeno interni",
+    "Perché gli esteri con gli acidi grassi impediscono la rotazione degli anelli",
+    "Perché i quattro anelli fusi condividono atomi di carbonio e non ruotano liberamente"
+   ],
+   "answer": 4,
+   "explain": "Il nucleo steroideo è formato da quattro anelli fusi che condividono atomi di carbonio, per cui la rotazione reciproca è impedita e la struttura risulta rigida e quasi planare. La catena laterale e l'ossidrile non hanno questo effetto, e il doppio legame tra il carbonio cinque e il carbonio sei è unico e non è responsabile della rigidità dell'intero nucleo.",
+   "slide": 95
+  },
+  {
+   "id": "d01-b06-q021",
+   "q": "Come si distribuisce il colesterolo plasmatico tra forma libera ed esterificata nell'adulto normale?",
+   "choices": [
+    "Per metà in forma libera e per metà in forma esterificata",
+    "Per due terzi in forma esterificata e per un terzo in forma libera",
+    "Per un terzo in forma esterificata e per due terzi in forma libera",
+    "Interamente in forma libera",
+    "Interamente in forma esterificata"
+   ],
+   "answer": 1,
+   "explain": "Nell'adulto normale circa due terzi del colesterolo plasmatico è esterificato e un terzo rimane libero. La proporzione inversa, con due terzi liberi, contraddice il dato di riferimento e non tiene conto dell'attività esterificante del plasma.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q022",
+   "q": "Qual è l'intervallo di colesterolemia definito borderline nell'adulto?",
+   "choices": [
+    "Da cento a centotrenta milligrammi per cento millilitri",
+    "Da centotrenta a duecento milligrammi per cento millilitri",
+    "Da duecento a duecentoquaranta milligrammi per cento millilitri",
+    "Da duecentoquaranta a trecento milligrammi per cento millilitri",
+    "Oltre quattrocento milligrammi per cento millilitri"
+   ],
+   "answer": 2,
+   "explain": "La fascia compresa tra duecento e duecentoquaranta milligrammi per cento millilitri è definita borderline. Al di sotto di duecento milligrammi per cento millilitri i valori rientrano invece nella norma per l'adulto.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q023",
+   "q": "Un adulto presenta una colesterolemia di centottanta milligrammi per cento millilitri. Come si classificano questi valori?",
+   "choices": [
+    "Borderline",
+    "Indicativi di un deficit di acidi biliari",
+    "Francamente patologici",
+    "Nella norma",
+    "Troppo bassi per un adulto"
+   ],
+   "answer": 3,
+   "explain": "Un valore di centottanta milligrammi per cento millilitri cade all'interno dell'intervallo di normalità, che per l'adulto va da centotrenta a duecento. La fascia borderline inizia soltanto al di sopra dei duecento milligrammi per cento millilitri.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q024",
+   "q": "Un adulto presenta una colesterolemia di duecentoventi milligrammi per cento millilitri. Come si classificano questi valori?",
+   "choices": [
+    "Nella norma",
+    "Tipici dell'età pediatrica",
+    "Indicativi di ipocolesterolemia",
+    "Incompatibili con la vita",
+    "Borderline"
+   ],
+   "answer": 4,
+   "explain": "Un valore di duecentoventi milligrammi per cento millilitri si colloca nella fascia borderline, compresa tra duecento e duecentoquaranta. Non è ancora un valore francamente patologico, ma non rientra nemmeno nell'intervallo di normalità.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q025",
+   "q": "Perché la quota libera del colesterolo plasmatico è quella quantitativamente minore?",
+   "choices": [
+    "Perché viene per lo più esterificata e passa nel core delle lipoproteine",
+    "Perché la forma libera viene escreta rapidamente con l'urina dai reni",
+    "Perché la forma libera non può essere inserita nelle membrane cellulari",
+    "Perché la forma libera viene convertita in glucosio dal fegato durante il digiuno",
+    "Perché la forma libera è chimicamente instabile nel plasma e si ossida"
+   ],
+   "answer": 0,
+   "explain": "Il colesterolo libero viene esterificato nel plasma e il prodotto, apolare, passa nel core delle lipoproteine: per questo la quota libera resta minoritaria. L'escrezione renale non è una via di eliminazione significativa del colesterolo, che viene invece escreto con la bile.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q026",
+   "q": "Poiché l'organismo umano non può degradare il colesterolo, in quale forma lo elimina?",
+   "choices": [
+    "Come anidride carbonica e acqua, prodotti dell'ossidazione completa",
+    "Come urea, prodotta dal catabolismo degli amminoacidi",
+    "Come colesterolo inalterato oppure come acidi biliari",
+    "Come glucosio, formato per gluconeogenesi epatica",
+    "Come acidi grassi a catena corta, assorbiti dal colon"
+   ],
+   "answer": 2,
+   "explain": "L'uomo non possiede enzimi in grado di degradare il nucleo steroideo, quindi il colesterolo viene eliminato come tale oppure convertito in acidi biliari. Il paragone con gli acidi grassi è fuorviante, perché questi ultimi possono essere ossidati completamente ad anidride carbonica e acqua.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q027",
+   "q": "Quale enzima esterifica il colesterolo nel plasma, favorendone il passaggio nel core delle lipoproteine?",
+   "choices": [
+    "La lecitina-colesterolo aciltransferasi, attiva nel plasma",
+    "L'acil-coenzima A colesterolo aciltransferasi, che opera dentro le cellule",
+    "La lipoproteina lipasi, ancorata all'endotelio dei capillari",
+    "L'idrossimetilglutaril-coenzima A reduttasi, enzima della sintesi",
+    "La lipasi ormono-sensibile, attiva nel tessuto adiposo"
+   ],
+   "answer": 0,
+   "explain": "Nel plasma la lecitina-colesterolo aciltransferasi trasferisce un acido grasso dalla lecitina all'ossidrile del colesterolo, generando un estere apolare che si sposta nel core delle lipoproteine. L'acil-coenzima A colesterolo aciltransferasi svolge una reazione simile ma all'interno delle cellule, mentre la lipasi ormono-sensibile libera acidi grassi dai trigliceridi del tessuto adiposo e non esterifica il colesterolo.",
+   "slide": 97
+  },
+  {
+   "id": "d01-b06-q028",
+   "q": "Quanti milligrammi al giorno di colesterolo sono convertiti in ormoni steroidei?",
+   "choices": [
+    "Cinquanta milligrammi",
+    "Quattrocento milligrammi",
+    "Quattrocentocinquanta milligrammi",
+    "Trecento milligrammi",
+    "Ottocento milligrammi"
+   ],
+   "answer": 0,
+   "explain": "La quota di colesterolo convertita in ormoni steroidei è piccola e ammonta a circa cinquanta milligrammi al giorno. I quattrocento milligrammi riguardano invece la conversione in acidi biliari, che è quantitativamente molto maggiore.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q029",
+   "q": "Quanti milligrammi al giorno di colesterolo sono eliminati nell'intestino come colesterolo inalterato?",
+   "choices": [
+    "Cinquecentocinquanta milligrammi",
+    "Trecentocinquanta milligrammi",
+    "Quattrocento milligrammi",
+    "Quattrocentocinquanta milligrammi",
+    "Milleduecento milligrammi"
+   ],
+   "answer": 3,
+   "explain": "La parte restante del colesterolo, circa quattrocentocinquanta milligrammi al giorno, viene eliminata nell'intestino come colesterolo non modificato. Non va confusa con i quattrocento milligrammi che prendono invece la via della sintesi degli acidi biliari.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q030",
+   "q": "Sommando la sintesi endogena e l'apporto dietetico, di quanti milligrammi di colesterolo dispone ogni giorno l'organismo?",
+   "choices": [
+    "Trecento milligrammi",
+    "Millecento milligrammi",
+    "Ottocento milligrammi",
+    "Novecento milligrammi",
+    "Millecinquecento milligrammi"
+   ],
+   "answer": 1,
+   "explain": "Sommando gli ottocento milligrammi di sintesi endogena ai trecento milligrammi introdotti con la dieta si ottengono circa millecento milligrammi disponibili ogni giorno. Il valore di ottocento milligrammi considera soltanto la sintesi endogena e trascura l'apporto alimentare.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q031",
+   "q": "Quale percentuale della disponibilità giornaliera di colesterolo, pari a circa millecento milligrammi, viene convertita in acidi biliari, cioè circa quattrocento milligrammi?",
+   "choices": [
+    "Circa il quattro per cento",
+    "Circa il venti per cento",
+    "Circa il settanta per cento",
+    "Circa il novanta per cento",
+    "Circa il trentasei per cento"
+   ],
+   "answer": 4,
+   "explain": "Quattrocento milligrammi su millecento corrispondono a poco più di un terzo della disponibilità giornaliera, cioè circa il trentasei per cento. Il settanta per cento si riferisce invece alla frazione del colesterolo alimentare che viene assimilata, un dato del tutto diverso.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q032",
+   "q": "Perché il colesterolo non può essere utilizzato dall'organismo come combustibile energetico?",
+   "choices": [
+    "Perché l'uomo non possiede enzimi che degradano il nucleo steroideo",
+    "Perché contiene troppo ossigeno per poter essere ossidato nei mitocondri",
+    "Perché è idrosolubile e quindi non può entrare nei mitocondri",
+    "Perché non contiene atomi di carbonio utilizzabili a scopo energetico",
+    "Perché viene perso completamente con l'urina senza essere riutilizzato"
+   ],
+   "answer": 0,
+   "explain": "Il nucleo steroideo è resistente alla degradazione e l'uomo non dispone degli enzimi necessari a scinderlo, quindi il colesterolo non può essere ossidato a scopo energetico. L'ipotesi che non entri nei mitocondri per la sua idrosolubilità è doppiamente errata, perché il colesterolo è lipofilo.",
+   "slide": 98
+  },
+  {
+   "id": "d01-b06-q033",
+   "q": "Quali sono le principali destinazioni metaboliche del colesterolo nell'organismo?",
+   "choices": [
+    "Sintesi di acidi grassi, di glucosio e di amminoacidi nel citosol",
+    "Costituzione delle membrane, acidi biliari, ormoni steroidei e vitamina D",
+    "Produzione di ATP attraverso la beta-ossidazione degli acidi grassi",
+    "Formazione di nucleotidi e di acidi nucleici nel nucleo cellulare",
+    "Sintesi di proteine e di enzimi digestivi nel reticolo endoplasmatico"
+   ],
+   "answer": 1,
+   "explain": "Il colesterolo è destinato soprattutto alle membrane, alla sintesi di acidi biliari, alla produzione di ormoni steroidei e alla formazione della vitamina D. La beta-ossidazione è invece la via di degradazione degli acidi grassi e non riguarda il colesterolo, che non può essere utilizzato a fini energetici.",
+   "slide": 99
+  },
+  {
+   "id": "d01-b06-q034",
+   "q": "Quale dei seguenti non rappresenta un destino metabolico del colesterolo?",
+   "choices": [
+    "La conversione in acidi biliari",
+    "La conversione in ormoni steroidei",
+    "La conversione in acidi grassi",
+    "La formazione di vitamina D",
+    "L'inserimento nelle membrane cellulari"
+   ],
+   "answer": 2,
+   "explain": "Il colesterolo non è un precursore degli acidi grassi: la sintesi degli acidi grassi parte dall'acetil-coenzima A attraverso una via completamente distinta. La conversione in acidi biliari, in ormoni steroidei e in vitamina D rappresenta invece un destino metabolico reale del colesterolo.",
+   "slide": 99
+  },
+  {
+   "id": "d01-b06-q035",
+   "q": "In quali sedi avviene prevalentemente la conversione del colesterolo in ormoni steroidei?",
+   "choices": [
+    "Fegato e reni, sedi della sintesi degli acidi biliari",
+    "Muscolo scheletrico e cuore, tessuti privi di steroidogenesi",
+    "Midollo osseo e milza, sedi dell'ematopoiesi e dell'immunità",
+    "Corteccia surrenale e gonadi, sedi della steroidogenesi",
+    "Tiroide e pancreas, sedi di ormoni non steroidei"
+   ],
+   "answer": 3,
+   "explain": "La conversione del colesterolo in ormoni steroidei avviene soprattutto nella corteccia surrenale e nelle gonadi, dove operano specifiche ossidasi. Il fegato è invece la sede principale della conversione del colesterolo in acidi biliari.",
+   "slide": 99
+  },
+  {
+   "id": "d01-b06-q036",
+   "q": "Che cosa si intende per colesterolo esterificato?",
+   "choices": [
+    "Colesterolo legato a una molecola di glucosio con legame glicosidico",
+    "Colesterolo legato a un acido grasso con legame estere",
+    "Colesterolo ossidato sul carbonio tre con formazione di un chetone",
+    "Colesterolo associato a ioni cloruro sulla superficie della particella",
+    "Colesterolo legato covalentemente all'albumina plasmatica"
+   ],
+   "answer": 1,
+   "explain": "Il colesterolo esterificato è un estere in cui l'ossidrile in posizione tre è legato a un acido grasso; la molecola perde così il suo unico gruppo polare e diventa completamente apolare. L'ossidazione del carbonio tre porterebbe invece a un chetone, una modificazione diversa che non definisce la forma esterificata.",
+   "slide": 99
+  },
+  {
+   "id": "d01-b06-q037",
+   "q": "Insieme a quali molecole gli acidi biliari solubilizzano il colesterolo nella bile?",
+   "choices": [
+    "I trigliceridi",
+    "Le proteine plasmatiche",
+    "Il glucosio",
+    "I fosfolipidi",
+    "Gli acidi nucleici"
+   ],
+   "answer": 3,
+   "explain": "Nella bile gli acidi biliari solubilizzano il colesterolo insieme ai fosfolipidi, mantenendolo disperso ed evitando la formazione di cristalli. I trigliceridi non svolgono questa funzione nella bile e non sono i partner principali del colesterolo in questo contesto.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q038",
+   "q": "Qual è la principale funzione digestiva degli acidi biliari nel lume intestinale?",
+   "choices": [
+    "Emulsionare i lipidi alimentari in fini goccioline",
+    "Idrolizzare i trigliceridi in acidi grassi e glicerolo nel lume",
+    "Assorbire l'acqua e i sali nel colon, concentrando le feci",
+    "Digerire le proteine della dieta in amminoacidi liberi",
+    "Neutralizzare l'acido cloridrico che arriva dallo stomaco"
+   ],
+   "answer": 0,
+   "explain": "Agendo da emulsionanti, gli acidi biliari suddividono i lipidi alimentari in goccioline finissime e ne favoriscono la digestione e l'assorbimento. L'idrolisi dei trigliceridi spetta invece alle lipasi pancreatiche, non agli acidi biliari.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q039",
+   "q": "Per quale motivo gli acidi biliari possono agire come emulsionanti?",
+   "choices": [
+    "Perché sono enzimi con attività lipolitica sulla superficie delle micelle",
+    "Perché sono molecole completamente apolari e quindi affini ai grassi",
+    "Perché sono anfipatici e formano micelle che disperdono i lipidi",
+    "Perché sono acidi forti capaci di sciogliere i grassi in soluzione",
+    "Perché contengono fosfato e colina come la fosfatidilcolina"
+   ],
+   "answer": 2,
+   "explain": "Il carattere anfipatico consente agli acidi biliari di disporsi all'interfaccia tra acqua e lipidi e di formare micelle, aumentando enormemente la superficie disponibile per le lipasi. La presenza di fosfato e colina è tipica della fosfatidilcolina, un fosfolipide che coopera con gli acidi biliari ma non è un acido biliare.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q040",
+   "q": "Quale caratteristica strutturale conferisce agli acidi biliari il loro carattere anfipatico?",
+   "choices": [
+    "Una catena di acidi grassi insaturi con doppi legami",
+    "Un gruppo eme contenente ferro al centro dell'anello",
+    "Una struttura polisaccaridica ramificata con residui ionizzati",
+    "Due catene di acidi grassi legate al glicerolo con legami estere",
+    "Un nucleo steroideo apolare con ossidrili e un carbossile ionizzabile"
+   ],
+   "answer": 4,
+   "explain": "Negli acidi biliari il nucleo steroideo è apolare, mentre gli ossidrili e soprattutto il carbossilico ionizzabile della catena laterale conferiscono la parte idrofila. Due catene di acidi grassi esterificate al glicerolo descrivono invece un trigliceride, molecola apolare e priva di questa doppia natura.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q041",
+   "q": "Quali sono i due acidi biliari primari sintetizzati dal fegato umano?",
+   "choices": [
+    "Acido desossicolico e acido litocolico",
+    "Acido palmitico e acido stearico",
+    "Acido colico e acido chenodesossicolico",
+    "Acido urico e acido lattico",
+    "Acido glicolico e acido piruvico"
+   ],
+   "answer": 2,
+   "explain": "I due acidi biliari primari sintetizzati dal fegato umano sono l'acido colico e l'acido chenodesossicolico. L'acido desossicolico e l'acido litocolico sono invece acidi biliari secondari, prodotti dalla modificazione batterica nel colon.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q042",
+   "q": "Con quali amminoacidi vengono coniugati gli acidi biliari prima di essere secreti nella bile?",
+   "choices": [
+    "Alanina e serina",
+    "Glutammato e aspartato",
+    "Lisina e arginina",
+    "Fenilalanina e tirosina",
+    "Glicina e taurina"
+   ],
+   "answer": 4,
+   "explain": "Prima della secrezione biliare gli acidi biliari vengono coniugati con glicina o con taurina, diventando più idrosolubili e più efficaci come emulsionanti. Gli altri amminoacidi elencati non partecipano a questa coniugazione, che è specifica per questi due composti.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q043",
+   "q": "Perché la conversione in acidi biliari rappresenta la via principale di eliminazione del colesterolo in eccesso?",
+   "choices": [
+    "Perché gli acidi biliari vengono ossidati ad anidride carbonica nel fegato",
+    "Perché sono idrosolubili e vengono escreti con la bile e le feci",
+    "Perché vengono convertiti in proteine plasmatiche dal fegato",
+    "Perché si depositano nei tessuti periferici senza essere eliminati",
+    "Perché vengono trasformati in glucosio dal fegato per gluconeogenesi"
+   ],
+   "answer": 1,
+   "explain": "La conversione in acidi biliari rende il colesterolo idrosolubile e quindi eliminabile con la bile e, in parte, con le feci: è la principale via di smaltimento del colesterolo in eccesso. L'ossidazione ad anidride carbonica non è possibile, perché l'uomo non può degradare il nucleo steroideo.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q044",
+   "q": "Dove vengono riassorbiti prevalentemente gli acidi biliari dopo aver svolto la loro azione nell'intestino?",
+   "choices": [
+    "Nell'ileo terminale, con ritorno al fegato per via enteroepatica",
+    "Nello stomaco, durante la digestione gastrica dei lipidi",
+    "Nel colon, con eliminazione totale nelle feci come sali biliari",
+    "Nei polmoni, attraverso la circolazione polmonare e l'ossigenazione",
+    "Nei reni, con escrezione urinaria dei metaboliti"
+   ],
+   "answer": 0,
+   "explain": "La maggior parte degli acidi biliari viene riassorbita attivamente nell'ileo terminale e ritorna al fegato con il circolo enteroepatico, per essere riutilizzata più volte. L'eliminazione fecale riguarda soltanto una piccola quota, mentre la via urinaria non è significativa per queste molecole.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q045",
+   "q": "Quale dei seguenti è un acido biliare secondario, prodotto dall'azione della flora batterica intestinale?",
+   "choices": [
+    "L'acido colico",
+    "L'acido chenodesossicolico",
+    "L'acido palmitico",
+    "L'acido desossicolico",
+    "L'acido arachidonico"
+   ],
+   "answer": 3,
+   "explain": "L'acido desossicolico è un acido biliare secondario, formato nel colon dalla rimozione batterica di un ossidrile dagli acidi biliari primari. L'acido colico e l'acido chenodesossicolico sono invece primari, perché sintetizzati direttamente dal fegato.",
+   "slide": 100
+  },
+  {
+   "id": "d01-b06-q046",
+   "q": "Quale dei seguenti ormoni deriva dal colesterolo?",
+   "choices": [
+    "L'insulina",
+    "Il glucagone",
+    "L'adrenalina",
+    "L'ossitocina",
+    "Il cortisolo"
+   ],
+   "answer": 4,
+   "explain": "Il cortisolo è un ormone steroideo e deriva quindi dal colesterolo, di cui conserva il nucleo. Insulina, glucagone, adrenalina e ossitocina non sono steroidi: sono rispettivamente ormoni peptidici o derivati di amminoacidi.",
+   "slide": 101
+  },
+  {
+   "id": "d01-b06-q047",
+   "q": "Quale classe di ormoni sessuali è sintetizzata a partire dal colesterolo?",
+   "choices": [
+    "Le gonadotropine ipofisarie, di natura peptidica",
+    "L'insulina e il glucagone, ormoni pancreatici peptidici",
+    "Le catecolamine, come l'adrenalina e la noradrenalina",
+    "Gli ormoni steroidei, come testosterone ed estradiolo",
+    "Gli ormoni tiroidei iodati, derivati dalla tirosina"
+   ],
+   "answer": 3,
+   "explain": "Testosterone ed estradiolo sono ormoni sessuali steroidei e vengono sintetizzati a partire dal colesterolo nelle gonadi. Le gonadotropine e l'insulina sono invece ormoni di natura proteica o peptidica e non derivano dal colesterolo.",
+   "slide": 101
+  },
+  {
+   "id": "d01-b06-q048",
+   "q": "Qual è il ruolo principale della vitamina D, derivato del colesterolo, nell'organismo?",
+   "choices": [
+    "Regolare l'assorbimento del calcio e il metabolismo osseo",
+    "Trasportare l'ossigeno nel sangue legato all'emoglobina",
+    "Catalizzare la beta-ossidazione degli acidi grassi nei mitocondri",
+    "Costituire il principale deposito energetico dell'organismo",
+    "Formare i legami peptidici tra gli amminoacidi delle proteine"
+   ],
+   "answer": 0,
+   "explain": "La vitamina D promuove l'assorbimento intestinale del calcio e partecipa alla regolazione del metabolismo osseo. Il trasporto dell'ossigeno spetta all'emoglobina e il deposito energetico ai trigliceridi, funzioni del tutto estranee alla vitamina D.",
+   "slide": 101
+  },
+  {
+   "id": "d01-b06-q049",
+   "q": "Quale trasformazione subisce il sette-deidrocolesterolo nella cute per azione dei raggi ultravioletti?",
+   "choices": [
+    "L'idrolisi del legame estere con un acido grasso di membrana",
+    "La decarbossilazione ossidativa con perdita del nucleo steroideo",
+    "L'apertura fotochimica dell'anello B con formazione del colecalciferolo",
+    "La conversione diretta in acido colico nel fegato",
+    "La riduzione a squalene, precursore della via biosintetica"
+   ],
+   "answer": 2,
+   "explain": "Nella cute i raggi ultravioletti provocano l'apertura fotochimica dell'anello B del sette-deidrocolesterolo, con formazione del colecalciferolo, cioè della vitamina D. La riduzione a squalene descrive la direzione opposta della via biosintetica, non una trasformazione cutanea della vitamina D.",
+   "slide": 101
+  },
+  {
+   "id": "d01-b06-q050",
+   "q": "Perché il colesterolo è definito il precursore comune di acidi biliari, ormoni steroidei e vitamina D?",
+   "choices": [
+    "Perché tutte contengono un gruppo eme con ferro nel loro nucleo",
+    "Perché tutte conservano il nucleo steroideo e ne derivano per modificazioni",
+    "Perché tutte sono formate da catene di acidi grassi esterificate",
+    "Perché tutte vengono sintetizzate esclusivamente nel rene e nel fegato",
+    "Perché tutte sono idrosolubili e circolano liberamente nel plasma"
+   ],
+   "answer": 1,
+   "explain": "Acidi biliari, ormoni steroidei e vitamina D mantengono il nucleo steroideo del colesterolo, che viene modificato soltanto in punti specifici della molecola: per questo il colesterolo è il loro precursore comune. La sintesi avviene in sedi diverse, fegato, corteccia surrenale, gonadi e cute, e non esclusivamente nel rene o nel fegato.",
+   "slide": 101
+  }
+ ]
+}

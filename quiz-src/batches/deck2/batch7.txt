@@ -1,0 +1,135 @@
+# Deck 2 — Metabolismo energetico e metabolismo dei carboidrati (2025-10-22)
+# Batch 7 — argomento: Metabolismo del glicogeno: glicogenosintesi e glicogenolisi
+# Slide da 51 a 67
+
+### Slide 51
+GLICOGENO
+α-GLUCOSO  legami α(1→4) e (1→6) glicosidici
+
+### Slide 52
+GLICOGENOLISI
+➢ L'amilasi idrolizza l’amido in glucosio
+per essere poi assorbito dalla mucosa
+intestinale.
+➢ Il glicogeno viene demolito ad opera
+della glicogeno fosforilasi che, a
+differenza dell’amilasi, intrappola il
+glucosio nella cellula fosforilandolo,
+mentre il glucosio libero potrebbe uscire
+dalla cellula.
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 53
+➢ Demolizione del glicogeno:
+HO CH 2 HO CH 2 HO CH 2
+O H O H O H
+H H H
+PALP
+H H H
+OH H OH H OH H
+HO O O O
+H OH H OH H OH (piridossalfosfato)
+estremo non riducente (glucoso)n
+O
+glicogeno HO P O
+fosforilasi
+O
+HO CH 2 HO CH 2
+O H O H
+H H
+H H
+OH H OH H
+O O
+H
+HO CH 2
+O H
+HO
+H OH H OH
+Vitamina B6
+H O
+OH H
+(glucoso)n-1
+HO O P O
+H OH O
+glucoso-1-fosfato
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 54
+• Il PALP, coenzima assai versatile (fosforilasi, decarbossilasi, transaminasi, etc.), deriva dalla vitamina
+B6 (presente nelle forme: piridossale, piridossina o piridossolo, piridossamina).
+• La piridossina è molto diffusa negli alimenti (fegato, carne, cereali, uova), talvolta in forma di glicoside
+(carote, fagioli, broccoli).
+• Fabbisogno 1,5-2 mg/die (aumenta in funzione delle proteine ingerite, aumenta nella gravidanza e
+con la lattazione).
+• Una piccola quota è fornita dalla flora intestinale; è convertita nel fegato prima in piridossina fosfato e poi
+in piridossale fosfato (PALP).
+• Nell’uomo è difficile osservare la carenza di piridossina, perché la richiesta nutrizionale è assai bassa.
+• Si osserva carenza in corso di alcolismo (l’alcol compromette sia l’assorbimento che il metabolismo
+epatico della piridossina) e di malassorbimento.
+• Molti farmaci inducono una carenza legandosi al gruppo aldeidico del piridossale o del PALP.
+
+### Slide 55
+GLICOGENOSINTESI o GLICOGENESI
+• La sintesi di glicogeno avviene in tutti i tessuti, ma soprattutto nel
+fegato (5-8% glicogeno) e nel muscolo (1-2% glicogeno, > 50% del
+glicogeno totale).
+• La glicogeno fosforilasi potrebbe catalizzare la reazione anche in senso
+inverso, sintetico, ma nelle condizioni intracellulari non riesce a farlo e
+servirà un nuovo enzima, la glicogeno sintasi.
+
+### Slide 56
+➢ Variazioni del contenuto di GLICOGENO nel FEGATO:
+
+### Slide 57
+Domande?
+
+### Slide 58
+(slide senza testo: contiene solo immagini)
+
+### Slide 59
+GLICEMIA
+➢ La GLICEMIA è la concentrazione di glucosio nel sangue.
+➢ Un valore normale a digiuno è compreso tra 70 e 99 mg/dl.
+[Bettelheim F.A. Chimica e Propedeutica Biochimica 3E, 2025, Edises]
+➢ È fondamentale mantenere i livelli di glicemia nella norma
+per evitare complicazioni, sia in caso di valori troppo alti
+(iperglicemia) che troppo bassi (ipoglicemia).
+[Albi E., Beccari T., Cataldi S. Biochimica Clinica Essenziale, 2019, Zanichelli editore S.p.A.]
+
+### Slide 60
+VALORI GLICEMIA
+➢ I valori di glicemia considerati normali sono compresi tra:
+• 70 e 99 mg/dl a digiuno
+• inferiori a 140 mg/dl 2 ore dopo l’assunzione di una soluzione di glucosio
+(test da carico di glucosio)
+
+### Slide 61
+(slide senza testo: contiene solo immagini)
+
+### Slide 62
+Determinazione del GLUCOSIO nel SANGUE: GLICEMIA
+
+### Slide 63
+➢ Valori di glicemia normali:
+• 70 e 99 mg/dl a digiuno
+
+### Slide 64
+REGOLAZIONE
+del
+METABOLISMO dei CARBOIDRATI
+
+### Slide 65
+(slide senza testo: contiene solo immagini)
+
+### Slide 66
+[Devlin T.M. Biochimica con aspetti clinici 5E, 2011, Edises]
+[Abali E.E. et al. Le basi della biochimica 3E, 2023, Zanichelli editore S.p.A.]
+
+### Slide 67
+REGOLAZIONE GLICOLISI/GLUCONEOGENESI
+➢ La glicolisi e la gluconeogenesi di norma NON procedono entrambe simultaneamente negli
+stessi tessuti.
+➢ Gluconeogenesi: avviene principalmente nel fegato, dove produce il glucosio che poi verrà
+esportato ai tessuti o nel sangue (glicemia bassa).
+➢ Glicolisi: si svolge nella maggior parte dei tessuti, tra cui il cervello, i reni, i muscoli e il
+fegato, e fornisce l’ATP necessario a supportare tutte le attività cellulari che richiedono energia.

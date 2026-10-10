@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 8,
+  "topic": "Ipoglicemia, carenza di ATP e correlazioni cliniche",
+  "questions": [
+    {
+      "id": "d02-b08-q001",
+      "q": "Nel fegato, quale adattamento del metabolismo glucidico si osserva quando la disponibilità di ATP è ridotta?",
+      "choices": [
+        "Aumento della glicolisi e riduzione della gluconeogenesi",
+        "Aumento della gluconeogenesi e riduzione della glicolisi",
+        "Aumento contemporaneo di glicolisi e gluconeogenesi",
+        "Riduzione contemporanea di glicolisi e gluconeogenesi",
+        "Blocco della glicolisi con attivazione della glicogenosintesi"
+      ],
+      "answer": 0,
+      "explain": "Quando l'ATP scarseggia la cellula privilegia la via catabolica che produce energia, cioè la glicolisi, e rallenta la gluconeogenesi. Quest'ultima è una via anabolica molto dispendiosa in termini di ATP e GTP, quindi non può essere potenziata proprio mentre l'energia manca; per questo l'opzione che la descrive in aumento è errata.",
+      "slide": 68
+    },
+    {
+      "id": "d02-b08-q002",
+      "q": "Per quale motivo la cellula accelera la glicolisi quando la disponibilità di ATP è bassa?",
+      "choices": [
+        "Perché la glicolisi consuma ATP per produrre NADH",
+        "Perché la glicolisi trasforma il piruvato in glucosio",
+        "Perché la glicolisi genera ATP mediante la fosforilazione a livello del substrato",
+        "Perché la glicolisi trasferisce direttamente gli elettroni all'ossigeno",
+        "Perché la glicolisi è una via anabolica che accumula glicogeno"
+      ],
+      "answer": 2,
+      "explain": "La glicolisi ossida il glucosio a piruvato e produce un guadagno netto di ATP tramite fosforilazione a livello del substrato, senza richiedere ossigeno. Le alternative che attribuiscono alla glicolisi la sintesi di glucosio o il trasferimento diretto di elettroni all'ossigeno confondono questa via con la gluconeogenesi e con la fosforilazione ossidativa.",
+      "slide": 68
+    },
+    {
+      "id": "d02-b08-q003",
+      "q": "Qual è il guadagno netto di ATP della glicolisi per ogni molecola di glucosio convertita in piruvato?",
+      "choices": [
+        "Una molecola",
+        "Tre molecole",
+        "Quattro molecole",
+        "Otto molecole",
+        "Due molecole"
+      ],
+      "answer": 4,
+      "explain": "Nella glicolisi vengono investite due molecole di ATP nella fase preparatoria e ne vengono prodotte quattro nella fase di recupero energetico, con un guadagno netto di due ATP per glucosio. Le quattro ATP corrispondono al totale prodotto e non al guadagno netto, mentre otto ATP è il rendimento complessivo della respirazione cellulare.",
+      "slide": 68
+    },
+    {
+      "id": "d02-b08-q004",
+      "q": "Quale porzione della massa del pancreas è costituita dalle isole di Langerhans?",
+      "choices": [
+        "Circa il cinquanta per cento",
+        "Circa l'uno e mezzo per cento",
+        "Circa il venti per cento",
+        "Circa il dieci per cento",
+        "Circa il trenta per cento"
+      ],
+      "answer": 1,
+      "explain": "Le isole di Langerhans sono piccoli aggregati endocrini che rappresentano solo una minima parte della massa pancreatica, pari a circa l'uno e mezzo per cento. Il resto del pancreas è costituito dalla porzione esocrina, che produce enzimi digestivi e non ormoni della glicemia.",
+      "slide": 69
+    },
+    {
+      "id": "d02-b08-q005",
+      "q": "Il glucagone è prodotto da quale tipo cellulare delle isole di Langerhans?",
+      "choices": [
+        "Insulina",
+        "Somatostatina",
+        "Polipeptide pancreatico",
+        "Glucagone",
+        "Adrenalina"
+      ],
+      "answer": 3,
+      "explain": "Nelle isole di Langerhans le cellule α sono la sede di produzione del glucagone, l'ormone che aumenta la glicemia. L'insulina è invece prodotta dalle cellule β, mentre l'adrenalina è secreta dalla midollare del surrene e non dal pancreas.",
+      "slide": 69
+    },
+    {
+      "id": "d02-b08-q006",
+      "q": "L'insulina è prodotta da quale tipo cellulare delle isole di Langerhans?",
+      "choices": [
+        "Insulina",
+        "Glucagone",
+        "Cortisolo",
+        "Adrenalina",
+        "Peptide simile al glucagone"
+      ],
+      "answer": 0,
+      "explain": "Le cellule β delle isole di Langerhans sintetizzano l'insulina, l'ormone che abbassa la glicemia favorendo l'utilizzo e l'accumulo del glucosio. Il glucagone deriva dalle cellule α, mentre il cortisolo è prodotto dalla corticale del surrene e non dal pancreas endocrino.",
+      "slide": 69
+    },
+    {
+      "id": "d02-b08-q007",
+      "q": "Quanti tipi cellulari diversi sono contenuti, come minimo, nelle isole di Langerhans?",
+      "choices": [
+        "Due",
+        "Tre",
+        "Quattro",
+        "Cinque",
+        "Sei"
+      ],
+      "answer": 2,
+      "explain": "Le isole di Langerhans contengono almeno quattro tipi cellulari distinti, tra cui le cellule α produttrici di glucagone e le cellule β produttrici di insulina. Le altre popolazioni cellulari secernono somatostatina e polipeptide pancreatico e concorrono alla regolazione fine della secrezione ormonale.",
+      "slide": 69
+    },
+    {
+      "id": "d02-b08-q008",
+      "q": "In quale forma viene inizialmente sintetizzata l'insulina all'interno delle cellule β?",
+      "choices": [
+        "Come ormone maturo già a doppia catena",
+        "Come peptide C isolato",
+        "Come proinsulina già dotata di attività ormonale",
+        "Come glucoproteina legata a uno zucchero",
+        "Come preproormone"
+      ],
+      "answer": 4,
+      "explain": "L'insulina viene sintetizzata sul reticolo endoplasmatico come preproormone, cioè come una catena polipeptidica più lunga del prodotto finale. Solo dopo una serie di tagli proteolitici la molecola diventa l'ormone maturo formato dalle catene A e B unite da ponti disolfuro.",
+      "slide": 70
+    },
+    {
+      "id": "d02-b08-q009",
+      "q": "Che cosa implica il fatto che l'insulina sia sintetizzata come preproormone?",
+      "choices": [
+        "Che l'ormone ha natura lipidica",
+        "Che la molecola subisce tagli proteolitici progressivi fino all'ormone maturo",
+        "Che l'ormone non viene mai secreto dalla cellula",
+        "Che la catena definitiva è assemblata direttamente sul ribosoma",
+        "Che l'ormone agisce soltanto all'interno della cellula β"
+      ],
+      "answer": 1,
+      "explain": "Il prefisso pre indica la presenza di un peptide segnale che indirizza la catena nel reticolo endoplasmatico, mentre pro indica un precursore ancora inattivo. La maturazione richiede quindi rimozioni proteolitiche successive, e non una sintesi diretta della forma definitiva; l'insulina matura viene poi accumulata in granuli e secreta.",
+      "slide": 70
+    },
+    {
+      "id": "d02-b08-q010",
+      "q": "Quali porzioni vengono rimosse dalla molecola precursore durante la maturazione dell'insulina?",
+      "choices": [
+        "Soltanto la catena A",
+        "Soltanto la catena B",
+        "Il gruppo eme",
+        "Il peptide segnale e il peptide C",
+        "Il residuo di glucosio"
+      ],
+      "answer": 3,
+      "explain": "Nel passaggio da preproinsulina a proinsulina viene eliminato il peptide segnale, mentre nella conversione da proinsulina a insulina matura viene rimosso il peptide C che univa le due catene. Le catene A e B restano unite da ponti disolfuro e costituiscono l'ormone attivo.",
+      "slide": 70
+    },
+    {
+      "id": "d02-b08-q011",
+      "q": "Quale effetto esercita l'insulina sulla concentrazione plasmatica del glucosio?",
+      "choices": [
+        "La diminuisce",
+        "La aumenta",
+        "Non la modifica in alcun modo",
+        "La mantiene costante soltanto durante il digiuno",
+        "La aumenta soltanto nel tessuto muscolare"
+      ],
+      "answer": 0,
+      "explain": "L'insulina è l'ormone ipoglicemizzante per eccellenza: favorisce l'ingresso del glucosio nelle cellule e il suo deposito sotto forma di glicogeno. Il glucagone e l'adrenalina hanno invece azione opposta e tendono ad aumentare la glicemia.",
+      "slide": 71
+    },
+    {
+      "id": "d02-b08-q012",
+      "q": "Che tipo di recettore è il recettore dell'insulina?",
+      "choices": [
+        "Un canale ionico selettivo per il glucosio",
+        "Un recettore accoppiato a proteine G con sette segmenti transmembrana",
+        "Un recettore dotato di attività tirosin-chinasica intrinseca",
+        "Una pompa protonica di membrana",
+        "Un trasportatore di membrana per gli acidi grassi"
+      ],
+      "answer": 2,
+      "explain": "Il recettore dell'insulina possiede un'attività tirosin-chinasica intrinseca: quando l'ormone si lega, il recettore si autofosforila e fosforila proteine substrato intracellulari. I recettori a sette segmenti transmembrana, detti a serpentina, sono invece quelli del glucagone e dell'adrenalina e non hanno attività chinasica propria.",
+      "slide": 71
+    },
+    {
+      "id": "d02-b08-q013",
+      "q": "Che cosa accade alla glicemia quando l'insulina si lega ai recettori delle cellule bersaglio?",
+      "choices": [
+        "Aumenta per la liberazione di glucosio dal fegato",
+        "Resta invariata perché il recettore rimane inattivo",
+        "Aumenta perché viene attivata la gluconeogenesi",
+        "Resta stabile perché i trasportatori vengono bloccati",
+        "Diminuisce perché aumenta l'ingresso di glucosio nelle cellule"
+      ],
+      "answer": 4,
+      "explain": "Il legame dell'insulina con il proprio recettore promuove la traslocazione dei trasportatori del glucosio sulla membrana e l'attivazione degli enzimi che utilizzano e immagazzinano il glucosio. Il risultato è una riduzione della glicemia; l'aumento della gluconeogenesi è tipico invece dell'azione del glucagone.",
+      "slide": 71
+    },
+    {
+      "id": "d02-b08-q014",
+      "q": "Quale evento molecolare segue immediatamente il legame dell'insulina al suo recettore?",
+      "choices": [
+        "Un aumento del calcio intracellulare come unico segnale",
+        "L'autofosforilazione del recettore e la fosforilazione di proteine substrato",
+        "La produzione di AMP ciclico da parte dell'adenilato ciclasi",
+        "L'apertura di un canale del cloro",
+        "La degradazione immediata del recettore nel proteasoma"
+      ],
+      "answer": 1,
+      "explain": "Il recettore dell'insulina è una tirosin-chinasi e, una volta legato l'ormone, fosforila se stesso su residui di tirosina e poi proteine substrato come quelle della famiglia IRS. Questo innesca la cascata di segnalazione che porta agli effetti metabolici, mentre la produzione di AMP ciclico è tipica dei recettori a serpentina attivati da glucagone e adrenalina.",
+      "slide": 71
+    },
+    {
+      "id": "d02-b08-q015",
+      "q": "Quale insieme di variazioni enzimatiche descrive correttamente l'azione dell'insulina sul fegato?",
+      "choices": [
+        "Aumento della gluconeogenesi e riduzione della glicolisi",
+        "Aumento della glicogenolisi e riduzione della glicogenosintesi",
+        "Aumento contemporaneo di glicolisi e gluconeogenesi",
+        "Aumento della glicolisi, riduzione della gluconeogenesi, aumento della glicogenosintesi e riduzione della glicogenolisi",
+        "Riduzione della glicolisi e riduzione della glicogenosintesi"
+      ],
+      "answer": 3,
+      "explain": "L'insulina coordina il metabolismo epatico verso l'accumulo di energia: accelera la glicolisi, rallenta la gluconeogenesi, stimola la glicogenosintesi e inibisce la glicogenolisi. Le opzioni che prevedono un aumento della gluconeogenesi o della glicogenolisi descrivono invece l'azione del glucagone, che è opposta a quella dell'insulina.",
+      "slide": 72
+    },
+    {
+      "id": "d02-b08-q016",
+      "q": "Come viene modificata la glicogenolisi epatica dall'insulina?",
+      "choices": [
+        "Viene ridotta",
+        "Viene aumentata",
+        "Rimane invariata",
+        "Viene attivata insieme alla gluconeogenesi",
+        "Viene ridotta soltanto nel muscolo scheletrico"
+      ],
+      "answer": 0,
+      "explain": "Quando l'insulina è elevata il fegato non ha motivo di demolire le riserve di glicogeno, perché il glucosio è abbondante; la glicogenolisi viene quindi inibita. È il glucagone, nella condizione opposta, a stimolare la glicogenolisi epatica per liberare glucosio nel sangue.",
+      "slide": 72
+    },
+    {
+      "id": "d02-b08-q017",
+      "q": "Quale effetto ha l'insulina sulla glicogenosintesi?",
+      "choices": [
+        "La riduce, perché attiva la glicogenolisi",
+        "La lascia invariata, perché agisce solo sulla glicemia",
+        "La aumenta",
+        "La aumenta soltanto durante il digiuno",
+        "La riduce, perché favorisce la glicolisi"
+      ],
+      "answer": 2,
+      "explain": "L'insulina attiva la glicogeno sintasi e favorisce così il deposito del glucosio in eccesso sotto forma di glicogeno, soprattutto nel fegato e nel muscolo. Il fatto che l'insulina stimoli contemporaneamente la glicolisi non riduce la glicogenosintesi, perché entrambe le vie utilizzano il glucosio disponibile in abbondanza.",
+      "slide": 72
+    },
+    {
+      "id": "d02-b08-q018",
+      "q": "In che modo l'insulina contribuisce a riportare la glicemia verso i valori basali dopo un pasto?",
+      "choices": [
+        "Stimolando la gluconeogenesi epatica",
+        "Stimolando la glicogenolisi epatica",
+        "Inibendo l'ingresso del glucosio nelle cellule",
+        "Aumentando la secrezione di glucagone",
+        "Stimolando l'utilizzo e l'immagazzinamento del glucosio e inibendo la produzione epatica di glucosio"
+      ],
+      "answer": 4,
+      "explain": "Dopo un pasto l'insulina favorisce l'assorbimento del glucosio da parte dei tessuti, il suo deposito come glicogeno e la conversione in acidi grassi, mentre riduce la produzione epatica di glucosio. In questo modo la glicemia, che era salita, ritorna gradualmente ai valori basali.",
+      "slide": 72
+    },
+    {
+      "id": "d02-b08-q019",
+      "q": "Quali catecolamine esercitano un'azione iperglicemizzante?",
+      "choices": [
+        "Insulina e peptide C",
+        "Adrenalina e noradrenalina",
+        "Glucagone e insulina",
+        "Cortisolo e aldosterone",
+        "Somatostatina e polipeptide pancreatico"
+      ],
+      "answer": 1,
+      "explain": "L'adrenalina e la noradrenalina sono le catecolamine che, in situazioni di stress o di esercizio, stimolano la produzione di glucosio e ne aumentano la concentrazione nel sangue. L'insulina ha invece effetto opposto, mentre il cortisolo e l'aldosterone appartengono alla classe degli steroidi.",
+      "slide": 73
+    },
+    {
+      "id": "d02-b08-q020",
+      "q": "Quale ormone pancreatico ha un'azione opposta a quella dell'insulina sulla glicemia?",
+      "choices": [
+        "Insulina",
+        "Peptide C",
+        "Amilina",
+        "Glucagone",
+        "Somatostatina"
+      ],
+      "answer": 3,
+      "explain": "Il glucagone è l'ormone pancreatico con azione iperglicemizzante e si contrappone quindi all'insulina, che abbassa la glicemia. Il peptide C è un frammento rilasciato durante la maturazione dell'insulina e non ha questa azione ormonale contrapposta.",
+      "slide": 73
+    },
+    {
+      "id": "d02-b08-q021",
+      "q": "In quale condizione fisiologica aumenta la secrezione di glucagone?",
+      "choices": [
+        "Durante il digiuno",
+        "Subito dopo un pasto ricco di carboidrati",
+        "Durante un'infusione di glucosio",
+        "Quando la glicemia è elevata",
+        "Durante la fase di assorbimento intestinale"
+      ],
+      "answer": 0,
+      "explain": "La secrezione di glucagone aumenta quando la glicemia tende a scendere, quindi durante il digiuno, per mobilitare le riserve energetiche. Dopo un pasto ricco di carboidrati prevale invece l'insulina, che abbassa la glicemia e inibisce la secrezione di glucagone.",
+      "slide": 73
+    },
+    {
+      "id": "d02-b08-q022",
+      "q": "Da quale struttura è prodotta l'adrenalina che influenza la glicemia?",
+      "choices": [
+        "La corticale del surrene",
+        "Le isole di Langerhans",
+        "La midollare del surrene",
+        "L'ipofisi anteriore",
+        "La tiroide"
+      ],
+      "answer": 2,
+      "explain": "L'adrenalina è una catecolamina secreta dalla midollare del surrene in risposta a stress ed esercizio fisico. La corticale del surrene produce ormoni steroidei come il cortisolo, mentre le isole di Langerhans secernono insulina e glucagone.",
+      "slide": 73
+    },
+    {
+      "id": "d02-b08-q023",
+      "q": "Perché il glucagone non stimola la glicogenolisi nel muscolo scheletrico?",
+      "choices": [
+        "Perché il muscolo non contiene glicogeno",
+        "Perché il muscolo non possiede la glicogeno fosforilasi",
+        "Perché il glucagone non raggiunge mai il muscolo con il sangue",
+        "Perché nel muscolo prevale la gluconeogenesi",
+        "Perché il muscolo scheletrico non possiede recettori per il glucagone"
+      ],
+      "answer": 4,
+      "explain": "L'azione di un ormone richiede la presenza del suo recettore sulla cellula bersaglio e il muscolo scheletrico è privo di recettori per il glucagone. Il glicogeno muscolare viene invece mobilizzato dall'adrenalina durante l'esercizio, quando serve energia per la contrazione.",
+      "slide": 74
+    },
+    {
+      "id": "d02-b08-q024",
+      "q": "Su quali tessuti agisce il glucagone?",
+      "choices": [
+        "Fegato e muscolo scheletrico",
+        "Fegato e tessuto adiposo",
+        "Muscolo scheletrico e cervello",
+        "Tessuto adiposo ed eritrociti",
+        "Cervello e reni"
+      ],
+      "answer": 1,
+      "explain": "Il glucagone è attivo sul fegato, dove stimola glicogenolisi e gluconeogenesi, e sul tessuto adiposo, dove favorisce la lipolisi. Il muscolo scheletrico non risponde al glucagone perché non possiede i relativi recettori.",
+      "slide": 74
+    },
+    {
+      "id": "d02-b08-q025",
+      "q": "Quale ormone può stimolare la demolizione del glicogeno nel muscolo durante l'esercizio fisico?",
+      "choices": [
+        "L'insulina",
+        "Il glucagone",
+        "Il peptide C",
+        "L'adrenalina",
+        "L'aldosterone"
+      ],
+      "answer": 3,
+      "explain": "Il muscolo scheletrico non ha recettori per il glucagone, ma risponde all'adrenalina, che durante l'esercizio attiva la glicogenolisi e fornisce glucosio per la contrazione. L'insulina ha un effetto opposto, perché favorisce il deposito di glicogeno.",
+      "slide": 74
+    },
+    {
+      "id": "d02-b08-q026",
+      "q": "Nel tessuto adiposo il glucagone promuove principalmente quale processo?",
+      "choices": [
+        "La lipolisi con rilascio di acidi grassi",
+        "La sintesi di glicogeno",
+        "L'ingresso di glucosio per diffusione facilitata",
+        "La sintesi proteica",
+        "La gluconeogenesi"
+      ],
+      "answer": 0,
+      "explain": "Nel tessuto adiposo il glucagone attiva la lipasi ormone-sensibile e stimola la lipolisi, liberando acidi grassi e glicerolo utilizzabili dagli altri tessuti. Il tessuto adiposo non è una sede di gluconeogenesi e non accumula glicogeno in quantità significative.",
+      "slide": 74
+    },
+    {
+      "id": "d02-b08-q027",
+      "q": "Che cosa caratterizza i recettori a serpentina coinvolti nella regolazione della glicemia?",
+      "choices": [
+        "Sono canali ionici selettivi per il sodio",
+        "Sono recettori con attività tirosin-chinasica",
+        "Attraversano la membrana con sette segmenti ad α-elica",
+        "Sono trasportatori del glucosio",
+        "Sono proteine solubili del citosol"
+      ],
+      "answer": 2,
+      "explain": "I recettori a serpentina, o a sette segmenti transmembrana, attraversano la membrana plasmatica con sette tratti ad α-elica e trasducono il segnale attraverso proteine G. Il recettore dell'insulina appartiene invece alla famiglia dei recettori tirosin-chinasici e ha struttura diversa.",
+      "slide": 75
+    },
+    {
+      "id": "d02-b08-q028",
+      "q": "Quale sistema di trasduzione del segnale viene attivato dai recettori a serpentina del glucagone e dell'adrenalina?",
+      "choices": [
+        "Fosforilazione diretta del recettore su residui di tirosina",
+        "Apertura di un poro della membrana nucleare",
+        "Sintesi di ATP da parte dei mitocondri",
+        "Trasporto di glucosio contro gradiente",
+        "Proteine G e secondi messaggeri come l'AMP ciclico"
+      ],
+      "answer": 4,
+      "explain": "I recettori a serpentina attivano una proteina G che stimola l'adenilato ciclasi, con conseguente produzione di AMP ciclico come secondo messaggero. L'attività tirosin-chinasica appartiene al recettore dell'insulina, che non è un recettore a serpentina.",
+      "slide": 75
+    },
+    {
+      "id": "d02-b08-q029",
+      "q": "Quale effetto finale sulla glicemia produce l'attivazione dei recettori a serpentina da parte di glucagone e adrenalina?",
+      "choices": [
+        "Riduzione della glicemia",
+        "Aumento della glicemia",
+        "Nessuna variazione della glicemia",
+        "Aumento della glicemia soltanto nel muscolo",
+        "Riduzione della glicemia soltanto nel fegato"
+      ],
+      "answer": 1,
+      "explain": "Glucagone e adrenalina attivano la produzione di glucosio e ne favoriscono il rilascio nel sangue, con un aumento finale della glicemia. L'insulina, che agisce attraverso un recettore diverso, produce l'effetto opposto.",
+      "slide": 75
+    },
+    {
+      "id": "d02-b08-q030",
+      "q": "Quale secondo messaggero viene prodotto dall'adenilato ciclasi quando il glucagone attiva il proprio recettore?",
+      "choices": [
+        "L'AMP ciclico",
+        "Il GMP ciclico",
+        "Il calcio citosolico",
+        "Il diacilglicerolo",
+        "L'inositolo trifosfato"
+      ],
+      "answer": 0,
+      "explain": "Nel caso del glucagone la proteina G stimola l'adenilato ciclasi, che converte l'ATP in AMP ciclico, il quale attiva la protein-chinasi A. Il diacilglicerolo e l'inositolo trifosfato derivano invece dalla via della fosfolipasi C e non sono i messaggeri principali di questo percorso.",
+      "slide": 75
+    },
+    {
+      "id": "d02-b08-q031",
+      "q": "Quale insieme di variazioni enzimatiche descrive correttamente l'azione del glucagone sul fegato?",
+      "choices": [
+        "Aumento della glicolisi e riduzione della gluconeogenesi",
+        "Aumento della glicogenosintesi e riduzione della glicogenolisi",
+        "Aumento della glicolisi e aumento della glicogenosintesi",
+        "Aumento della gluconeogenesi, aumento della glicogenolisi, riduzione della glicolisi e riduzione della glicogenosintesi",
+        "Riduzione della gluconeogenesi e riduzione della glicogenolisi"
+      ],
+      "answer": 3,
+      "explain": "Il glucagone prepara l'organismo a resistere al digiuno: stimola la gluconeogenesi e la glicogenolisi, che producono glucosio, e inibisce la glicolisi e la glicogenosintesi, che lo consumerebbero. L'insieme opposto, con aumento della glicolisi e della glicogenosintesi, corrisponde all'azione dell'insulina.",
+      "slide": 76
+    },
+    {
+      "id": "d02-b08-q032",
+      "q": "Come viene modificata la glicolisi epatica dal glucagone?",
+      "choices": [
+        "Viene aumentata",
+        "Rimane invariata",
+        "Viene ridotta",
+        "Viene aumentata soltanto dopo un pasto",
+        "Viene ridotta soltanto nel muscolo"
+      ],
+      "answer": 2,
+      "explain": "Durante il digiuno il fegato deve produrre glucosio e non consumarlo, quindi il glucagone riduce la glicolisi epatica. L'aumento della glicolisi è invece tipico dell'azione dell'insulina, che segnala abbondanza di glucosio.",
+      "slide": 76
+    },
+    {
+      "id": "d02-b08-q033",
+      "q": "Quale effetto ha il glucagone sulla glicogenosintesi?",
+      "choices": [
+        "La aumenta",
+        "La lascia invariata",
+        "La aumenta durante il digiuno",
+        "La aumenta grazie alla fosforilazione della glicogeno sintasi",
+        "La riduce"
+      ],
+      "answer": 4,
+      "explain": "Il glucagone mantiene alta la glicemia e quindi inibisce il deposito del glucosio sotto forma di glicogeno, riducendo la glicogenosintesi. La fosforilazione della glicogeno sintasi non aumenta la sua attività, al contrario la spegne, perché l'enzima è attivo nella forma defosforilata.",
+      "slide": 76
+    },
+    {
+      "id": "d02-b08-q034",
+      "q": "In che modo il glucagone aumenta la glicemia durante il digiuno?",
+      "choices": [
+        "Riducendo l'ingresso di glucosio nelle cellule muscolari",
+        "Stimolando la produzione epatica di glucosio mediante glicogenolisi e gluconeogenesi",
+        "Aumentando la sintesi di glicogeno nel fegato",
+        "Aumentando la secrezione di insulina",
+        "Bloccando il riassorbimento del glucosio nel rene"
+      ],
+      "answer": 1,
+      "explain": "Il glucagone agisce sul fegato stimolando sia la demolizione del glicogeno sia la sintesi di nuovo glucosio a partire da precursori non glucidici, aumentando così la liberazione di glucosio nel sangue. La sintesi di glicogeno e la secrezione di insulina avrebbero invece l'effetto di abbassare la glicemia.",
+      "slide": 76
+    },
+    {
+      "id": "d02-b08-q035",
+      "q": "Come varia la velocità della gluconeogenesi dopo un pasto ricco di carboidrati?",
+      "choices": [
+        "Diminuisce per l'aumento dell'insulina",
+        "Aumenta per l'aumento dell'insulina",
+        "Aumenta per l'aumento del glucagone",
+        "Rimane invariata perché non dipende dalla dieta",
+        "Diminuisce per l'aumento del glucagone"
+      ],
+      "answer": 0,
+      "explain": "Un pasto ricco di carboidrati eleva la glicemia e stimola la secrezione di insulina, che abbassa la velocità della gluconeogenesi perché l'organismo non ha bisogno di produrre glucosio. L'aumento del glucagone, tipico del digiuno, ha invece l'effetto opposto.",
+      "slide": 77
+    },
+    {
+      "id": "d02-b08-q036",
+      "q": "Che cosa accade alla velocità della gluconeogenesi durante il digiuno?",
+      "choices": [
+        "Diminuisce",
+        "Rimane invariata",
+        "Aumenta",
+        "Si arresta completamente",
+        "Aumenta soltanto subito dopo un pasto"
+      ],
+      "answer": 2,
+      "explain": "Durante il digiuno la glicemia tende a calare e l'organismo deve produrre glucosio endogeno, quindi la gluconeogenesi aumenta. Questo processo è particolarmente importante quando le riserve di glicogeno epatico cominciano a esaurirsi.",
+      "slide": 77
+    },
+    {
+      "id": "d02-b08-q037",
+      "q": "Quale ormone è responsabile dell'aumento della gluconeogenesi durante il digiuno?",
+      "choices": [
+        "Insulina",
+        "Peptide C",
+        "Aldosterone",
+        "Insulina e peptide C insieme",
+        "Glucagone"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno aumenta la secrezione di glucagone, che stimola la gluconeogenesi epatica e mantiene così la glicemia. L'insulina, al contrario, segnala la disponibilità di glucosio dopo il pasto e riduce la velocità di questa via.",
+      "slide": 77
+    },
+    {
+      "id": "d02-b08-q038",
+      "q": "Quale coppia di processi metabolici opposti è regolata in modo reciproco dagli ormoni della glicemia?",
+      "choices": [
+        "Glicolisi e β-ossidazione",
+        "Glicogenolisi e glicogenosintesi",
+        "Gluconeogenesi e ciclo di Krebs",
+        "Glicogenolisi e lipolisi",
+        "Glicogenosintesi e sintesi proteica"
+      ],
+      "answer": 1,
+      "explain": "Glicogenolisi e glicogenosintesi sono due processi opposti che non devono procedere insieme: l'insulina favorisce la sintesi, mentre il glucagone e l'adrenalina favoriscono la demolizione. La loro regolazione reciproca permette alla cellula di scegliere se accumulare o liberare glucosio.",
+      "slide": 78
+    },
+    {
+      "id": "d02-b08-q039",
+      "q": "In quale condizione prevale la glicogenosintesi rispetto alla glicogenolisi?",
+      "choices": [
+        "Durante un digiuno prolungato",
+        "Quando il glucagone è elevato",
+        "Quando l'adrenalina è elevata",
+        "Quando la glicemia è elevata e l'insulina è alta",
+        "Quando la glicemia è bassa"
+      ],
+      "answer": 3,
+      "explain": "La glicogenosintesi prevale quando c'è glucosio in abbondanza, cioè quando la glicemia è elevata e l'insulina stimola il deposito delle riserve. Glucagone e adrenalina, tipici del digiuno e dello stress, spostano invece l'equilibrio verso la glicogenolisi.",
+      "slide": 78
+    },
+    {
+      "id": "d02-b08-q040",
+      "q": "Perché glicogenolisi e glicogenosintesi non sono mai attive al massimo nello stesso momento?",
+      "choices": [
+        "Perché la loro regolazione reciproca evita un ciclo futile che consumerebbe ATP",
+        "Perché i due processi avvengono in compartimenti cellulari diversi",
+        "Perché il glicogeno non può essere degradato e sintetizzato nello stesso organo",
+        "Perché la glicogeno fosforilasi non esiste nel fegato",
+        "Perché l'insulina blocca direttamente la glicogeno sintasi"
+      ],
+      "answer": 0,
+      "explain": "Se le due vie fossero attive insieme il glucosio verrebbe continuamente rimosso e reincorporato nel glicogeno, consumando ATP senza alcun vantaggio per la cellula. La regolazione reciproca, mediata dalla fosforilazione degli enzimi chiave, impedisce proprio questo ciclo futile.",
+      "slide": 78
+    },
+    {
+      "id": "d02-b08-q041",
+      "q": "Qual è la funzione principale del glicogeno nel muscolo scheletrico?",
+      "choices": [
+        "Mantenere stabile la glicemia sistemica",
+        "Rilasciare glucosio nel sangue tra i pasti",
+        "Fornire energia per la contrazione",
+        "Produrre corpi chetonici destinati al cervello",
+        "Trasformare il glucosio in acidi grassi"
+      ],
+      "answer": 2,
+      "explain": "Nel muscolo il glicogeno rappresenta un combustibile di pronto impiego che viene consumato durante la contrazione, spesso in condizioni di scarsa disponibilità di ossigeno. Il muscolo non ha la glucosio-6-fosfatasi e quindi non può cedere glucosio al sangue per regolare la glicemia.",
+      "slide": 79
+    },
+    {
+      "id": "d02-b08-q042",
+      "q": "Qual è la funzione principale del glicogeno epatico?",
+      "choices": [
+        "Fornire energia per la contrazione muscolare",
+        "Costituire una riserva di aminoacidi",
+        "Produrre calore durante il digiuno",
+        "Alimentare direttamente il cervello con acidi grassi",
+        "Mantenere stabile la glicemia"
+      ],
+      "answer": 4,
+      "explain": "Il fegato immagazzina glicogeno per liberare glucosio nel sangue e mantenere la glicemia costante, soprattutto fra i pasti e durante il digiuno notturno. Il glicogeno muscolare ha invece una funzione energetica locale e non contribuisce alla glicemia.",
+      "slide": 79
+    },
+    {
+      "id": "d02-b08-q043",
+      "q": "Perché il fegato può rilasciare glucosio nel sangue mentre il muscolo non può farlo?",
+      "choices": [
+        "Perché il muscolo non possiede la glicogeno fosforilasi",
+        "Perché il fegato possiede la glucosio-6-fosfatasi",
+        "Perché il fegato non possiede recettori per l'insulina",
+        "Perché il muscolo non contiene glicogeno",
+        "Perché il muscolo non esprime il trasportatore GLUT4"
+      ],
+      "answer": 1,
+      "explain": "La glucosio-6-fosfatasi, presente nel fegato, rimuove il gruppo fosfato dal glucosio-6-fosfato e permette al glucosio libero di uscire dalla cellula. Nel muscolo questo enzima manca, quindi il glucosio-6-fosfato resta intrappolato e viene utilizzato solo per la glicolisi locale.",
+      "slide": 79
+    },
+    {
+      "id": "d02-b08-q044",
+      "q": "In una condizione di ipoglicemia, quale ormone viene secreto in maggiore quantità per riportare la glicemia verso i valori normali?",
+      "choices": [
+        "L'insulina",
+        "Il peptide C",
+        "L'amilina",
+        "Il glucagone",
+        "L'aldosterone"
+      ],
+      "answer": 3,
+      "explain": "L'ipoglicemia è lo stimolo fisiologico più potente per la secrezione di glucagone, che mobilita le riserve epatiche e attiva la gluconeogenesi. L'insulina, che abbassa ulteriormente la glicemia, viene invece inibita proprio quando il glucosio plasmatico diminuisce.",
+      "slide": 80
+    },
+    {
+      "id": "d02-b08-q045",
+      "q": "Quale processo epatico fornisce glucosio al sangue quando le riserve di glicogeno si sono esaurite durante un digiuno prolungato?",
+      "choices": [
+        "La gluconeogenesi",
+        "La glicogenosintesi",
+        "La glicolisi",
+        "La β-ossidazione",
+        "La lipogenesi"
+      ],
+      "answer": 0,
+      "explain": "Quando il glicogeno epatico è esaurito, il fegato sintetizza glucosio da precursori non glucidici come lattato, glicerolo e aminoacidi attraverso la gluconeogenesi. La glicogenosintesi e la lipogenesi consumano glucosio invece di produrlo, mentre la β-ossidazione riguarda gli acidi grassi.",
+      "slide": 80
+    },
+    {
+      "id": "d02-b08-q046",
+      "q": "Quale conseguenza clinica tipica può comparire a carico del sistema nervoso in caso di ipoglicemia marcata?",
+      "choices": [
+        "Aumento della diuresi con disidratazione",
+        "Iperpigmentazione della cute",
+        "Confusione, sonnolenza e possibile perdita di coscienza",
+        "Rigidità muscolare permanente",
+        "Aumento persistente della temperatura corporea"
+      ],
+      "answer": 2,
+      "explain": "Il cervello dipende in larga misura dal glucosio e, quando la glicemia scende in modo marcato, compaiono sintomi neuroglicopenici come confusione, sonnolenza e perdita di coscienza. L'aumento della diuresi e l'iperpigmentazione cutanea non sono manifestazioni legate alla riduzione della glicemia.",
+      "slide": 81
+    },
+    {
+      "id": "d02-b08-q047",
+      "q": "Perché il cervello è particolarmente sensibile all'ipoglicemia?",
+      "choices": [
+        "Perché accumula grandi quantità di glicogeno",
+        "Perché utilizza preferenzialmente gli acidi grassi a catena lunga",
+        "Perché produce glucosio per gluconeogenesi",
+        "Perché è protetto dalla barriera ematoencefalica",
+        "Perché utilizza il glucosio come principale combustibile e ha scarse riserve energetiche"
+      ],
+      "answer": 4,
+      "explain": "Il tessuto nervoso consuma glucosio in modo continuo e dispone di riserve di glicogeno molto limitate, quindi non può compensare a lungo una riduzione della glicemia. Gli acidi grassi a catena lunga non attraversano facilmente la barriera ematoencefalica e non sostituiscono il glucosio come combustibile principale.",
+      "slide": 81
+    },
+    {
+      "id": "d02-b08-q048",
+      "q": "Quale conseguenza metabolica può derivare da una somministrazione eccessiva di insulina?",
+      "choices": [
+        "Iperglicemia",
+        "Ipoglicemia",
+        "Aumento della gluconeogenesi",
+        "Riduzione dell'ingresso di glucosio nelle cellule",
+        "Aumento della glicogenolisi epatica"
+      ],
+      "answer": 1,
+      "explain": "L'insulina abbassa la glicemia favorendo l'ingresso del glucosio nelle cellule e inibendo la produzione epatica di glucosio; una dose eccessiva porta quindi a ipoglicemia. L'aumento della gluconeogenesi e della glicogenolisi è invece la risposta dell'organismo al calo della glicemia, non l'effetto diretto dell'ormone.",
+      "slide": 81
+    },
+    {
+      "id": "d02-b08-q049",
+      "q": "Quale intervento immediato è indicato in un episodio di ipoglicemia sintomatica in un paziente cosciente?",
+      "choices": [
+        "Somministrare insulina a rapida azione",
+        "Somministrare un pasto ricco di grassi",
+        "Praticare un'infusione di soluzione fisiologica senza glucosio",
+        "Somministrare zuccheri a rapido assorbimento per via orale",
+        "Attendere la correzione spontanea della glicemia"
+      ],
+      "answer": 3,
+      "explain": "Se il paziente è cosciente e in grado di deglutire, la correzione rapida dell'ipoglicemia si ottiene con zuccheri semplici a rapido assorbimento per via orale. Somministrare insulina o una soluzione priva di glucosio peggiorerebbe ulteriormente la condizione, e attendere senza intervenire espone al rischio di neuroglicopenia.",
+      "slide": 85
+    },
+    {
+      "id": "d02-b08-q050",
+      "q": "Perché in un episodio di ipoglicemia grave con perdita di coscienza non si somministra nulla per bocca?",
+      "choices": [
+        "Perché il riflesso della deglutizione può essere compromesso con rischio di ostruzione delle vie aeree",
+        "Perché gli zuccheri assunti per bocca non vengono assorbiti in nessun caso",
+        "Perché lo stomaco è sempre pieno durante l'ipoglicemia",
+        "Perché la bocca non è accessibile durante la perdita di coscienza",
+        "Perché lo zucchero assunto per bocca abbassa ulteriormente la glicemia"
+      ],
+      "answer": 0,
+      "explain": "In un paziente incosciente la protezione delle vie aeree è ridotta e il materiale introdotto in bocca può essere aspirato, quindi si ricorre alla via endovenosa o ad altre vie parenterali. Gli zuccheri per bocca sarebbero efficaci se il paziente potesse deglutire, ma in questa situazione il rischio di soffocamento prevale sul beneficio.",
+      "slide": 85
+    }
+  ]
+}

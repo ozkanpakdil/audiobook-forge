@@ -1,0 +1,53 @@
+# Deck 3 — Metabolismo dei lipidi (2025-10-30)
+# Batch 3 — argomento: Chilomicroni, VLDL, LDL, HDL e lipoproteinlipasi
+# Slide da 25 a 32
+
+### Slide 25
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 26
+➢ Come vengono rilasciati i TG
+dai chilomicroni?
+[Bellini T., Chimica medica e propedeutica biochimica 2E, 2024, Zanichelli editore S.p.A.]
+
+### Slide 27
+➢ Tre ENZIMI hanno un ruolo chiave nel metabolismo delle LP:
+1. lipoproteinlipasi (LPL): tessuto adiposo e muscolo
+2. lipasi epatica (HL): fegato
+3. lecitina colesterolo aciltransferasi (LCAT): fegato
+
+### Slide 28
+Lipoproteinlipasi (LPL)
+➢ La lipoproteinlipasi (LPL) è un enzima che idrolizza i TG contenuti nei kµ e
+VLDL.
+➢ La LPL idrolizza i TG, liberando ACIDI GRASSI: gli acidi grassi entrano nelle
+cellule o sono legati all'albumina e trasportati ad altri tessuti.
+➢ Nel muscolo scheletrico e cardiaco gli acidi grassi sono ossidati, mentre nel
+tessuto adiposo sono riconvertiti a TG.
+
+### Slide 29
+• LPL è una glicoproteina sintetizzata in molti tessuti, per lo più presente nel tessuto
+adiposo e nel muscolo striato, si trova anche nei macrofagi, è assente nel fegato.
+• Nel tessuto adiposo l’enzima è indotto da insulina: l’attività della LPL dopo un pasto è
+elevata nel tessuto adiposo e diminuisce nel muscolo scheletrico e cardiaco.
+• Nel muscolo l’attività LPL aumenta in condizioni di digiuno.
+• Nel diabetico l’ipertrigliceridemia è dovuta ad una diminuita attività LPL nel tessuto adiposo
+(non agisce l’insulina).
+
+### Slide 30
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 31
+• Nel FEGATO il kµr viene internalizzato e completamente idrolizzato.
+• I TG residui e il colesterolo della dieta sono rilasciati nell’epatocita.
+• I TG che entrano nel fegato mediante questa via possono essere ossidati per ricavare energia
+o per generare precursori per la sintesi dei corpi chetonici.
+• Il colesterolo può essere convertito in acidi biliari, essere incorporato in VLDL o essere
+esterificato e accumularsi in goccioline lipidiche.
+
+### Slide 32
+TRIGLICERIDI di RISERVA: TESSUTO ADIPOSO
+➢ TG dell'adipocita: emivita di pochi giorni
+(elevato turnover)
+➢ TG nel muscolo scheletrico: se ne accumula una
+piccola quantità (consumo locale)

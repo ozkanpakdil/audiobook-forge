@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 4,
+  "topic": "Biosintesi endogena del colesterolo, sua regolazione e statine",
+  "questions": [
+    {
+      "id": "d04-b04-q001",
+      "q": "Quale organo rappresenta la sede preminente della sintesi endogena di colesterolo?",
+      "choices": [
+        "Il rene",
+        "Il polmone",
+        "Il fegato",
+        "La milza",
+        "Il pancreas"
+      ],
+      "answer": 2,
+      "explain": "Il fegato è la sede preminente della sintesi endogena di colesterolo, pur non essendo l'unico tessuto capace di sintetizzarlo. Rene e pancreas svolgono numerose funzioni metaboliche, ma non sono annoverati tra le sedi principali di questa via biosintetica.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q002",
+      "q": "Quale quota della sintesi endogena totale di colesterolo è attribuita al fegato?",
+      "choices": [
+        "Tra il dieci e il venti per cento",
+        "Tra il quaranta e il cinquanta per cento",
+        "Tra il sessanta e il settanta per cento",
+        "Tra l'ottanta e il novanta per cento",
+        "Meno del cinque per cento"
+      ],
+      "answer": 0,
+      "explain": "Il fegato è responsabile di circa il dieci-venti per cento della sintesi endogena complessiva di colesterolo, pur essendo il tessuto quantitativamente più attivo. Le percentuali molto più elevate proposte sarebbero incompatibili con il fatto che la sintesi avviene in tutte le cellule dell'organismo.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q003",
+      "q": "In quali cellule dell'organismo si svolge la sintesi endogena del colesterolo?",
+      "choices": [
+        "Solo negli epatociti",
+        "Solo nelle cellule del tessuto nervoso",
+        "Solo nelle ghiandole endocrine",
+        "In tutte le cellule dell'organismo",
+        "Solo nelle cellule in attiva divisione"
+      ],
+      "answer": 3,
+      "explain": "La via biosintetica del colesterolo è presente in tutte le cellule, anche se risulta particolarmente attiva nel fegato, nell'intestino, nella corteccia surrenale e nei tessuti riproduttivi. Limitarla ai soli epatociti è l'errore più insidioso, perché il fegato è la sede più importante ma non l'unica.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q004",
+      "q": "Quale funzione svolge il colesterolo nel tessuto nervoso?",
+      "choices": [
+        "È il principale combustibile energetico dei neuroni",
+        "È un costituente importante delle guaine mieliniche",
+        "Funziona da neurotrasmettitore di membrana",
+        "È il precursore dei neuropeptidi",
+        "Regola direttamente il potenziale di membrana a riposo"
+      ],
+      "answer": 1,
+      "explain": "Nel tessuto nervoso il colesterolo è un componente strutturale fondamentale delle guaine mieliniche, che assicurano la conduzione saltatoria dell'impulso. Non ha funzione di neurotrasmettitore né di combustibile, perché i neuroni utilizzano soprattutto glucosio e corpi chetonici a fini energetici.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q005",
+      "q": "Nella pelle il colesterolo costituisce il precursore di quale molecola?",
+      "choices": [
+        "La melanina",
+        "Il collagene",
+        "La cheratina",
+        "L'acido ialuronico",
+        "La vitamina D"
+      ],
+      "answer": 4,
+      "explain": "Nella cute il colesterolo è il precursore della vitamina D, che viene prodotta per esposizione della pelle ai raggi ultravioletti. Melanina, collagene e cheratina derivano rispettivamente da tirosina, da proteine strutturali e dai cheratinociti, e non hanno relazione con il colesterolo.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q006",
+      "q": "Quale gruppo di tessuti è annoverato tra le sedi della sintesi endogena di colesterolo?",
+      "choices": [
+        "Milza, timo e midollo osseo",
+        "Polmone, rene e vescica",
+        "Ovaie, testicoli e placenta",
+        "Tiroide, paratiroidi e midollare del surrene",
+        "Muscolo scheletrico, cuore e ossa"
+      ],
+      "answer": 2,
+      "explain": "Ovaie, testicoli e placenta sono tessuti riproduttivi in cui la sintesi di colesterolo è particolarmente attiva, perché il colesterolo è il precursore degli ormoni steroidei e un componente di membrana. La midollare del surrene produce catecolamine e non è una sede privilegiata di sintesi: lo è invece la corteccia surrenale.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q007",
+      "q": "Quante molecole di NADPH sono necessarie per la sintesi di una molecola di colesterolo?",
+      "choices": [
+        "Otto",
+        "Sedici",
+        "Diciotto",
+        "Ventiquattro",
+        "Trentadue"
+      ],
+      "answer": 1,
+      "explain": "La sintesi endogena del colesterolo richiede sedici molecole di NADPH, oltre a diciotto di acetilCoA e a un notevole apporto di ATP. Il valore diciotto si riferisce agli acetilCoA o alle ATP e non al potere riducente, ed è per questo il distrattore più insidioso.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q008",
+      "q": "Quante molecole di acetilCoA sono necessarie per formare una molecola di colesterolo?",
+      "choices": [
+        "Diciotto",
+        "Sedici",
+        "Nove",
+        "Ventiquattro",
+        "Trentasei"
+      ],
+      "answer": 0,
+      "explain": "Occorrono diciotto molecole di acetilCoA per costruire una molecola di colesterolo, che contiene ventisette atomi di carbonio. Il valore sedici corrisponde al NADPH impiegato nella stessa via, quindi non va confuso con il numero di unità di acetato necessarie.",
+      "slide": 31
+    },
+    {
+      "id": "d04-b04-q009",
+      "q": "Da quale substrato il fegato produce il colesterolo?",
+      "choices": [
+        "Dagli acidi grassi insaturi",
+        "Dai corpi chetonici",
+        "Dal glicerolo libero",
+        "Dagli acidi grassi saturi",
+        "Dagli amminoacidi ramificati"
+      ],
+      "answer": 3,
+      "explain": "Il fegato utilizza gli acidi grassi saturi come materiale di partenza per la produzione di colesterolo, perché il loro catabolismo fornisce l'acetilCoA, unità di base della via. I corpi chetonici e il glicerolo non sono i precursori di questa sintesi, anche se il glicerolo può essere impiegato nella gluconeogenesi.",
+      "slide": 32
+    },
+    {
+      "id": "d04-b04-q010",
+      "q": "Quale componente della dieta è in grado di influenzare la sintesi epatica di colesterolo?",
+      "choices": [
+        "Il contenuto di sodio",
+        "L'assunzione di fibre",
+        "Il contenuto di calcio",
+        "L'apporto di vitamina C",
+        "Il contenuto di acqua"
+      ],
+      "answer": 1,
+      "explain": "L'assunzione di fibre con la dieta è uno dei fattori che influenzano la sintesi epatica del colesterolo, insieme a fattori genetici, esercizio fisico e stress emotivo. Sodio, calcio e vitamina C svolgono altre funzioni fisiologiche e non sono annoverati tra i fattori di questa via.",
+      "slide": 32
+    },
+    {
+      "id": "d04-b04-q011",
+      "q": "Quale fattore non nutrizionale è in grado di influenzare la sintesi epatica di colesterolo?",
+      "choices": [
+        "Il gruppo sanguigno Rh",
+        "La lunghezza dell'intestino",
+        "Il pH del succo gastrico",
+        "Il peso molecolare dell'emoglobina",
+        "Lo stress emotivo"
+      ],
+      "answer": 4,
+      "explain": "Lo stress emotivo è annoverato tra i fattori che influenzano la sintesi epatica di colesterolo, accanto a fattori genetici, esercizio fisico e apporto di fibre. Gruppo sanguigno e peso molecolare dell'emoglobina sono caratteristiche individuali che non modulano questa via biosintetica.",
+      "slide": 32
+    },
+    {
+      "id": "d04-b04-q012",
+      "q": "In quale momento della giornata la sintesi epatica di colesterolo raggiunge il valore massimo?",
+      "choices": [
+        "Alle prime ore del mattino",
+        "A mezzogiorno",
+        "A mezzanotte",
+        "Nel primo pomeriggio",
+        "All'imbrunire"
+      ],
+      "answer": 2,
+      "explain": "La sintesi del colesterolo segue un ritmo circadiano con valore massimo a mezzanotte e valore minimo a mezzogiorno. Indicare mezzogiorno è l'errore più insidioso, perché corrisponde esattamente al momento di minima attività della via.",
+      "slide": 32
+    },
+    {
+      "id": "d04-b04-q013",
+      "q": "Da quale fattore dipende il ritmo circadiano della sintesi di colesterolo?",
+      "choices": [
+        "Dall'introduzione di colesterolo con la dieta",
+        "Dalla temperatura corporea",
+        "Dalla frequenza cardiaca",
+        "Dalla produzione di bile",
+        "Dalla concentrazione di ossigeno nel sangue"
+      ],
+      "answer": 0,
+      "explain": "Il ritmo circadiano della sintesi è legato all'introduzione di colesterolo con la dieta, che ne condiziona l'andamento nelle ventiquattro ore. Frequenza cardiaca e temperatura corporea seguono ritmi propri, ma non regolano questa via metabolica.",
+      "slide": 32
+    },
+    {
+      "id": "d04-b04-q014",
+      "q": "Quanti atomi di carbonio contiene il mevalonato, intermedio della prima tappa della biosintesi del colesterolo?",
+      "choices": [
+        "Tre",
+        "Sei",
+        "Cinque",
+        "Dieci",
+        "Trenta"
+      ],
+      "answer": 1,
+      "explain": "Il mevalonato è un intermedio a sei atomi di carbonio che si forma per condensazione di tre unità di acetato, ciascuna a due atomi di carbonio. Il valore tre si riferisce al numero di unità di acetato impiegate, non agli atomi di carbonio del prodotto.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q015",
+      "q": "Quale intermedio a sei atomi di carbonio si genera nella prima tappa della biosintesi del colesterolo?",
+      "choices": [
+        "Lo squalene",
+        "L'isopentenil pirofosfato",
+        "Il dimetilallil pirofosfato",
+        "Il mevalonato",
+        "Il lanosterolo"
+      ],
+      "answer": 3,
+      "explain": "La prima tappa porta alla formazione del mevalonato, intermedio a sei atomi di carbonio ottenuto dalla condensazione di tre unità di acetato. Lo squalene è invece il composto lineare a trenta atomi di carbonio che si genera nella terza tappa.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q016",
+      "q": "Quanti atomi di carbonio possiede un'unità isoprenica attivata?",
+      "choices": [
+        "Due",
+        "Tre",
+        "Quattro",
+        "Sei",
+        "Cinque"
+      ],
+      "answer": 4,
+      "explain": "Le unità isopreniche attivate, come l'isopentenil pirofosfato, contengono cinque atomi di carbonio e vengono polimerizzate per formare lo squalene. Il valore sei appartiene al mevalonato, che è il precursore di queste unità.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q017",
+      "q": "Quanti atomi di carbonio contiene lo squalene?",
+      "choices": [
+        "Trenta",
+        "Ventisette",
+        "Quindici",
+        "Dieci",
+        "Quaranta"
+      ],
+      "answer": 0,
+      "explain": "Lo squalene è un composto lineare formato da trenta atomi di carbonio, risultante dalla polimerizzazione di sei unità isopreniche a cinque atomi di carbonio. Il valore ventisette corrisponde invece al numero di atomi di carbonio del colesterolo, prodotto finale della via.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q018",
+      "q": "Quale composto lineare a trenta atomi di carbonio precede la ciclizzazione nella biosintesi del colesterolo?",
+      "choices": [
+        "Il mevalonato",
+        "Il lanosterolo",
+        "Lo squalene",
+        "L'acetilCoA",
+        "Il colesteril estere"
+      ],
+      "answer": 2,
+      "explain": "Lo squalene è il composto lineare a trenta atomi di carbonio che, per ciclizzazione, origina il nucleo steroideo a quattro anelli. Il lanosterolo è il primo sterolo che si forma dopo la ciclizzazione, quindi non la precede.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q019",
+      "q": "Che cosa si forma nella quarta tappa della biosintesi del colesterolo?",
+      "choices": [
+        "Un composto lineare a trenta atomi di carbonio",
+        "Il nucleo steroideo a quattro anelli",
+        "Un'unità isoprenica attivata",
+        "Un intermedio a sei atomi di carbonio",
+        "Il mevalonato fosforilato"
+      ],
+      "answer": 1,
+      "explain": "La quarta tappa consiste nella ciclizzazione dello squalene, che genera il nucleo steroideo a quattro anelli, punto di partenza per le modifiche successive. Il composto lineare a trenta atomi di carbonio è lo squalene stesso, cioè il substrato di questa tappa e non il suo prodotto.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q020",
+      "q": "Quali modifiche trasformano il nucleo steroideo appena ciclizzato in colesterolo?",
+      "choices": [
+        "Idrolisi di legami peptidici e glicosilazione",
+        "Fosforilazione e defosforilazione",
+        "Polimerizzazione di nuove unità isopreniche",
+        "Ossidazioni, rimozione o migrazione di gruppi metilici",
+        "Addizione di gruppi fosfato e solfato"
+      ],
+      "answer": 3,
+      "explain": "Dopo la ciclizzazione dello squalene il nucleo steroideo subisce ossidazioni e movimenti o eliminazioni di gruppi metilici fino a dare il colesterolo. Una nuova polimerizzazione di unità isopreniche non avviene, perché lo squalene rappresenta già il termine della fase di polimerizzazione.",
+      "slide": 33
+    },
+    {
+      "id": "d04-b04-q021",
+      "q": "In quale compartimento cellulare si svolge la biosintesi del colesterolo?",
+      "choices": [
+        "Nella matrice mitocondriale",
+        "Nello spazio intermembrana mitocondriale",
+        "Nel nucleo cellulare",
+        "Nei lisosomi",
+        "Nel citosol"
+      ],
+      "answer": 4,
+      "explain": "La biosintesi del colesterolo si svolge nel citosol, dove avvengono la condensazione delle unità di acetato e la polimerizzazione delle unità isopreniche. I mitocondri ospitano invece la β-ossidazione degli acidi grassi e il ciclo dell'acido citrico, non questa via anabolica.",
+      "slide": 34
+    },
+    {
+      "id": "d04-b04-q022",
+      "q": "In quante tappe principali è suddivisa la biosintesi del colesterolo?",
+      "choices": [
+        "Quattro",
+        "Due",
+        "Tre",
+        "Cinque",
+        "Sei"
+      ],
+      "answer": 0,
+      "explain": "La biosintesi del colesterolo è descritta in quattro tappe principali, dalla condensazione delle unità di acetato fino alla ciclizzazione dello squalene. Le altre opzioni non corrispondono né al numero di tappe della via né al numero di anelli del nucleo steroideo.",
+      "slide": 34
+    },
+    {
+      "id": "d04-b04-q023",
+      "q": "Qual è la successione corretta delle tappe della biosintesi del colesterolo?",
+      "choices": [
+        "Squalene, mevalonato, unità isopreniche, nucleo steroideo",
+        "Mevalonato, squalene, unità isopreniche, nucleo steroideo",
+        "Mevalonato, unità isopreniche attivate, squalene, nucleo steroideo",
+        "Unità isopreniche, mevalonato, squalene, nucleo steroideo",
+        "Mevalonato, nucleo steroideo, squalene, unità isopreniche"
+      ],
+      "answer": 2,
+      "explain": "La via procede dal mevalonato alle unità isopreniche attivate, che si polimerizzano in squalene, e solo alla fine lo squalene ciclizza nel nucleo steroideo. Anticipare lo squalene rispetto alle unità isopreniche è l'errore più frequente, perché inverte l'ordine fra polimerizzazione e ciclizzazione.",
+      "slide": 34
+    },
+    {
+      "id": "d04-b04-q024",
+      "q": "Come deve essere gestito il colesterolo in eccesso nell'organismo?",
+      "choices": [
+        "Deve essere ossidato nei mitocondri a fini energetici",
+        "Deve essere escreto",
+        "Deve essere convertito in glucosio",
+        "Deve essere accumulato nei lisosomi",
+        "Deve essere trasformato in acidi grassi di riserva"
+      ],
+      "answer": 1,
+      "explain": "L'eccesso di colesterolo non può essere catabolizzato come combustibile metabolico e deve quindi essere escreto dall'organismo. L'ipotesi dell'ossidazione mitocondriale a fini energetici è il distrattore più insidioso, ma il nucleo steroideo non è utilizzabile come substrato del catabolismo energetico.",
+      "slide": 35
+    },
+    {
+      "id": "d04-b04-q025",
+      "q": "Per quale motivo il colesterolo in eccesso non può essere utilizzato come fonte di energia?",
+      "choices": [
+        "Perché è insolubile in acqua",
+        "Perché è troppo grande per attraversare le membrane",
+        "Perché manca l'enzima che lo attiva",
+        "Perché non può essere catabolizzato come combustibile metabolico",
+        "Perché viene perso con le urine"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo non può essere degradato a fini energetici perché l'organismo umano non possiede una via catabolica capace di scindere il nucleo steroideo. La sua insolubilità in acqua condiziona il trasporto plasmatico, ma non è la ragione per cui non funge da combustibile.",
+      "slide": 35
+    },
+    {
+      "id": "d04-b04-q026",
+      "q": "Quale caratteristica descrive correttamente la sintesi del colesterolo dal punto di vista energetico?",
+      "choices": [
+        "È un processo anabolico che consuma energia",
+        "È un processo esoergonico che produce ATP",
+        "È energeticamente neutro",
+        "Produce più ATP di quanta ne consumi",
+        "Non richiede cofattori riducenti"
+      ],
+      "answer": 0,
+      "explain": "La sintesi del colesterolo è un processo complesso e dispendioso, che consuma ATP e potere riducente sotto forma di NADPH. Non genera ATP: l'idea che sia una via esoergonica produttrice di energia confonde una via anabolica con il catabolismo ossidativo.",
+      "slide": 35
+    },
+    {
+      "id": "d04-b04-q027",
+      "q": "Qual è lo scopo principale della regolazione della sintesi endogena di colesterolo?",
+      "choices": [
+        "Aumentare la produzione quando la dieta ne è priva",
+        "Trasformare il colesterolo in acidi grassi",
+        "Favorire l'accumulo intracellulare di steroli",
+        "Eliminare il colesterolo attraverso il catabolismo energetico",
+        "Adeguare la sintesi alla quantità di colesterolo assunta con la dieta"
+      ],
+      "answer": 4,
+      "explain": "Regolare la sintesi serve a integrarla con la quantità di colesterolo introdotta con gli alimenti, evitando una produzione inutile e l'accumulo di steroli. L'opzione che richiama il catabolismo energetico è sbagliata perché il colesterolo non è utilizzabile come combustibile metabolico.",
+      "slide": 35
+    },
+    {
+      "id": "d04-b04-q028",
+      "q": "In un soggetto con elevato apporto dietetico di colesterolo, come tende a variare la sintesi endogena?",
+      "choices": [
+        "Aumenta in modo proporzionale all'introito",
+        "Rimane invariata",
+        "Si riduce",
+        "Si arresta in modo irreversibile",
+        "Aumenta solo nel tessuto nervoso"
+      ],
+      "answer": 2,
+      "explain": "Poiché la sintesi viene regolata in rapporto all'introduzione alimentare, un elevato apporto di colesterolo con la dieta tende a ridurre la produzione endogena. Un aumento proporzionale all'introito sarebbe controproducente, perché il colesterolo in eccesso non può essere smaltito come combustibile.",
+      "slide": 35
+    },
+    {
+      "id": "d04-b04-q029",
+      "q": "Quale enzima rappresenta il punto di regolazione principale della sintesi del colesterolo?",
+      "choices": [
+        "La colesterolo esterasi",
+        "La HMG-CoA reduttasi",
+        "La colesterolo ossidasi",
+        "La squalene epossidasi",
+        "L'acetilCoA carbossilasi"
+      ],
+      "answer": 1,
+      "explain": "La HMG-CoA reduttasi catalizza la tappa che limita la velocità dell'intera via ed è il principale sito di regolazione della sintesi del colesterolo. La colesterolo esterasi e la colesterolo ossidasi intervengono invece nel dosaggio del colesterolo nel sangue, non nella sua biosintesi.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q030",
+      "q": "Quale reazione catalizza la HMG-CoA reduttasi?",
+      "choices": [
+        "La formazione dello squalene a partire da unità isopreniche",
+        "La ciclizzazione dello squalene in lanosterolo",
+        "La condensazione di tre unità di acetato in HMG-CoA",
+        "La conversione del colesterolo in colesteril estere",
+        "La conversione dell'HMG-CoA in mevalonato"
+      ],
+      "answer": 4,
+      "explain": "La HMG-CoA reduttasi riduce l'HMG-CoA a mevalonato impiegando NADPH come potere riducente: è la tappa irreversibile e limitante della via. La condensazione che porta alla formazione dell'HMG-CoA avviene a monte e non è catalizzata da questo enzima.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q031",
+      "q": "Dove è localizzata la HMG-CoA reduttasi nella cellula?",
+      "choices": [
+        "Nella membrana del reticolo endoplasmatico",
+        "Nella matrice mitocondriale",
+        "Nel nucleo",
+        "Nella membrana plasmatica",
+        "Nei lisosomi"
+      ],
+      "answer": 0,
+      "explain": "La HMG-CoA reduttasi è una proteina integrale della membrana del reticolo endoplasmatico, con il sito catalitico rivolto verso il citosol. La matrice mitocondriale ospita il ciclo dell'acido citrico e la β-ossidazione, non questo enzima.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q032",
+      "q": "Quale effetto ha un aumento degli steroli cellulari sulla sintesi del colesterolo?",
+      "choices": [
+        "Aumenta la trascrizione dei geni della via",
+        "Attiva la HMG-CoA reduttasi per fosforilazione",
+        "Non ha alcun effetto sull'enzima limitante",
+        "Inibisce la HMG-CoA reduttasi e riduce la sintesi",
+        "Aumenta la sintesi solo nel tessuto nervoso"
+      ],
+      "answer": 3,
+      "explain": "Livelli elevati di steroli inibiscono la HMG-CoA reduttasi e riducono la sintesi del colesterolo, in un tipico controllo a retroazione negativa. Attribuire agli steroli un'attivazione dell'enzima è l'errore più insidioso, perché inverte il segno della regolazione.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q033",
+      "q": "Quale funzione svolge la proteina SREBP nella regolazione della sintesi del colesterolo?",
+      "choices": [
+        "Trasporta il colesterolo nel sangue",
+        "Idrolizza gli esteri del colesterolo",
+        "Attiva la trascrizione dei geni della via quando gli steroli sono scarsi",
+        "Inibisce irreversibilmente la HMG-CoA reduttasi",
+        "Converte lo squalene in colesterolo"
+      ],
+      "answer": 2,
+      "explain": "SREBP è un fattore di trascrizione che, quando il contenuto cellulare di steroli è basso, aumenta l'espressione dei geni coinvolti nella sintesi del colesterolo e dei recettori LDL. Non è un enzima della via e non catalizza nessuna delle sue reazioni biosintetiche.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q034",
+      "q": "Come influisce l'insulina sull'attività della HMG-CoA reduttasi?",
+      "choices": [
+        "La inibisce per fosforilazione",
+        "La degrada nei lisosomi",
+        "Non ha alcun effetto",
+        "Ne riduce la sintesi proteica",
+        "Ne favorisce la forma attiva defosforilata"
+      ],
+      "answer": 4,
+      "explain": "L'insulina, in condizione di abbondanza energetica, favorisce la forma defosforilata e quindi attiva della HMG-CoA reduttasi, stimolando la sintesi del colesterolo. Il glucagone ha effetto opposto e mantiene l'enzima nella forma fosforilata e inattiva.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q035",
+      "q": "In condizioni di carenza energetica cellulare, come viene regolata l'attività della HMG-CoA reduttasi?",
+      "choices": [
+        "Viene defosforilata e attivata",
+        "Viene fosforilata e inattivata",
+        "Viene trasferita nel nucleo",
+        "Viene escreta nella bile",
+        "Aumenta la sua emivita"
+      ],
+      "answer": 1,
+      "explain": "Quando l'ATP cellulare diminuisce, l'AMPK fosforila la HMG-CoA reduttasi inattivandola, così la cellula evita di spendere energia in una via anabolica molto dispendiosa. La defosforilazione, che corrisponde all'attivazione dell'enzima, si verifica invece in condizioni di abbondanza energetica sotto stimolo insulinico.",
+      "slide": 36
+    },
+    {
+      "id": "d04-b04-q036",
+      "q": "Qual è il meccanismo d'azione principale delle statine?",
+      "choices": [
+        "Inibizione competitiva della HMG-CoA reduttasi",
+        "Inibizione dell'assorbimento intestinale del colesterolo",
+        "Attivazione della colesterolo esterasi",
+        "Blocco dei recettori LDL epatici",
+        "Stimolazione della sintesi di acidi biliari"
+      ],
+      "answer": 0,
+      "explain": "Le statine inibiscono in modo competitivo la HMG-CoA reduttasi, l'enzima limitante della sintesi endogena del colesterolo. Il blocco dei recettori LDL sarebbe controproducente, perché ridurrebbe la captazione epatica delle lipoproteine ricche di colesterolo.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q037",
+      "q": "Quale effetto epatico consegue all'inibizione della HMG-CoA reduttasi da parte delle statine?",
+      "choices": [
+        "La riduzione dei recettori LDL sulla membrana degli epatociti",
+        "L'aumento della sintesi di colesterolo endogeno",
+        "L'aumento dell'escrezione renale di colesterolo",
+        "L'aumento dell'espressione dei recettori LDL",
+        "La conversione del colesterolo in glucosio"
+      ],
+      "answer": 3,
+      "explain": "Quando la sintesi endogena diminuisce, gli epatociti aumentano l'espressione dei recettori LDL per compensare la carenza di steroli, e ciò incrementa la captazione delle LDL dal plasma. Una riduzione dei recettori avrebbe l'effetto opposto, facendo salire il colesterolo circolante.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q038",
+      "q": "Quale effetto hanno le statine sul profilo lipidico plasmatico?",
+      "choices": [
+        "Aumentano il colesterolo LDL",
+        "Aumentano il colesterolo totale",
+        "Riducono il colesterolo LDL",
+        "Non modificano il colesterolo plasmatico",
+        "Aumentano la sintesi epatica di colesterolo"
+      ],
+      "answer": 2,
+      "explain": "Le statine riducono il colesterolo LDL plasmatico, perché il calo della sintesi endogena aumenta la captazione epatica delle LDL circolanti. L'ipotesi di un aumento del colesterolo totale è errata: la riduzione della sintesi e l'aumento della clearance portano nella direzione opposta.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q039",
+      "q": "Per quale motivo le statine sono strutturalmente analoghe all'HMG-CoA?",
+      "choices": [
+        "Perché aumentano la solubilità plasmatica del colesterolo",
+        "Perché competono per il sito attivo della HMG-CoA reduttasi",
+        "Perché si legano ai recettori LDL",
+        "Perché inibiscono la colesterolo esterasi",
+        "Perché favoriscono la ciclizzazione dello squalene"
+      ],
+      "answer": 1,
+      "explain": "La somiglianza strutturale con l'HMG-CoA consente alle statine di occupare il sito attivo della HMG-CoA reduttasi e di competere con il substrato naturale. Il legame ai recettori LDL non è il loro meccanismo: l'aumento dei recettori è una conseguenza indiretta della ridotta sintesi.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q040",
+      "q": "In quale condizione clinica le statine trovano la loro principale indicazione?",
+      "choices": [
+        "Nell'anemia sideropenica",
+        "Nel diabete insipido",
+        "Nell'ipertiroidismo",
+        "Nella carenza di vitamina D",
+        "Nell'ipercolesterolemia"
+      ],
+      "answer": 4,
+      "explain": "Le statine sono impiegate nell'ipercolesterolemia perché riducono la sintesi endogena del colesterolo e aumentano la clearance delle LDL. Nessuna delle altre condizioni elencate dipende dal controllo della sintesi del colesterolo.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q041",
+      "q": "Quale effetto avverso è associato alla terapia con statine?",
+      "choices": [
+        "Miopatia con possibile aumento delle transaminasi",
+        "Anemia emolitica da carenza di ferro",
+        "Diabete insipido nefrogenico",
+        "Ipotiroidismo centrale",
+        "Deficit di vitamina C"
+      ],
+      "answer": 0,
+      "explain": "Tra gli effetti avversi consolidati delle statine figurano la miopatia e l'aumento delle transaminasi, motivo per cui la terapia viene monitorata. Le altre condizioni elencate non sono conseguenze riconosciute dell'inibizione della HMG-CoA reduttasi.",
+      "slide": 37
+    },
+    {
+      "id": "d04-b04-q042",
+      "q": "Su quale tipo di campione si determina il colesterolo con il metodo enzimatico-colorimetrico?",
+      "choices": [
+        "Sulle urine delle ventiquattro ore",
+        "Sulla saliva",
+        "Sul sangue prelevato",
+        "Sul liquido cerebrospinale",
+        "Sul sudore"
+      ],
+      "answer": 2,
+      "explain": "La determinazione del colesterolo si esegue su un campione di sangue ottenuto mediante prelievo, da cui si ricava la frazione plasmatica o sierica. Urine e saliva non sono i campioni utilizzati per questo dosaggio.",
+      "slide": 38
+    },
+    {
+      "id": "d04-b04-q043",
+      "q": "Su che cosa si basa il metodo enzimatico-colorimetrico per il dosaggio del colesterolo?",
+      "choices": [
+        "Sulla misura della densità del campione",
+        "Sulla precipitazione del colesterolo con sali",
+        "Sulla combustione del campione",
+        "Su reazioni chimiche che producono un colorante",
+        "Sulla misura della conducibilità elettrica"
+      ],
+      "answer": 3,
+      "explain": "Il metodo sfrutta una serie di reazioni enzimatiche che generano un colorante, la cui intensità viene poi misurata fotometricamente. Densità e conducibilità del campione non hanno relazione con la quantità di colesterolo presente.",
+      "slide": 38
+    },
+    {
+      "id": "d04-b04-q044",
+      "q": "Come viene valutata l'intensità del colorante prodotto nel dosaggio del colesterolo?",
+      "choices": [
+        "Con una misura di conducibilità",
+        "Fotometricamente",
+        "Con una titolazione acido-base",
+        "Con una pesata a secco",
+        "Con una misura di pressione osmotica"
+      ],
+      "answer": 1,
+      "explain": "L'intensità del colorante viene misurata fotometricamente, perché l'assorbanza della soluzione è correlata alla quantità di colesterolo presente. La titolazione acido-base è adatta a dosare acidi o basi, non un composto neutro come il colesterolo.",
+      "slide": 38
+    },
+    {
+      "id": "d04-b04-q045",
+      "q": "Quale relazione lega l'intensità del colore misurata alla concentrazione di colesterolo?",
+      "choices": [
+        "È direttamente proporzionale",
+        "È inversamente proporzionale",
+        "È indipendente",
+        "È una relazione quadratica",
+        "È proporzionale al quadrato della concentrazione"
+      ],
+      "answer": 0,
+      "explain": "La quantità di colorante prodotto, e quindi l'intensità misurata, è direttamente proporzionale alla concentrazione di colesterolo nel campione. Una relazione inversa renderebbe il metodo inutilizzabile per stimare la concentrazione.",
+      "slide": 38
+    },
+    {
+      "id": "d04-b04-q046",
+      "q": "Quale enzima idrolizza gli esteri del colesterolo nel dosaggio enzimatico?",
+      "choices": [
+        "La colesterolo ossidasi",
+        "La lipoproteina lipasi",
+        "L'acetilCoA carbossilasi",
+        "La HMG-CoA reduttasi",
+        "La colesterolo esterasi"
+      ],
+      "answer": 4,
+      "explain": "La colesterolo esterasi libera il colesterolo dagli esteri, rendendolo disponibile per le reazioni successive del dosaggio. La colesterolo ossidasi interviene invece nella tappa seguente, ossidando il colesterolo libero.",
+      "slide": 39
+    },
+    {
+      "id": "d04-b04-q047",
+      "q": "Quale reazione catalizza la colesterolo ossidasi nel dosaggio del colesterolo?",
+      "choices": [
+        "L'idrolisi degli esteri del colesterolo",
+        "La conversione del colesterolo in acidi biliari",
+        "L'ossidazione del colesterolo con produzione di perossido di idrogeno",
+        "La sintesi del mevalonato",
+        "La ciclizzazione dello squalene"
+      ],
+      "answer": 2,
+      "explain": "La colesterolo ossidasi ossida il colesterolo generando perossido di idrogeno, che è il composto chiave della reazione di rivelazione. L'idrolisi degli esteri è compito della colesterolo esterasi, che opera prima dell'ossidazione.",
+      "slide": 39
+    },
+    {
+      "id": "d04-b04-q048",
+      "q": "Quale prodotto dell'ossidazione del colesterolo viene utilizzato per generare il segnale colorimetrico?",
+      "choices": [
+        "L'anidride carbonica",
+        "Il perossido di idrogeno",
+        "L'acido lattico",
+        "Il colesteril estere",
+        "L'acetilCoA"
+      ],
+      "answer": 1,
+      "explain": "La colesterolo ossidasi produce perossido di idrogeno, che reagisce con un'apposita sostanza dando origine al colorante o alla fluorescenza misurata. L'anidride carbonica non è coinvolta in questa reazione di rivelazione.",
+      "slide": 39
+    },
+    {
+      "id": "d04-b04-q049",
+      "q": "Nella sequenza del dosaggio enzimatico del colesterolo, quale ordine di eventi è corretto?",
+      "choices": [
+        "Ossidazione, idrolisi degli esteri, formazione del colorante",
+        "Formazione del colorante, ossidazione, idrolisi degli esteri",
+        "Produzione di perossido di idrogeno, idrolisi degli esteri, ossidazione",
+        "Idrolisi degli esteri, ossidazione, produzione di perossido di idrogeno, formazione del colorante",
+        "Idrolisi degli esteri, formazione del colorante, ossidazione, produzione di perossido di idrogeno"
+      ],
+      "answer": 3,
+      "explain": "Nel dosaggio il colesterolo viene prima liberato dagli esteri per opera della colesterolo esterasi, poi ossidato dalla colesterolo ossidasi con produzione di perossido di idrogeno, che infine genera il colorante. Invertire idrolisi e ossidazione è l'errore più insidioso, perché il colesterolo esterificato non è substrato diretto dell'ossidasi.",
+      "slide": 39
+    },
+    {
+      "id": "d04-b04-q050",
+      "q": "Come si adatta il metodo enzimatico-colorimetrico alla misura del colesterolo LDL?",
+      "choices": [
+        "Con surfattanti che solubilizzano selettivamente le LDL",
+        "Con un prelievo arterioso invece che venoso",
+        "Riscaldando il campione fino all'ebollizione",
+        "Aggiungendo un eccesso di sodio cloruro",
+        "Diluendo il campione con acqua distillata"
+      ],
+      "answer": 0,
+      "explain": "Per dosare il colesterolo LDL si impiegano surfattanti che solubilizzano selettivamente queste lipoproteine e inibiscono le reazioni con le altre classi di lipoproteine. Una semplice diluizione o un riscaldamento non garantirebbero alcuna selettività per le LDL.",
+      "slide": 39
+    }
+  ]
+}

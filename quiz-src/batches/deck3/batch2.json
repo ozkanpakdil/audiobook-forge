@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 2,
+  "topic": "Acidi biliari, lipoproteine plasmatiche e apolipoproteine",
+  "questions": [
+    {
+      "id": "d03-b02-q001",
+      "q": "Che cosa sono le lipoproteine plasmatiche?",
+      "choices": [
+        "Complessi di lipidi e proteine che trasportano i lipidi nel plasma",
+        "Enzimi idrolitici che digeriscono i trigliceridi nel lume intestinale",
+        "Proteine di membrana che fanno passare gli acidi grassi nel citosol",
+        "Ormoni peptidici che regolano la lipolisi nel tessuto adiposo",
+        "Polisaccaridi che legano covalentemente il colesterolo plasmatico"
+      ],
+      "answer": 0,
+      "explain": "Le lipoproteine sono particelle macromolecolari in cui una componente lipidica apolare è associata a proteine specifiche, le apolipoproteine, e servono proprio a trasportare i lipidi nel plasma acquoso. Gli enzimi che idrolizzano i trigliceridi nel lume intestinale sono invece le lipasi digestive, che non hanno nulla a che vedere con il trasporto plasmatico dei lipidi.",
+      "slide": 15
+    },
+    {
+      "id": "d03-b02-q002",
+      "q": "In quale forma si trova il colesterolo nel monostrato superficiale di una lipoproteina plasmatica?",
+      "choices": [
+        "Come colesterolo libero, cioè non esterificato",
+        "Come estere del colesterolo insieme ai trigliceridi del nucleo",
+        "Come acido biliare coniugato con taurina o con glicina",
+        "Come cristallo di colesterolo puro disciolto nel plasma",
+        "Legato con un legame covalente alla componente proteica"
+      ],
+      "answer": 0,
+      "explain": "Nel monostrato anfipatico di superficie, accanto ai fosfolipidi e alle apolipoproteine, si colloca il colesterolo libero, la cui testa ossidrilica polare può interagire con l'acqua del plasma. Gli esteri del colesterolo, privi di questa testa polare, sono invece apolari e vengono raccolti nel nucleo interno insieme ai trigliceridi. Un acido biliare coniugato è un prodotto del catabolismo epatico del colesterolo e non un componente della particella lipoproteica.",
+      "slide": 15
+    },
+    {
+      "id": "d03-b02-q003",
+      "q": "Da che cosa dipende la densità di una lipoproteina plasmatica?",
+      "choices": [
+        "Dalla sola dimensione della particella, indipendentemente dalla sua composizione",
+        "Dal numero di acidi grassi liberi che l'albumina trasporta nel plasma",
+        "Dalla quantità di colesterolo esterificato racchiusa nel nucleo",
+        "Dal rapporto tra la componente proteica e quella lipidica della particella",
+        "Dalla carica elettrica netta delle apolipoproteine di superficie"
+      ],
+      "answer": 3,
+      "explain": "Poiché le proteine sono più dense dei lipidi, una lipoproteina è tanto più densa quanto maggiore è la sua percentuale proteica e minore quella lipidica; per questo le HDL sono le più dense e i chilomicroni i meno densi. La dimensione da sola non basta a spiegare la densità, perché particelle grandi ma povere di proteine, come i chilomicroni, restano poco dense.",
+      "slide": 15
+    },
+    {
+      "id": "d03-b02-q004",
+      "q": "Per quale motivo i lipidi devono essere trasportati associati a proteine nel plasma?",
+      "choices": [
+        "Perché in forma libera verrebbero filtrati ed eliminati dal rene",
+        "Perché le proteine li rendono riconoscibili al sistema immunitario",
+        "Perché senza proteine non potrebbero essere ossidati dai tessuti",
+        "Perché le proteine ne aumentano il potere calorico e il valore energetico",
+        "Perché sono apolari e quasi insolubili nel plasma acquoso"
+      ],
+      "answer": 4,
+      "explain": "I lipidi apolari non si sciolgono nel plasma, quindi devono essere veicolati da particelle anfipatiche che li mantengano dispersi; le apolipoproteine svolgono anche funzioni di riconoscimento e di attivazione enzimatica. Il problema della filtrazione renale non è il motivo del trasporto: anche molecole solubili possono essere filtrate, mentre qui la difficoltà è la solubilità in acqua.",
+      "slide": 15
+    },
+    {
+      "id": "d03-b02-q005",
+      "q": "Quali sono le quattro principali classi di lipoproteine plasmatiche?",
+      "choices": [
+        "Chilomicroni, VLDL, IDL e LDL",
+        "Chilomicroni, VLDL, LDL e HDL",
+        "VLDL, LDL, HDL e acidi grassi liberi",
+        "Chilomicroni, HDL, albumina e LDL",
+        "LDL, HDL, apolipoproteine e chilomicroni"
+      ],
+      "answer": 1,
+      "explain": "La classificazione di riferimento distingue quattro classi principali: chilomicroni, VLDL, LDL e HDL. Gli acidi grassi liberi non sono una lipoproteina ma viaggiano legati all'albumina, e le apolipoproteine sono le proteine delle lipoproteine, non una classe di lipoproteine a sé.",
+      "slide": 15
+    },
+    {
+      "id": "d03-b02-q006",
+      "q": "In quale forma vengono trasportati nel plasma gli acidi grassi liberi?",
+      "choices": [
+        "All'interno dei chilomicroni",
+        "All'interno delle HDL",
+        "Sotto forma di esteri del colesterolo",
+        "Legati alla transferrina",
+        "Legati all'albumina"
+      ],
+      "answer": 4,
+      "explain": "Gli acidi grassi liberi, essendo apolari, viaggiano nel plasma legati all'albumina e non sono contenuti dentro le lipoproteine. Chilomicroni e HDL trasportano invece trigliceridi e colesterolo in forma di lipidi complessi, mentre la transferrina è il trasportatore del ferro.",
+      "slide": 16
+    },
+    {
+      "id": "d03-b02-q007",
+      "q": "Con quale termine si indicano le proteine associate ai lipidi nelle lipoproteine plasmatiche?",
+      "choices": [
+        "Albumine sieriche",
+        "Apolipoproteine",
+        "Globuline plasmatiche",
+        "Lipasi pancreatiche",
+        "Fosfolipasi di membrana"
+      ],
+      "answer": 1,
+      "explain": "Le proteine che si combinano con i lipidi formando le diverse lipoproteine sono dette apolipoproteine e svolgono funzioni strutturali, di riconoscimento recettoriale e di attivazione enzimatica. L'albumina trasporta sì gli acidi grassi liberi, ma non è il termine con cui si designano le proteine delle lipoproteine; le lipasi pancreatiche sono enzimi idrolitici.",
+      "slide": 16
+    },
+    {
+      "id": "d03-b02-q008",
+      "q": "Quale componente azotata è sempre presente nella struttura delle lipoproteine plasmatiche?",
+      "choices": [
+        "Le apolipoproteine",
+        "Il colesterolo esterificato",
+        "I trigliceridi",
+        "I fosfolipidi",
+        "Gli acidi grassi liberi"
+      ],
+      "answer": 0,
+      "explain": "Le apolipoproteine sono la componente proteica delle lipoproteine e sono sempre presenti, sia pure in proporzione diversa nelle varie classi. Il colesterolo esterificato, i trigliceridi e i fosfolipidi sono lipidi e non contengono azoto; gli acidi grassi liberi circolano legati all'albumina e non fanno parte della particella lipoproteica.",
+      "slide": 16
+    },
+    {
+      "id": "d03-b02-q009",
+      "q": "In quale compartimento dell'organismo circolano le lipoproteine plasmatiche?",
+      "choices": [
+        "Nel citosol degli epatociti",
+        "Nel lume dell'intestino tenue",
+        "Nello spazio intermembrana dei mitocondri",
+        "Nel plasma sanguigno",
+        "Nel liquido sinoviale delle articolazioni"
+      ],
+      "answer": 3,
+      "explain": "Le lipoproteine plasmatiche sono particelle del compartimento extracellulare e circolano nel plasma, dove assicurano il trasporto dei lipidi tra gli organi. Il citosol degli epatociti e il lume intestinale sono invece sedi di sintesi e di digestione dei lipidi, non di trasporto lipoproteico plasmatico.",
+      "slide": 16
+    },
+    {
+      "id": "d03-b02-q010",
+      "q": "Perché dopo un pasto molto ricco di grassi il plasma può apparire lattescente?",
+      "choices": [
+        "Perché il colesterolo precipita sotto forma di cristalli nel plasma",
+        "Perché le HDL aumentano rapidamente di dimensione nel plasma",
+        "Perché i chilomicroni, grandi e ricchi di trigliceridi, diffondono la luce",
+        "Perché gli acidi grassi liberi si separano dall'albumina plasmatica",
+        "Perché il fegato libera nel sangue grandi quantità di acidi biliari"
+      ],
+      "answer": 2,
+      "explain": "Dopo un pasto ricco di grassi entrano in circolo molti chilomicroni, che per le loro dimensioni diffondono la luce e rendono il plasma lattescente; la torbidità scompare man mano che i trigliceridi vengono idrolizzati. Il colesterolo non precipita in cristalli nel plasma e le HDL non sono responsabili di questo fenomeno, perché trasportano soprattutto proteine e colesterolo.",
+      "slide": 16
+    },
+    {
+      "id": "d03-b02-q011",
+      "q": "Qual è l'ordine crescente di densità delle quattro principali classi di lipoproteine?",
+      "choices": [
+        "HDL, LDL, VLDL e chilomicroni",
+        "LDL, HDL, chilomicroni e VLDL",
+        "Chilomicroni, VLDL, LDL e HDL",
+        "Chilomicroni, LDL, HDL e VLDL",
+        "VLDL, chilomicroni, HDL e LDL"
+      ],
+      "answer": 2,
+      "explain": "La densità cresce al diminuire del contenuto lipidico e all'aumentare della quota proteica, quindi la scala va dai chilomicroni, i meno densi, fino alle HDL, le più dense. L'ordine inverso sarebbe quello decrescente di densità e corrisponderebbe invece all'ordine decrescente di dimensione, che è un altro parametro.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q012",
+      "q": "Quale classe di lipoproteine contiene la più alta percentuale di trigliceridi?",
+      "choices": [
+        "I chilomicroni intestinali",
+        "Le VLDL di origine epatica",
+        "Le LDL ricche di colesterolo",
+        "Le HDL ricche di proteine",
+        "Le IDL prodotte dal fegato"
+      ],
+      "answer": 0,
+      "explain": "I chilomicroni sono le particelle più ricche di trigliceridi, perché il loro compito è trasportare i grassi assorbiti con la dieta. Le HDL, all'estremo opposto, sono le più ricche di proteine e trasportano soprattutto colesterolo, mentre le LDL sono povere di trigliceridi e ricche di colesterolo.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q013",
+      "q": "Quale classe di lipoproteine è la più ricca di colesterolo e di esteri del colesterolo?",
+      "choices": [
+        "I chilomicroni",
+        "Le VLDL",
+        "Le HDL",
+        "Le LDL",
+        "Le IDL"
+      ],
+      "answer": 3,
+      "explain": "Le LDL derivano dal progressivo arricchimento in colesterolo delle VLDL e rappresentano la principale frazione di trasporto del colesterolo verso i tessuti, per questo sono le più ricche di colesterolo. I chilomicroni, pur contenendo colesterolo, sono soprattutto un veicolo di trigliceridi e non la classe più ricca di colesterolo.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q014",
+      "q": "Qual è il ruolo principale delle HDL nel metabolismo lipidico?",
+      "choices": [
+        "Trasportano i trigliceridi assorbiti dall'intestino ai tessuti",
+        "Riportano il colesterolo dai tessuti periferici al fegato",
+        "Esportano i trigliceridi in eccesso dal fegato al tessuto adiposo",
+        "Cedono colesterolo alle pareti arteriose per formare placche",
+        "Veicolano gli acidi grassi liberi dal tessuto adiposo al muscolo"
+      ],
+      "answer": 1,
+      "explain": "Le HDL svolgono il trasporto inverso del colesterolo, cioè riportano il colesterolo dai tessuti periferici al fegato per la sua eliminazione. Le particelle che esportano i trigliceridi epatici sono le VLDL, mentre gli acidi grassi liberi viaggiano legati all'albumina e non dentro le HDL.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q015",
+      "q": "Quale classe di lipoproteine ha la più alta percentuale di componente proteica?",
+      "choices": [
+        "I chilomicroni",
+        "Le VLDL",
+        "Le LDL",
+        "I remnants dei chilomicroni",
+        "Le HDL"
+      ],
+      "answer": 4,
+      "explain": "Le HDL sono le lipoproteine più dense proprio perché contengono la quota proteica più elevata in rapporto ai lipidi. I chilomicroni e i loro remnants hanno invece una prevalenza di lipidi, soprattutto trigliceridi, e risultano molto meno densi.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q016",
+      "q": "In quale tessuto vengono sintetizzate le lipoproteine della classe dei chilomicroni?",
+      "choices": [
+        "Nel fegato",
+        "Nel tessuto adiposo",
+        "Nell'intestino tenue",
+        "Nel muscolo scheletrico",
+        "Nel rene"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni nascono nella mucosa dell'intestino tenue, dove i lipidi assorbiti con la dieta vengono riassemblati in trigliceridi e confezionati in particelle lipoproteiche. Il fegato produce invece le VLDL e le HDL, mentre il tessuto adiposo e il muscolo sono prevalentemente siti di utilizzazione dei lipidi.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q017",
+      "q": "Perché un aumento della concentrazione plasmatica di LDL è considerato un fattore di rischio cardiovascolare?",
+      "choices": [
+        "Perché le LDL trasportano trigliceridi che ostruiscono i capillari",
+        "Perché le LDL inibiscono la sintesi degli acidi biliari nel fegato",
+        "Perché le LDL impediscono alle HDL di circolare liberamente nel plasma",
+        "Perché le LDL depositano colesterolo nella parete delle arterie",
+        "Perché le LDL aumentano la pressione osmotica del sangue arterioso"
+      ],
+      "answer": 3,
+      "explain": "Le LDL in eccesso possono attraversare l'endotelio, accumulare colesterolo nella parete arteriosa e avviare la formazione della placca aterosclerotica. Le LDL non sono ricche di trigliceridi, che sono invece il carico tipico di chilomicroni e VLDL, e non agiscono aumentando la pressione osmotica del plasma.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q018",
+      "q": "Dopo i chilomicroni, quale classe di lipoproteine presenta il maggior contenuto percentuale di trigliceridi?",
+      "choices": [
+        "Le LDL",
+        "Le HDL",
+        "Le IDL",
+        "I remnants dei chilomicroni",
+        "Le VLDL"
+      ],
+      "answer": 4,
+      "explain": "Nella scala delle lipoproteine i chilomicroni sono i più ricchi di trigliceridi e subito dopo vengono le VLDL, che trasportano i trigliceridi di sintesi epatica. LDL e HDL sono invece povere di trigliceridi: la prima è ricca di colesterolo, la seconda soprattutto di proteine.",
+      "slide": 17
+    },
+    {
+      "id": "d03-b02-q019",
+      "q": "Quale apolipoproteina è la principale componente proteica dei chilomicroni?",
+      "choices": [
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B48",
+        "L'apolipoproteina B100",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina E"
+      ],
+      "answer": 1,
+      "explain": "L'apoB48 è la principale componente proteica dei chilomicroni e ne costituisce il marcatore caratteristico. L'apoB100 è invece la forma presente sulle VLDL e sulle LDL, mentre l'apoA-I è tipica delle HDL: sono proteine diverse, anche se alcune derivano dallo stesso gene.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q020",
+      "q": "Quale apolipoproteina è la principale componente proteica delle VLDL e delle LDL?",
+      "choices": [
+        "L'apolipoproteina B48",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B100",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina E"
+      ],
+      "answer": 2,
+      "explain": "Le VLDL e le LDL portano sulla loro superficie l'apoB100, che funge anche da ligando per il recettore delle LDL. L'apoB48 è la forma presente solo sui chilomicroni e non va confusa con l'apoB100, nonostante la somiglianza del nome.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q021",
+      "q": "Che cos'è un'apolipoproteina?",
+      "choices": [
+        "Una proteina che si associa ai lipidi formando le lipoproteine",
+        "Un enzima che idrolizza i trigliceridi nel plasma",
+        "Un recettore di membrana che lega le LDL sulla superficie cellulare",
+        "Un trasportatore di glucosio presente negli epatociti",
+        "Un ormone che regola la lipolisi nel tessuto adiposo"
+      ],
+      "answer": 0,
+      "explain": "Le apolipoproteine sono le proteine che, associandosi ai lipidi, danno origine alle diverse classi di lipoproteine e ne guidano il metabolismo. I recettori per le LDL sono proteine di membrana che riconoscono le apolipoproteine, ma non sono essi stessi apolipoproteine circolanti.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q022",
+      "q": "Attraverso quale percorso i chilomicroni raggiungono il circolo sanguigno dopo l'assorbimento dei lipidi?",
+      "choices": [
+        "Dalla mucosa intestinale passano direttamente nella vena porta",
+        "Dalla mucosa intestinale passano nel dotto biliare e poi nell'intestino",
+        "Dalla mucosa intestinale passano nel liquido peritoneale",
+        "Dalla mucosa intestinale passano nella linfa e poi nel sangue",
+        "Dalla mucosa intestinale passano nei linfonodi e vi rimangono"
+      ],
+      "answer": 3,
+      "explain": "I chilomicroni lasciano la mucosa intestinale ed entrano nei vasi linfatici, raggiungendo poi il sangue attraverso il dotto toracico, quindi non passano subito nella vena porta. Questo percorso linfatico è tipico delle particelle lipidiche, mentre i nutrienti idrosolubili assorbiti seguono in prevalenza la via portale.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q023",
+      "q": "Quale apolipoproteina presente sui chilomicroni attiva la lipoprotein lipasi dei capillari?",
+      "choices": [
+        "L'apolipoproteina B48",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina E",
+        "L'apolipoproteina B100"
+      ],
+      "answer": 2,
+      "explain": "L'apoC-II è il cofattore che attiva la lipoprotein lipasi, l'enzima che idrolizza i trigliceridi dei chilomicroni e delle VLDL sulla superficie dei capillari. L'apoB48 ha invece funzione strutturale e di riconoscimento, ma non attiva la lipoprotein lipasi.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q024",
+      "q": "Quale apolipoproteina, acquisita dalle HDL, favorisce la captazione epatica dei remnants dei chilomicroni?",
+      "choices": [
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B48",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina B100",
+        "L'apolipoproteina E"
+      ],
+      "answer": 4,
+      "explain": "L'apoE, scambiata tra le lipoproteine circolanti, è riconosciuta dai recettori epatici e media l'internalizzazione dei remnants dei chilomicroni. L'apoC-II svolge invece una funzione enzimatica, attivando la lipoprotein lipasi, e non funge da segnale per i recettori del fegato.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q025",
+      "q": "Quale apolipoproteina è la più abbondante sulle HDL?",
+      "choices": [
+        "L'apolipoproteina B100",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B48",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina E"
+      ],
+      "answer": 1,
+      "explain": "L'apoA-I è la principale apolipoproteina delle HDL. Inoltre, come cofattore, attiva l'enzima LCAT che esterifica il colesterolo sulla superficie della particella, contribuendo al trasporto inverso del colesterolo. Le apoB, invece, appartengono ai chilomicroni, alle VLDL e alle LDL, non alle HDL.",
+      "slide": 18
+    },
+    {
+      "id": "d03-b02-q026",
+      "q": "Quali lipidi trasportano i chilomicroni dall'intestino agli altri tessuti e organi?",
+      "choices": [
+        "Solo acidi grassi liberi legati all'albumina plasmatica",
+        "Fosfolipidi e acidi biliari coniugati nel lume",
+        "Trigliceridi, colesterolo libero ed esteri del colesterolo",
+        "Trigliceridi e glucosio assorbito nell'intestino",
+        "Colesterolo e amminoacidi essenziali della dieta"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni veicolano trigliceridi, colesterolo libero ed esteri del colesterolo dall'intestino ai tessuti e agli organi. Il glucosio e gli amminoacidi non sono lipidi e seguono altre vie di trasporto, mentre gli acidi grassi liberi circolano legati all'albumina.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q027",
+      "q": "Dove vengono assemblati in particelle lipoproteiche i trigliceridi provenienti dalla dieta?",
+      "choices": [
+        "Nelle VLDL, all'interno degli epatociti",
+        "Nelle HDL, nel plasma circolante",
+        "Nelle LDL, nel tessuto adiposo periferico",
+        "Nei remnants, nei capillari del muscolo",
+        "Nei chilomicroni, nella mucosa intestinale"
+      ],
+      "answer": 4,
+      "explain": "I trigliceridi della dieta vengono riassemblati nella mucosa intestinale e confezionati nei chilomicroni, che poi li distribuiscono ai tessuti. Le VLDL assemblano invece i trigliceridi di sintesi epatica, cioè quelli che il fegato produce in eccesso rispetto al fabbisogno.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q028",
+      "q": "Quale caratteristica distingue i chilomicroni dalle altre classi di lipoproteine?",
+      "choices": [
+        "Sono le particelle più grandi e meno dense del plasma",
+        "Sono le particelle più piccole e più dense del plasma",
+        "Sono le particelle più ricche di colesterolo e di proteine",
+        "Sono le uniche lipoproteine prive di apolipoproteine di superficie",
+        "Sono le uniche lipoproteine prodotte dal fegato e non dall'intestino"
+      ],
+      "answer": 0,
+      "explain": "I chilomicroni sono le lipoproteine di maggiori dimensioni e di densità più bassa, perché il loro contenuto è dominato dai trigliceridi. Le particelle più piccole e dense sono le HDL, mentre i chilomicroni sono prodotti dall'intestino e contengono sempre apolipoproteine sulla loro superficie.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q029",
+      "q": "Quale enzima, attivo sulla superficie dei capillari, idrolizza i trigliceridi dei chilomicroni?",
+      "choices": [
+        "La lipasi pancreatica",
+        "La lipasi ormone-sensibile",
+        "L'acetil-CoA carbossilasi",
+        "La lipoprotein lipasi",
+        "La carnitina aciltransferasi I"
+      ],
+      "answer": 3,
+      "explain": "La lipoprotein lipasi, attivata dall'apoC-II, idrolizza i trigliceridi dei chilomicroni e delle VLDL liberando acidi grassi che i tessuti captano. La lipasi ormone-sensibile agisce invece dentro gli adipociti per mobilizzare i trigliceridi depositati, un processo diverso e con funzione opposta.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q030",
+      "q": "Che cosa si produce quando i chilomicroni cedono ai tessuti la maggior parte dei loro trigliceridi?",
+      "choices": [
+        "Le VLDL di origine epatica",
+        "I remnants dei chilomicroni",
+        "Le HDL plasmatiche mature",
+        "Gli acidi biliari coniugati",
+        "I corpi chetonici epatici"
+      ],
+      "answer": 1,
+      "explain": "Dopo la rimozione dei trigliceridi da parte della lipoprotein lipasi resta una particella più piccola e relativamente ricca di colesterolo, il remnant del chilomicrone, che viene captato dal fegato. Le VLDL non derivano dai chilomicroni ma sono prodotte dagli epatociti, e gli acidi biliari sono sintetizzati nel fegato a partire dal colesterolo.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q031",
+      "q": "Attraverso quale via i chilomicroni entrano in circolo senza attraversare subito il fegato?",
+      "choices": [
+        "Attraverso la vena porta, che li porta direttamente al fegato",
+        "Attraverso l'arteria epatica",
+        "Attraverso la via linfatica, che sbocca nel circolo venoso",
+        "Attraverso i dotti biliari",
+        "Attraverso il circolo polmonare"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni seguono la via linfatica e raggiungono il sangue venoso, evitando il primo passaggio epatico; in questo modo i lipidi della dieta possono essere distribuiti ai tessuti. La vena porta è invece la via dei nutrienti idrosolubili assorbiti dall'intestino, che vengono portati direttamente al fegato.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q032",
+      "q": "Come vengono definiti i lipidi trasportati dai chilomicroni, che provengono dall'assorbimento intestinale?",
+      "choices": [
+        "Lipidi endogeni",
+        "Lipidi strutturali",
+        "Lipidi di membrana",
+        "Lipidi di deposito",
+        "Lipidi esogeni"
+      ],
+      "answer": 4,
+      "explain": "I lipidi introdotti con la dieta e assorbiti dall'intestino sono detti esogeni, e i chilomicroni rappresentano la loro via di trasporto. I lipidi endogeni sono invece quelli sintetizzati nell'organismo, in particolare nel fegato, e vengono esportati dalle VLDL.",
+      "slide": 19
+    },
+    {
+      "id": "d03-b02-q033",
+      "q": "In quale parte della particella chilomicronica sono raccolti i trigliceridi?",
+      "choices": [
+        "Nel monostrato superficiale, insieme ai fosfolipidi",
+        "Nel nucleo interno apolare",
+        "Nelle apolipoproteine di superficie",
+        "Nel glicocalice esterno della particella",
+        "Nella fase acquosa del plasma circostante"
+      ],
+      "answer": 1,
+      "explain": "Essendo apolari, i trigliceridi si dispongono nel nucleo interno della particella, mentre in superficie restano i componenti anfipatici come fosfolipidi, colesterolo libero e apolipoproteine. Le apolipoproteine sono proteine e non possono contenere trigliceridi al loro interno.",
+      "slide": 20
+    },
+    {
+      "id": "d03-b02-q034",
+      "q": "Quale funzione svolgono le apolipoproteine disposte sulla superficie di un chilomicrone?",
+      "choices": [
+        "Formano un rivestimento impermeabile che isola completamente la particella",
+        "Idrolizzano i trigliceridi contenuti nel nucleo della particella",
+        "Trasportano ossigeno all'interno del nucleo lipidico",
+        "Stabilizzano la particella e costituiscono segnali per enzimi e recettori",
+        "Costituiscono la principale riserva energetica della particella"
+      ],
+      "answer": 3,
+      "explain": "Le apolipoproteine di superficie mantengono stabile l'emulsione e, soprattutto, servono da segnale: attivano enzimi come la lipoprotein lipasi e vengono riconosciute dai recettori cellulari. Esse non idrolizzano i trigliceridi del nucleo, perché l'idrolisi avviene a opera di enzimi esterni come la lipoprotein lipasi.",
+      "slide": 20
+    },
+    {
+      "id": "d03-b02-q035",
+      "q": "Perché una goccia di trigliceridi non può circolare nel plasma senza un rivestimento anfipatico?",
+      "choices": [
+        "Perché tenderebbe a coalescere in gocce più grandi separate dal plasma",
+        "Perché verrebbe immediatamente ossidata dalle proteine plasmatiche",
+        "Perché non potrebbe essere riconosciuta dal sistema immunitario",
+        "Perché non riuscirebbe a legare l'ossigeno trasportato dal sangue",
+        "Perché assorbirebbe l'acqua del plasma rigonfiandosi fino a scoppiare"
+      ],
+      "answer": 0,
+      "explain": "Senza uno strato anfipatico di fosfolipidi e apolipoproteine le gocce lipidiche si fondono tra loro e si separano dal plasma, come accade in un'emulsione instabile. Il rivestimento impedisce proprio questa coalescenza e mantiene le particelle disperse, indipendentemente da fenomeni di ossidazione o di riconoscimento immunitario.",
+      "slide": 20
+    },
+    {
+      "id": "d03-b02-q036",
+      "q": "Quale organo capta dalla circolazione i remnants dei chilomicroni?",
+      "choices": [
+        "Il rene",
+        "Il tessuto adiposo",
+        "Il fegato",
+        "Il polmone",
+        "Il midollo osseo"
+      ],
+      "answer": 2,
+      "explain": "I remnants dei chilomicroni vengono rimossi dal circolo principalmente dal fegato, che li riconosce tramite le apolipoproteine di superficie. Il tessuto adiposo è invece un sito di deposito dei trigliceridi, non di captazione dei remnants.",
+      "slide": 21
+    },
+    {
+      "id": "d03-b02-q037",
+      "q": "Attraverso quale recettore il fegato riconosce e internalizza i remnants dei chilomicroni?",
+      "choices": [
+        "Il recettore epatico che lega il glucagone",
+        "Il recettore epatico che lega l'insulina",
+        "Il recettore epatico che lega l'albumina",
+        "Il canale del calcio di tipo L degli epatociti",
+        "Il recettore che riconosce l'apolipoproteina E"
+      ],
+      "answer": 4,
+      "explain": "La captazione epatica dei remnants avviene tramite recettori che riconoscono l'apoE presente sulla superficie della particella. I recettori per ormoni come insulina e glucagone trasmettono segnali metabolici e non servono a internalizzare lipoproteine.",
+      "slide": 21
+    },
+    {
+      "id": "d03-b02-q038",
+      "q": "Quale può essere il destino dei lipidi contenuti nei remnants captati dal fegato?",
+      "choices": [
+        "Vengono obbligatoriamente trasformati in glucosio e liberati nel sangue",
+        "Possono essere ossidati, riesportati come VLDL o eliminati con la bile",
+        "Vengono escreti invariati con le urine sotto forma di trigliceridi",
+        "Vengono convertiti in proteine plasmatiche nel citosol epatico",
+        "Vengono immagazzinati come glicogeno nei depositi epatici"
+      ],
+      "answer": 1,
+      "explain": "Il fegato può ossidare i lipidi per ricavarne energia, riesportarli verso i tessuti sotto forma di VLDL oppure eliminarli nella bile come colesterolo o acidi biliari. Non è invece possibile convertire gli acidi grassi in glucosio, né tantomeno in proteine o in glicogeno, perché queste vie non esistono nell'uomo.",
+      "slide": 21
+    },
+    {
+      "id": "d03-b02-q039",
+      "q": "Che cosa fa il fegato degli acidi grassi assunti in eccesso rispetto al fabbisogno energetico?",
+      "choices": [
+        "Li degrada completamente in acqua e anidride carbonica",
+        "Li accumula come glicogeno nei lisosomi",
+        "Li converte direttamente in proteine plasmatiche",
+        "Li converte in trigliceridi e li esporta associati alle VLDL",
+        "Li trasforma in glucosio e li riversa nel sangue"
+      ],
+      "answer": 3,
+      "explain": "Quando la dieta fornisce più acidi grassi del necessario, il fegato li esterifica in trigliceridi e li esporta verso i tessuti periferici legati alle VLDL. Gli acidi grassi non vengono accumulati come glicogeno, che è un polimero di glucosio, né possono essere convertiti in glucosio nell'uomo.",
+      "slide": 22
+    },
+    {
+      "id": "d03-b02-q040",
+      "q": "Da quali cellule del fegato sono secrete le VLDL?",
+      "choices": [
+        "Dagli epatociti",
+        "Dai macrofagi di Kupffer",
+        "Dagli enterociti",
+        "Dagli adipociti",
+        "Dalle cellule endoteliali dei sinusoidi"
+      ],
+      "answer": 0,
+      "explain": "Le VLDL sono prodotte e secrete dagli epatociti, le cellule parenchimali del fegato. Gli enterociti producono i chilomicroni, mentre gli adipociti sono destinatari dei lipidi trasportati e non secernono VLDL.",
+      "slide": 22
+    },
+    {
+      "id": "d03-b02-q041",
+      "q": "Verso quale tessuto sono trasportate principalmente le VLDL secrete dal fegato?",
+      "choices": [
+        "Verso il rene e la milza",
+        "Verso la milza e il polmone",
+        "Verso il tessuto adiposo",
+        "Verso il cervello e il midollo osseo",
+        "Verso il midollo osseo e il rene"
+      ],
+      "answer": 2,
+      "explain": "Le VLDL trasportano i trigliceridi epatici verso i tessuti periferici, in particolare il tessuto adiposo, dove vengono depositati come riserva energetica. Gli organi indicati nelle altre alternative non sono i principali siti di deposito dei trigliceridi veicolati dalle VLDL.",
+      "slide": 22
+    },
+    {
+      "id": "d03-b02-q042",
+      "q": "Per quale motivo il fegato esporta sotto forma di VLDL i trigliceridi che produce in eccesso?",
+      "choices": [
+        "Perché i trigliceridi sono tossici per gli epatociti anche in piccole quantità",
+        "Perché le VLDL servono a trasportare il glucosio epatico",
+        "Perché il fegato non possiede enzimi per sintetizzare trigliceridi",
+        "Perché le VLDL sono l'unica forma in cui il colesterolo può essere escreto",
+        "Perché deve smaltire l'eccesso senza accumulare grandi quantità di trigliceridi propri"
+      ],
+      "answer": 4,
+      "explain": "Esportando i trigliceridi con le VLDL, il fegato evita di accumularli in quantità eccessive nel proprio tessuto e li rende disponibili agli altri organi. Il fegato possiede invece tutti gli enzimi necessari alla sintesi dei trigliceridi e non li considera sostanze tossiche in sé, dato che una quota di lipidi epatici è normale.",
+      "slide": 22
+    },
+    {
+      "id": "d03-b02-q043",
+      "q": "I trigliceridi trasportati dalle VLDL sono di origine endogena, cioè provengono da quale processo?",
+      "choices": [
+        "Dall'assorbimento dei grassi della dieta nell'intestino",
+        "Dalla sintesi endogena che avviene nel fegato",
+        "Dalla degradazione delle proteine muscolari di riserva",
+        "Dalla fermentazione del glucosio operata dal microbiota del colon",
+        "Dalla demolizione dei globuli rossi nella milza"
+      ],
+      "answer": 1,
+      "explain": "Sono detti endogeni i lipidi sintetizzati all'interno dell'organismo, e in particolare nel fegato, che poi li esporta con le VLDL. I lipidi provenienti dall'assorbimento intestinale sono invece esogeni e vengono trasportati dai chilomicroni.",
+      "slide": 22
+    },
+    {
+      "id": "d03-b02-q044",
+      "q": "Da quali lipoproteine si formano le LDL nel circolo ematico?",
+      "choices": [
+        "Dai chilomicroni",
+        "Dalle VLDL",
+        "Dalle HDL",
+        "Dai remnants dei chilomicroni",
+        "Dall'albumina"
+      ],
+      "answer": 1,
+      "explain": "Le LDL derivano dalle VLDL dopo che queste hanno ceduto trigliceridi ai tessuti e si sono progressivamente arricchite di colesterolo. I chilomicroni generano i propri remnants, che sono particelle diverse e vengono captate dal fegato, non trasformate in LDL.",
+      "slide": 23
+    },
+    {
+      "id": "d03-b02-q045",
+      "q": "Qual è la funzione principale delle VLDL prodotte dal fegato?",
+      "choices": [
+        "Trasportare il colesterolo dai tessuti periferici al fegato",
+        "Trasportare i trigliceridi della dieta dall'intestino ai tessuti",
+        "Attivare la lipoprotein lipasi sulla superficie dei capillari",
+        "Esportare i trigliceridi in eccesso dagli epatociti ai tessuti",
+        "Trasportare l'ossigeno ai tessuti periferici dell'organismo"
+      ],
+      "answer": 3,
+      "explain": "Le VLDL rappresentano il mezzo con cui gli epatociti esportano i trigliceridi che non servono al fegato, indirizzandoli ai tessuti periferici. Il trasporto dei trigliceridi della dieta spetta ai chilomicroni e quello inverso del colesterolo alle HDL, mentre il trasporto dell'ossigeno è compito dell'emoglobina.",
+      "slide": 23
+    },
+    {
+      "id": "d03-b02-q046",
+      "q": "Quale trasformazione subiscono le VLDL nel circolo prima di dare origine alle LDL?",
+      "choices": [
+        "Incorporano grandi quantità di trigliceridi e diventano più grandi",
+        "Vengono captate interamente dal fegato senza subire modifiche",
+        "Si fondono con le HDL perdendo ogni apolipoproteina di superficie",
+        "Vengono degradate nei capillari polmonari in acidi grassi liberi",
+        "Cedono trigliceridi ai tessuti e si arricchiscono di colesterolo"
+      ],
+      "answer": 4,
+      "explain": "Le VLDL perdono trigliceridi per azione della lipoprotein lipasi, si arricchiscono relativamente di colesterolo e, attraverso le IDL, maturano infine in LDL. Non incorporano trigliceridi né si fondono con le HDL: la loro evoluzione è una progressiva perdita di lipidi e di alcune apolipoproteine.",
+      "slide": 23
+    },
+    {
+      "id": "d03-b02-q047",
+      "q": "Quale differenza principale esiste tra LDL e VLDL?",
+      "choices": [
+        "Le LDL sono più povere di trigliceridi e più ricche di colesterolo",
+        "Le LDL contengono più trigliceridi e meno colesterolo delle VLDL",
+        "Le LDL sono prodotte dall'intestino, le VLDL dagli epatociti",
+        "Le LDL sono più grandi e meno dense delle VLDL plasmatiche",
+        "Le LDL non contengono apolipoproteine, mentre le VLDL ne sono ricche"
+      ],
+      "answer": 0,
+      "explain": "Le LDL rappresentano lo stadio finale della serie delle VLDL: hanno ceduto gran parte dei trigliceridi e sono quindi più piccole, più dense e relativamente più ricche di colesterolo. Sia le LDL sia le VLDL contengono apoB100 e sono entrambe di origine epatica, quindi le altre alternative sono errate.",
+      "slide": 23
+    },
+    {
+      "id": "d03-b02-q048",
+      "q": "Nel metabolismo dei lipidi endogeni, quale lipoproteina rappresenta il prodotto finale della serie che inizia con le VLDL?",
+      "choices": [
+        "I chilomicroni",
+        "Le HDL",
+        "Le LDL",
+        "I remnants dei chilomicroni",
+        "Le VLDL nascenti"
+      ],
+      "answer": 2,
+      "explain": "La via endogena parte dalle VLDL epatiche e, attraverso la progressiva rimozione dei trigliceridi, termina con la formazione delle LDL, ricche di colesterolo. I chilomicroni e i loro remnants appartengono invece alla via esogena, che ha origine nell'intestino.",
+      "slide": 24
+    },
+    {
+      "id": "d03-b02-q049",
+      "q": "Attraverso quale recettore le cellule captano le LDL dal plasma?",
+      "choices": [
+        "Il recettore per l'insulina degli epatociti",
+        "Il trasportatore del glucosio GLUT4 di membrana",
+        "Il recettore per l'apolipoproteina C-II",
+        "Il canale del potassio voltaggio-dipendente",
+        "Il recettore per le LDL che riconosce l'apoB100"
+      ],
+      "answer": 4,
+      "explain": "Le cellule internalizzano le LDL tramite uno specifico recettore di membrana che riconosce l'apoB100 presente sulla particella. GLUT4 e i recettori ormonali come quello per l'insulina hanno funzioni completamente diverse e non legano le lipoproteine.",
+      "slide": 24
+    },
+    {
+      "id": "d03-b02-q050",
+      "q": "Quale effetto ha un'elevata quantità di colesterolo all'interno della cellula sull'espressione dei recettori per le LDL?",
+      "choices": [
+        "La aumenta, favorendo un maggiore ingresso di LDL",
+        "Non ha alcun effetto sulla captazione delle LDL",
+        "La trasforma in recettori per le HDL",
+        "La riduce, diminuendo la captazione di ulteriori LDL",
+        "La blocca solo nelle cellule del muscolo scheletrico"
+      ],
+      "answer": 3,
+      "explain": "Quando la cellula dispone già di colesterolo sufficiente, riduce l'espressione dei recettori per le LDL così da limitare un ulteriore apporto, in un meccanismo di regolazione a feedback. L'aumento dei recettori si osserva invece quando il colesterolo intracellulare è scarso, perché la cellula deve procurarsene di più.",
+      "slide": 24
+    }
+  ]
+}

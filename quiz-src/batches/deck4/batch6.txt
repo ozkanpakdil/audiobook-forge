@@ -1,0 +1,91 @@
+# Deck 4 — Metabolismo del colesterolo e delle proteine (2025-11-05)
+# Batch 6 — argomento: Metabolismo degli amminoacidi: transaminazione e deaminazione
+# Slide da 49 a 59
+
+### Slide 49
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 50
+DEGRADAZIONE AMINOACIDI
+➢ Il maggior sito di degradazione degli aa è il fegato.
+➢ La transaminazione è il modo più utilizzato per togliere l'azoto agli aa.
+➢ Quando nel fegato gli aa hanno transaminato sul Glutammato, il Glu entra nei
+mitocondri e viene deaminato dalla GluDH, presente nella matrice mitocondriale.
+
+### Slide 51
+(slide senza testo: contiene solo immagini)
+
+### Slide 52
+TRANSAMINASI: ALT o GPT
+_ _
+COO Ala aminotransferasi COO
+(Ala transaminasi, ALT)
+CH 2 (Glu-Pir transaminasi, GPT) CH2
+CH 2 CH 3 CH2 CH 3
++ PLP +
+C O + H C NH 3 H C NH 3 + C O
+_ _ _ _
+COO COO COO COO
+alfa-chetoglutarato L-alanina (Ala) L-glutamato (Glu) piruvato
+
+### Slide 53
+TRANSAMINASI: AST o GOT
+_ _
+COO Asp aminotransferasi COO
+_ (Asp transaminasi, AST) _
+CH 2 COO (Glu-OA transaminasi, GOT) CH2 COO
+CH 2 CH2 CH2 CH2
++ + + +
+PLP
+C O H C NH 3 H C NH 3 C O
+_ _ _ _
+COO COO COO COO
+alfa-chetoglutarato L-aspartato (Asp) L-glutamato (Glu) ossalacetato
+
+### Slide 54
+❑ Transaminasi: hanno bassa affinità per gli aa (si attivano quando il livello di aa è
+troppo alto)
+❑ Le transaminasi epatiche ed intestinali sono indotte da una dieta iperproteica
+❑ GOT = AST (Asp transaminasi)
+❑ GPT = ALT (Ala transaminasi)
+
+### Slide 55
+MISURA delle TRANSAMINASI EPATICHE:
+➢ La misura delle transaminasi GOT (AST) e GPT (ALT) viene
+utilizzata principalmente per valutare la salute di fegato
+(GPT), cuore e muscoli (GOT).
+➢ Un aumento dei loro valori può indicare un danno o uno
+stress in questi organi, come in caso di epatiti, infarti o
+problemi muscolari.
+➢ Il metodo principale per misurare le transaminasi è l'esame
+del sangue.
+
+### Slide 56
+VALORI delle TRANSAMINASI EPATICHE:
+➢ Dopo il prelievo, il campione di sangue viene analizzato in
+laboratorio utilizzando principalmente metodi
+spettrofotometrici o enzimatici.
+➢ Valori di riferimento:
+• GPT (ALT): 7-56U/L
+• GOT (AST): 10-40U/L (uomini: <40U/L; donne: <35U/L)
+
+### Slide 57
+METABOLISMO AMINOACIDI
+
+### Slide 58
+➢ Il maggior sito di degradazione degli aa è il fegato
+➢ Il muscolo è la maggior sede di proteolisi, soprattutto in corso di digiuno, traumi,
+ustioni, setticemia
+➢ Il glucagone in corso di digiuno stimola la captazione epatica di aa plasmatici
+
+### Slide 59
+➢ I muscoli sottoposti a
+contrazione vigorosa
+producono anche
+NH4+ oltre al
+Piruvato, che
+vengono eliminati
+sotto forma di
+aminoacido, la
+Alanina
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]

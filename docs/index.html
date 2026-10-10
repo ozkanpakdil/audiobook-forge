@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Biochimica — Quiz di autovalutazione</title>
+<meta name="description" content="Duemila domande a risposta multipla di Biochimica per il Corso di Laurea in Infermieristica, con spiegazione della risposta corretta.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#" id="brand">
+      <span class="brand-mark" aria-hidden="true">🧬</span>
+      <span class="brand-text">
+        <strong>Biochimica</strong>
+        <small>Quiz di autovalutazione</small>
+      </span>
+    </a>
+    <div class="topbar-actions">
+      <button id="btn-theme" class="icon-btn" type="button" aria-label="Cambia tema" title="Cambia tema">
+        <span aria-hidden="true">◐</span>
+      </button>
+      <button id="btn-home" class="ghost-btn" type="button" hidden>Torna all'inizio</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+
+  <!-- ============ HOME ============ -->
+  <section id="view-home" class="view">
+    <div class="hero">
+      <h1>Duemila domande di Biochimica, con la spiegazione</h1>
+      <p class="lede">
+        Domande a risposta multipla a cinque alternative, costruite sulle lezioni del
+        corso di Biochimica — Corso di Laurea in Infermieristica, Università della
+        Valle d'Aosta, A.A. 2025/26. Ogni risposta è spiegata subito: perché quella è
+        corretta e perché l'alternativa più insidiosa non lo è.
+      </p>
+      <p class="lede note">
+        Materiale di autovalutazione. Non sostituisce lo studio, le lezioni, il libro di
+        testo né la valutazione ufficiale del corso.
+      </p>
+    </div>
+
+    <div id="load-error" class="banner error" hidden></div>
+
+    <div class="setup">
+      <h2>1. Scegli l'argomento</h2>
+      <div id="deck-list" class="deck-grid" aria-live="polite">
+        <p class="muted">Caricamento…</p>
+      </div>
+
+      <h2>2. Imposta la sessione</h2>
+      <div class="options">
+        <label class="opt">
+          <span class="opt-label">Numero di domande</span>
+          <select id="opt-count">
+            <option value="20">20 — sessione breve</option>
+            <option value="31" selected>31 — come la prova d'esame</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="0">tutte quelle disponibili</option>
+          </select>
+        </label>
+        <label class="opt check">
+          <input type="checkbox" id="opt-shuffle-q" checked>
+          <span>Ordine delle domande casuale</span>
+        </label>
+        <label class="opt check">
+          <input type="checkbox" id="opt-shuffle-a" checked>
+          <span>Ordine delle risposte casuale</span>
+        </label>
+        <label class="opt check">
+          <input type="checkbox" id="opt-instant" checked>
+          <span>Correzione immediata con spiegazione</span>
+        </label>
+      </div>
+
+      <div class="cta">
+        <button id="btn-start" class="primary" type="button" disabled>Inizia il quiz</button>
+        <button id="btn-resume" class="ghost-btn" type="button" hidden>Riprendi la sessione interrotta</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section id="view-quiz" class="view" hidden>
+    <div class="quiz-head">
+      <div class="quiz-meta">
+        <span id="q-position" class="pill">Domanda 1 di 31</span>
+        <span id="q-deck" class="pill soft"></span>
+      </div>
+      <div class="quiz-score">
+        <span class="score-ok" id="score-ok">0</span>
+        <span class="score-sep">/</span>
+        <span id="score-done">0</span>
+      </div>
+    </div>
+    <div class="progress" role="progressbar" aria-label="Avanzamento" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+      <div class="progress-bar" id="progress-bar"></div>
+    </div>
+
+    <article class="card question-card">
+      <p class="q-text" id="q-text"></p>
+      <ul class="choices" id="choices"></ul>
+      <div class="feedback" id="feedback" hidden>
+        <p class="feedback-head" id="feedback-head"></p>
+        <p class="feedback-body" id="feedback-body"></p>
+        <p class="feedback-src muted" id="feedback-src"></p>
+      </div>
+      <div class="question-actions">
+        <button id="btn-next" class="primary" type="button" disabled>Avanti</button>
+        <button id="btn-skip" class="ghost-btn" type="button">Salta</button>
+        <button id="btn-quit" class="ghost-btn danger" type="button">Termina</button>
+      </div>
+    </article>
+    <p class="kbd-hint muted">
+      Da tastiera: <kbd>1</kbd>–<kbd>5</kbd> o <kbd>A</kbd>–<kbd>E</kbd> per rispondere,
+      <kbd>Invio</kbd> per avanzare, <kbd>Esc</kbd> per terminare.
+    </p>
+  </section>
+
+  <!-- ============ RISULTATI ============ -->
+  <section id="view-result" class="view" hidden>
+    <article class="card result-card">
+      <h2 id="result-title">Sessione conclusa</h2>
+      <div class="result-score">
+        <div class="big" id="result-percent">0%</div>
+        <div class="detail" id="result-detail">0 su 0</div>
+      </div>
+      <p id="result-verdict" class="verdict"></p>
+      <div class="result-actions">
+        <button id="btn-again" class="primary" type="button">Nuova sessione</button>
+        <button id="btn-review" class="ghost-btn" type="button">Rivedi gli errori</button>
+        <button id="btn-print" class="ghost-btn" type="button">Stampa</button>
+      </div>
+    </article>
+    <div id="review" class="review" hidden></div>
+  </section>
+
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <p>
+      Contenuti tratti dalle lezioni del corso di Biochimica (A.A. 2025/26), Corso di
+      Laurea in Infermieristica, Università della Valle d'Aosta, integrate con nozioni
+      standard di biochimica. Materiale didattico di autovalutazione,
+      senza valore di certificazione.
+    </p>
+    <p class="muted">
+      <a href="https://github.com/ozkanpakdil/audiobook-forge">Sorgenti su GitHub</a>
+    </p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

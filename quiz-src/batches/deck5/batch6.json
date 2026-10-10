@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 6,
+  "topic": "Respirazione cellulare, catena di trasporto degli elettroni, fosforilazione ossidativa",
+  "questions": [
+    {
+      "id": "d05-b06-q001",
+      "q": "Qual è lo scopo principale della respirazione cellulare in una cellula aerobica?",
+      "choices": [
+        "Produrre ATP ossidando substrati organici come glucosio e acidi grassi",
+        "Produrre glucosio a partire da anidride carbonica e acqua con consumo di ATP",
+        "Sintetizzare acidi grassi a partire dall'acetil-coenzima A nel citosol",
+        "Degradare le proteine in eccesso ricavandone calore invece che ATP",
+        "Trasportare l'ossigeno dal sangue ai tessuti periferici tramite l'emoglobina"
+      ],
+      "answer": 0,
+      "explain": "La respirazione cellulare degrada i substrati energetici in presenza di ossigeno e conserva l'energia liberata sotto forma di ATP, la moneta energetica della cellula. La sintesi di glucosio a partire da anidride carbonica e acqua è invece la fotosintesi, il processo opposto che avviene nei vegetali. Il trasporto dell'ossigeno ai tessuti è una funzione dell'emoglobina nel sangue e non della respirazione cellulare.",
+      "slide": 58
+    },
+    {
+      "id": "d05-b06-q002",
+      "q": "Quale coppia di scambi gassosi caratterizza la respirazione cellulare?",
+      "choices": [
+        "Consumo di anidride carbonica e produzione di ossigeno",
+        "Consumo di azoto molecolare e produzione di ossigeno",
+        "Produzione contemporanea di ossigeno e di anidride carbonica",
+        "Produzione di ossigeno senza alcun consumo di gas",
+        "Consumo di ossigeno e produzione di anidride carbonica"
+      ],
+      "answer": 4,
+      "explain": "La respirazione cellulare consuma ossigeno come accettore finale di elettroni e libera anidride carbonica dalla decarbossilazione ossidativa dei substrati. Lo scambio opposto, cioè consumo di anidride carbonica e produzione di ossigeno, appartiene alla fotosintesi e non alla respirazione. Anche l'azoto molecolare è estraneo al processo, perché la cellula non lo utilizza come accettore di elettroni.",
+      "slide": 58
+    },
+    {
+      "id": "d05-b06-q003",
+      "q": "In quale ordine si susseguono le tre tappe classiche della respirazione cellulare?",
+      "choices": [
+        "Produzione di acetil-coenzima A, ciclo di Krebs, catena respiratoria",
+        "Ciclo di Krebs, produzione di acetil-coenzima A, catena respiratoria",
+        "Catena respiratoria, ciclo di Krebs, produzione di acetil-coenzima A",
+        "Produzione di acetil-coenzima A, catena respiratoria, ciclo di Krebs",
+        "Ciclo di Krebs, catena respiratoria, produzione di acetil-coenzima A"
+      ],
+      "answer": 0,
+      "explain": "La prima tappa converte glucosio, acidi grassi e aminoacidi in acetil-coenzima A, la seconda ossida l'acetile nel ciclo di Krebs e la terza trasferisce gli elettroni nella catena respiratoria. L'ordine non può essere invertito, perché la catena respiratoria utilizza i coenzimi ridotti che si generano nelle due tappe precedenti. Mettere la produzione di acetil-coenzima A dopo il ciclo di Krebs è l'errore più insidioso, dato che l'acetil-coenzima A è proprio il substrato di ingresso del ciclo.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q004",
+      "q": "Che cosa si intende per respirazione cellulare?",
+      "choices": [
+        "La sola sintesi di ATP che avviene nel citosol durante la glicolisi",
+        "L'insieme delle reazioni che trasformano l'anidride carbonica in glucosio e acqua",
+        "Il trasporto di elettroni dal citosol al nucleo attraverso i pori nucleari",
+        "L'insieme dei processi che consumano ossigeno e producono anidride carbonica",
+        "La degradazione degli acidi nucleici in nucleotidi liberi nel citosol"
+      ],
+      "answer": 3,
+      "explain": "La respirazione cellulare è l'insieme coordinato dei processi ossidativi con cui la cellula consuma ossigeno e produce anidride carbonica, ricavandone ATP. La conversione dell'anidride carbonica in glucosio è la fotosintesi, che appartiene al mondo vegetale. Il trasporto di elettroni verso il nucleo e la degradazione degli acidi nucleici non hanno alcun rapporto con la respirazione cellulare.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q005",
+      "q": "Quali substrati vengono convertiti in acetil-coenzima A nella prima tappa della respirazione cellulare?",
+      "choices": [
+        "Soltanto il glucosio",
+        "Glucosio, acidi grassi e aminoacidi",
+        "Soltanto acidi grassi e corpi chetonici",
+        "Nucleotidi e basi azotate",
+        "Soltanto il lattato prodotto dai muscoli"
+      ],
+      "answer": 1,
+      "explain": "Nella prima tappa convergono verso l'acetil-coenzima A i carboni del glucosio attraverso il piruvato, quelli degli acidi grassi attraverso la beta-ossidazione e quelli degli aminoacidi chetogenici. Limitare la conversione al solo glucosio è l'errore più frequente, perché trascura il contributo dei lipidi e delle proteine al catabolismo ossidativo. I nucleotidi e le basi azotate non sono combustibili della respirazione cellulare.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q006",
+      "q": "Che cos'è la fosforilazione ossidativa?",
+      "choices": [
+        "La sintesi di ATP accoppiata alla glicolisi anaerobica che avviene nel citosol",
+        "La fosforilazione diretta di un substrato da parte di una chinasi nel citosol",
+        "La sintesi di GTP che avviene nel ciclo di Krebs a livello del substrato",
+        "La riduzione parziale dell'ossigeno ad acqua nella catena respiratoria senza produrre ATP",
+        "Il processo mitocondriale che accoppia l'ossidazione dei substrati alla sintesi di ATP"
+      ],
+      "answer": 4,
+      "explain": "La fosforilazione ossidativa è il processo mitocondriale che accoppia l'ossidazione dei substrati lungo la catena respiratoria alla fosforilazione dell'ADP in ATP. La fosforilazione diretta di un substrato, come quella operata dalle chinasi della glicolisi, è un meccanismo diverso che non dipende dall'ossigeno. La sintesi di GTP nel ciclo di Krebs è una fosforilazione a livello del substrato e non una fosforilazione ossidativa.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q007",
+      "q": "Quale delle seguenti NON è una delle tre tappe della respirazione cellulare?",
+      "choices": [
+        "La conversione di glucosio, acidi grassi e aminoacidi in acetil-coenzima A",
+        "La fosforilazione del glucosio a glucosio-6-fosfato da parte dell'esochinasi",
+        "Il ciclo di Krebs, con le sue otto reazioni nella matrice mitocondriale",
+        "Il trasporto di elettroni nella catena respiratoria della membrana interna",
+        "L'ossidazione dell'acetil-coenzima A ad anidride carbonica nel ciclo di Krebs"
+      ],
+      "answer": 1,
+      "explain": "La fosforilazione del glucosio a glucosio-6-fosfato è il primo passaggio della glicolisi, che avviene nel citosol e non è una delle tre tappe della respirazione cellulare. Le tre tappe sono la produzione di acetil-coenzima A, il ciclo di Krebs e la catena respiratoria. L'ossidazione dell'acetil-coenzima A ad anidride carbonica è parte integrante del ciclo di Krebs e quindi della seconda tappa.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q008",
+      "q": "Perché l'acetil-coenzima A è considerato il punto di convergenza del catabolismo ossidativo?",
+      "choices": [
+        "Perché è l'unica molecola capace di attraversare la membrana mitocondriale esterna",
+        "Perché contiene un legame fosfoanidridico ad altissima energia come l'ATP",
+        "Perché deriva esclusivamente dalla degradazione degli acidi grassi del tessuto adiposo",
+        "Perché glucosio, acidi grassi e aminoacidi convergono tutti nella sua produzione",
+        "Perché è il prodotto finale della catena respiratoria mitocondriale"
+      ],
+      "answer": 3,
+      "explain": "I carboni del glucosio, degli acidi grassi e degli aminoacidi chetogenici vengono tutti convogliati nell'acetil-coenzima A, che rappresenta la via comune di ingresso al ciclo di Krebs. Il legame che unisce l'acetile al coenzima A è un tioestere, non un legame fosfoanidridico. L'acetil-coenzima A è un intermedio di partenza del catabolismo e non un prodotto finale della catena respiratoria.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q009",
+      "q": "Quali molecole ridotte prodotte dalle prime due tappe alimentano la catena respiratoria?",
+      "choices": [
+        "ATP e GTP in grandi quantità",
+        "Acetil-coenzima A e citrato",
+        "NADH e FADH2",
+        "Ossigeno molecolare e acqua",
+        "Lattato e alcol etilico"
+      ],
+      "answer": 2,
+      "explain": "Le deidrogenazioni della produzione di acetil-coenzima A e del ciclo di Krebs generano NADH e FADH2, che cedono i loro elettroni alla catena respiratoria. L'acetil-coenzima A e il citrato sono intermedi carboniosi e non trasportatori di elettroni. Il lattato e l'alcol etilico sono prodotti di fermentazione, che avviene in assenza di ossigeno e non alimenta la catena respiratoria.",
+      "slide": 59
+    },
+    {
+      "id": "d05-b06-q010",
+      "q": "In quale compartimento cellulare avviene la respirazione cellulare aerobica?",
+      "choices": [
+        "Nel nucleo",
+        "Nel reticolo endoplasmatico liscio",
+        "Nel mitocondrio",
+        "Nei lisosomi",
+        "Esclusivamente nel citosol"
+      ],
+      "answer": 2,
+      "explain": "Il mitocondrio è la sede della respirazione cellulare aerobica, perché ospita il ciclo di Krebs, la catena di trasporto degli elettroni e l'ATP sintasi. Nel citosol si svolge la glicolisi, che precede la respirazione e non richiede ossigeno. Il nucleo, il reticolo endoplasmatico e i lisosomi svolgono funzioni diverse e non contengono la catena respiratoria.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q011",
+      "q": "Dove si localizzano rispettivamente il ciclo di Krebs e la catena di trasporto degli elettroni?",
+      "choices": [
+        "Entrambi nello spazio intermembrana",
+        "Il ciclo di Krebs nella matrice e la catena di trasporto nella membrana interna",
+        "Il ciclo di Krebs nella membrana interna e la catena di trasporto nella matrice",
+        "Entrambi nella membrana mitocondriale esterna",
+        "Il ciclo di Krebs nel citosol e la catena di trasporto nella matrice"
+      ],
+      "answer": 1,
+      "explain": "Gli enzimi del ciclo di Krebs sono solubili nella matrice mitocondriale, con l'eccezione della succinato deidrogenasi che è legata alla membrana interna. I complessi della catena di trasporto degli elettroni sono invece proteine integrali della membrana mitocondriale interna. Lo spazio intermembrana e la membrana esterna non ospitano né il ciclo né la catena respiratoria.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q012",
+      "q": "Qual è la funzione principale delle creste mitocondriali?",
+      "choices": [
+        "Aumentare il volume della matrice mitocondriale per accumulare ossigeno",
+        "Separare completamente la matrice mitocondriale dal citosol circostante",
+        "Ospitare gli enzimi della glicolisi che degradano il glucosio in piruvato nel citosol",
+        "Ampliare la superficie della membrana interna per la catena respiratoria",
+        "Impedire il passaggio dei protoni verso lo spazio intermembrana"
+      ],
+      "answer": 3,
+      "explain": "Le creste sono pieghe della membrana mitocondriale interna che ne aumentano notevolmente la superficie, offrendo più spazio ai complessi della catena respiratoria e all'ATP sintasi. La membrana interna separa già la matrice dallo spazio intermembrana, quindi le creste non servono a creare questa separazione. Gli enzimi della glicolisi sono citosolici e non risiedono nelle creste.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q013",
+      "q": "Quale caratteristica della membrana mitocondriale interna è essenziale per la fosforilazione ossidativa?",
+      "choices": [
+        "La sua completa permeabilità ai protoni lungo tutta la membrana interna",
+        "L'assenza di proteine integrali nella membrana mitocondriale interna",
+        "La sua impermeabilità ai protoni, che mantiene il gradiente elettrochimico",
+        "La presenza di porine che lasciano passare liberamente l'ATP e i protoni",
+        "La sua composizione identica a quella della membrana plasmatica"
+      ],
+      "answer": 2,
+      "explain": "La membrana mitocondriale interna è impermeabile ai protoni, condizione indispensabile perché il pompaggio operato dalla catena respiratoria generi un gradiente elettrochimico stabile. Se la membrana fosse permeabile ai protoni, il gradiente si dissiperebbe e l'ATP sintasi non avrebbe energia da convertire in ATP. Le porine si trovano nella membrana esterna, mentre l'ATP esce dalla matrice attraverso un trasportatore specifico.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q014",
+      "q": "Quale affermazione sul rapporto fra mitocondrio e respirazione cellulare è corretta?",
+      "choices": [
+        "La glicolisi si svolge nella matrice mitocondriale accanto al ciclo di Krebs",
+        "Il mitocondrio è del tutto indipendente dal citosol per il rifornimento di ADP e di ossigeno",
+        "La catena respiratoria utilizza i ribosomi mitocondriali per sintetizzare ATP",
+        "La fosforilazione ossidativa avviene nello spazio intermembrana del mitocondrio",
+        "Il mitocondrio è la sede della fosforilazione ossidativa e della catena respiratoria"
+      ],
+      "answer": 4,
+      "explain": "Il mitocondrio ospita la matrice, dove si svolge il ciclo di Krebs, e la membrana interna, che contiene la catena respiratoria e l'ATP sintasi: insieme queste strutture rendono possibile la fosforilazione ossidativa. La glicolisi è citosolica e l'ADP necessario alla sintesi di ATP arriva dal citosol attraverso trasportatori specifici. I ribosomi mitocondriali sintetizzano alcune proteine e non ATP.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q015",
+      "q": "Perché il mitocondrio è definito la centrale energetica della cellula?",
+      "choices": [
+        "Perché vi si produce la maggior parte dell'ATP cellulare mediante fosforilazione ossidativa",
+        "Perché produce glucosio a partire dal piruvato attraverso la gluconeogenesi",
+        "Perché accumula l'ossigeno necessario alla cellula sotto forma di perossidi",
+        "Perché contiene tutto il DNA della cellula, compreso quello nucleare",
+        "Perché degrada le proteine plasmatiche in aminoacidi nel citosol"
+      ],
+      "answer": 0,
+      "explain": "Nel mitocondrio la maggior parte dell'energia ricavata dall'ossidazione dei substrati viene conservata sotto forma di ATP grazie alla fosforilazione ossidativa. La sintesi di glucosio a partire dal piruvato, cioè la gluconeogenesi, avviene in parte nel mitocondrio ma in parte nel citosol e non è la ragione del nome di centrale energetica. Il DNA della cellula è quasi tutto nel nucleo, mentre il mitocondrio ne possiede solo una piccola copia.",
+      "slide": 60
+    },
+    {
+      "id": "d05-b06-q016",
+      "q": "Come si chiama lo spazio delimitato dalla membrana mitocondriale interna che contiene gli enzimi del ciclo di Krebs?",
+      "choices": [
+        "Matrice mitocondriale",
+        "Spazio intermembrana",
+        "Citosol",
+        "Lume del reticolo endoplasmatico",
+        "Spazio perinucleare"
+      ],
+      "answer": 0,
+      "explain": "La matrice mitocondriale è lo spazio racchiuso dalla membrana interna e contiene gli enzimi del ciclo di Krebs, oltre al DNA mitocondriale e ai ribosomi. Lo spazio intermembrana si trova fra la membrana interna e quella esterna ed è la sede in cui si accumulano i protoni. Il citosol e il lume del reticolo endoplasmatico sono compartimenti distinti, esterni al mitocondrio.",
+      "slide": 61
+    },
+    {
+      "id": "d05-b06-q017",
+      "q": "Quale struttura separa la matrice mitocondriale dallo spazio intermembrana?",
+      "choices": [
+        "La membrana plasmatica",
+        "La membrana mitocondriale esterna",
+        "La membrana mitocondriale interna",
+        "Il reticolo endoplasmatico ruvido",
+        "L'involucro nucleare"
+      ],
+      "answer": 2,
+      "explain": "La membrana mitocondriale interna è la barriera che separa la matrice dallo spazio intermembrana e ospita i complessi della catena respiratoria. La membrana esterna delimita il mitocondrio verso il citosol e non confina con la matrice. La membrana plasmatica e l'involucro nucleare appartengono ad altri compartimenti cellulari.",
+      "slide": 61
+    },
+    {
+      "id": "d05-b06-q018",
+      "q": "In quale compartimento si accumulano i protoni durante il trasporto di elettroni?",
+      "choices": [
+        "Nella matrice mitocondriale",
+        "Nel citosol",
+        "Nel nucleo",
+        "Nel lume del reticolo endoplasmatico",
+        "Nello spazio intermembrana"
+      ],
+      "answer": 4,
+      "explain": "I complessi della catena respiratoria pompano protoni dalla matrice verso lo spazio intermembrana, che diventa così più acido e più carico positivamente. È questa differenza a costituire la forza proton-motrice che alimenta l'ATP sintasi. La matrice si impoverisce di protoni e il citosol non partecipa direttamente a questo gradiente.",
+      "slide": 61
+    },
+    {
+      "id": "d05-b06-q019",
+      "q": "Quale caratteristica del mitocondrio riflette la sua origine endosimbiontica?",
+      "choices": [
+        "La presenza di un unico compartimento interno",
+        "La presenza di DNA circolare, di ribosomi e di una doppia membrana",
+        "L'assenza di membrane interne",
+        "La capacità di sintetizzare glucosio dall'anidride carbonica",
+        "La totale indipendenza dalle proteine codificate dal nucleo"
+      ],
+      "answer": 1,
+      "explain": "Il DNA circolare, i ribosomi simili a quelli batterici e la doppia membrana sono gli indizi classici dell'origine endosimbiontica del mitocondrio. La maggior parte delle proteine mitocondriali è però codificata dal DNA nucleare e importata dal citosol, quindi il mitocondrio non è affatto indipendente dal nucleo. Il mitocondrio non sintetizza glucosio dall'anidride carbonica.",
+      "slide": 61
+    },
+    {
+      "id": "d05-b06-q020",
+      "q": "Qual è la funzione della catena di trasporto degli elettroni?",
+      "choices": [
+        "Sintetizzare direttamente ATP senza utilizzare il gradiente protonico",
+        "Trasferire elettroni dall'ossigeno al NADH lungo la catena respiratoria",
+        "Decarbossilare l'acetil-coenzima A con rilascio di anidride carbonica",
+        "Trasferire gli elettroni dal NADH e dal FADH2 all'ossigeno pompando protoni",
+        "Idrolizzare l'ATP in ADP e fosfato inorganico consumando acqua"
+      ],
+      "answer": 3,
+      "explain": "La catena di trasporto degli elettroni trasferisce gli elettroni dai coenzimi ridotti, NADH e FADH2, all'ossigeno e utilizza l'energia liberata per pompare protoni attraverso la membrana interna. La direzione del flusso è dal NADH verso l'ossigeno e non il contrario, perché l'ossigeno ha il potenziale di riduzione più positivo. La decarbossilazione dell'acetil-coenzima A avviene nel ciclo di Krebs, non nella catena respiratoria.",
+      "slide": 62
+    },
+    {
+      "id": "d05-b06-q021",
+      "q": "Quale molecola accetta gli elettroni alla fine della catena respiratoria?",
+      "choices": [
+        "Il NAD+, accettore delle deidrogenasi",
+        "Il coenzima Q, trasportatore mobile",
+        "Il citocromo c, proteina periferica",
+        "L'ossigeno molecolare, ridotto ad acqua",
+        "Il FAD, accettore delle deidrogenasi"
+      ],
+      "answer": 3,
+      "explain": "L'ossigeno molecolare è l'accettore finale degli elettroni e viene ridotto ad acqua dal complesso quattro. Il NAD+ e il FAD sono accettori di elettroni a livello delle deidrogenasi, ma non sono l'accettore terminale della catena. Il coenzima Q e il citocromo c sono trasportatori mobili che cedono gli elettroni ai complessi successivi.",
+      "slide": 62
+    },
+    {
+      "id": "d05-b06-q022",
+      "q": "Quanti complessi proteici principali comprende la catena di trasporto degli elettroni della membrana interna?",
+      "choices": [
+        "Quattro complessi, indicati con i numeri romani da uno a quattro",
+        "Due complessi, indicati con i numeri romani da uno a due",
+        "Cinque complessi, tutti dotati di attività di ATP sintasi",
+        "Tre complessi, insieme all'ATP sintasi che fa parte della catena",
+        "Sei complessi, ciascuno contenente un solo citocromo"
+      ],
+      "answer": 0,
+      "explain": "La catena di trasporto degli elettroni è formata da quattro complessi proteici principali, numerati con i numeri romani da uno a quattro, più due trasportatori mobili. L'ATP sintasi non è un complesso della catena, anche se talvolta viene chiamata complesso cinque per comodità. I citocromi sono presenti in più complessi e non in un solo complesso ciascuno.",
+      "slide": 62
+    },
+    {
+      "id": "d05-b06-q023",
+      "q": "Quale coenzima mobile trasporta gli elettroni all'interno del doppio strato lipidico della membrana interna?",
+      "choices": [
+        "Il citocromo c, idrosolubile e periferico",
+        "Il coenzima Q, liposolubile detto ubichinone",
+        "L'ATP sintasi, canale transmembrana",
+        "Il NAD+, coenzima solubile nel citosol",
+        "La cardiolipina, fosfolipide di membrana"
+      ],
+      "answer": 1,
+      "explain": "Il coenzima Q, o ubichinone, è liposolubile e diffonde liberamente all'interno del doppio strato lipidico trasportando elettroni fra i complessi. Il citocromo c è idrosolubile e si muove invece sulla superficie esterna della membrana interna, verso lo spazio intermembrana. Il NAD+ è un coenzima solubile e non un trasportatore di membrana, mentre la cardiolipina è un fosfolipide strutturale.",
+      "slide": 62
+    },
+    {
+      "id": "d05-b06-q024",
+      "q": "Dove è localizzato il citocromo c nella catena respiratoria?",
+      "choices": [
+        "Nella matrice mitocondriale, insieme agli enzimi solubili del ciclo di Krebs",
+        "Nel citosol, dove resta disciolto insieme agli enzimi della glicolisi",
+        "Sulla superficie esterna della membrana interna, verso lo spazio intermembrana",
+        "All'interno del doppio strato della membrana mitocondriale esterna",
+        "Nel nucleo, associato alla cromatina e all'involucro nucleare"
+      ],
+      "answer": 2,
+      "explain": "Il citocromo c è una proteina solubile associata alla superficie esterna della membrana mitocondriale interna, rivolta verso lo spazio intermembrana, dove trasferisce elettroni fra il complesso tre e il complesso quattro. Non è una proteina transmembrana e non si trova nella matrice. La sua liberazione nello spazio intermembrana è un evento che segnala l'avvio dell'apoptosi.",
+      "slide": 62
+    },
+    {
+      "id": "d05-b06-q025",
+      "q": "In quale molecola si trasforma l'ossigeno al termine della catena respiratoria?",
+      "choices": [
+        "In anidride carbonica",
+        "In perossido di idrogeno",
+        "In ozono",
+        "In radicale superossido stabile",
+        "In acqua"
+      ],
+      "answer": 4,
+      "explain": "L'ossigeno molecolare accetta quattro elettroni e quattro protoni e si trasforma in due molecole di acqua, che è il prodotto finale della respirazione. Il perossido di idrogeno e il radicale superossido sono intermedi parzialmente ridotti e tossici, rapidamente eliminati dagli enzimi antiossidanti. L'anidride carbonica deriva invece dalla decarbossilazione dei substrati carboniosi e non dall'ossigeno.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q026",
+      "q": "Quale equazione riassume la riduzione completa dell'ossigeno nella catena respiratoria?",
+      "choices": [
+        "Ossigeno più due elettroni dà due ioni ossidrile nella matrice",
+        "Ossigeno più quattro protoni dà due molecole di acqua senza elettroni",
+        "Ossigeno più un solo elettrone dà una molecola di acqua e un ossidrile",
+        "Ossigeno più due protoni dà una molecola di perossido di idrogeno",
+        "Ossigeno più quattro elettroni più quattro protoni dà due molecole di acqua"
+      ],
+      "answer": 4,
+      "explain": "La riduzione completa dell'ossigeno richiede quattro elettroni e quattro protoni e produce due molecole di acqua, come indica l'equazione bilanciata. La variante con quattro protoni ma senza elettroni è impossibile, perché la riduzione dell'ossigeno richiede necessariamente elettroni. La formazione di perossido di idrogeno corrisponde a una riduzione parziale a due elettroni e non al prodotto finale.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q027",
+      "q": "Quale complesso della catena respiratoria catalizza la riduzione dell'ossigeno ad acqua?",
+      "choices": [
+        "Il complesso uno, NADH deidrogenasi",
+        "Il complesso due, succinato deidrogenasi",
+        "Il complesso quattro, citocromo c ossidasi",
+        "Il complesso tre, citocromo bc1",
+        "L'ATP sintasi"
+      ],
+      "answer": 2,
+      "explain": "Il complesso quattro, chiamato citocromo c ossidasi, contiene i centri rame e i citocromi che cedono gli elettroni all'ossigeno formando acqua. Il complesso uno ossida il NADH e il complesso due ossida il succinato, ma nessuno dei due riduce l'ossigeno. L'ATP sintasi non trasporta elettroni, ma sfrutta il gradiente protonico per produrre ATP.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q028",
+      "q": "Perché l'ossigeno è un accettore finale di elettroni particolarmente efficace?",
+      "choices": [
+        "Perché ha un potenziale di riduzione molto positivo verso la coppia acqua-ossigeno",
+        "Perché è una molecola apolare che diffonde liberamente attraverso la membrana interna",
+        "Perché è in grado di cedere elettroni al NADH e al FADH2 ridotti",
+        "Perché possiede un potenziale di riduzione molto negativo come il NADH",
+        "Perché viene ridotto soltanto in presenza di ATP nella matrice"
+      ],
+      "answer": 0,
+      "explain": "La coppia ossigeno-acqua possiede un potenziale di riduzione molto positivo, il più alto della catena respiratoria, e questo rende il trasferimento di elettroni verso l'ossigeno fortemente esoergonico. Un potenziale di riduzione molto negativo renderebbe l'ossigeno un cattivo accettore, non un buon accettore. L'ossigeno non cede elettroni al NADH e la sua riduzione non dipende dalla presenza di ATP.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q029",
+      "q": "Che cosa accade alla catena respiratoria quando l'ossigeno viene a mancare?",
+      "choices": [
+        "La catena funziona più rapidamente perché i protoni non vengono consumati",
+        "Il NADH continua a essere ossidato e l'ATP viene prodotto ugualmente",
+        "Il ciclo di Krebs accelera per compensare la carenza di accettore",
+        "Gli elettroni non hanno più un accettore finale e la catena si blocca",
+        "L'ossigeno viene sostituito dall'anidride carbonica come accettore finale"
+      ],
+      "answer": 3,
+      "explain": "Senza ossigeno gli elettroni non possono essere scaricati alla fine della catena, tutti i componenti restano ridotti e la sintesi di ATP si interrompe. Di conseguenza il NADH si accumula e inibisce le deidrogenasi del ciclo di Krebs, che non accelera affatto. L'anidride carbonica non può sostituire l'ossigeno come accettore finale di elettroni.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q030",
+      "q": "Quante molecole di acqua si formano dalla riduzione completa di una molecola di ossigeno molecolare?",
+      "choices": [
+        "Una sola molecola di acqua",
+        "Due molecole di acqua",
+        "Tre molecole di acqua",
+        "Quattro molecole di acqua",
+        "Nessuna molecola di acqua, perché si forma soltanto perossido di idrogeno"
+      ],
+      "answer": 1,
+      "explain": "Una molecola di ossigeno contiene due atomi, ciascuno dei quali acquista due elettroni e due protoni, quindi il prodotto finale è costituito da due molecole di acqua. Quattro molecole di acqua si otterrebbero da due molecole di ossigeno e non da una sola. Il perossido di idrogeno è solo un intermedio parziale della riduzione, non il prodotto finale.",
+      "slide": 63
+    },
+    {
+      "id": "d05-b06-q031",
+      "q": "Qual è la relazione fra trasporto di elettroni e sintesi di ATP nella catena respiratoria?",
+      "choices": [
+        "Il trasporto di elettroni sintetizza ATP direttamente, senza gradiente protonico",
+        "Il trasporto di elettroni genera un gradiente protonico che alimenta la sintesi di ATP",
+        "La sintesi di ATP avviene prima del trasporto di elettroni nella catena",
+        "I due processi sono completamente indipendenti e non accoppiati tra loro",
+        "Il trasporto di elettroni consuma ATP invece di produrlo nella membrana"
+      ],
+      "answer": 1,
+      "explain": "Il trasporto di elettroni non produce ATP in modo diretto: libera energia sotto forma di gradiente protonico, che viene poi utilizzato dall'ATP sintasi per fosforilare l'ADP. L'affermazione che la sintesi di ATP preceda il trasporto di elettroni inverte la sequenza reale dei processi. I due fenomeni sono strettamente accoppiati e non indipendenti.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q032",
+      "q": "In quale direzione vengono pompati i protoni durante il trasporto di elettroni?",
+      "choices": [
+        "Dal citosol alla matrice",
+        "Dallo spazio intermembrana al citosol",
+        "Dalla matrice al nucleo",
+        "Dallo spazio intermembrana alla matrice",
+        "Dalla matrice allo spazio intermembrana"
+      ],
+      "answer": 4,
+      "explain": "I complessi della catena respiratoria trasferiscono protoni dalla matrice verso lo spazio intermembrana, creando un gradiente elettrochimico. Il ritorno dei protoni nella matrice attraverso l'ATP sintasi è ciò che consente la sintesi di ATP. La direzione opposta, dallo spazio intermembrana alla matrice, corrisponde proprio al flusso che genera ATP e non al pompaggio operato dalla catena.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q033",
+      "q": "Che cos'è la forza proton-motrice?",
+      "choices": [
+        "L'energia immagazzinata nel legame tioestere che unisce l'acetile al coenzima A",
+        "La forza meccanica esercitata dalla contrazione muscolare sulle membrane",
+        "La differenza di temperatura fra la matrice mitocondriale e il citosol",
+        "L'energia potenziale del gradiente protonico ai lati della membrana interna",
+        "La pressione osmotica esercitata dall'ossigeno accumulato nella matrice"
+      ],
+      "answer": 3,
+      "explain": "La forza proton-motrice corrisponde all'energia potenziale immagazzinata nel gradiente protonico e comprende sia la differenza di pH sia la differenza di potenziale elettrico ai lati della membrana interna. Non ha nulla a che vedere con il legame tioestere dell'acetil-coenzima A, che è una riserva energetica chimica diversa. La temperatura e la pressione osmotica dell'ossigeno non definiscono la forza proton-motrice.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q034",
+      "q": "Qual è l'effetto di un disaccoppiante come il dinitrofenolo sulla fosforilazione ossidativa?",
+      "choices": [
+        "Trasporta protoni attraverso la membrana interna e dissipa il gradiente",
+        "Blocca il trasporto di elettroni e arresta il consumo di ossigeno",
+        "Aumenta il gradiente protonico e quindi anche la sintesi di ATP",
+        "Inibisce direttamente l'ATP sintasi legandosi al sito catalitico F1",
+        "Impedisce l'ingresso del piruvato nella matrice mitocondriale"
+      ],
+      "answer": 0,
+      "explain": "Il dinitrofenolo è una molecola liposolubile che trasporta protoni attraverso la membrana interna, dissipando il gradiente senza bloccare la catena respiratoria: l'energia viene così dispersa come calore. Gli inibitori della catena, come il cianuro, bloccano il trasporto di elettroni e riducono il consumo di ossigeno, mentre il dinitrofenolo lo accelera. L'inibizione diretta dell'ATP sintasi è l'effetto dell'oligomicina, non dei disaccoppianti.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q035",
+      "q": "Quale effetto ha il cianuro sulla respirazione cellulare?",
+      "choices": [
+        "Aumenta la sintesi di ATP perché accelera il flusso di elettroni",
+        "Disaccoppia la fosforilazione dalla respirazione dissipando il gradiente",
+        "Inibisce il complesso quattro e blocca il trasferimento di elettroni",
+        "Inibisce l'ATP sintasi senza interferire con la catena respiratoria",
+        "Trasporta protoni attraverso la membrana interna dissipando il gradiente"
+      ],
+      "answer": 2,
+      "explain": "Il cianuro si lega al ferro dei citocromi del complesso quattro e impedisce la riduzione dell'ossigeno, bloccando l'intero flusso di elettroni. Non è un disaccoppiante, perché non trasporta protoni e non dissipa il gradiente. L'inibizione diretta dell'ATP sintasi è invece tipica dell'oligomicina.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q036",
+      "q": "Quale componente della fosforilazione ossidativa viene inibito dall'oligomicina?",
+      "choices": [
+        "Il complesso uno",
+        "Il citocromo c ossidasi",
+        "L'ATP sintasi",
+        "La succinato deidrogenasi",
+        "Il coenzima Q"
+      ],
+      "answer": 2,
+      "explain": "L'oligomicina blocca il canale F0 dell'ATP sintasi e impedisce il ritorno dei protoni nella matrice, arrestando la sintesi di ATP. Poiché il gradiente non viene consumato, il pompaggio dei protoni rallenta e il consumo di ossigeno diminuisce. Non agisce sui complessi della catena respiratoria, che restano integri ma rallentati dal gradiente troppo elevato.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q037",
+      "q": "Quale rapporto esiste fra la catena respiratoria e i coenzimi NADH e FADH2?",
+      "choices": [
+        "La catena li riossida a NAD+ e FAD rigenerando gli accettori di elettroni",
+        "La catena li riduce ulteriormente per accumulare più energia chimica nella matrice",
+        "La catena li degrada in adenosina e fosfato inorganico nella matrice",
+        "La catena li trasforma in acetil-coenzima A prima del ciclo di Krebs",
+        "La catena non ha alcun rapporto con questi coenzimi della respirazione"
+      ],
+      "answer": 0,
+      "explain": "La catena respiratoria ossida il NADH e il FADH2 rigenerando NAD+ e FAD, che sono necessari alle deidrogenasi del catabolismo per continuare a operare. Se la catena si arresta, i coenzimi restano ridotti e le vie cataboliche si bloccano per mancanza di accettori di elettroni ossidati. La catena non riduce ulteriormente i coenzimi e non li trasforma in acetil-coenzima A.",
+      "slide": 64
+    },
+    {
+      "id": "d05-b06-q038",
+      "q": "Quale enzima catalizza la sintesi di ATP a partire da ADP e fosfato inorganico nella membrana mitocondriale interna?",
+      "choices": [
+        "La citocromo c ossidasi",
+        "La succinato deidrogenasi",
+        "L'esochinasi",
+        "La creatina chinasi",
+        "L'ATP sintasi"
+      ],
+      "answer": 4,
+      "explain": "L'ATP sintasi è il motore molecolare che sfrutta il ritorno dei protoni nella matrice per unire ADP e fosfato inorganico formando ATP. La citocromo c ossidasi e la succinato deidrogenasi sono componenti della catena respiratoria e non sintetizzano ATP. L'esochinasi e la creatina chinasi operano su altri substrati, rispettivamente il glucosio e la creatina.",
+      "slide": 65
+    },
+    {
+      "id": "d05-b06-q039",
+      "q": "Come è organizzata strutturalmente l'ATP sintasi mitocondriale?",
+      "choices": [
+        "Come un unico canale protonico privo di porzioni catalitiche",
+        "Come un complesso con la porzione F0 nella membrana e la porzione F1 catalitica",
+        "Come un trasportatore di elettroni della catena respiratoria della membrana interna",
+        "Come un enzima solubile del citosol, privo di ancoraggio alla membrana",
+        "Come una pompa che estrae ATP dalla matrice verso lo spazio intermembrana"
+      ],
+      "answer": 1,
+      "explain": "L'ATP sintasi è formata dalla porzione F0, che attraversa la membrana e funziona da canale protonico, e dalla porzione F1, che sporge nella matrice e contiene i siti catalitici. Non è un enzima solubile del citosol, perché è saldamente ancorata alla membrana mitocondriale interna. L'esportazione dell'ATP verso il citosol è compiuta da un trasportatore distinto, non dalla stessa ATP sintasi.",
+      "slide": 65
+    },
+    {
+      "id": "d05-b06-q040",
+      "q": "Quale forza determina la rotazione della porzione F1 dell'ATP sintasi?",
+      "choices": [
+        "L'idrolisi dell'ATP legato al sito catalitico della porzione F1",
+        "Il passaggio di elettroni attraverso il complesso della catena",
+        "La differenza di temperatura fra lo spazio intermembrana e la matrice",
+        "Il flusso di protoni verso la matrice attraverso il canale F0",
+        "La fosforilazione diretta del substrato da parte di una chinasi"
+      ],
+      "answer": 3,
+      "explain": "La rotazione della porzione F1 è prodotta dal flusso di protoni che, spinti dalla forza proton-motrice, ritornano dallo spazio intermembrana alla matrice attraverso il canale F0. L'ATP sintasi non trasporta elettroni, quindi il passaggio di elettroni non può generare la rotazione. La differenza di temperatura fra i compartimenti non ha alcun ruolo nel meccanismo catalitico.",
+      "slide": 65
+    },
+    {
+      "id": "d05-b06-q041",
+      "q": "Qual è la funzione del canale F0 dell'ATP sintasi?",
+      "choices": [
+        "Consentire il ritorno dei protoni nella matrice accoppiando gradiente e rotazione",
+        "Trasportare gli elettroni al complesso quattro della catena respiratoria",
+        "Legare l'ADP e il fosfato nel sito catalitico della porzione F1",
+        "Impedire il passaggio dei protoni attraverso la membrana interna",
+        "Trasportare l'ATP verso lo spazio intermembrana attraverso la membrana"
+      ],
+      "answer": 0,
+      "explain": "Il canale F0 permette ai protoni accumulati nello spazio intermembrana di rientrare nella matrice e trasforma questa corrente in rotazione, che viene trasmessa alla porzione F1. Il legame dell'ADP e del fosfato avviene nei siti catalitici della porzione F1, non nel canale F0. F0 non trasporta elettroni né ATP e la sua funzione è opposta a quella di impedire il passaggio dei protoni.",
+      "slide": 65
+    },
+    {
+      "id": "d05-b06-q042",
+      "q": "Quante porzioni funzionali principali si riconoscono nell'ATP sintasi e come sono denominate?",
+      "choices": [
+        "Tre porzioni, denominate alfa, beta e gamma come nella F1",
+        "Una sola porzione, denominata F1 perché contiene tutti i siti catalitici",
+        "Quattro porzioni, come i complessi della catena respiratoria",
+        "Due porzioni, F0 come canale transmembrana e F1 come testa catalitica",
+        "Cinque porzioni, ciascuna contenente un citocromo della catena"
+      ],
+      "answer": 3,
+      "explain": "L'ATP sintasi si suddivide in due porzioni funzionali principali: F0, il canale transmembrana per i protoni, e F1, la testa catalitica rivolta verso la matrice. Le subunità alfa, beta e gamma sono componenti interne di F1 e non porzioni funzionali distinte dell'enzima. Il numero delle porzioni non corrisponde a quello dei complessi della catena respiratoria.",
+      "slide": 65
+    },
+    {
+      "id": "d05-b06-q043",
+      "q": "Quale affermazione descrive correttamente l'accoppiamento nella fosforilazione ossidativa?",
+      "choices": [
+        "L'ossidazione dei substrati e la fosforilazione dell'ADP avvengono in compartimenti separati e indipendenti",
+        "L'ossidazione dei substrati è accoppiata alla fosforilazione dell'ADP dal gradiente protonico",
+        "La fosforilazione dell'ADP avviene soltanto nel citosol e non nel mitocondrio",
+        "L'ossidazione dei substrati nella catena avviene senza consumo di ossigeno molecolare",
+        "La fosforilazione ossidativa produce soltanto calore e non ATP nella matrice"
+      ],
+      "answer": 1,
+      "explain": "Nella fosforilazione ossidativa l'ossidazione dei substrati e la fosforilazione dell'ADP sono accoppiate dal gradiente protonico, che funge da intermediario energetico comune. I due processi non sono indipendenti, perché la sintesi di ATP richiede il gradiente generato dal trasporto di elettroni. La fosforilazione dell'ADP avviene nella matrice mitocondriale e l'ossidazione nella catena consuma ossigeno.",
+      "slide": 66
+    },
+    {
+      "id": "d05-b06-q044",
+      "q": "Perché la catena respiratoria rallenta quando nella matrice manca l'ADP?",
+      "choices": [
+        "Perché l'ADP è l'accettore finale degli elettroni al posto dell'ossigeno molecolare",
+        "Perché l'ADP inibisce direttamente il complesso uno della catena",
+        "Perché senza ADP l'ossigeno non può essere ridotto ad acqua",
+        "Perché l'ADP è necessario al trasporto di elettroni nei citocromi",
+        "Perché il gradiente non viene consumato dall'ATP sintasi e frena il pompaggio"
+      ],
+      "answer": 4,
+      "explain": "Quando manca l'ADP, l'ATP sintasi non consuma il gradiente protonico, che cresce fino a rendere energeticamente sfavorevole l'ulteriore pompaggio dei protoni: la catena rallenta. Questo fenomeno è noto come controllo respiratorio e dimostra l'accoppiamento fra ossidazione e fosforilazione. L'ADP non è l'accettore finale degli elettroni, che è l'ossigeno, e non inibisce direttamente i complessi della catena.",
+      "slide": 66
+    },
+    {
+      "id": "d05-b06-q045",
+      "q": "Quante molecole di ATP si ottengono, secondo i valori comunemente accettati, dall'ossidazione di un NADH mitocondriale?",
+      "choices": [
+        "Una molecola di ATP per ogni NADH ossidato",
+        "Quattro molecole di ATP per ogni NADH ossidato",
+        "Circa due molecole e mezza di ATP per NADH ossidato",
+        "Circa una molecola e mezza di ATP per NADH ossidato",
+        "Dieci molecole di ATP per ogni NADH ossidato"
+      ],
+      "answer": 2,
+      "explain": "Il rapporto fosforilazione-ossidazione comunemente accettato per il NADH mitocondriale è di circa due e mezzo, quindi la sua ossidazione rende disponibili circa due molecole e mezza di ATP. Il valore di circa una e mezza corrisponde invece al FADH2, che entra nella catena a monte del complesso uno e pompa meno protoni. Le cifre di una, quattro o dieci molecole non corrispondono ad alcun rapporto accettato.",
+      "slide": 66
+    },
+    {
+      "id": "d05-b06-q046",
+      "q": "Perché l'ossidazione del FADH2 rende disponibile meno ATP di quella del NADH?",
+      "choices": [
+        "Perché il FADH2 cede i suoi elettroni direttamente al complesso quattro",
+        "Perché il FADH2 contiene meno energia chimica nel suo legame rispetto al NADH",
+        "Perché il FADH2 non può essere ossidato in assenza di ossigeno molecolare",
+        "Perché il FADH2 cede gli elettroni al coenzima Q, bypassando il complesso uno",
+        "Perché il FADH2 viene ossidato nel citosol e non nella matrice"
+      ],
+      "answer": 3,
+      "explain": "Il FADH2 trasferisce i propri elettroni al coenzima Q e quindi entra nella catena a valle del complesso uno, saltando una delle tappe di pompaggio dei protoni. Il gradiente che ne deriva è minore e corrisponde a circa una molecola e mezza di ATP per FADH2, contro circa due e mezza per NADH. Il FADH2 non cede elettroni direttamente al complesso quattro e viene ossidato sulla membrana interna, non nel citosol.",
+      "slide": 66
+    },
+    {
+      "id": "d05-b06-q047",
+      "q": "Quale ipotesi spiega come il trasporto di elettroni si accoppia alla sintesi di ATP?",
+      "choices": [
+        "L'ipotesi della fosforilazione a livello del substrato, tipica della glicolisi e del ciclo di Krebs",
+        "L'ipotesi chemiosmotica, secondo cui il gradiente protonico è l'intermediario",
+        "L'ipotesi della fermentazione lattica che rigenera il NAD+ nel citosol",
+        "L'ipotesi del trasporto di gruppo attraverso la membrana interna",
+        "L'ipotesi della diffusione facilitata dei protoni attraverso la membrana"
+      ],
+      "answer": 1,
+      "explain": "Secondo l'ipotesi chemiosmotica il trasporto di elettroni crea un gradiente protonico attraverso la membrana interna e tale gradiente alimenta la sintesi di ATP. La fosforilazione a livello del substrato è un meccanismo diverso, tipico della glicolisi e del ciclo di Krebs, che non dipende dal gradiente. La fermentazione lattica e il trasporto di gruppo non spiegano l'accoppiamento energetico della fosforilazione ossidativa.",
+      "slide": 67
+    },
+    {
+      "id": "d05-b06-q048",
+      "q": "Quale condizione è indispensabile perché il gradiente protonico possa alimentare l'ATP sintasi?",
+      "choices": [
+        "La presenza di una membrana liberamente permeabile ai protoni",
+        "L'assenza di ossigeno nella matrice mitocondriale",
+        "L'integrità della membrana interna, che separa due compartimenti a diversa acidità",
+        "Una concentrazione elevata di ioni calcio nella matrice mitocondriale",
+        "L'idrolisi continua dell'ATP da parte dell'ATP sintasi mitocondriale"
+      ],
+      "answer": 2,
+      "explain": "Perché esista una forza proton-motrice la membrana interna deve restare integra e impermeabile, separando lo spazio intermembrana acido dalla matrice più alcalina. Una membrana permeabile ai protoni dissiperebbe immediatamente il gradiente e la sintesi di ATP cesserebbe. L'ossigeno è necessario al trasporto di elettroni, ma la condizione richiesta per conservare il gradiente è l'integrità della membrana.",
+      "slide": 67
+    },
+    {
+      "id": "d05-b06-q049",
+      "q": "Quanti protoni devono attraversare l'ATP sintasi mitocondriale, secondo i valori comunemente accettati, per produrre ed esportare una molecola di ATP?",
+      "choices": [
+        "Circa quattro protoni per ogni ATP prodotto ed esportato",
+        "Un solo protone per ogni ATP prodotto ed esportato",
+        "Circa dieci protoni per ogni ATP prodotto ed esportato",
+        "Nessun protone, perché l'ATP si forma per fosforilazione diretta",
+        "Due protoni in totale per ogni ATP prodotto ed esportato"
+      ],
+      "answer": 0,
+      "explain": "Il costo comunemente accettato è di circa quattro protoni per ogni ATP prodotto ed esportato: tre servono alla sintesi catalitica e uno al trasporto dell'ATP e del fosfato. Considerare un solo protone sottovaluta il costo energetico reale, perché l'ATP sintasi non è una semplice valvola ma un motore con un rapporto definito fra protoni e ATP. Nessun protone attraversa la membrana nel caso della fosforilazione a livello del substrato, che però è un processo diverso.",
+      "slide": 67
+    },
+    {
+      "id": "d05-b06-q050",
+      "q": "Quale affermazione descrive correttamente il destino dell'energia del gradiente protonico?",
+      "choices": [
+        "Tutta l'energia del gradiente viene dispersa sotto forma di calore",
+        "Il gradiente è utilizzato esclusivamente per importare piruvato nella matrice",
+        "Il gradiente serve soltanto a mantenere il pH della matrice mitocondriale",
+        "Il gradiente viene consumato unicamente dalla catena respiratoria che lo genera",
+        "Il gradiente è utilizzato dall'ATP sintasi e in parte dai trasporti mitocondriali"
+      ],
+      "answer": 4,
+      "explain": "La forza proton-motrice viene sfruttata principalmente dall'ATP sintasi per fosforilare l'ADP, ma contribuisce anche ai sistemi di trasporto che riforniscono il mitocondrio di substrati e fosfato. La dispersione completa in calore si osserva soltanto in presenza di disaccoppianti o di proteine disaccoppianti naturali. Il gradiente non è prodotto dalla catena per essere poi consumato dalla catena stessa.",
+      "slide": 67
+    }
+  ]
+}

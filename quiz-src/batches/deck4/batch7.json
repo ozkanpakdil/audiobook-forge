@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 7,
+  "topic": "Il fegato, l'eliminazione dell'ammonio e il ciclo dell'urea",
+  "questions": [
+    {
+      "id": "d04-b07-q001",
+      "q": "Qual è l'organo principale responsabile della conversione dell'ammonio in urea?",
+      "choices": [
+        "Il fegato",
+        "Il rene",
+        "Il muscolo scheletrico",
+        "Il polmone",
+        "La milza"
+      ],
+      "answer": 0,
+      "explain": "Il fegato è la sede principale del ciclo dell'urea e converte l'ammonio, tossico per il sistema nervoso, in urea, molecola neutra ed eliminabile. Il rene non produce urea: la filtra dal sangue e la escreve nelle urine, quindi è il distrattore più insidioso.",
+      "slide": 60
+    },
+    {
+      "id": "d04-b07-q002",
+      "q": "Per quale motivo l'ammonio prodotto dal catabolismo degli aminoacidi deve essere rapidamente detossificato?",
+      "choices": [
+        "Perché è un intermedio stabile del ciclo di Krebs",
+        "Perché rappresenta una riserva energetica per il muscolo",
+        "Perché è tossico, in particolare per il sistema nervoso",
+        "Perché blocca la digestione dei trigliceridi",
+        "Perché impedisce l'assorbimento intestinale del glucosio"
+      ],
+      "answer": 2,
+      "explain": "L'ammonio libero è neurotossico e può compromettere le funzioni cerebrali, per questo il fegato lo converte in urea. Non è una riserva energetica né un intermedio del ciclo di Krebs, e non blocca la digestione dei trigliceridi.",
+      "slide": 60
+    },
+    {
+      "id": "d04-b07-q003",
+      "q": "Oltre alla sintesi dell'urea, quale altra funzione metabolica rende il fegato centrale nel metabolismo dell'azoto?",
+      "choices": [
+        "La produzione di insulina",
+        "La sintesi della maggior parte delle proteine plasmatiche, come l'albumina",
+        "La sintesi del collagene dei tendini",
+        "La produzione dei globuli rossi",
+        "La sintesi della vitamina C"
+      ],
+      "answer": 1,
+      "explain": "Il fegato sintetizza la maggior parte delle proteine plasmatiche, tra cui l'albumina, e gestisce contemporaneamente il destino dell'azoto con il ciclo dell'urea. L'insulina è invece prodotta dalle cellule beta del pancreas, non dal fegato.",
+      "slide": 60
+    },
+    {
+      "id": "d04-b07-q004",
+      "q": "In quale via metabolica l'ammonio viene convertito in urea?",
+      "choices": [
+        "Nella glicolisi",
+        "Nella beta-ossidazione",
+        "Nella gluconeogenesi",
+        "Nella fosforilazione ossidativa",
+        "Nel ciclo dell'urea"
+      ],
+      "answer": 4,
+      "explain": "Il ciclo dell'urea è la via epatica che converte l'ammonio in urea, permettendone l'escrezione renale. Glicolisi, beta-ossidazione e fosforilazione ossidativa riguardano soprattutto il metabolismo energetico e non l'eliminazione dell'azoto.",
+      "slide": 61
+    },
+    {
+      "id": "d04-b07-q005",
+      "q": "In quali compartimenti cellulari si svolge il ciclo dell'urea?",
+      "choices": [
+        "In parte nei mitocondri e in parte nel citosol",
+        "Esclusivamente nel nucleo",
+        "Esclusivamente nei perossisomi",
+        "Esclusivamente nel reticolo endoplasmatico liscio",
+        "Esclusivamente sulla membrana plasmatica"
+      ],
+      "answer": 0,
+      "explain": "Il ciclo dell'urea inizia nei mitocondri, dove si formano carbamoil fosfato e citrullina, e prosegue nel citosol, dove si completano le tappe fino all'urea. Non è confinato a un solo compartimento come nucleo, perossisomi o reticolo endoplasmatico.",
+      "slide": 61
+    },
+    {
+      "id": "d04-b07-q006",
+      "q": "Quale composto rappresenta il primo prodotto dell'incorporazione dell'ammonio nel ciclo dell'urea?",
+      "choices": [
+        "Il fumarato",
+        "L'aspartato",
+        "Il carbamoil fosfato",
+        "L'alfa-chetoglutarato",
+        "Il malato"
+      ],
+      "answer": 2,
+      "explain": "L'ammonio viene incorporato nel carbamoil fosfato, sintetizzato nei mitocondri dalla carbamoil fosfato sintetasi I. Fumarato, aspartato e malato intervengono più avanti nel ciclo o in altre vie, non come primo prodotto.",
+      "slide": 61
+    },
+    {
+      "id": "d04-b07-q007",
+      "q": "Quale enzima mitocondriale catalizza la sintesi del carbamoil fosfato a partire da ammonio e bicarbonato?",
+      "choices": [
+        "L'arginasi",
+        "L'ornitina transcarbamoilasi",
+        "L'argininosuccinasi",
+        "La carbamoil fosfato sintetasi I",
+        "L'aspartato aminotransferasi"
+      ],
+      "answer": 3,
+      "explain": "La carbamoil fosfato sintetasi I catalizza la reazione tra ammonio, bicarbonato e ATP che produce carbamoil fosfato nel mitocondrio. L'arginasi e l'ornitina transcarbamoilasi agiscono su altri substrati, più avanti nel ciclo.",
+      "slide": 61
+    },
+    {
+      "id": "d04-b07-q008",
+      "q": "Da quali due fonti provengono i due atomi di azoto presenti nella molecola di urea?",
+      "choices": [
+        "Dalla glutammina e dal glutammato",
+        "Dall'ammonio libero e dall'aspartato",
+        "Dalla glicina e dalla serina",
+        "Dall'alanina e dal piruvato",
+        "Dall'urea stessa e dal fumarato"
+      ],
+      "answer": 1,
+      "explain": "L'urea contiene due atomi di azoto: uno deriva dall'ammonio libero attraverso il carbamoil fosfato e l'altro dall'aspartato. Glutammina, glicina e alanina possono trasportare azoto nel sangue, ma non sono le due fonti dirette degli atomi dell'urea.",
+      "slide": 61
+    },
+    {
+      "id": "d04-b07-q009",
+      "q": "Quale aminoacido viene convertito in citrullina dal trasferimento del carbamoil fosfato?",
+      "choices": [
+        "L'ornitina",
+        "L'arginina",
+        "La lisina",
+        "Il triptofano",
+        "La valina"
+      ],
+      "answer": 0,
+      "explain": "L'ornitina transcarbamoilasi trasferisce il carbamoil fosfato sull'ornitina formando citrullina nel mitocondrio. Arginina, lisina e triptofano non sono substrati di questa reazione.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q010",
+      "q": "Nel citosol, con quale composto condensa la citrullina per formare l'argininosuccinato?",
+      "choices": [
+        "Con il glutammato",
+        "Con la glutammina",
+        "Con l'alanina",
+        "Con la glicina",
+        "Con l'aspartato"
+      ],
+      "answer": 4,
+      "explain": "Nel citosol la citrullina condensa con l'aspartato, grazie all'argininosuccinato sintetasi, formando argininosuccinato. Il glutammato e la glutammina sono donatori di azoto in altre reazioni, ma non in questa tappa.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q011",
+      "q": "In quali due prodotti viene scisso l'argininosuccinato dall'argininosuccinasi?",
+      "choices": [
+        "Ornitina e carbamoil fosfato",
+        "Citrullina e aspartato",
+        "Arginina e fumarato",
+        "Urea e malato",
+        "Arginina e ossalacetato"
+      ],
+      "answer": 2,
+      "explain": "L'argininosuccinasi scinde l'argininosuccinato in arginina e fumarato; l'arginina è poi il precursore diretto dell'urea. Ornitina e carbamoil fosfato appartengono a tappe precedenti, mentre malato e ossalacetato non sono i prodotti di questa scissione.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q012",
+      "q": "Quale enzima idrolizza l'arginina liberando urea e rigenerando l'ornitina?",
+      "choices": [
+        "La carbamoil fosfato sintetasi I",
+        "L'argininosuccinato sintetasi",
+        "L'ornitina transcarbamoilasi",
+        "L'arginasi",
+        "La fumarasi"
+      ],
+      "answer": 3,
+      "explain": "L'arginasi è l'enzima che idrolizza l'arginina in urea e ornitina, chiudendo il ciclo. La carbamoil fosfato sintetasi I e l'ornitina transcarbamoilasi operano all'inizio del ciclo, non sull'arginina.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q013",
+      "q": "Quale destino metabolico può avere il fumarato prodotto dalla scissione dell'argininosuccinato?",
+      "choices": [
+        "Può essere convertito direttamente in glucosio senza altre reazioni",
+        "Può entrare nel ciclo di Krebs e contribuire alla gluconeogenesi",
+        "Può essere escreto tal quale nelle urine",
+        "Può essere trasformato in urea",
+        "Può essere utilizzato per sintetizzare acidi grassi essenziali"
+      ],
+      "answer": 1,
+      "explain": "Il fumarato liberato può entrare nel ciclo di Krebs e alimentare la gluconeogenesi epatica. Non viene escreto tal quale nelle urine, non viene trasformato in urea e non è un precursore degli acidi grassi essenziali.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q014",
+      "q": "Quale ruolo svolge l'ornitina all'interno del ciclo dell'urea?",
+      "choices": [
+        "È il prodotto finale eliminato con le urine",
+        "È l'enzima che idrolizza l'arginina",
+        "È la fonte del secondo atomo di azoto dell'urea",
+        "È il precursore diretto del carbamoil fosfato",
+        "È il trasportatore su cui si costruisce l'urea, rigenerato a ogni giro"
+      ],
+      "answer": 4,
+      "explain": "L'ornitina funge da trasportatore: riceve il carbamoil fosfato, viene trasformata in citrullina e alla fine è rigenerata dall'arginasi, senza essere consumata. Non è un prodotto finale né la fonte del secondo azoto dell'urea, che proviene dall'aspartato.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q015",
+      "q": "Quale molecola attiva la carbamoil fosfato sintetasi I segnalando la disponibilità di acetil-CoA e glutammato?",
+      "choices": [
+        "L'N-acetilglutammato",
+        "L'ATP",
+        "Il citrato",
+        "Il malonil-CoA",
+        "L'acetilcarnitina"
+      ],
+      "answer": 0,
+      "explain": "L'N-acetilglutammato è l'attivatore allosterico essenziale della carbamoil fosfato sintetasi I e segnala la disponibilità di acetil-CoA e glutammato. ATP e citrato non svolgono questo ruolo, e il malonil-CoA appartiene alla sintesi degli acidi grassi.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q016",
+      "q": "Quale sequenza riporta correttamente l'ordine dei principali intermedi del ciclo dell'urea?",
+      "choices": [
+        "Ornitina, arginina, citrullina, argininosuccinato, urea",
+        "Citrullina, ornitina, argininosuccinato, arginina, urea",
+        "Ornitina, citrullina, argininosuccinato, arginina, urea",
+        "Arginina, citrullina, ornitina, argininosuccinato, urea",
+        "Urea, arginina, citrullina, ornitina, argininosuccinato"
+      ],
+      "answer": 2,
+      "explain": "La sequenza corretta è ornitina, citrullina, argininosuccinato, arginina e infine urea, con rigenerazione dell'ornitina. Le altre sequenze invertono tappe chiave, per esempio ponendo l'arginina prima della citrullina.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q017",
+      "q": "Quale enzima del ciclo dell'urea è localizzato nel mitocondrio insieme alla carbamoil fosfato sintetasi I?",
+      "choices": [
+        "L'arginasi e l'argininosuccinasi",
+        "L'ornitina transcarbamoilasi",
+        "L'argininosuccinato sintetasi",
+        "La fumarasi",
+        "Nessun enzima, perché tutte le reazioni avvengono nel citosol"
+      ],
+      "answer": 1,
+      "explain": "Nel mitocondrio operano la carbamoil fosfato sintetasi I e l'ornitina transcarbamoilasi, mentre argininosuccinato sintetasi, argininosuccinasi e arginasi sono citosoliche. Non è quindi vero che tutte le reazioni del ciclo avvengono nel citosol.",
+      "slide": 62
+    },
+    {
+      "id": "d04-b07-q018",
+      "q": "Una volta sintetizzata nel fegato, quale percorso segue l'urea per essere eliminata dall'organismo?",
+      "choices": [
+        "Viene escreta direttamente nella bile",
+        "Viene trasformata in acido urico nel fegato",
+        "Viene degradata nei polmoni ed espirata come ammonio",
+        "Viene immagazzinata nei mitocondri epatici",
+        "Passa nel sangue, raggiunge il rene e viene escreta con le urine"
+      ],
+      "answer": 4,
+      "explain": "L'urea è un composto neutro e idrosolubile che dal fegato passa nel sangue, raggiunge il rene e viene escreta con le urine. Non viene eliminata con la bile né degradata nei polmoni.",
+      "slide": 63
+    },
+    {
+      "id": "d04-b07-q019",
+      "q": "Quale organo provvede all'escrezione dell'urea prodotta dal fegato?",
+      "choices": [
+        "Il rene",
+        "Il fegato stesso, attraverso la bile",
+        "Il polmone",
+        "L'intestino crasso",
+        "La cute"
+      ],
+      "answer": 0,
+      "explain": "Il rene filtra l'urea dal sangue e la elimina con le urine, completando il percorso iniziato nel fegato. La bile trasporta altri prodotti del catabolismo, come la bilirubina, non l'urea.",
+      "slide": 63
+    },
+    {
+      "id": "d04-b07-q020",
+      "q": "Un aumento dell'azotemia, cioè della concentrazione di urea nel sangue, può riflettere quale situazione?",
+      "choices": [
+        "Un aumento della sintesi di acidi grassi",
+        "Una ridotta escrezione renale di urea",
+        "Un eccesso di vitamina B12",
+        "Un'eccessiva escrezione renale di urea",
+        "Un aumento della sintesi di tetraidrofolato"
+      ],
+      "answer": 1,
+      "explain": "L'azotemia aumenta quando la produzione di urea supera la capacità di escrezione renale, come accade in caso di ridotta funzione del rene. Un'eccessiva escrezione renale di urea, al contrario, tenderebbe a ridurre l'azotemia.",
+      "slide": 63
+    },
+    {
+      "id": "d04-b07-q021",
+      "q": "In quali condizioni aumenta l'attività del ciclo dell'urea?",
+      "choices": [
+        "Dopo un pasto ricco di carboidrati e dopo un breve riposo",
+        "Dopo un apporto di proteine e dopo un digiuno prolungato",
+        "Solo durante l'esercizio fisico intenso e breve",
+        "Solo in caso di dieta ipoproteica",
+        "Solo dopo l'assunzione di vitamina B12"
+      ],
+      "answer": 1,
+      "explain": "Il ciclo dell'urea si attiva sia dopo un abbondante apporto proteico, per smaltire gli aminoacidi in eccesso, sia dopo un digiuno prolungato, quando gli aminoacidi muscolari vengono usati a scopo energetico e gluconeogenetico. Una dieta ipoproteica non lo stimola.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q022",
+      "q": "Perché il digiuno prolungato aumenta la produzione di urea?",
+      "choices": [
+        "Perché gli aminoacidi muscolari vengono usati a scopo energetico e gluconeogenetico, liberando azoto",
+        "Perché aumenta la sintesi di acidi grassi nel tessuto adiposo",
+        "Perché il rene smette di filtrare l'urea",
+        "Perché diminuisce la degradazione delle proteine muscolari",
+        "Perché il fegato cessa di produrre glucosio"
+      ],
+      "answer": 0,
+      "explain": "Nel digiuno prolungato le proteine muscolari vengono degradate per produrre glucosio ed energia, liberando azoto che il fegato deve eliminare come urea. Non è un aumento della sintesi di acidi grassi a spiegare il fenomeno.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q023",
+      "q": "Di quanto possono aumentare gli enzimi del ciclo dell'urea in seguito a una dieta iperproteica o al digiuno?",
+      "choices": [
+        "Di circa la metà",
+        "Di circa il doppio",
+        "Di circa cinque volte",
+        "Da dieci a venti volte",
+        "Di circa cento volte"
+      ],
+      "answer": 3,
+      "explain": "Una dieta iperproteica e il digiuno inducono gli enzimi del ciclo dell'urea da dieci a venti volte, aumentando la capacità epatica di smaltire azoto. Aumenti modesti come il doppio o cinque volte sottostimano l'entità dell'induzione.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q024",
+      "q": "Su quale fattore si basa principalmente la regolazione del ciclo dell'urea?",
+      "choices": [
+        "Sulla disponibilità di substrato",
+        "Sulla concentrazione di insulina",
+        "Sulla temperatura corporea",
+        "Sul pH urinario",
+        "Sulla disponibilità di vitamina C"
+      ],
+      "answer": 0,
+      "explain": "La regolazione del ciclo dell'urea si basa soprattutto sulla disponibilità di substrato, cioè sulla quantità di ammonio e di aspartato che arriva al fegato. Insulina, temperatura e pH urinario non sono i fattori regolatori principali.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q025",
+      "q": "Quale conseguenza metabolica ha l'induzione degli enzimi del ciclo dell'urea durante una dieta iperproteica?",
+      "choices": [
+        "Una minore degradazione degli aminoacidi",
+        "Un aumento della sintesi proteica muscolare",
+        "Una riduzione dell'azoto da smaltire",
+        "Un accumulo tossico di ammonio",
+        "Una maggiore capacità di convertire in urea l'azoto in eccesso"
+      ],
+      "answer": 4,
+      "explain": "L'induzione enzimatica potenzia la capacità del fegato di convertire in urea l'azoto in eccesso, evitando l'accumulo di ammonio. Non riduce la degradazione degli aminoacidi né aumenta la sintesi proteica muscolare.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q026",
+      "q": "Perché una dieta iperproteica determina un aumento dell'azoto da eliminare?",
+      "choices": [
+        "Perché le proteine contengono azoto che, degradato l'aminoacido, deve essere smaltito",
+        "Perché le proteine contengono fosforo in eccesso",
+        "Perché le proteine stimolano la sintesi degli acidi nucleici",
+        "Perché le proteine inibiscono il ciclo di Krebs",
+        "Perché le proteine aumentano l'escrezione renale di glucosio"
+      ],
+      "answer": 0,
+      "explain": "Le proteine contengono azoto: quando gli aminoacidi in eccesso vengono degradati, il gruppo amminico libera ammonio che deve essere smaltito come urea. È il contenuto di azoto, non quello di fosforo, il motivo dell'aumentata produzione di urea.",
+      "slide": 64
+    },
+    {
+      "id": "d04-b07-q027",
+      "q": "Quali vitamine sono indicate come particolarmente importanti nel metabolismo degli aminoacidi?",
+      "choices": [
+        "La vitamina C e la vitamina D",
+        "L'acido folico e la vitamina B12",
+        "La vitamina A e la vitamina E",
+        "La vitamina K e la tiamina",
+        "La riboflavina e la niacina"
+      ],
+      "answer": 1,
+      "explain": "Nel metabolismo degli aminoacidi sono particolarmente importanti l'acido folico, o vitamina B9, e la vitamina B12, coinvolte nel trasferimento di unità monocarboniose e in reazioni di metilazione. Vitamine liposolubili come A, D, E e K non hanno questo ruolo specifico.",
+      "slide": 65
+    },
+    {
+      "id": "d04-b07-q028",
+      "q": "Quale metallo è contenuto nella vitamina B12 e ne è essenziale per l'attività?",
+      "choices": [
+        "Il ferro",
+        "Il rame",
+        "Lo zinco",
+        "Il magnesio",
+        "Il cobalto"
+      ],
+      "answer": 4,
+      "explain": "La vitamina B12, o cobalamina, contiene cobalto, elemento essenziale per la sua attività coenzimatica. Ferro, rame e zinco sono coinvolti in altre funzioni, ma non sono il metallo caratteristico della cobalamina.",
+      "slide": 65
+    },
+    {
+      "id": "d04-b07-q029",
+      "q": "Una carenza combinata di acido folico e vitamina B12 compromette principalmente quale processo?",
+      "choices": [
+        "La sintesi del DNA e la divisione cellulare",
+        "La sintesi degli acidi grassi saturi",
+        "Il trasporto dell'ossigeno nell'emoglobina",
+        "La coagulazione del sangue",
+        "La mineralizzazione dell'osso"
+      ],
+      "answer": 0,
+      "explain": "Folato e vitamina B12 sono necessari per la sintesi dei nucleotidi e quindi del DNA, perciò la loro carenza compromette la divisione cellulare e provoca anemia megaloblastica. Non riguarda invece la sintesi degli acidi grassi o la coagulazione.",
+      "slide": 65
+    },
+    {
+      "id": "d04-b07-q030",
+      "q": "Con quale altro nome chimico è noto l'acido folico?",
+      "choices": [
+        "Piridossalfosfato",
+        "Cianocobalamina",
+        "Pteroilglutammato",
+        "Tiamina pirofosfato",
+        "Acido pantotenico"
+      ],
+      "answer": 2,
+      "explain": "L'acido folico è anche chiamato pteroilglutammato, nome che riflette la struttura formata da pteridina, acido p-aminobenzoico e glutammato. Piridossalfosfato e cianocobalamina sono le forme attive di altre vitamine, rispettivamente B6 e B12.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q031",
+      "q": "Quale caratteristica distingue l'acido folico riguardo alla sua sintesi?",
+      "choices": [
+        "È sintetizzato in grandi quantità dall'uomo",
+        "È sintetizzato soltanto dal rene",
+        "È sintetizzato soltanto dal muscolo scheletrico",
+        "È sintetizzato dai batteri, mentre l'uomo deve assumerlo con la dieta",
+        "È sintetizzato esclusivamente dai globuli rossi"
+      ],
+      "answer": 3,
+      "explain": "L'acido folico è sintetizzato solo dai batteri; l'uomo, come gli altri organismi superiori, deve assumerlo con la dieta. Non è quindi prodotto in quantità utili dal fegato, dal rene o dal muscolo.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q032",
+      "q": "Da quale parola latina deriva il nome acido folico e per quale motivo?",
+      "choices": [
+        "Da folium, per la sua presenza nei semi oleosi",
+        "Da folia, foglia, per la sua abbondanza nelle verdure a foglia verde",
+        "Da folliculus, per la sua azione sui follicoli piliferi",
+        "Da follis, per la sua consistenza gassosa",
+        "Da focus, per la sua capacità di concentrare i raggi solari"
+      ],
+      "answer": 1,
+      "explain": "Il nome deriva dal latino folia, foglia, per l'abbondanza della vitamina nelle verdure a foglia verde come gli spinaci. Le altre etimologie proposte non corrispondono all'origine reale del termine.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q033",
+      "q": "Oltre che nelle verdure a foglia verde, dove si trova largamente l'acido folico?",
+      "choices": [
+        "Soltanto nei grassi di origine animale",
+        "Soltanto nelle bevande alcoliche",
+        "Soltanto nei dolcificanti artificiali",
+        "Soltanto nell'olio di oliva",
+        "Negli alimenti animali come fegato e carni e in cereali, verdure e frutta"
+      ],
+      "answer": 4,
+      "explain": "Oltre alle verdure a foglia verde, l'acido folico è largamente presente negli alimenti animali, come fegato e carni, e in cereali, verdure e frutta. Non è confinato ai grassi animali né all'olio di oliva.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q034",
+      "q": "Quale quota di acido folico può essere fornita dalla flora intestinale?",
+      "choices": [
+        "Una piccola quota",
+        "La totalità del fabbisogno",
+        "Circa la metà del fabbisogno",
+        "Nessuna quota",
+        "Una quota pari al doppio del fabbisogno"
+      ],
+      "answer": 0,
+      "explain": "Una piccola quota del fabbisogno di folato può essere fornita dalla flora intestinale, ma la maggior parte deve arrivare dalla dieta. La flora da sola non copre la totalità o la metà del fabbisogno.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q035",
+      "q": "Quale forma attiva e ridotta dell'acido folico funziona come coenzima nel trasferimento di unità monocarboniose?",
+      "choices": [
+        "L'acido pteroico",
+        "L'acido p-aminobenzoico",
+        "La 6-metilpterina",
+        "Il tetraidrofolato",
+        "Il glutammato libero"
+      ],
+      "answer": 3,
+      "explain": "Il tetraidrofolato, forma ridotta dell'acido folico, è il coenzima attivo che trasporta unità monocarboniose. Acido pteroico, acido p-aminobenzoico e 6-metilpterina sono componenti strutturali della molecola, non la forma coenzimatica attiva.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q036",
+      "q": "Da quali componenti strutturali è formato l'acido pteroico?",
+      "choices": [
+        "Da glutammato e cisteina",
+        "Da pteridina e adenina",
+        "Da 6-metilpterina e acido p-aminobenzoico",
+        "Da due molecole di glutammato",
+        "Da ribosio e nicotinammide"
+      ],
+      "answer": 2,
+      "explain": "L'acido pteroico è formato da 6-metilpterina e acido p-aminobenzoico; l'aggiunta di glutammato produce l'acido pteroilglutammico, cioè l'acido folico. Glutammato e cisteina oppure pteridina e adenina non descrivono correttamente questa struttura.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q037",
+      "q": "Che tipo di reazioni catalizzano i coenzimi derivati dal tetraidrofolato?",
+      "choices": [
+        "Trasferimenti di elettroni dalla flavina",
+        "Fosforilazioni a livello di substrato",
+        "Decarbossilazioni ossidative",
+        "Trasferimenti di gruppi monocarboniosi e sintesi di basi azotate",
+        "Idrolisi dei trigliceridi"
+      ],
+      "answer": 3,
+      "explain": "I coenzimi derivati dal tetraidrofolato trasferiscono unità monocarboniose e sono indispensabili per la sintesi delle basi azotate e di alcuni aminoacidi. Non partecipano a trasferimenti di elettroni, decarbossilazioni ossidative o idrolisi dei trigliceridi.",
+      "slide": 66
+    },
+    {
+      "id": "d04-b07-q038",
+      "q": "Perché il fabbisogno di folato aumenta durante la gravidanza?",
+      "choices": [
+        "Perché è necessario alla crescita del feto",
+        "Perché la madre perde folato con il latte",
+        "Perché il folato viene distrutto dagli ormoni della gravidanza",
+        "Perché aumenta l'escrezione renale di ferro",
+        "Perché il feto lo trasforma in vitamina B12"
+      ],
+      "answer": 0,
+      "explain": "In gravidanza la richiesta di folato aumenta perché la vitamina è necessaria per la crescita del feto e per la rapida moltiplicazione cellulare. La perdita con il latte riguarda piuttosto l'allattamento e non è il motivo indicato.",
+      "slide": 67
+    },
+    {
+      "id": "d04-b07-q039",
+      "q": "Quale difetto congenito può essere prevenuto dalla somministrazione di folato nelle prime settimane di gravidanza?",
+      "choices": [
+        "La fibrosi cistica",
+        "L'anemia falciforme",
+        "La fenilchetonuria",
+        "L'emofilia",
+        "La spina bifida e altri difetti del tubo neurale"
+      ],
+      "answer": 4,
+      "explain": "Un adeguato apporto di folato nelle prime settimane di gravidanza previene la spina bifida e altri difetti di chiusura del tubo neurale. Fibrosi cistica, anemia falciforme e fenilchetonuria hanno basi genetiche diverse e non sono prevenute dal folato.",
+      "slide": 67
+    },
+    {
+      "id": "d04-b07-q040",
+      "q": "Quale problema pratico rende difficile la prevenzione con folato dei difetti del tubo neurale?",
+      "choices": [
+        "Il folato è tossico in gravidanza",
+        "Il folato non attraversa la placenta",
+        "Spesso la madre non sa ancora di essere incinta nel periodo critico",
+        "Il folato è disponibile soltanto in formulazioni iniettabili",
+        "Il folato aumenta il rischio di parto pretermine"
+      ],
+      "answer": 2,
+      "explain": "Il tubo neurale si chiude nelle prime settimane di gravidanza, quando spesso la donna non sa ancora di essere incinta e quindi non ha iniziato l'integrazione. Il folato non è tossico in gravidanza e attraversa la placenta, per cui queste non sono le difficoltà reali.",
+      "slide": 67
+    },
+    {
+      "id": "d04-b07-q041",
+      "q": "Quale struttura embrionale è coinvolta nei difetti prevenibili con l'acido folico?",
+      "choices": [
+        "Il tubo digerente",
+        "Il tubo neurale",
+        "Il dotto di Botallo",
+        "Il setto interventricolare",
+        "Il dotto deferente"
+      ],
+      "answer": 1,
+      "explain": "I difetti prevenibili con il folato riguardano la chiusura del tubo neurale, da cui derivano la spina bifida e l'anencefalia. Il tubo digerente e le altre strutture elencate non sono coinvolte in questo specifico gruppo di malformazioni.",
+      "slide": 67
+    },
+    {
+      "id": "d04-b07-q042",
+      "q": "In quale periodo della gravidanza è più importante garantire un adeguato apporto di folato?",
+      "choices": [
+        "Nell'ultimo trimestre",
+        "Durante il travaglio",
+        "Nel puerperio",
+        "Nelle prime settimane di gravidanza",
+        "Soltanto dopo la nascita del bambino"
+      ],
+      "answer": 3,
+      "explain": "Il periodo critico è quello delle prime settimane di gravidanza, quando avviene la chiusura del tubo neurale. L'ultimo trimestre, il travaglio e il puerperio sono troppo tardivi per questa prevenzione.",
+      "slide": 67
+    },
+    {
+      "id": "d04-b07-q043",
+      "q": "Quale dei seguenti aminoacidi è essenziale nell'adulto?",
+      "choices": [
+        "La leucina",
+        "L'alanina",
+        "L'asparagina",
+        "La serina",
+        "Il glutammato"
+      ],
+      "answer": 0,
+      "explain": "La leucina è un aminoacido essenziale e deve essere assunta con la dieta. Alanina, asparagina, serina e glutammato sono invece sintetizzabili dall'organismo e quindi non essenziali.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q044",
+      "q": "Quale dei seguenti aminoacidi non è essenziale nell'adulto?",
+      "choices": [
+        "La lisina",
+        "La metionina",
+        "Il triptofano",
+        "La valina",
+        "La glicina"
+      ],
+      "answer": 4,
+      "explain": "La glicina è un aminoacido non essenziale, perché l'organismo la produce autonomamente. Lisina, metionina, triptofano e valina sono tutti essenziali e devono provenire dalla dieta.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q045",
+      "q": "Quali aminoacidi sono considerati essenziali soltanto nei primi anni di vita?",
+      "choices": [
+        "La leucina e la valina",
+        "La fenilalanina e la metionina",
+        "L'arginina e la cisteina",
+        "La lisina e il triptofano",
+        "La serina e la prolina"
+      ],
+      "answer": 2,
+      "explain": "Arginina e cisteina sono contrassegnate come essenziali nei primi anni di vita, quando le vie biosintetiche non sono ancora pienamente mature. Leucina, valina, fenilalanina e metionina sono essenziali per tutta la vita, non soltanto nell'infanzia.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q046",
+      "q": "A partire da quale aminoacido essenziale viene sintetizzata la tirosina?",
+      "choices": [
+        "Dalla metionina",
+        "Dalla fenilalanina",
+        "Dal triptofano",
+        "Dalla lisina",
+        "Dalla treonina"
+      ],
+      "answer": 1,
+      "explain": "La tirosina è sintetizzata a partire dalla fenilalanina, aminoacido essenziale, attraverso l'idrossilazione catalizzata dalla fenilalanina idrossilasi. Metionina, triptofano, lisina e treonina non sono i suoi precursori.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q047",
+      "q": "A partire da quale aminoacido essenziale viene sintetizzata la cisteina?",
+      "choices": [
+        "Dalla fenilalanina",
+        "Dalla valina",
+        "Dall'isoleucina",
+        "Dalla metionina",
+        "Dall'istidina"
+      ],
+      "answer": 3,
+      "explain": "La cisteina deriva dalla metionina, aminoacido essenziale, attraverso la via della transulfurazione. La fenilalanina è invece il precursore della tirosina, non della cisteina.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q048",
+      "q": "Quale dei seguenti gruppi contiene soltanto aminoacidi essenziali?",
+      "choices": [
+        "Lisina, metionina e triptofano",
+        "Alanina, glicina e serina",
+        "Aspartato, glutammato e glutammina",
+        "Prolina, asparagina e tirosina",
+        "Arginina, cisteina e alanina"
+      ],
+      "answer": 0,
+      "explain": "Lisina, metionina e triptofano sono tutti aminoacidi essenziali. Gli altri gruppi contengono almeno un aminoacido non essenziale, come alanina, glicina, serina, aspartato o glutammato.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q049",
+      "q": "Quanti aminoacidi sono elencati come essenziali nell'adulto?",
+      "choices": [
+        "Cinque",
+        "Sei",
+        "Otto",
+        "Nove",
+        "Dodici"
+      ],
+      "answer": 3,
+      "explain": "Nell'adulto gli aminoacidi essenziali elencati sono nove: istidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptofano e valina. Arginina e cisteina sono essenziali soltanto nei primi anni di vita e non rientrano in questo conteggio.",
+      "slide": 68
+    },
+    {
+      "id": "d04-b07-q050",
+      "q": "Quale dei seguenti aminoacidi è classificato come non essenziale?",
+      "choices": [
+        "L'istidina",
+        "La treonina",
+        "La prolina",
+        "Il triptofano",
+        "La lisina"
+      ],
+      "answer": 2,
+      "explain": "La prolina è classificata tra gli aminoacidi non essenziali, perché l'organismo può sintetizzarla. Istidina, treonina, triptofano e lisina sono invece essenziali e vanno introdotti con la dieta.",
+      "slide": 68
+    }
+  ]
+}

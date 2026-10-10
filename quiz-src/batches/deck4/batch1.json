@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 1,
+  "topic": "Digestione degli steroidi e assorbimento dei lipidi",
+  "questions": [
+    {
+      "id": "d04-b01-q001",
+      "q": "In quale tratto dell'apparato digerente avviene la maggior parte della digestione dei lipidi della dieta?",
+      "choices": [
+        "Nell'intestino tenue, per azione della lipasi pancreatica e dei sali biliari",
+        "Nello stomaco, per azione della lipasi gastrica sui trigliceridi a catena corta",
+        "Nel colon, per fermentazione batterica dei grassi non assorbiti",
+        "Nel fegato, per azione della bile che idrolizza i trigliceridi alimentari",
+        "Nell'esofago, per azione della lipasi salivare sui trigliceridi del bolo"
+      ],
+      "answer": 0,
+      "explain": "La digestione dei lipidi avviene soprattutto nell'intestino tenue, dove agiscono la lipasi pancreatica e gli altri enzimi pancreatici in presenza dei sali biliari. Nello stomaco l'azione lipolitica è trascurabile e il fegato non è una sede di digestione ma di produzione della bile. Il colon interviene soprattutto sull'assorbimento di acqua e non completa la digestione dei grassi.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q002",
+      "q": "Quale abbinamento tra ormone e azione sul metabolismo lipidico è corretto?",
+      "choices": [
+        "Insulina: stimola la lipolisi nel tessuto adiposo",
+        "Glucagone: inibisce la lipolisi nel tessuto adiposo",
+        "Adrenalina: favorisce la lipogenesi epatica",
+        "Insulina: favorisce la lipogenesi e il deposito di trigliceridi",
+        "Glucagone: inibisce la beta-ossidazione degli acidi grassi"
+      ],
+      "answer": 3,
+      "explain": "L'insulina è l'ormone anabolico per eccellenza: promuove la lipogenesi e l'accumulo di trigliceridi nel tessuto adiposo e inibisce la lipolisi. Glucagone e adrenalina hanno azione opposta, cioè stimolano la lipolisi e la beta-ossidazione per rendere disponibili acidi grassi ed energia. Per questo le alternative che attribuiscono all'insulina la stimolazione della lipolisi o al glucagone l'inibizione della lipolisi sono errate.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q003",
+      "q": "In quale compartimento cellulare si svolge principalmente la beta-ossidazione degli acidi grassi?",
+      "choices": [
+        "Nel citosol",
+        "Nella matrice mitocondriale",
+        "Nel reticolo endoplasmatico liscio",
+        "Nel nucleo",
+        "Nel lisosoma"
+      ],
+      "answer": 1,
+      "explain": "La beta-ossidazione avviene nella matrice mitocondriale, dove gli acidi grassi attivati entrano come acil-carnitina e vengono ossidati ad acetil-CoA. Il citosol ospita invece la sintesi degli acidi grassi, non la loro degradazione ossidativa. Lisosomi, nucleo e reticolo endoplasmatico liscio non contengono la catena enzimatica della beta-ossidazione.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q004",
+      "q": "Dove avviene principalmente la sintesi degli acidi grassi (lipogenesi) a partire dal glucosio?",
+      "choices": [
+        "Nella matrice mitocondriale",
+        "Nello spazio intermembrana mitocondriale",
+        "Nel lisosoma",
+        "Nel nucleo",
+        "Nel citosol"
+      ],
+      "answer": 4,
+      "explain": "La lipogenesi si svolge nel citosol, dove l'acetil-CoA viene carbossilato dall'acetil-CoA carbossilasi e la sintasi degli acidi grassi allunga la catena con unità a due atomi di carbonio. La matrice mitocondriale è invece la sede della beta-ossidazione, cioè del processo opposto. Questa separazione compartimentale permette di regolare in modo indipendente sintesi e degradazione.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q005",
+      "q": "Che cosa esprime il valore della trigliceridemia?",
+      "choices": [
+        "La quantità di colesterolo esterificato nel sangue",
+        "La concentrazione di glucosio a digiuno",
+        "La concentrazione dei trigliceridi nel sangue",
+        "La quota di acidi biliari nel plasma",
+        "La concentrazione dei fosfolipidi di membrana"
+      ],
+      "answer": 2,
+      "explain": "La trigliceridemia è la concentrazione dei trigliceridi circolanti nel sangue, trasportati soprattutto da chilomicroni e VLDL. Non va confusa con la colesterolemia, che misura il colesterolo plasmatico, né con la glicemia. Il dosaggio si esegue di norma su un campione di sangue a digiuno per limitare l'interferenza dei chilomicroni di origine alimentare.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q006",
+      "q": "Che cosa si intende per lipolisi?",
+      "choices": [
+        "L'idrolisi dei trigliceridi in acidi grassi e glicerolo",
+        "La sintesi dei trigliceridi dal glucosio nel tessuto adiposo",
+        "L'ossidazione degli acidi grassi ad acetil-CoA nei mitocondri",
+        "La conversione del colesterolo in acidi biliari nel fegato",
+        "Il trasporto dei lipidi da parte delle lipoproteine plasmatiche"
+      ],
+      "answer": 0,
+      "explain": "La lipolisi è la scissione idrolitica dei trigliceridi in acidi grassi liberi e glicerolo, catalizzata dalle lipasi del tessuto adiposo. La sintesi dei trigliceridi è invece la lipogenesi, mentre l'ossidazione degli acidi grassi ad acetil-CoA è la beta-ossidazione. Confondere lipolisi e beta-ossidazione è l'errore più frequente: la prima mobilita i grassi, la seconda li degrada a fini energetici.",
+      "slide": 2
+    },
+    {
+      "id": "d04-b01-q007",
+      "q": "Quale molecola è il precursore comune degli acidi biliari e degli ormoni steroidei?",
+      "choices": [
+        "L'acetil-CoA",
+        "Il glucosio",
+        "Il glicerolo",
+        "Il colesterolo",
+        "Il piruvato"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo è il precursore degli acidi biliari, degli ormoni steroidei e della vitamina D. L'acetil-CoA è la molecola di partenza per la sintesi del colesterolo stesso, ma non è il precursore diretto degli steroidi. Il glucosio e il glicerolo appartengono al metabolismo glucidico e lipidico di base e non vengono convertiti in steroidi.",
+      "slide": 3
+    },
+    {
+      "id": "d04-b01-q008",
+      "q": "Quale enzima rappresenta il passo limitante della sintesi endogena del colesterolo?",
+      "choices": [
+        "L'acetil-CoA carbossilasi",
+        "L'HMG-CoA reduttasi",
+        "La lipasi ormono-sensibile",
+        "La lipoproteina lipasi",
+        "La colesterolo aciltransferasi"
+      ],
+      "answer": 1,
+      "explain": "L'HMG-CoA reduttasi catalizza la riduzione dell'HMG-CoA a mevalonato ed è l'enzima limitante della sintesi del colesterolo. L'acetil-CoA carbossilasi è l'enzima limitante della sintesi degli acidi grassi, non degli steroli. La lipoproteina lipasi e la lipasi ormono-sensibile agiscono sul catabolismo dei trigliceridi e non sulla sintesi del colesterolo.",
+      "slide": 3
+    },
+    {
+      "id": "d04-b01-q009",
+      "q": "Da quale molecola provengono prevalentemente le unità carboniose utilizzate per la sintesi del colesterolo?",
+      "choices": [
+        "Dal glucosio-6-fosfato",
+        "Dal glicerolo-3-fosfato",
+        "Dall'ossaloacetato",
+        "Dal malonil-CoA",
+        "Dall'acetil-CoA"
+      ],
+      "answer": 4,
+      "explain": "Tutte le unità carboniose del colesterolo derivano dall'acetil-CoA, che nell'ambiente cellulare è fornito soprattutto dal catabolismo dei carboidrati e degli acidi grassi. Il malonil-CoA è il donatore a due carboni della sintesi degli acidi grassi, non della sintesi degli steroli. Il glicerolo-3-fosfato partecipa alla formazione dei trigliceridi e non fornisce carboni al nucleo steroideo.",
+      "slide": 3
+    },
+    {
+      "id": "d04-b01-q010",
+      "q": "Per quale ragione il colesterolo non può essere catabolizzato dall'organismo umano?",
+      "choices": [
+        "Perché l'uomo non possiede enzimi capaci di aprire l'anello steroideo",
+        "Perché il colesterolo è troppo idrofilo per essere ossidato",
+        "Perché non viene mai trasportato nel fegato",
+        "Perché è privo di atomi di carbonio ossidabili",
+        "Perché viene completamente perso con le feci senza trasformazioni"
+      ],
+      "answer": 0,
+      "explain": "Il colesterolo non può essere degradato a CO2 e acqua perché l'uomo non dispone di enzimi in grado di scindere il nucleo steroideo a quattro anelli. Deve quindi essere escreto come tale nella bile oppure convertito in acidi biliari, che vengono poi eliminati. L'ultima alternativa è sbagliata perché il colesterolo va incontro a trasformazioni metaboliche prima dell'escrezione e non viene eliminato soltanto in forma immodificata.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q011",
+      "q": "La quota maggiore del colesterolo utilizzato dall'organismo viene convertita in quale prodotto?",
+      "choices": [
+        "Ormoni steroidei",
+        "Vitamina D",
+        "Componenti delle membrane cellulari",
+        "Acidi biliari",
+        "Sali minerali"
+      ],
+      "answer": 3,
+      "explain": "La maggior parte del colesterolo che viene trasformato è destinata alla sintesi degli acidi biliari, circa 400 mg al giorno. La produzione di ormoni steroidei ne utilizza una quota molto minore, circa 50 mg al giorno. La vitamina D e i componenti di membrana derivano dal colesterolo ma non rappresentano la via quantitativamente dominante.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q012",
+      "q": "Quanti milligrammi al giorno di colesterolo sono convertiti in acidi biliari?",
+      "choices": [
+        "50 mg",
+        "400 mg",
+        "300 mg",
+        "450 mg",
+        "800 mg"
+      ],
+      "answer": 1,
+      "explain": "Circa 400 mg al giorno di colesterolo vengono convertiti in acidi biliari, che rappresentano la principale via di eliminazione dello sterolo. I 50 mg corrispondono alla quota destinata agli ormoni steroidei e i 450 mg a quella eliminata nell'intestino come colesterolo. Gli 800 mg indicano invece la quantità di colesterolo prodotta ogni giorno dall'organismo.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q013",
+      "q": "Quanti milligrammi al giorno di colesterolo sono destinati alla sintesi degli ormoni steroidei?",
+      "choices": [
+        "800 mg",
+        "400 mg",
+        "300 mg",
+        "450 mg",
+        "50 mg"
+      ],
+      "answer": 4,
+      "explain": "La sintesi degli ormoni steroidei assorbe circa 50 mg al giorno di colesterolo, una quota nettamente inferiore a quella destinata agli acidi biliari. I 400 mg riguardano la conversione in acidi biliari e i 450 mg l'eliminazione intestinale come colesterolo. Gli 800 mg sono invece la produzione endogena giornaliera complessiva.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q014",
+      "q": "Quanti milligrammi al giorno di colesterolo vengono eliminati nell'intestino in forma immodificata?",
+      "choices": [
+        "50 mg",
+        "300 mg",
+        "450 mg",
+        "400 mg",
+        "800 mg"
+      ],
+      "answer": 2,
+      "explain": "Circa 450 mg al giorno di colesterolo sono eliminati nell'intestino come colesterolo non trasformato, insieme alla quota escreta con la bile. I 400 mg si riferiscono invece agli acidi biliari e i 50 mg agli ormoni steroidei. Confondere questi valori porta a sottovalutare l'importanza della escrezione biliare del colesterolo.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q015",
+      "q": "Qual è il valore di riferimento del colesterolo assunto ogni giorno con la dieta?",
+      "choices": [
+        "Circa 300 mg",
+        "Circa 800 mg",
+        "Circa 400 mg",
+        "Circa 50 mg",
+        "Circa 450 mg"
+      ],
+      "answer": 0,
+      "explain": "La dieta fornisce in media circa 300 mg al giorno di colesterolo, a cui si aggiunge la produzione endogena. Gli 800 mg rappresentano invece il colesterolo sintetizzato dall'organismo in un giorno. La sintesi endogena è inversamente proporzionale all'apporto dietetico, per cui una dieta ricca di colesterolo tende a ridurre la produzione interna.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q016",
+      "q": "Quanti milligrammi al giorno di colesterolo sono prodotti dall'organismo umano?",
+      "choices": [
+        "Circa 50 mg",
+        "Circa 300 mg",
+        "Circa 450 mg",
+        "Circa 800 mg",
+        "Circa 1200 mg"
+      ],
+      "answer": 3,
+      "explain": "La sintesi endogena di colesterolo ammonta a circa 800 mg al giorno e avviene soprattutto nel fegato. A questa quota si aggiungono circa 300 mg introdotti con la dieta. La sintesi interna diminuisce quando aumenta l'apporto alimentare di colesterolo, grazie a un meccanismo di regolazione a feedback.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q017",
+      "q": "In che rapporto si trova la sintesi endogena di colesterolo rispetto all'assunzione dello sterolo con la dieta?",
+      "choices": [
+        "È direttamente proporzionale all'assunzione alimentare di sterolo",
+        "È inversamente proporzionale all'assunzione alimentare",
+        "È del tutto indipendente dall'assunzione alimentare di sterolo",
+        "Si annulla soltanto quando l'assunzione alimentare è nulla",
+        "Aumenta soltanto in caso di digiuno prolungato"
+      ],
+      "answer": 1,
+      "explain": "La sintesi endogena è inversamente proporzionale all'uptake dietetico: quando aumenta il colesterolo introdotto con gli alimenti, la produzione interna diminuisce per effetto della regolazione dell'HMG-CoA reduttasi. Il rapporto non è diretto, altrimenti una dieta ricca di colesterolo ne aumenterebbe ulteriormente la produzione. La sintesi non si annulla del tutto nemmeno con un apporto alimentare elevato.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q018",
+      "q": "Un farmaco che riduce l'assorbimento intestinale di colesterolo tende a produrre quale effetto sulla sintesi endogena?",
+      "choices": [
+        "La abolisce completamente",
+        "La riduce ulteriormente",
+        "Non la modifica in alcun modo",
+        "La rende indipendente dall'HMG-CoA reduttasi",
+        "La aumenta per compensazione"
+      ],
+      "answer": 4,
+      "explain": "Poiché la sintesi endogena è inversamente proporzionale all'apporto di colesterolo, la riduzione dell'assorbimento intestinale rimuove il segnale di inibizione e stimola la produzione interna. Per questo la sola inibizione dell'assorbimento è spesso meno efficace di quanto atteso e può essere associata a un inibitore della sintesi. L'ipotesi che la sintesi venga abolita del tutto è errata, perché il colesterolo resta indispensabile per le membrane e per gli acidi biliari.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q019",
+      "q": "Quale affermazione descrive correttamente il destino finale del colesterolo nell'uomo?",
+      "choices": [
+        "Viene ossidato completamente a CO2 e acqua nei mitocondri epatici",
+        "Viene degradato ad acetil-CoA dagli enzimi del fegato",
+        "Viene escreto come tale o convertito in acidi biliari",
+        "Viene eliminato soltanto per via renale come colesterolo libero",
+        "Viene trasformato in acidi grassi saturi nel tessuto adiposo"
+      ],
+      "answer": 2,
+      "explain": "Poiché non è catabolizzabile, il colesterolo viene escreto in forma immodificata con la bile oppure convertito in acidi biliari, che rappresentano la principale via di eliminazione. Non può essere ossidato a CO2 e acqua né degradato ad acetil-CoA, perché il nucleo steroideo non è scindibile nell'uomo. La via renale è marginale, dato che il colesterolo è praticamente insolubile in acqua.",
+      "slide": 4
+    },
+    {
+      "id": "d04-b01-q020",
+      "q": "In quale forma si trova la maggior parte del colesterolo introdotto con la dieta?",
+      "choices": [
+        "In forma libera",
+        "Legato alle proteine plasmatiche",
+        "Come acido biliare",
+        "Come estere con acidi grassi",
+        "Come sale di calcio"
+      ],
+      "answer": 3,
+      "explain": "Circa due terzi del colesterolo della dieta è esterificato, cioè legato covalentemente a un acido grasso. Solo la quota restante, intorno al 30%, è presente in forma libera. Il colesterolo alimentare non è legato alle proteine plasmatiche né si trova come acido biliare, che è un prodotto del metabolismo epatico.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q021",
+      "q": "Quale percentuale del colesterolo della dieta è presente in forma libera?",
+      "choices": [
+        "Circa il 30%",
+        "Circa il 70%",
+        "Circa il 2%",
+        "Circa il 50%",
+        "Circa il 90%"
+      ],
+      "answer": 0,
+      "explain": "Circa il 30% del colesterolo alimentare è libero, mentre il rimanente è esterificato con acidi grassi. Il valore vicino al 70% corrisponde proprio alla frazione esterificata e non a quella libera. Ricordare questa proporzione è importante perché solo il colesterolo libero, dopo l'idrolisi degli esteri, può essere assorbito.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q022",
+      "q": "Con quale tipo di acidi grassi il colesterolo della dieta è prevalentemente esterificato?",
+      "choices": [
+        "Con acidi grassi saturi a catena lunga",
+        "Con acidi grassi insaturi",
+        "Con acidi grassi a catena ramificata",
+        "Con acidi grassi a numero dispari di carboni",
+        "Con acidi grassi trans di sintesi industriale"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo alimentare è esterificato soprattutto con acidi grassi insaturi, più abbondanti nei lipidi di origine vegetale. Non vi è una prevalenza di acidi grassi saturi, ramificati o trans. Questo dato ha rilevanza nutrizionale perché il tipo di acido grasso esterificante influenza le proprietà fisiche del lipide alimentare.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q023",
+      "q": "Che cosa significa che una molecola di colesterolo è esterificata?",
+      "choices": [
+        "Che ha perso l'anello steroideo per ossidazione",
+        "Che è legata a una proteina di trasporto plasmatica",
+        "Che è stata ossidata a un chetone in posizione 3",
+        "Che è stata convertita in acido biliare nel fegato",
+        "Che il suo ossidrile è legato a un acido grasso"
+      ],
+      "answer": 4,
+      "explain": "L'esterificazione del colesterolo consiste nella formazione di un legame estere tra il gruppo ossidrilico in posizione 3 e il carbossile di un acido grasso. Si forma così un colesteril-estere, più apolare del colesterolo libero. Non comporta perdita dell'anello steroideo né conversione in acido biliare, processi che avvengono per altre vie metaboliche.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q024",
+      "q": "Quale enzima idrolizza gli esteri del colesterolo nel lume intestinale?",
+      "choices": [
+        "La lipasi ormono-sensibile",
+        "La lipoproteina lipasi",
+        "La colesterolo esterasi pancreatica",
+        "L'HMG-CoA reduttasi",
+        "L'acetil-CoA colesterolo aciltransferasi"
+      ],
+      "answer": 2,
+      "explain": "La colesterolo esterasi pancreatica, secreta nel succo pancreatico, idrolizza gli esteri del colesterolo liberando colesterolo libero e acidi grassi. La lipoproteina lipasi agisce invece sui trigliceridi delle lipoproteine nei capillari, e la lipasi ormono-sensibile sui trigliceridi del tessuto adiposo. L'HMG-CoA reduttasi è un enzima della sintesi del colesterolo e non ha funzione digestiva.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q025",
+      "q": "Per poter essere assorbito, il colesterolo esterificato deve prima andare incontro a quale trasformazione?",
+      "choices": [
+        "Idrolisi del legame estere con liberazione di colesterolo",
+        "Ossidazione dell'anello steroideo da parte degli enzimi epatici",
+        "Conversione in acido biliare all'interno dell'enterocita",
+        "Legame con una lipoproteina plasmatica nel lume intestinale",
+        "Fosforilazione del gruppo ossidrilico in posizione 3"
+      ],
+      "answer": 0,
+      "explain": "Gli esteri del colesterolo devono essere idrolizzati dalla colesterolo esterasi pancreatica per liberare colesterolo libero, che è la forma assorbibile dall'enterocita. L'anello steroideo non può essere ossidato dall'uomo e la conversione in acido biliare avviene nel fegato, non nel lume intestinale. Il legame con le lipoproteine avviene dopo l'assorbimento e non prima.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q026",
+      "q": "Per quale motivo il colesterolo esterificato è più idrofobico del colesterolo libero?",
+      "choices": [
+        "Perché possiede un anello steroideo aggiuntivo",
+        "Perché è del tutto privo di atomi di ossigeno",
+        "Perché è legato a una proteina carrier idrofobica del plasma",
+        "Perché il suo ossidrile è bloccato dal legame estere",
+        "Perché contiene una catena di zuccheri polari"
+      ],
+      "answer": 3,
+      "explain": "L'esterificazione blocca il gruppo ossidrilico libero del colesterolo, che è la porzione più polare della molecola, rendendo lo sterolo ancora meno solubile in acqua. Il colesterolo esterificato non possiede anelli aggiuntivi né catene glucidiche. Questa maggiore idrofobicità spiega perché gli esteri debbano essere idrolizzati prima dell'assorbimento e perché vengano trasportati all'interno delle lipoproteine.",
+      "slide": 5
+    },
+    {
+      "id": "d04-b01-q027",
+      "q": "In quale organo avviene principalmente la digestione degli steroidi introdotti con la dieta?",
+      "choices": [
+        "Nel fegato, dove la bile scinde gli esteri degli steroli",
+        "Nello stomaco, dove l'acidità gastrica idrolizza gli steroli",
+        "Nell'intestino, dove agiscono gli enzimi pancreatici",
+        "Nel rene, dove gli steroli vengono filtrati e idrolizzati",
+        "Nel polmone, dove gli steroli sono ossidati dagli pneumociti"
+      ],
+      "answer": 2,
+      "explain": "La digestione degli steroidi, come quella degli altri lipidi, si svolge nell'intestino, dove giungono la bile e gli enzimi pancreatici. Il fegato produce la bile e metabolizza il colesterolo, ma non è la sede della digestione intestinale. Lo stomaco ha un ruolo digestivo trascurabile sui lipidi e rene e polmone non partecipano alla digestione.",
+      "slide": 6
+    },
+    {
+      "id": "d04-b01-q028",
+      "q": "In quale organo vengono sintetizzati i sali biliari a partire dal colesterolo?",
+      "choices": [
+        "Nel fegato",
+        "Nel pancreas",
+        "Nell'enterocita",
+        "Nel tessuto adiposo",
+        "Nel rene"
+      ],
+      "answer": 0,
+      "explain": "I sali biliari sono sintetizzati nel fegato a partire dal colesterolo, poi concentrati nella colecisti e riversati nell'intestino. Il pancreas produce gli enzimi digestivi ma non sintetizza sali biliari, e l'enterocita li riassorbe con il circolo enteroepatico. Il tessuto adiposo e il rene non sono sedi di sintesi di acidi biliari.",
+      "slide": 6
+    },
+    {
+      "id": "d04-b01-q029",
+      "q": "Quale struttura permette ai prodotti della digestione lipidica di diffondere nel mezzo acquoso intestinale?",
+      "choices": [
+        "Il chilomicrone, che si forma nell'enterocita dopo l'assorbimento",
+        "La lipoproteina a bassa densità, che cede colesterolo ai tessuti",
+        "L'albumina plasmatica, che lega gli acidi grassi nel sangue",
+        "Il glicogeno, che mantiene i lipidi in sospensione acquosa",
+        "La micella di sali biliari, che ospita i lipidi apolari"
+      ],
+      "answer": 4,
+      "explain": "I sali biliari formano micelle, aggregati anfipatici che ospitano al proprio interno i prodotti apolari della digestione e ne consentono il trasporto attraverso il contenuto acquoso dell'intestino fino all'orlo a spazzola. Il chilomicrone si forma invece dentro l'enterocita e non nel lume. Albumina, lipoproteine a bassa densità e glicogeno non hanno alcun ruolo nell'emulsione intestinale dei lipidi.",
+      "slide": 6
+    },
+    {
+      "id": "d04-b01-q030",
+      "q": "Qual è il ruolo della colecisti nella digestione dei lipidi?",
+      "choices": [
+        "Secerne la lipasi pancreatica nel duodeno durante il pasto",
+        "Concentra la bile e la libera nel duodeno dopo il pasto",
+        "Sintetizza gli acidi biliari a partire dal colesterolo",
+        "Assorbe gli acidi grassi liberi nel circolo linfatico",
+        "Forma i chilomicroni a partire dai lipidi assorbiti"
+      ],
+      "answer": 1,
+      "explain": "La colecisti immagazzina la bile prodotta dal fegato e la concentra, per poi riversarla nel duodeno in risposta al pasto. La sintesi degli acidi biliari avviene nel fegato e non nella colecisti, mentre la lipasi pancreatica è di origine pancreatica. L'assorbimento dei lipidi e la formazione dei chilomicroni sono compiti dell'enterocita.",
+      "slide": 6
+    },
+    {
+      "id": "d04-b01-q031",
+      "q": "Quale quota dei lipidi della dieta è rappresentata dai trigliceridi?",
+      "choices": [
+        "Circa l'80-90%",
+        "Circa il 7-10%",
+        "Circa il 2-4%",
+        "Circa l'1-2%",
+        "Circa il 2-3%"
+      ],
+      "answer": 0,
+      "explain": "I trigliceridi costituiscono la frazione largamente prevalente dei lipidi alimentari, intorno all'80-90%. Le percentuali minori corrispondono ai fosfolipidi, al colesterolo libero ed esterificato e alle proteine associate. Questa prevalenza spiega perché la lipasi pancreatica, che idrolizza i trigliceridi, sia l'enzima digestivo quantitativamente più importante.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q032",
+      "q": "Quale percentuale dei lipidi della dieta è costituita da fosfolipidi?",
+      "choices": [
+        "Circa l'80-90%",
+        "Circa l'1-2%",
+        "Circa il 2-3%",
+        "Circa il 7-10%",
+        "Circa il 30%"
+      ],
+      "answer": 3,
+      "explain": "I fosfolipidi rappresentano circa il 7-10% dei lipidi della dieta, una quota intermedia tra i trigliceridi, che dominano, e il colesterolo. Vengono idrolizzati dalla fosfolipasi A2 pancreatica, che distacca un acido grasso dalla posizione 2 del glicerofosfolipide. La quota dell'1-2% riguarda invece il colesterolo libero.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q033",
+      "q": "Quale percentuale dei lipidi della dieta è rappresentata dal colesterolo libero?",
+      "choices": [
+        "Circa il 2-4%",
+        "Circa l'1-2%",
+        "Circa il 7-10%",
+        "Circa l'80-90%",
+        "Circa il 30%"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo libero costituisce solo l'1-2% dei lipidi della dieta, mentre il colesterolo esterificato ne rappresenta il 2-4%. Si tratta quindi di una frazione molto piccola rispetto ai trigliceridi. Nonostante la quota ridotta, il colesterolo è metabolicamente rilevante perché non può essere degradato dall'organismo.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q034",
+      "q": "Quale percentuale dei lipidi della dieta è costituita da colesterolo esterificato?",
+      "choices": [
+        "Circa l'1-2%",
+        "Circa il 7-10%",
+        "Circa il 30%",
+        "Circa l'80-90%",
+        "Circa il 2-4%"
+      ],
+      "answer": 4,
+      "explain": "Il colesterolo esterificato rappresenta circa il 2-4% dei lipidi della dieta, una quota leggermente superiore a quella del colesterolo libero. Deve essere idrolizzato prima dell'assorbimento, perché solo lo sterolo libero può entrare nell'enterocita. Le percentuali più alte elencate appartengono ai trigliceridi e ai fosfolipidi.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q035",
+      "q": "Quale percentuale dei lipidi della dieta è accompagnata da proteine?",
+      "choices": [
+        "Circa l'1-2%",
+        "Circa il 7-10%",
+        "Circa il 2-3%",
+        "Circa l'80-90%",
+        "Circa il 30%"
+      ],
+      "answer": 2,
+      "explain": "Una piccola quota, circa il 2-3%, dei lipidi alimentari è associata a proteine, che contribuiscono alla loro struttura e alla formazione delle lipoproteine. Si tratta di una frazione modesta rispetto ai trigliceridi, che dominano con l'80-90%. Le proteine diventano poi componenti essenziali dei chilomicroni assemblati nell'enterocita.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q036",
+      "q": "Attraverso quale via i lipidi assorbiti lasciano l'enterocita per raggiungere la circolazione?",
+      "choices": [
+        "Attraverso la vena porta",
+        "Attraverso i capillari sanguigni del villo",
+        "Attraverso il dotto pancreatico",
+        "Attraverso i vasi linfatici del villo",
+        "Attraverso la vena cava inferiore"
+      ],
+      "answer": 3,
+      "explain": "I lipidi assorbiti vengono assemblati in chilomicroni che lasciano l'enterocita attraverso i vasi linfatici del villo, detti vasi chiliferi, e raggiungono il dotto toracico prima di entrare nel sangue. Non passano direttamente nella vena porta, perché i chilomicroni sono troppo grandi per i capillari sanguigni intestinali. Questa via linfatica spiega perché i lipidi alimentari non attraversino subito il fegato.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q037",
+      "q": "Come raggiungono i prodotti della digestione lipidica l'orlo a spazzola dell'enterocita?",
+      "choices": [
+        "Legati all'albumina plasmatica del sangue",
+        "Dentro le micelle formate dai sali biliari",
+        "Come chilomicroni già assemblati nell'enterocita",
+        "Per endocitosi mediata dai recettori delle LDL",
+        "Per diffusione attraverso la vena porta"
+      ],
+      "answer": 1,
+      "explain": "Acidi grassi, monoacilglicerolo e colesterolo libero diffondono verso l'orlo a spazzola trasportati all'interno delle micelle di sali biliari, che li mantengono in sospensione acquosa. I chilomicroni si formano solo dopo l'ingresso dei lipidi nell'enterocita e l'albumina non interviene a livello intestinale. La vena porta non è la via di uscita dei lipidi assorbiti.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q038",
+      "q": "Che cosa avviene ai lipidi assorbiti all'interno dell'enterocita?",
+      "choices": [
+        "Vengono ossidati a CO2 per produrre energia",
+        "Vengono convertiti in acidi biliari",
+        "Vengono degradati a glucosio",
+        "Vengono eliminati direttamente nel sangue come acidi grassi liberi",
+        "Vengono ri-esterificati e assemblati in chilomicroni"
+      ],
+      "answer": 4,
+      "explain": "Nell'enterocita gli acidi grassi e il monoacilglicerolo vengono ri-esterificati a trigliceridi e il colesterolo libero viene riesterificato; il tutto viene poi assemblato in chilomicroni ricchi di apolipoproteine. Gli acidi grassi non vengono ossidati a scopo energetico nell'enterocita né convertiti in acidi biliari. L'uscita sotto forma di acidi grassi liberi nel sangue non è la via principale, perché i lipidi vengono veicolati nei chilomicroni.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q039",
+      "q": "Quale enzima pancreatico idrolizza i trigliceridi della dieta in acidi grassi e monoacilglicerolo?",
+      "choices": [
+        "La lipasi pancreatica",
+        "La colesterolo esterasi",
+        "La fosfolipasi A2",
+        "L'amilasi pancreatica",
+        "La tripsina"
+      ],
+      "answer": 0,
+      "explain": "La lipasi pancreatica scinde i trigliceridi liberando acidi grassi liberi e 2-monoacilglicerolo, che sono le forme assorbibili. La colesterolo esterasi idrolizza gli esteri del colesterolo e la fosfolipasi A2 i fosfolipidi, mentre amilasi e tripsina digeriscono rispettivamente carboidrati e proteine. Distinguere il substrato di ciascun enzima è essenziale per comprendere la digestione dei lipidi.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q040",
+      "q": "Su quali legami esterei del trigliceride agisce preferenzialmente la lipasi pancreatica?",
+      "choices": [
+        "Sul legame in posizione 2",
+        "Su tutti e tre i legami contemporaneamente",
+        "Sul legame tra glicerolo e acido fosforico",
+        "Sui legami in posizione 1 e 3",
+        "Sul legame peptidico della proteina associata"
+      ],
+      "answer": 3,
+      "explain": "La lipasi pancreatica idrolizza preferenzialmente i legami esterei in posizione 1 e 3 del trigliceride, lasciando il 2-monoacilglicerolo come prodotto principale. Non attacca la posizione 2, che viene successivamente utilizzata per la ri-esterificazione nell'enterocita. Il legame tra glicerolo e fosfato appartiene ai fosfolipidi ed è substrato della fosfolipasi, non della lipasi.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q041",
+      "q": "Qual è la funzione principale dei sali biliari nella digestione dei lipidi?",
+      "choices": [
+        "Idrolizzare i trigliceridi in acidi grassi e monogliceridi nel lume",
+        "Trasportare i lipidi assorbiti nel circolo linfatico dei villi",
+        "Emulsionare i grassi, aumentando la superficie per la lipasi",
+        "Neutralizzare l'acidità gastrica del chimo nel duodeno prossimale",
+        "Costituire la parte proteica dei chilomicroni assemblati"
+      ],
+      "answer": 2,
+      "explain": "I sali biliari sono molecole anfipatiche che emulsionano i grassi, suddividendoli in goccioline microscopiche e aumentando enormemente la superficie disponibile per l'azione della lipasi pancreatica. Non possiedono attività idrolitica, che è invece propria degli enzimi pancreatici. Il trasporto linfatico e la componente proteica dei chilomicroni dipendono da altre strutture.",
+      "slide": 7
+    },
+    {
+      "id": "d04-b01-q042",
+      "q": "Quale lipoproteina plasmatica trasporta il colesterolo di origine alimentare?",
+      "choices": [
+        "Le LDL, che distribuiscono colesterolo ai tessuti",
+        "I chilomicroni, che portano i lipidi della dieta",
+        "Le HDL, che riportano colesterolo al fegato",
+        "La VLDL, che veicola trigliceridi di origine epatica",
+        "L'albumina, che lega gli acidi grassi liberi"
+      ],
+      "answer": 1,
+      "explain": "I chilomicroni sono le lipoproteine che trasportano i lipidi della dieta, compreso il colesterolo, dall'intestino ai tessuti e al fegato. Le LDL e le HDL trasportano colesterolo di origine endogena nel plasma e la VLDL veicola soprattutto trigliceridi sintetizzati dal fegato. L'albumina lega gli acidi grassi liberi, ma non il colesterolo alimentare.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q043",
+      "q": "Oltre ai chilomicroni, quali lipoproteine trasportano il colesterolo nel plasma?",
+      "choices": [
+        "La VLDL e l'albumina",
+        "I remnant e l'albumina",
+        "Solo la VLDL",
+        "L'albumina e la transtiretina",
+        "Le LDL e le HDL"
+      ],
+      "answer": 4,
+      "explain": "Le lipoproteine che trasportano colesterolo, oltre ai chilomicroni, sono le LDL e le HDL: le prime distribuiscono il colesterolo ai tessuti periferici, le seconde lo riportano al fegato. L'albumina trasporta acidi grassi liberi e non è una lipoproteina, mentre la VLDL è specializzata soprattutto nel trasporto dei trigliceridi endogeni. La transtiretina è una proteina di trasporto degli ormoni tiroidei e non ha alcun ruolo nel trasporto del colesterolo.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q044",
+      "q": "Quale apolipoproteina è caratteristica dei chilomicroni?",
+      "choices": [
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina E",
+        "L'apolipoproteina B-48",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina B-100"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni contengono l'apolipoproteina B-48, sintetizzata nell'intestino, che ne costituisce la struttura portante. L'apolipoproteina B-100 è invece la principale apolipoproteina della VLDL e delle LDL. ApoA-I è tipica delle HDL, mentre ApoC-II e ApoE sono acquisite dai chilomicroni nel plasma e svolgono rispettivamente funzioni di attivazione enzimatica e di riconoscimento recettoriale.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q045",
+      "q": "Quale apolipoproteina permette il riconoscimento dei remnant dei chilomicroni da parte del fegato?",
+      "choices": [
+        "L'apolipoproteina E",
+        "L'apolipoproteina B-48",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina C-III",
+        "L'apolipoproteina D"
+      ],
+      "answer": 0,
+      "explain": "L'apolipoproteina E, acquisita dai chilomicroni nel plasma, è il ligando che consente ai remnant di essere riconosciuti e captati dai recettori epatici. L'apolipoproteina B-48 è la proteina strutturale del chilomicrone ma da sola non garantisce l'uptake epatico mediato da ApoE. L'apolipoproteina A-I appartiene alle HDL e l'apolipoproteina C-III modula l'attività della lipoproteina lipasi.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q046",
+      "q": "Quale lipoproteina è comunemente indicata come colesterolo cattivo?",
+      "choices": [
+        "Le HDL",
+        "I chilomicroni",
+        "La VLDL",
+        "Le LDL",
+        "L'albumina"
+      ],
+      "answer": 3,
+      "explain": "Le LDL sono chiamate colesterolo cattivo perché trasportano il colesterolo verso i tessuti periferici e, quando presenti in eccesso, favoriscono il deposito nella parete arteriosa. Le HDL sono considerate colesterolo buono per la loro funzione di trasporto inverso verso il fegato. I chilomicroni trasportano i lipidi della dieta e la VLDL soprattutto i trigliceridi endogeni.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q047",
+      "q": "Quale lipoproteina svolge il trasporto inverso del colesterolo dai tessuti al fegato?",
+      "choices": [
+        "Le LDL",
+        "Le HDL",
+        "La VLDL",
+        "I chilomicroni",
+        "I remnant dei chilomicroni"
+      ],
+      "answer": 1,
+      "explain": "Le HDL rimuovono il colesterolo in eccesso dai tessuti periferici e lo riportano al fegato, dove può essere eliminato come tale o convertito in acidi biliari. Le LDL svolgono il percorso opposto, cioè distribuiscono il colesterolo ai tessuti. VLDL, chilomicroni e remnant sono specializzati nel trasporto dei lipidi di origine epatica o intestinale.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q048",
+      "q": "In quale organo viene sintetizzata principalmente la VLDL?",
+      "choices": [
+        "Nell'intestino",
+        "Nel tessuto adiposo",
+        "Nel muscolo scheletrico",
+        "Nel rene",
+        "Nel fegato"
+      ],
+      "answer": 4,
+      "explain": "La VLDL è prodotta principalmente dal fegato e trasporta trigliceridi e colesterolo di origine endogena verso i tessuti periferici. I chilomicroni, che hanno funzione analoga per i lipidi della dieta, sono invece sintetizzati nell'intestino. Tessuto adiposo, muscolo e rene utilizzano i lipidi ma non producono VLDL in quantità significativa.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q049",
+      "q": "Quale enzima idrolizza i trigliceridi dei chilomicroni nei capillari dei tessuti?",
+      "choices": [
+        "La lipasi pancreatica",
+        "La lipasi ormono-sensibile",
+        "La colesterolo esterasi",
+        "La lipoproteina lipasi",
+        "L'acetil-CoA carbossilasi"
+      ],
+      "answer": 3,
+      "explain": "La lipoproteina lipasi, ancorata all'endotelio dei capillari, idrolizza i trigliceridi dei chilomicroni e delle VLDL liberando acidi grassi che i tessuti captano. La lipasi ormono-sensibile agisce invece sui trigliceridi depositati nel tessuto adiposo e la lipasi pancreatica nel lume intestinale. La colesterolo esterasi e l'acetil-CoA carbossilasi non hanno alcun ruolo nel catabolismo delle lipoproteine.",
+      "slide": 8
+    },
+    {
+      "id": "d04-b01-q050",
+      "q": "Quale tra le seguenti lipoproteine plasmatiche presenta la densità più bassa?",
+      "choices": [
+        "Le HDL, le più ricche di proteine",
+        "Le LDL, ricche di colesterolo e povere di trigliceridi",
+        "I chilomicroni, i più ricchi di trigliceridi",
+        "La VLDL, a prevalenza di trigliceridi endogeni",
+        "Le IDL, lipoproteine di densità intermedia"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni sono le lipoproteine con la densità più bassa, perché contengono la maggiore proporzione di lipidi e la minore di proteine. La densità aumenta passando da VLDL a IDL, LDL e infine HDL, che è la più ricca di proteine. Questa diversità di densità è proprio il criterio con cui le lipoproteine vengono classificate e separate.",
+      "slide": 8
+    }
+  ]
+}

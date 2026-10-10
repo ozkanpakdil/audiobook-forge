@@ -25,3 +25,15 @@ __pycache__/
 
 # Scratch directory each writer uses to check its own chapter in isolation
 books/*/content/.selfcheck/
+
+# Generated: the quiz rebalance work lists, rebuilt by make_rebalance_lists.py
+quiz-src/batches/*/*.rebalance.txt
+# Generated: the quiz browser self-test page
+quiz-src/test/selftest.html
+
+# Vision tool artifacts
+.dsh-vision-router/
+# Generated: quiz preview page and raw (uncleaned) PDF text
+quiz-src/test/preview.html
+quiz-src/extract/raw*.txt
+quiz-src/extract/p*.txt

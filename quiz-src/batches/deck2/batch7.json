@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 7,
+  "topic": "Metabolismo del glicogeno: glicogenosintesi e glicogenolisi",
+  "questions": [
+    {
+      "id": "d02-b07-q001",
+      "q": "Da quale monosaccaride è costituito il glicogeno?",
+      "choices": [
+        "α-glucosio",
+        "β-fruttosio",
+        "D-galattosio",
+        "D-ribosio",
+        "N-acetil-D-glucosammina"
+      ],
+      "answer": 0,
+      "explain": "Il glicogeno è il polisaccaride di riserva dell'organismo ed è formato esclusivamente da unità di α-glucosio unite fra loro da legami glicosidici. Il fruttosio e il galattosio sono monosaccaridi diversi che entrano nel metabolismo glucidico ma non costituiscono la catena del glicogeno, mentre la N-acetil-D-glucosammina appartiene ai glicosaminoglicani.",
+      "slide": 51
+    },
+    {
+      "id": "d02-b07-q002",
+      "q": "Quali legami glicosidici uniscono le unità di glucosio all'interno del glicogeno?",
+      "choices": [
+        "Legami β(1→4) e β(1→6), tipici della cellulosa",
+        "Legami α(1→2) e α(1→3), presenti in altri polisaccaridi",
+        "Legami α(1→4) e α(1→6), con ramificazioni",
+        "Legami α(1→4) e β(1→4), alternati",
+        "Soltanto legami α(1→4), senza ramificazioni"
+      ],
+      "answer": 2,
+      "explain": "Nel glicogeno le catene lineari sono tenute insieme da legami α(1→4), mentre i legami α(1→6) creano i punti di ramificazione. I legami β(1→4) sono tipici della cellulosa e l'opzione con soli legami α(1→4) descriverebbe una molecola priva di ramificazioni, come l'amilosio.",
+      "slide": 51
+    },
+    {
+      "id": "d02-b07-q003",
+      "q": "Che cosa rappresentano i legami α(1→6) nella molecola di glicogeno?",
+      "choices": [
+        "Il legame tra glucosio e fosfato inorganico",
+        "I punti di ramificazione della catena",
+        "I legami della catena lineare principale",
+        "Il legame tra il glicogeno e la proteina primer",
+        "Il legame tra unità di galattosio"
+      ],
+      "answer": 1,
+      "explain": "I legami α(1→6) uniscono l'estremità di una catena laterale a un'unità di glucosio della catena principale e costituiscono quindi i punti di ramificazione. I tratti lineari sono formati da legami α(1→4), mentre il legame con il primer proteico non è un legame glicosidico α(1→6).",
+      "slide": 51
+    },
+    {
+      "id": "d02-b07-q004",
+      "q": "Perché la struttura ramificata del glicogeno è vantaggiosa per la cellula?",
+      "choices": [
+        "Perché rende il polimero insolubile e stabile nel citoplasma",
+        "Perché impedisce all'acqua di entrare nella cellula per osmosi",
+        "Perché permette al glicogeno di legare il calcio del citosol",
+        "Perché offre molti estremi non riducenti su cui agiscono più enzimi",
+        "Perché consente al polimero di attraversare la membrana plasmatica"
+      ],
+      "answer": 3,
+      "explain": "Le ramificazioni generano numerosi estremi non riducenti e permettono a molte molecole di glicogeno fosforilasi di demolire il polimero nello stesso momento, accelerando il rilascio di glucosio. Il glicogeno non è insolubile né lega il calcio in modo significativo, e non può attraversare la membrana plasmatica.",
+      "slide": 51
+    },
+    {
+      "id": "d02-b07-q005",
+      "q": "Quale enzima demolisce il glicogeno staccando unità di glucosio già fosforilate?",
+      "choices": [
+        "L'α-amilasi salivare",
+        "La glicogeno sintasi",
+        "La fosfoglucomutasi",
+        "L'α-glucosidasi lisosomiale",
+        "La glicogeno fosforilasi"
+      ],
+      "answer": 4,
+      "explain": "La glicogeno fosforilasi attacca i legami α(1→4) e libera glucosio-1-fosfato, intrappolando così lo zucchero nella cellula. L'α-amilasi idrolizza invece l'amido alimentare liberando glucosio non fosforilato, mentre la glicogeno sintasi opera nella via opposta di sintesi.",
+      "slide": 52
+    },
+    {
+      "id": "d02-b07-q006",
+      "q": "Perché la fosforilazione del glucosio è importante durante la demolizione del glicogeno?",
+      "choices": [
+        "Perché il glucosio fosforilato è carico e non può uscire dalla cellula",
+        "Perché la fosforilazione produce direttamente ATP per la cellula",
+        "Perché il fosfato attiva l'α-amilasi intestinale nella digestione",
+        "Perché il glucosio fosforilato si comporta come un ormone sul fegato",
+        "Perché il glucosio fosforilato non può entrare nei mitocondri"
+      ],
+      "answer": 0,
+      "explain": "Il glucosio-1-fosfato formato dalla glicogeno fosforilasi porta un gruppo fosfato carico e non riesce ad attraversare la membrana plasmatica, quindi resta disponibile per la cellula. Il glucosio libero, al contrario, potrebbe diffondere all'esterno; la fosforilazione non genera ATP né conferisce al glucosio attività ormonale.",
+      "slide": 52
+    },
+    {
+      "id": "d02-b07-q007",
+      "q": "Dove viene assorbito il glucosio ottenuto dalla digestione dell'amido?",
+      "choices": [
+        "Dalla mucosa gastrica",
+        "Dalla mucosa intestinale",
+        "Dai tubuli renali",
+        "Dagli alveoli polmonari",
+        "Dalla midollare surrenale"
+      ],
+      "answer": 1,
+      "explain": "L'amido viene idrolizzato dall'amilasi e il glucosio che ne deriva viene assorbito dalla mucosa intestinale prima di passare nel sangue. La mucosa gastrica non assorbe glucosio in quantità rilevanti e gli altri distretti indicati non sono sedi di assorbimento dei carboidrati della dieta.",
+      "slide": 52
+    },
+    {
+      "id": "d02-b07-q008",
+      "q": "Quale differenza esiste tra l'azione dell'amilasi e quella della glicogeno fosforilasi?",
+      "choices": [
+        "L'amilasi agisce solo nel fegato e la fosforilasi solo nel muscolo",
+        "L'amilasi produce glucosio-1-fosfato e la fosforilasi glucosio libero",
+        "L'amilasi idrolizza l'amido a glucosio, la fosforilasi stacca glucosio-1-fosfato",
+        "La fosforilasi digerisce l'amido alimentare e l'amilasi demolisce il glicogeno",
+        "Le due attività sono identiche ma si svolgono in organi diversi"
+      ],
+      "answer": 2,
+      "explain": "L'amilasi scinde l'amido per idrolisi e libera glucosio destinato all'assorbimento intestinale, mentre la glicogeno fosforilasi opera una fosforolisi e produce glucosio-1-fosfato che rimane nella cellula. Non si tratta quindi della stessa attività svolta in organi diversi, e i prodotti delle due reazioni sono differenti.",
+      "slide": 52
+    },
+    {
+      "id": "d02-b07-q009",
+      "q": "Quale enzima è necessario per demolire i punti di ramificazione α(1→6) del glicogeno?",
+      "choices": [
+        "La glicogeno sintasi",
+        "L'enzima ramificante",
+        "La fosfoglucomutasi",
+        "L'enzima deramificante",
+        "La glucosio-6-fosfatasi"
+      ],
+      "answer": 3,
+      "explain": "La glicogeno fosforilasi non riesce ad aggirare i punti di ramificazione, che vengono rimossi dall'enzima deramificante con attività α(1→6)-glucosidasica. L'enzima ramificante opera invece nella sintesi, creando proprio quei legami α(1→6) che il deramificante deve poi eliminare.",
+      "slide": 52
+    },
+    {
+      "id": "d02-b07-q010",
+      "q": "Quale coenzima è richiesto dalla glicogeno fosforilasi per la sua attività?",
+      "choices": [
+        "Il coenzima A, coinvolto nel metabolismo degli acidi grassi",
+        "Il NAD+, che trasporta elettroni nelle ossidoriduzioni",
+        "La biotina, che partecipa alle reazioni di carbossilazione",
+        "Il tetraidrofolato, che trasferisce unità monocarboniose",
+        "Il piridossal fosfato, che assiste la scissione del legame α(1→4)"
+      ],
+      "answer": 4,
+      "explain": "La glicogeno fosforilasi utilizza il piridossal fosfato, noto come PALP, come gruppo prostetico che assiste la scissione fosforolitica del legame α(1→4). NAD+, coenzima A, biotina e tetraidrofolato partecipano ad altre reazioni metaboliche e non alla glicogenolisi.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q011",
+      "q": "Quale prodotto si forma quando la glicogeno fosforilasi stacca un'unità di glucosio dalla catena?",
+      "choices": [
+        "Glucosio libero",
+        "Glucosio-1-fosfato",
+        "Glucosio-6-fosfato",
+        "Fruttosio-1,6-bisfosfato",
+        "UDP-glucosio"
+      ],
+      "answer": 1,
+      "explain": "La reazione catalizzata dalla glicogeno fosforilasi è una fosforolisi e il prodotto immediato è il glucosio-1-fosfato. Il glucosio-6-fosfato deriva da una conversione successiva a opera della fosfoglucomutasi, mentre l'UDP-glucosio appartiene alla via biosintetica del glicogeno.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q012",
+      "q": "Da quale estremità della catena la glicogeno fosforilasi inizia a staccare le unità di glucosio?",
+      "choices": [
+        "Dall'estremità riducente",
+        "Dal punto di ramificazione α(1→6)",
+        "Dall'estremità non riducente",
+        "Dal centro della catena lineare",
+        "Dal legame con la proteina primer"
+      ],
+      "answer": 2,
+      "explain": "La glicogeno fosforilasi procede a partire dall'estremità non riducente e si allontana progressivamente dal punto di ramificazione. L'estremità riducente porta il carbonio anomerico libero e non è il sito di attacco dell'enzima, mentre i legami α(1→6) richiedono l'intervento dell'enzima deramificante.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q013",
+      "q": "Quale tipo di reazione chimica utilizza la glicogeno fosforilasi per scindere il legame α(1→4)?",
+      "choices": [
+        "Una fosforolisi, con inserimento di fosfato inorganico",
+        "Una idrolisi, con consumo di acqua",
+        "Una ossidazione, con trasferimento di elettroni al NAD+",
+        "Una decarbossilazione, con perdita di anidride carbonica",
+        "Una transaminazione, con trasferimento di un gruppo amminico"
+      ],
+      "answer": 0,
+      "explain": "Nella fosforolisi il fosfato inorganico attacca il legame glicosidico e il glucosio viene staccato già fosforilato sotto forma di glucosio-1-fosfato. L'idrolisi, tipica dell'amilasi, consumerebbe acqua liberando glucosio non fosforilato, mentre ossidazione, decarbossilazione e transaminazione sono reazioni di natura completamente diversa.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q014",
+      "q": "Quale conversione deve subire il glucosio-1-fosfato per entrare nella glicolisi?",
+      "choices": [
+        "Deve essere trasformato in fruttosio-6-fosfato da una fosfatasi",
+        "Deve essere idrolizzato a glucosio libero dalla fosforilasi",
+        "Deve essere attivato a UDP-glucosio dalla pirofosforilasi",
+        "Deve essere convertito in glucosio-6-fosfato dalla fosfoglucomutasi",
+        "Deve essere degradato ad acetil-coenzima A dalla piruvato deidrogenasi"
+      ],
+      "answer": 3,
+      "explain": "La fosfoglucomutasi sposta il gruppo fosfato dalla posizione uno alla posizione sei e trasforma il glucosio-1-fosfato in glucosio-6-fosfato, che può proseguire nella glicolisi. La formazione di UDP-glucosio appartiene invece alla sintesi del glicogeno, e la decarbossilazione ossidativa riguarda il piruvato e non un intermedio fosforilato dello zucchero.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q015",
+      "q": "In condizioni anaerobiche, quante molecole di ATP rende la glicolisi di una unità di glucosio proveniente dal glicogeno?",
+      "choices": [
+        "Nessuna molecola di ATP",
+        "Una sola molecola di ATP",
+        "Due molecole di ATP",
+        "Quattro molecole di ATP",
+        "Tre molecole di ATP"
+      ],
+      "answer": 4,
+      "explain": "Il glucosio staccato dal glicogeno entra nella glicolisi già fosforilato come glucosio-1-fosfato, quindi non consuma la molecola di ATP necessaria alla prima fosforilazione; il guadagno netto in anaerobiosi è così di tre ATP anziché due. Una sola molecola o nessuna sono valori troppo bassi, mentre quattro ATP supererebbero il bilancio possibile senza fosforilazione ossidativa.",
+      "slide": 53
+    },
+    {
+      "id": "d02-b07-q016",
+      "q": "Qual è il fabbisogno giornaliero di piridossina nell'adulto?",
+      "choices": [
+        "Meno di mezzo milligrammo al giorno",
+        "Tra cinque e sette milligrammi al giorno",
+        "Tra dieci e quindici milligrammi al giorno",
+        "Circa cento milligrammi al giorno",
+        "Tra uno e mezzo e due milligrammi al giorno"
+      ],
+      "answer": 4,
+      "explain": "Il fabbisogno di piridossina è di circa uno e mezzo-due milligrammi al giorno e aumenta quando l'apporto proteico è elevato, in gravidanza e durante l'allattamento. Le altre cifre proposte sono troppo basse o di ordini di grandezza troppo elevati rispetto al dato nutrizionale.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q017",
+      "q": "In quale condizione è più probabile osservare una carenza di piridossina?",
+      "choices": [
+        "In chi consuma abitualmente carne, uova e cereali",
+        "Nell'alcolismo cronico",
+        "In chi assume molte proteine",
+        "In chi pratica attività fisica intensa",
+        "In chi vive in ambienti freddi"
+      ],
+      "answer": 1,
+      "explain": "L'alcol compromette sia l'assorbimento intestinale sia il metabolismo epatico della piridossina e predispone quindi alla carenza, così come i disturbi da malassorbimento. Negli adulti sani la carenza è rara perché il fabbisogno è modesto, e una dieta ricca di carne, uova e cereali fornisce abbondante vitamina.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q018",
+      "q": "In quale organo la piridossina viene convertita prima in piridossina fosfato e poi in piridossal fosfato?",
+      "choices": [
+        "Nel rene",
+        "Nel muscolo scheletrico",
+        "Nel fegato",
+        "Nel tessuto adiposo",
+        "Nella mucosa bronchiale"
+      ],
+      "answer": 2,
+      "explain": "La conversione della piridossina nelle sue forme fosforilate attive avviene nel fegato, dove si forma dapprima il piridossina fosfato e successivamente il piridossal fosfato. Rene, muscolo, tessuto adiposo e mucosa bronchiale non sono le sedi principali di questa attivazione metabolica.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q019",
+      "q": "Oltre alla glicogeno fosforilasi, in quali reazioni il PALP agisce come coenzima?",
+      "choices": [
+        "Nelle reazioni della catena respiratoria",
+        "Nel trasporto degli acidi grassi nel sangue",
+        "Nella sintesi dei nucleotidi purinici",
+        "Nelle decarbossilazioni e nelle transaminazioni",
+        "Nel trasporto dell'ossigeno ematico"
+      ],
+      "answer": 3,
+      "explain": "Il PALP è un coenzima versatile e partecipa, oltre che alla glicogenolisi, a decarbossilazioni e transaminazioni, reazioni centrali del metabolismo degli aminoacidi. Non interviene nella catena respiratoria, nel trasporto degli acidi grassi o dell'ossigeno, che richiedono altri coenzimi e proteine.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q020",
+      "q": "Per quale meccanismo alcuni farmaci possono indurre carenza di vitamina B6?",
+      "choices": [
+        "Legandosi al gruppo aldeidico del piridossale",
+        "Aumentando l'escrezione urinaria del glucosio e dei folati",
+        "Bloccando la sintesi epatica del colesterolo",
+        "Stimolando la flora intestinale che consuma la vitamina",
+        "Inibendo l'assorbimento intestinale del ferro"
+      ],
+      "answer": 0,
+      "explain": "Molti farmaci si legano al gruppo aldeidico del piridossale o del PALP e ne impediscono così la funzione di coenzima, provocando una carenza funzionale di vitamina B6. La flora intestinale fornisce al contrario una piccola quota di vitamina, e gli altri meccanismi elencati non riguardano il metabolismo della piridossina.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q021",
+      "q": "In quali situazioni fisiologiche aumenta il fabbisogno di piridossina?",
+      "choices": [
+        "Durante il riposo notturno",
+        "In caso di dieta povera di proteine",
+        "In gravidanza e durante l'allattamento",
+        "Dopo una breve esposizione al sole",
+        "Nell'infanzia soltanto"
+      ],
+      "answer": 2,
+      "explain": "Il fabbisogno di piridossina cresce in gravidanza e durante l'allattamento, oltre che quando aumenta l'apporto proteico della dieta. Il riposo notturno e la riduzione delle proteine non aumentano la richiesta, e la carenza da piridossina è rara proprio perché il fabbisogno dell'adulto è basso.",
+      "slide": 54
+    },
+    {
+      "id": "d02-b07-q022",
+      "q": "Quale enzima catalizza la sintesi del glicogeno?",
+      "choices": [
+        "La glicogeno fosforilasi",
+        "L'α-amilasi",
+        "La fosfoglucomutasi",
+        "La glicogeno sintasi",
+        "La glucosio-6-fosfatasi"
+      ],
+      "answer": 3,
+      "explain": "La sintesi del glicogeno richiede la glicogeno sintasi, che allunga le catene trasferendo unità di glucosio attivate. La glicogeno fosforilasi catalizza la demolizione, l'α-amilasi digerisce l'amido alimentare e la glucosio-6-fosfatasi libera glucosio nel sangue.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q023",
+      "q": "Perché la glicogeno fosforilasi non riesce a sintetizzare glicogeno nelle condizioni intracellulari?",
+      "choices": [
+        "Perché la reazione inversa non procede e serve un enzima dedicato",
+        "Perché l'enzima è localizzato esclusivamente nei mitocondri",
+        "Perché nella cellula manca il coenzima PALP della fosforilasi",
+        "Perché il glicogeno è del tutto insolubile nel citoplasma",
+        "Perché l'enzima viene degradato dopo ogni reazione catalizzata"
+      ],
+      "answer": 0,
+      "explain": "Benché in condizioni sperimentali la glicogeno fosforilasi possa catalizzare anche la reazione inversa, nel citoplasma le condizioni non lo permettono e la sintesi richiede un enzima diverso, la glicogeno sintasi. Il PALP è normalmente presente nella cellula e la fosforilasi non viene distrutta dopo ogni singola reazione.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q024",
+      "q": "Quale percentuale di glicogeno è contenuta indicativamente nel fegato?",
+      "choices": [
+        "Meno dell'uno per cento",
+        "Tra l'uno e il due per cento",
+        "Tra il cinque e l'otto per cento",
+        "Tra il quindici e il venti per cento",
+        "Oltre il trenta per cento"
+      ],
+      "answer": 2,
+      "explain": "Nel fegato il glicogeno rappresenta circa il cinque-otto per cento della massa, mentre nel muscolo la percentuale scende all'uno-due per cento. Le percentuali più elevate proposte non corrispondono ai valori descritti e il muscolo, pur con una frazione minore, contiene oltre la metà del glicogeno corporeo grazie alla sua grande massa.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q025",
+      "q": "Quale tessuto contiene più della metà del glicogeno totale dell'organismo, pur avendone una percentuale inferiore a quella del fegato?",
+      "choices": [
+        "Il fegato, che ne ha la percentuale più alta",
+        "Il tessuto adiposo, che ne contiene una quota minima",
+        "Il cervello, che ne utilizza solo piccole quantità",
+        "Il muscolo scheletrico, che ne possiede la massa maggiore",
+        "Il rene, che ne immagazzina quantità trascurabili"
+      ],
+      "answer": 3,
+      "explain": "Il muscolo scheletrico contiene solo l'uno-due per cento di glicogeno, ma la sua massa è talmente estesa che vi si trova oltre la metà del glicogeno totale del corpo. Il fegato ha una percentuale più alta, cinque-otto per cento, ma una massa inferiore, mentre cervello, rene e tessuto adiposo ne immagazzinano quantità molto minori.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q026",
+      "q": "Quale nucleotide attivato fornisce l'unità di glucosio nella sintesi del glicogeno?",
+      "choices": [
+        "UDP-glucosio",
+        "ADP-glucosio",
+        "GDP-mannosio",
+        "CDP-colina",
+        "ATP-glucosio"
+      ],
+      "answer": 0,
+      "explain": "Nella glicogenosintesi il glucosio viene attivato come UDP-glucosio e la glicogeno sintasi trasferisce l'unità glucosidica all'estremità non riducente della catena. ADP-glucosio è il donatore utilizzato da piante e batteri, mentre GDP-mannosio e CDP-colina servono ad altre vie biosintetiche.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q027",
+      "q": "Quale legame forma la glicogeno sintasi allungando la catena di glicogeno?",
+      "choices": [
+        "Legame α(1→6), che crea le ramificazioni",
+        "Legame β(1→4), tipico della cellulosa",
+        "Legame α(1→2), tipico del saccarosio",
+        "Legame β(1→3), presente in alcuni polisaccaridi",
+        "Legame α(1→4), che allunga la catena lineare"
+      ],
+      "answer": 4,
+      "explain": "La glicogeno sintasi allunga la catena lineare aggiungendo unità di glucosio con legami α(1→4); i legami α(1→6) delle ramificazioni sono introdotti in un secondo momento dall'enzima ramificante. I legami β(1→4) e β(1→3) appartengono a polisaccaridi strutturali come la cellulosa e non al glicogeno.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q028",
+      "q": "Quale enzima introduce i punti di ramificazione α(1→6) nella molecola di glicogeno in via di sintesi?",
+      "choices": [
+        "La glicogeno sintasi",
+        "L'enzima ramificante",
+        "L'enzima deramificante",
+        "La glicogeno fosforilasi",
+        "La fosfoglucomutasi"
+      ],
+      "answer": 1,
+      "explain": "Dopo che la glicogeno sintasi ha allungato la catena con legami α(1→4), l'enzima ramificante trasferisce un segmento di catena creando un legame α(1→6). L'enzima deramificante svolge l'azione opposta durante la demolizione, mentre la glicogeno fosforilasi e la fosfoglucomutasi non formano ramificazioni.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q029",
+      "q": "In quali tessuti avviene la sintesi del glicogeno?",
+      "choices": [
+        "Soltanto nel fegato, dove la sintesi serve la glicemia",
+        "Soltanto nel muscolo scheletrico, dove serve la contrazione",
+        "Nel tessuto adiposo e nel polmone, ma non altrove",
+        "Nel rene e nella milza, che sarebbero le sedi principali",
+        "In tutti i tessuti, soprattutto nel fegato e nel muscolo"
+      ],
+      "answer": 4,
+      "explain": "La glicogenosintesi è presente in tutti i tessuti, ma è particolarmente attiva nel fegato e nel muscolo scheletrico, che rappresentano le principali sedi di accumulo. Limitarla al solo fegato o al solo muscolo è quindi scorretto, e tessuto adiposo, polmone, rene e milza non sono le sedi prevalenti di sintesi.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q030",
+      "q": "Come varia il contenuto di glicogeno nel fegato durante il digiuno?",
+      "choices": [
+        "Aumenta progressivamente per effetto dell'insulina",
+        "Diminuisce perché viene demolito per mantenere la glicemia",
+        "Rimane rigorosamente costante per tutta la giornata",
+        "Si azzera nel giro di pochi secondi",
+        "Aumenta perché il fegato sintetizza glucosio dal glicogeno"
+      ],
+      "answer": 1,
+      "explain": "Durante il digiuno il fegato mobilizza la propria riserva di glicogeno e cede glucosio al sangue, perciò il contenuto epatico diminuisce progressivamente. L'ultima opzione è contraddittoria, perché la produzione di glucosio deriva proprio dalla demolizione del glicogeno e non può accrescerne la quantità.",
+      "slide": 56
+    },
+    {
+      "id": "d02-b07-q031",
+      "q": "Quale funzione principale svolge il glicogeno accumulato nel fegato?",
+      "choices": [
+        "Fornire energia esclusivamente al muscolo scheletrico",
+        "Costituire una riserva di amminoacidi",
+        "Formare la parete cellulare degli epatociti",
+        "Mantenere la glicemia cedendo glucosio al sangue",
+        "Trasportare l'ossigeno ai tessuti"
+      ],
+      "answer": 3,
+      "explain": "Il glicogeno epatico rappresenta una riserva di glucosio prontamente mobilizzabile a vantaggio di tutto l'organismo e serve a mantenere stabile la glicemia, soprattutto tra i pasti. Il glicogeno muscolare è invece destinato al consumo locale, e le altre funzioni elencate non hanno relazione con questa riserva.",
+      "slide": 56
+    },
+    {
+      "id": "d02-b07-q032",
+      "q": "Perché il muscolo scheletrico non può cedere glucosio al sangue come fa il fegato?",
+      "choices": [
+        "Perché il muscolo non possiede la glucosio-6-fosfatasi",
+        "Perché il muscolo non contiene glicogeno di riserva",
+        "Perché il muscolo manca della glicogeno fosforilasi",
+        "Perché nel muscolo il glicogeno è di tipo β, non ramificato",
+        "Perché il muscolo non è irrorato dal sangue portale"
+      ],
+      "answer": 0,
+      "explain": "Il muscolo non dispone della glucosio-6-fosfatasi, l'enzima che rimuove il fosfato e permette al glucosio di uscire dalla cellula; il glucosio-6-fosfato resta quindi nel muscolo e viene utilizzato per la glicolisi locale. Il muscolo contiene glicogeno in quantità abbondante e possiede la glicogeno fosforilasi, quindi le altre spiegazioni sono errate.",
+      "slide": 56
+    },
+    {
+      "id": "d02-b07-q033",
+      "q": "Che cosa indica il termine glicemia?",
+      "choices": [
+        "La concentrazione di glucosio nel sangue",
+        "La quantità di glicogeno immagazzinata nel fegato",
+        "La concentrazione di insulina nel plasma",
+        "La quantità di glucosio eliminata con le urine nell'arco della giornata",
+        "La velocità di sintesi del glicogeno muscolare"
+      ],
+      "answer": 0,
+      "explain": "La glicemia è la concentrazione di glucosio presente nel sangue ed è uno dei parametri più finemente regolati dell'organismo. Non va confusa con il contenuto epatico di glicogeno né con l'insulinemia, che sono grandezze diverse pur essendo strettamente legate al metabolismo glucidico.",
+      "slide": 59
+    },
+    {
+      "id": "d02-b07-q034",
+      "q": "Perché è importante mantenere la glicemia entro i valori normali?",
+      "choices": [
+        "Per aumentare la massa muscolare durante l'esercizio",
+        "Per prevenire le complicanze dell'iperglicemia e dell'ipoglicemia",
+        "Per ridurre il fabbisogno di vitamina B6 nell'adulto",
+        "Per favorire l'assorbimento intestinale del ferro",
+        "Per diminuire la produzione di urina durante il digiuno"
+      ],
+      "answer": 1,
+      "explain": "Sia il glucosio troppo elevato sia quello troppo basso provocano complicanze, e per questo l'organismo mantiene la glicemia entro un intervallo ristretto. Massa muscolare, fabbisogno vitaminico, assorbimento del ferro e diuresi non sono le ragioni del controllo glicemico.",
+      "slide": 59
+    },
+    {
+      "id": "d02-b07-q035",
+      "q": "Quale condizione corrisponde a valori di glicemia inferiori alla norma?",
+      "choices": [
+        "Iperglicemia",
+        "Glicosuria",
+        "Ipoglicemia",
+        "Chetoacidosi",
+        "Insulinoresistenza"
+      ],
+      "answer": 2,
+      "explain": "L'ipoglicemia è la condizione in cui la concentrazione di glucosio nel sangue scende al di sotto dei valori normali. L'iperglicemia indica il contrario, la glicosuria è la presenza di glucosio nelle urine e chetoacidosi e insulinoresistenza sono condizioni diverse, non semplici definizioni di glicemia bassa.",
+      "slide": 59
+    },
+    {
+      "id": "d02-b07-q036",
+      "q": "Quali valori di glicemia a digiuno sono considerati normali?",
+      "choices": [
+        "Tra trenta e cinquanta mg/dl",
+        "Tra cinquanta e sessantanove mg/dl",
+        "Tra cento e centoventi mg/dl",
+        "Tra centoquaranta e centosessanta mg/dl",
+        "Tra settanta e novantanove mg/dl"
+      ],
+      "answer": 4,
+      "explain": "A digiuno la glicemia normale è compresa tra settanta e novantanove milligrammi per decilitro. Valori inferiori a settanta fanno sospettare un'ipoglicemia, mentre valori ripetutamente superiori a novantanove richiedono approfondimento; le altre fasce proposte non corrispondono all'intervallo di normalità.",
+      "slide": 63
+    },
+    {
+      "id": "d02-b07-q037",
+      "q": "Quale valore di glicemia è considerato normale due ore dopo l'assunzione di una soluzione di glucosio?",
+      "choices": [
+        "Inferiore a settanta mg/dl",
+        "Compreso tra settanta e novantanove mg/dl",
+        "Compreso tra centoquaranta e duecento mg/dl",
+        "Inferiore a centoquaranta mg/dl",
+        "Superiore a duecento mg/dl"
+      ],
+      "answer": 3,
+      "explain": "Nel test da carico di glucosio la glicemia misurata due ore dopo l'assunzione deve rimanere al di sotto di centoquaranta milligrammi per decilitro. L'intervallo settanta-novantanove si riferisce invece al digiuno, mentre valori pari o superiori a centoquaranta indicano una ridotta tolleranza al glucosio.",
+      "slide": 60
+    },
+    {
+      "id": "d02-b07-q038",
+      "q": "Come si chiama l'esame che misura la glicemia dopo la somministrazione di una soluzione di glucosio?",
+      "choices": [
+        "Test di tolleranza all'insulina",
+        "Test da carico di glucosio",
+        "Curva glicemica del digiuno prolungato",
+        "Test di escrezione urinaria del glucosio",
+        "Prova di stimolazione con glucagone"
+      ],
+      "answer": 1,
+      "explain": "Il test da carico di glucosio consiste nel somministrare una soluzione glucosata e nel misurare la glicemia a distanza di tempo, di norma dopo due ore. Il test di tolleranza all'insulina, la ricerca del glucosio nelle urine e la prova con glucagone sono indagini diverse, con scopi e modalità differenti.",
+      "slide": 60
+    },
+    {
+      "id": "d02-b07-q039",
+      "q": "Su quale proteina primer inizia la sintesi della catena di glicogeno?",
+      "choices": [
+        "Sulla glicogenina",
+        "Sull'albumina",
+        "Sull'actina",
+        "Sulla calmodulina",
+        "Sulla protamina"
+      ],
+      "answer": 0,
+      "explain": "Nella glicogenosintesi le prime unità di glucosio vengono assemblate su una proteina specifica, la glicogenina, che funge da primer per l'azione della glicogeno sintasi. Albumina, actina, calmodulina e protamina svolgono funzioni del tutto diverse e non costituiscono il supporto della catena nascente.",
+      "slide": 55
+    },
+    {
+      "id": "d02-b07-q040",
+      "q": "A che cosa serve la determinazione del glucosio nel sangue?",
+      "choices": [
+        "A misurare la riserva di glicogeno del muscolo scheletrico",
+        "A dosare la vitamina B6 presente nel plasma",
+        "A valutare l'equilibrio del metabolismo glucidico",
+        "A misurare il contenuto di trigliceridi nel fegato",
+        "A valutare la funzionalità della coagulazione"
+      ],
+      "answer": 2,
+      "explain": "Il dosaggio del glucosio nel sangue permette di valutare l'equilibrio del metabolismo dei carboidrati e di riconoscere condizioni di iperglicemia o di ipoglicemia. Non misura la riserva di glicogeno, la vitamina B6, i trigliceridi epatici né la coagulazione, che richiedono indagini specifiche.",
+      "slide": 62
+    },
+    {
+      "id": "d02-b07-q041",
+      "q": "Per quale motivo la determinazione della glicemia viene di norma eseguita su un campione prelevato a digiuno?",
+      "choices": [
+        "Perché il digiuno elimina completamente il glucosio dal sangue",
+        "Perché dopo i pasti il glucosio non è più dosabile",
+        "Perché il digiuno aumenta la concentrazione di insulina",
+        "Perché a digiuno il glucosio si lega alle proteine plasmatiche",
+        "Perché i valori di riferimento della glicemia sono misurati a digiuno"
+      ],
+      "answer": 4,
+      "explain": "I valori di normalità della glicemia sono stabiliti su campioni prelevati a digiuno, quindi il confronto con essi richiede la stessa condizione; dopo un pasto la glicemia fisiologicamente aumenta. Il digiuno non azzera il glucosio ematico, non rende il glucosio indosabile e non lo lega alle proteine plasmatiche.",
+      "slide": 62
+    },
+    {
+      "id": "d02-b07-q042",
+      "q": "Quale effetto ha l'insulina sul metabolismo del glicogeno?",
+      "choices": [
+        "Stimola la demolizione del glicogeno epatico nel digiuno",
+        "Favorisce la sintesi del glicogeno e ne inibisce la demolizione",
+        "Aumenta il rilascio di glucosio dal fegato al sangue",
+        "Attiva la glicogeno fosforilasi del muscolo e del fegato",
+        "Blocca l'ingresso del glucosio nelle cellule muscolari"
+      ],
+      "answer": 1,
+      "explain": "L'insulina, ormone tipico della fase post-prandiale, promuove l'ingresso del glucosio nelle cellule e attiva la glicogeno sintasi, favorendo così l'accumulo di glicogeno e inibendo la sua demolizione. L'attivazione della glicogeno fosforilasi e il rilascio epatico di glucosio sono invece effetti del glucagone.",
+      "slide": 64
+    },
+    {
+      "id": "d02-b07-q043",
+      "q": "Quale ormone stimola la glicogenolisi epatica e quindi l'aumento della glicemia?",
+      "choices": [
+        "L'insulina",
+        "L'aldosterone",
+        "Il glucagone",
+        "La calcitonina",
+        "La tiroxina"
+      ],
+      "answer": 2,
+      "explain": "Il glucagone, secreto dal pancreas in condizioni di glicemia bassa, attiva nel fegato la demolizione del glicogeno e la liberazione di glucosio nel sangue. L'insulina ha l'effetto opposto, mentre aldosterone, calcitonina e tiroxina non sono i principali regolatori della glicogenolisi epatica.",
+      "slide": 64
+    },
+    {
+      "id": "d02-b07-q044",
+      "q": "Attraverso quale meccanismo il glucagone attiva la glicogeno fosforilasi?",
+      "choices": [
+        "Legandosi direttamente ai granuli di glicogeno epatico",
+        "Modificando la sequenza del DNA degli epatociti",
+        "Trasportando il glucosio fuori dalla cellula epatica",
+        "Attivando una cascata di fosforilazioni dipendente dal cAMP",
+        "Bloccando la sintesi delle proteine muscolari"
+      ],
+      "answer": 3,
+      "explain": "Il glucagone aumenta il cAMP intracellulare, che attiva la proteina chinasi A e, a valle, la fosforilasi chinasi; questa fosforila la glicogeno fosforilasi rendendola attiva. L'ormone non si lega al glicogeno né modifica direttamente il DNA, e non agisce trasportando glucosio attraverso la membrana.",
+      "slide": 64
+    },
+    {
+      "id": "d02-b07-q045",
+      "q": "Quale enzima viene attivato dall'insulina per favorire l'accumulo di glicogeno nel fegato?",
+      "choices": [
+        "La glicogeno fosforilasi",
+        "L'enzima deramificante",
+        "La glucosio-6-fosfatasi",
+        "La fosforilasi chinasi",
+        "La glicogeno sintasi"
+      ],
+      "answer": 4,
+      "explain": "L'insulina promuove la defosforilazione e quindi l'attivazione della glicogeno sintasi, che allunga le catene di glicogeno; nello stesso tempo la glicogeno fosforilasi viene inibita. La fosforilasi chinasi e la glucosio-6-fosfatasi operano in senso opposto o in vie diverse e non sono attivate dall'insulina.",
+      "slide": 66
+    },
+    {
+      "id": "d02-b07-q046",
+      "q": "Quale affermazione descrive correttamente la regolazione reciproca tra sintesi e demolizione del glicogeno?",
+      "choices": [
+        "I due processi sono sempre attivi contemporaneamente nella stessa cellula",
+        "La sintesi è favorita quando la glicemia è bassa",
+        "Quando prevale la sintesi la demolizione è inibita, e viceversa",
+        "Demolizione e sintesi dipendono dallo stesso enzima, la glicogeno sintasi",
+        "La demolizione è attiva solo dopo i pasti"
+      ],
+      "answer": 2,
+      "explain": "La sintesi e la demolizione del glicogeno sono regolate in modo coordinato e opposto: quando l'insulina attiva la glicogeno sintasi, la glicogeno fosforilasi viene inibita, mentre il glucagone produce l'effetto inverso. I due processi non procedono quindi simultaneamente nella stessa cellula, e la demolizione prevale tra i pasti e nel digiuno.",
+      "slide": 66
+    },
+    {
+      "id": "d02-b07-q047",
+      "q": "La glicolisi e la gluconeogenesi possono procedere simultaneamente nello stesso tessuto?",
+      "choices": [
+        "No, di norma non procedono insieme nello stesso tessuto",
+        "Sì, sempre, perché sono due vie metaboliche indipendenti",
+        "Sì, ma soltanto nel muscolo scheletrico durante l'esercizio",
+        "No, perché la glicolisi avviene solo nei mitocondri",
+        "Sì, ma soltanto durante il digiuno prolungato"
+      ],
+      "answer": 0,
+      "explain": "La glicolisi e la gluconeogenesi sono vie opposte e la loro contemporanea attività nello stesso tessuto sarebbe uno spreco energetico, quindi di norma non procedono insieme. La glicolisi si svolge nel citoplasma e non solo nei mitocondri, e la sua comparsa non è limitata al periodo di digiuno.",
+      "slide": 67
+    },
+    {
+      "id": "d02-b07-q048",
+      "q": "Qual è la funzione principale della gluconeogenesi epatica?",
+      "choices": [
+        "Produrre ATP per la contrazione del muscolo scheletrico",
+        "Accumulare trigliceridi di riserva nel tessuto epatico",
+        "Eliminare l'eccesso di glucosio assorbito dopo i pasti",
+        "Produrre glucosio da cedere ai tessuti quando la glicemia è bassa",
+        "Sintetizzare glicogeno muscolare durante l'esercizio fisico"
+      ],
+      "answer": 3,
+      "explain": "La gluconeogenesi si svolge principalmente nel fegato e produce glucosio che viene esportato ai tessuti e al sangue, contribuendo a sostenere la glicemia nei periodi di digiuno. Non serve a produrre ATP per il muscolo né a eliminare il glucosio in eccesso, funzione svolta semmai dalla glicolisi e dall'immagazzinamento.",
+      "slide": 67
+    },
+    {
+      "id": "d02-b07-q049",
+      "q": "In quali tessuti si svolge la glicolisi?",
+      "choices": [
+        "Soltanto nel fegato, che la usa per la gluconeogenesi",
+        "Nella maggior parte dei tessuti, tra cui fegato e muscoli",
+        "Soltanto nel tessuto adiposo e nel polmone",
+        "Soltanto nel cervello, che dipende dal glucosio",
+        "Esclusivamente nei globuli rossi, privi di mitocondri"
+      ],
+      "answer": 1,
+      "explain": "La glicolisi si svolge nella maggior parte dei tessuti, compresi cervello, reni, muscoli e fegato, e rappresenta la via comune di utilizzazione del glucosio. Limitarla al solo fegato, al solo cervello o ai soli globuli rossi è scorretto, perché molti altri distretti la utilizzano.",
+      "slide": 67
+    },
+    {
+      "id": "d02-b07-q050",
+      "q": "Qual è lo scopo principale della glicolisi nelle cellule?",
+      "choices": [
+        "Produrre glucosio a partire da precursori non glucidici",
+        "Accumulare glicogeno di riserva nel citoplasma",
+        "Trasportare ossigeno ai tessuti periferici",
+        "Sintetizzare acidi grassi a catena lunga",
+        "Fornire l'ATP necessario alle attività cellulari"
+      ],
+      "answer": 4,
+      "explain": "La glicolisi degrada il glucosio e produce ATP, l'energia necessaria a sostenere le attività cellulari. La produzione di glucosio da precursori non glucidici è compito della gluconeogenesi, mentre l'accumulo di glicogeno, il trasporto di ossigeno e la sintesi degli acidi grassi appartengono ad altre vie metaboliche.",
+      "slide": 67
+    }
+  ]
+}

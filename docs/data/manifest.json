@@ -1,0 +1,41 @@
+{
+ "decks": [
+  {
+   "deck": 1,
+   "title": "Chimica generale e propedeutica biochimica",
+   "date": "2025-10-15",
+   "count": 400,
+   "file": "deck1.json"
+  },
+  {
+   "deck": 2,
+   "title": "Metabolismo energetico e metabolismo dei carboidrati",
+   "date": "2025-10-22",
+   "count": 400,
+   "file": "deck2.json"
+  },
+  {
+   "deck": 3,
+   "title": "Metabolismo dei lipidi",
+   "date": "2025-10-30",
+   "count": 400,
+   "file": "deck3.json"
+  },
+  {
+   "deck": 4,
+   "title": "Metabolismo del colesterolo e delle proteine",
+   "date": "2025-11-05",
+   "count": 400,
+   "file": "deck4.json"
+  },
+  {
+   "deck": 5,
+   "title": "Proteine plasmatiche, enzimi, vitamine ed elettroliti",
+   "date": "2025-11-11",
+   "count": 400,
+   "file": "deck5.json"
+  }
+ ],
+ "total": 2000,
+ "generated": "quiz-src/build_site.py"
+}

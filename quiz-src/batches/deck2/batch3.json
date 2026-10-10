@@ -1,0 +1,707 @@
+{
+  "deck": 2,
+  "batch": 3,
+  "topic": "Digestione dei carboidrati: amido, legami glicosidici, intolleranza al lattosio",
+  "questions": [
+    {
+      "id": "d02-b03-q001",
+      "q": "Quali classi di carboidrati comprende la dieta umana?",
+      "choices": [
+        "Esclusivamente monosaccaridi già assorbibili",
+        "Solo polisaccaridi di riserva di origine animale",
+        "Polisaccaridi, disaccaridi e monosaccaridi",
+        "Lipidi a catena corta e steroli",
+        "Esclusivamente disaccaridi privi di legami glicosidici"
+      ],
+      "answer": 2,
+      "explain": "La dieta contiene polisaccaridi come amido e glicogeno, disaccaridi come saccarosio e lattosio e monosaccaridi come glucosio e fruttosio. Il distrattore più insidioso è quello dei soli monosaccaridi, perché il glucosio è davvero la forma assorbita, ma la dieta comprende molecole più complesse che devono prima essere idrolizzate.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q002",
+      "q": "Quale monosaccaride è il prodotto finale comune dell'idrolisi dell'amido e del glicogeno?",
+      "choices": [
+        "Fruttosio",
+        "Galattosio",
+        "Mannosio",
+        "Ribosio",
+        "Glucosio"
+      ],
+      "answer": 4,
+      "explain": "Amido e glicogeno sono polimeri di glucosio, perciò la loro idrolisi completa libera glucosio. Il fruttosio è un monosaccaride della dieta, ma deriva dal saccarosio e non dall'amido, quindi non è il prodotto di questi due polisaccaridi.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q003",
+      "q": "Quali monosaccaridi si liberano dall'idrolisi completa del saccarosio?",
+      "choices": [
+        "Glucosio e fruttosio",
+        "Glucosio e galattosio",
+        "Due molecole di glucosio",
+        "Galattosio e fruttosio",
+        "Glucosio e mannosio"
+      ],
+      "answer": 0,
+      "explain": "Il saccarosio è un disaccaride formato da una molecola di glucosio e una di fruttosio. La coppia glucosio-galattosio è insidiosa perché appartiene a un altro disaccaride della dieta, il lattosio, ma non al saccarosio.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q004",
+      "q": "Dopo l'idrolisi del lattosio da parte degli enzimi intestinali, quali zuccheri semplici si ottengono?",
+      "choices": [
+        "Glucosio e fruttosio",
+        "Due molecole di galattosio",
+        "Fruttosio e galattosio",
+        "Glucosio e galattosio",
+        "Glucosio e mannosio"
+      ],
+      "answer": 3,
+      "explain": "Il lattosio è formato da galattosio e glucosio uniti da un legame glicosidico. La coppia glucosio-fruttosio è il distrattore più tentante perché è la composizione del saccarosio, un altro disaccaride alimentare.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q005",
+      "q": "Perché amido e glicogeno devono essere idrolizzati prima di essere assorbiti?",
+      "choices": [
+        "Perché la loro digestione avviene soltanto nel colon, per fermentazione batterica",
+        "Perché solo i monosaccaridi attraversano la parete intestinale",
+        "Perché l'amilasi pancreatica non riconosce i loro legami glicosidici",
+        "Perché devono prima essere convertiti in trigliceridi nel fegato",
+        "Perché sono troppo idrofili per attraversare l'enterocita"
+      ],
+      "answer": 1,
+      "explain": "I trasportatori intestinali riconoscono i monosaccaridi, non i polisaccaridi, quindi amido e glicogeno vanno demoliti fino a glucosio. Dire che l'amilasi pancreatica non riconosce i loro legami è falso, perché l'α-amilasi pancreatica attacca proprio i legami α-1,4 dell'amido.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q006",
+      "q": "Quale coppia di carboidrati alimentari è formata da disaccaridi?",
+      "choices": [
+        "Amido e glicogeno",
+        "Saccarosio e lattosio",
+        "Glucosio e fruttosio",
+        "Amido e saccarosio",
+        "Glicogeno e lattosio"
+      ],
+      "answer": 1,
+      "explain": "Saccarosio e lattosio sono entrambi formati da due unità monosaccaridiche unite da un legame glicosidico. Amido e glicogeno sono invece polisaccaridi, e glucosio e fruttosio sono monosaccaridi, quindi le coppie che li contengono sono sbagliate.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q007",
+      "q": "Quale tra questi carboidrati alimentari è un polisaccaride di riserva di origine animale?",
+      "choices": [
+        "Amido",
+        "Cellulosa",
+        "Saccarosio",
+        "Glicogeno",
+        "Lattosio"
+      ],
+      "answer": 3,
+      "explain": "Il glicogeno è il polimero di glucosio con cui gli animali accumulano riserve energetiche nel fegato e nel muscolo. L'amido è il distrattore più insidioso perché è il corrispettivo polisaccaride di riserva, ma appartiene al mondo vegetale.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q008",
+      "q": "Che cosa si intende per prodotti di idrolisi dei carboidrati alimentari?",
+      "choices": [
+        "Le molecole più semplici liberate dalla rottura dei legami glicosidici",
+        "Gli acidi grassi liberati dalla lipasi pancreatica nel duodeno",
+        "Gli amminoacidi liberati dalle peptidasi del bordo a spazzola",
+        "I sali biliari che emulsionano i trigliceridi nel lume",
+        "Le vitamine idrosolubili liberate dalla masticazione del cibo"
+      ],
+      "answer": 0,
+      "explain": "L'idrolisi dei carboidrati rompe i legami glicosidici e libera monosaccaridi o frammenti sempre più piccoli. Gli acidi grassi e gli amminoacidi sono prodotti dell'idrolisi di lipidi e proteine, non dei carboidrati.",
+      "slide": 15
+    },
+    {
+      "id": "d02-b03-q009",
+      "q": "Quale definizione descrive meglio la digestione dei carboidrati?",
+      "choices": [
+        "Una singola reazione enzimatica che avviene nello stomaco",
+        "Un processo che avviene soltanto nel colon per fermentazione",
+        "Un trasporto attivo che introduce gli zuccheri nel sangue",
+        "Una sintesi di polisaccaridi a partire dal glucosio epatico",
+        "Una sequenza di processi che rende assorbibili le macromolecole"
+      ],
+      "answer": 4,
+      "explain": "La digestione comprende lubrificazione, idrolisi enzimatica, secrezione di elettroliti e trasporto del materiale digerito. Il distrattore della singola reazione gastrica è insidioso perché nello stomaco esiste davvero una digestione iniziale, ma il processo completo è multiplo e si svolge soprattutto nell'intestino tenue.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q010",
+      "q": "A che cosa serve la lubrificazione dei cibi con i fluidi secreti dalle ghiandole del tratto gastrointestinale?",
+      "choices": [
+        "A idrolizzare direttamente i legami glicosidici dell'amido",
+        "A neutralizzare completamente l'acidità gastrica del chimo",
+        "A omogeneizzare il contenuto alimentare e facilitarne lo scorrimento",
+        "A trasformare i monosaccaridi in polisaccaridi di riserva",
+        "Ad assorbire i nutrienti già nel cavo orale"
+      ],
+      "answer": 2,
+      "explain": "I fluidi secreti lubrificano e rendono omogeneo il bolo, favorendone il transito lungo il tratto gastrointestinale. L'idrolisi dei legami glicosidici è compito degli enzimi, non della lubrificazione.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q011",
+      "q": "In quale tratto dell'intestino tenue la digestione riduce le macromolecole a oligomeri e dimeri?",
+      "choices": [
+        "Nel digiuno",
+        "Nell'ileo",
+        "Nel colon",
+        "Nell'esofago",
+        "Nel duodeno"
+      ],
+      "answer": 4,
+      "explain": "Nel duodeno gli enzimi demoliscono le macromolecole in oligomeri e dimeri, mentre nel digiuno si completa la formazione dei monomeri. Il digiuno è il distrattore più insidioso perché è la tappa successiva, ma lì prevalgono i monomeri e non i dimeri.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q012",
+      "q": "Dove si completa la digestione dei carboidrati fino ai monomeri?",
+      "choices": [
+        "Nel duodeno",
+        "Nel digiuno",
+        "Nello stomaco",
+        "Nel colon",
+        "Nel retto"
+      ],
+      "answer": 1,
+      "explain": "La digestione dei carboidrati procede nel duodeno fino a oligomeri e dimeri e si conclude nel digiuno con la liberazione dei monomeri. Il duodeno è il distrattore più tentante perché è la tappa immediatamente precedente, ma non è dove si arriva ai monomeri.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q013",
+      "q": "Perché il tratto gastrointestinale secerne elettroliti, acidi e basi?",
+      "choices": [
+        "Per fornire ATP alle cellule intestinali dell'enterocita",
+        "Per sintetizzare nuovi carboidrati nel lume intestinale",
+        "Per ottimizzare il pH e l'attività degli enzimi digestivi",
+        "Per eliminare i monosaccaridi in eccesso con le feci",
+        "Per impedire l'assorbimento dell'acqua nel colon"
+      ],
+      "answer": 2,
+      "explain": "Gli enzimi digestivi lavorano solo in un intervallo di pH preciso, che viene mantenuto dalla secrezione di acidi, basi ed elettroliti. Gli elettroliti non sono una fonte di ATP né servono a eliminare i monosaccaridi, che vengono assorbiti.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q014",
+      "q": "Quale tra queste è una funzione degli enzimi idrolitici della digestione?",
+      "choices": [
+        "Demolire le macromolecole in oligomeri, dimeri e monomeri",
+        "Polimerizzare il glucosio in glicogeno nel fegato",
+        "Ossidare gli zuccheri ad anidride carbonica nei mitocondri",
+        "Trasportare i monosaccaridi nel sangue con la vena porta",
+        "Emulsionare i trigliceridi della dieta nel duodeno"
+      ],
+      "answer": 0,
+      "explain": "Le idrolasi aggiungono acqua e spezzano i legami, riducendo progressivamente le macromolecole fino ai monomeri assorbibili. L'ossidazione completa avviene dopo l'assorbimento, nel catabolismo cellulare, e non è compito degli enzimi digestivi.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q015",
+      "q": "Dopo la digestione, come raggiungono i nutrienti il circolo sanguigno e linfatico?",
+      "choices": [
+        "Per semplice diffusione attraverso i villi senza trasportatori",
+        "Mediante fagocitosi da parte degli enterociti",
+        "Attraverso i dotti biliari",
+        "Attraverso un trasporto specifico che attraversa l'enterocita",
+        "Solo per via linfatica diretta dal lume"
+      ],
+      "answer": 3,
+      "explain": "Il materiale digerito viene trasferito attraverso l'enterocita con meccanismi di trasporto specifici e poi immesso nel circolo sanguigno o linfatico. La diffusione semplice non basterebbe, perché gli zuccheri polari hanno bisogno di proteine trasportatrici.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q016",
+      "q": "Quale affermazione sull'ordine dei processi digestivi è corretta?",
+      "choices": [
+        "L'assorbimento precede l'idrolisi enzimatica",
+        "L'idrolisi avviene solo dopo l'assorbimento",
+        "Gli elettroliti vengono secreti solo dopo l'assorbimento",
+        "La lubrificazione precede l'idrolisi enzimatica",
+        "La masticazione segue l'assorbimento"
+      ],
+      "answer": 3,
+      "explain": "Il cibo viene prima lubrificato e omogeneizzato, poi attaccato dagli enzimi e infine il materiale digerito viene assorbito. Nessun nutriente può essere assorbito prima di essere stato idrolizzato nelle forme riconosciute dai trasportatori.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q017",
+      "q": "Che ruolo svolge l'enterocita nella digestione dei carboidrati?",
+      "choices": [
+        "Completa l'idrolisi con enzimi di membrana e cede gli zuccheri al sangue",
+        "Secerne acido cloridrico nel lume gastrico per attivare la pepsina",
+        "Produce la bile necessaria all'emulsione dei grassi nel duodeno",
+        "Sintetizza amido a partire dal glucosio ematico nel fegato",
+        "Filtra il sangue dei villi prima di inviarlo al fegato"
+      ],
+      "answer": 0,
+      "explain": "Sulla membrana del bordo a spazzola dell'enterocita risiedono le idrolasi che completano la digestione dei disaccaridi, e da lì i monosaccaridi passano al sangue. L'acido cloridrico è secreto dalle cellule parietali dello stomaco e la bile dal fegato, non dall'enterocita.",
+      "slide": 16
+    },
+    {
+      "id": "d02-b03-q018",
+      "q": "Quale dei seguenti carboidrati della dieta è un monosaccaride?",
+      "choices": [
+        "Lattosio",
+        "Saccarosio",
+        "Amido",
+        "Glicogeno",
+        "Fruttosio"
+      ],
+      "answer": 4,
+      "explain": "Il fruttosio è uno zucchero semplice, cioè un monosaccaride, insieme al glucosio. Il lattosio è il distrattore più insidioso perché è uno zucchero del latte, ma è formato da due unità ed è quindi un disaccaride.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q019",
+      "q": "Quale coppia è costituita da monosaccaridi?",
+      "choices": [
+        "Glucosio e galattosio",
+        "Glucosio e fruttosio",
+        "Saccarosio e lattosio",
+        "Amido e glicogeno",
+        "Maltosio e lattosio"
+      ],
+      "answer": 1,
+      "explain": "Glucosio e fruttosio sono i due monosaccaridi elencati tra i carboidrati della dieta. La coppia glucosio-galattosio è tentante perché contiene due zuccheri semplici, ma il galattosio si trova nella dieta legato dentro il lattosio.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q020",
+      "q": "Da quale alimento deriva gran parte del fruttosio della dieta?",
+      "choices": [
+        "Latte e derivati",
+        "Carne e pesce",
+        "Frutta e miele",
+        "Olio vegetale",
+        "Uova"
+      ],
+      "answer": 2,
+      "explain": "Il fruttosio è abbondante nella frutta e nel miele, spesso insieme al glucosio. Latte e derivati contengono lattosio, che è un disaccaride di glucosio e galattosio e non una fonte di fruttosio.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q021",
+      "q": "Perché il glicogeno alimentare è considerato un carboidrato di riserva?",
+      "choices": [
+        "Perché è un polimero di glucosio tipico delle cellule animali",
+        "Perché è un monosaccaride prontamente assorbibile dall'intestino",
+        "Perché è un disaccaride tipico del latte e dei suoi derivati",
+        "Perché è una proteina di deposito del muscolo scheletrico",
+        "Perché è una fibra non digeribile dagli enzimi umani"
+      ],
+      "answer": 0,
+      "explain": "Il glicogeno immagazzina glucosio nel fegato e nel muscolo e viene mobilitato quando serve energia. Non è una proteina né un disaccaride, e a differenza delle fibre è digeribile dagli enzimi umani.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q022",
+      "q": "Il lattosio, carboidrato della dieta, è presente soprattutto in quale alimento?",
+      "choices": [
+        "Frutta matura e miele",
+        "Cereali e tuberi",
+        "Latte e derivati",
+        "Carne e pesce",
+        "Oli e grassi vegetali"
+      ],
+      "answer": 2,
+      "explain": "Il lattosio è lo zucchero caratteristico del latte e dei suoi derivati. Cereali e tuberi sono invece ricchi di amido, che è un polisaccaride e non un disaccaride del latte.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q023",
+      "q": "Riguardo alla composizione della quota glucidica della dieta, quale affermazione è vera?",
+      "choices": [
+        "Sono tutti assorbibili senza digestione nel tenue",
+        "Sono tutti di origine animale, come il glicogeno",
+        "Comprendono soltanto molecole con legami beta",
+        "Comprendono sia zuccheri semplici sia polisaccaridi",
+        "Sono tutti non idrolizzabili dagli enzimi umani"
+      ],
+      "answer": 3,
+      "explain": "La dieta apporta monosaccaridi, disaccaridi e polisaccaridi, che differiscono per dimensioni e numero di legami glicosidici. Solo i monosaccaridi sono assorbibili senza digestione, mentre gli altri devono essere idrolizzati.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q024",
+      "q": "Nelle piante, la forma di deposito del glucosio è rappresentata da quale polisaccaride?",
+      "choices": [
+        "Glicogeno",
+        "Amido",
+        "Lattosio",
+        "Glucosio",
+        "Fruttosio"
+      ],
+      "answer": 1,
+      "explain": "L'amido è il polisaccaride con cui le piante accumulano glucosio, soprattutto nei cereali e nei tuberi. Il glicogeno è il distrattore più insidioso perché è anch'esso un polisaccaride di riserva, ma è di origine animale.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q025",
+      "q": "Fra i carboidrati elencati, quale possiede un numero di unità di zucchero superiore a due?",
+      "choices": [
+        "Saccarosio",
+        "Lattosio",
+        "Maltosio",
+        "Cellobiosio",
+        "Glicogeno"
+      ],
+      "answer": 4,
+      "explain": "Il glicogeno è un polisaccaride ramificato, quindi non è un disaccaride. Il maltosio è il distrattore più tentante perché deriva dall'amido, ma è comunque formato da due molecole di glucosio.",
+      "slide": 17
+    },
+    {
+      "id": "d02-b03-q026",
+      "q": "Quale tipo di legame unisce le unità di glucosio nell'amido?",
+      "choices": [
+        "Legame beta-1,4-glicosidico",
+        "Legame alfa-1,4-glicosidico",
+        "Legame alfa-1,6-glicosidico",
+        "Legame peptidico",
+        "Legame fosfodiesterico"
+      ],
+      "answer": 1,
+      "explain": "Nell'amido le unità di glucosio sono unite da legami alfa-1,4-glicosidici, come indicato dalla struttura della molecola. Il legame beta-1,4 è il distrattore più insidioso perché coinvolge gli stessi zuccheri, ma è tipico della cellulosa e non digeribile dall'uomo.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q027",
+      "q": "Nell'amilopectina, oltre ai legami alfa-1,4, quali legami generano le ramificazioni?",
+      "choices": [
+        "Legami beta-1,4-glicosidici",
+        "Legami alfa-1,2-glicosidici",
+        "Legami beta-1,3-glicosidici",
+        "Legami N-glicosidici",
+        "Legami alfa-1,6-glicosidici"
+      ],
+      "answer": 4,
+      "explain": "Le ramificazioni dell'amilopectina nascono da legami alfa-1,6-glicosidici che staccano una catena laterale dalla catena principale. I legami alfa-1,2 sono tentanti perché sono anch'essi alfa e glicosidici, ma si trovano nel saccarosio e non nelle ramificazioni dell'amido.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q028",
+      "q": "Perché l'amido è digeribile dall'uomo mentre la cellulosa non lo è?",
+      "choices": [
+        "Perché la cellulosa non contiene glucosio nella sua catena",
+        "Perché la cellulosa è troppo piccola per essere riconosciuta",
+        "Perché gli enzimi umani idrolizzano i legami alfa ma non i beta",
+        "Perché l'amido è un monosaccaride direttamente assorbibile",
+        "Perché la cellulosa viene assorbita intatta nel colon"
+      ],
+      "answer": 2,
+      "explain": "L'amido è fatto di legami alfa-1,4, che le alfa-amilasi e le idrolasi del bordo a spazzola possono scindere, mentre la cellulosa ha legami beta-1,4 che gli enzimi umani non attaccano. La cellulosa è un polimero di glucosio, quindi la spiegazione che non contenga glucosio nella catena è errata.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q029",
+      "q": "Quale enzima inizia l'idrolisi dell'amido già nel cavo orale?",
+      "choices": [
+        "La lattasi del bordo a spazzola",
+        "La maltasi pancreatica",
+        "La pepsina gastrica",
+        "L'alfa-amilasi salivare",
+        "La lipasi pancreatica"
+      ],
+      "answer": 3,
+      "explain": "L'alfa-amilasi della saliva idrolizza i legami alfa-1,4 dell'amido già durante la masticazione, anche se viene poi inattivata dall'acidità gastrica. La maltasi è tentante perché agisce sui prodotti dell'amilasi, ma opera sul maltosio nel bordo a spazzola e non sull'amido in bocca.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q030",
+      "q": "Quale prodotto intermedio si origina dall'azione dell'alfa-amilasi sull'amido?",
+      "choices": [
+        "Destrine e maltosio",
+        "Glucosio e galattosio",
+        "Fruttosio libero",
+        "Amminoacidi",
+        "Acidi grassi liberi"
+      ],
+      "answer": 0,
+      "explain": "L'alfa-amilasi spezza l'amido in frammenti più corti, cioè destrine e maltosio, che vengono poi demoliti dalle idrolasi del bordo a spazzola. Fruttosio e galattosio non derivano dall'amido, ma da altri carboidrati della dieta.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q031",
+      "q": "Che cosa caratterizza l'amilopectina rispetto all'amilosio?",
+      "choices": [
+        "L'assenza di legami alfa-1,4 nella catena",
+        "La presenza di soli legami beta-1,4",
+        "L'essere un disaccaride del latte",
+        "La presenza di ramificazioni alfa-1,6",
+        "L'essere priva di glucosio nella catena"
+      ],
+      "answer": 3,
+      "explain": "L'amilopectina è una catena di glucosi con legami alfa-1,4 interrotta da ramificazioni alfa-1,6, mentre l'amilosio è essenzialmente lineare. Entrambe contengono legami alfa-1,4, quindi negarne la presenza è sbagliato.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q032",
+      "q": "Quale affermazione sul legame alfa-1,4-glicosidico è corretta?",
+      "choices": [
+        "Unisce due gruppi fosfato di nucleotidi adiacenti",
+        "Unisce il carbonio anomerico al carbonio quattro dell'unità seguente",
+        "Unisce un amminoacido al gruppo ossidrilico di uno zucchero",
+        "Unisce il carbonio uno al carbonio sei della stessa unità di glucosio",
+        "È un legame che si rompe solo per ossidazione enzimatica"
+      ],
+      "answer": 1,
+      "explain": "Nel legame alfa-1,4 il carbonio anomerico di una unità si lega al carbonio in posizione quattro dell'unità seguente. Il legame uno-sei è il distrattore più vicino perché esiste davvero, ma corrisponde ai punti di ramificazione e non alla catena lineare dell'amido.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q033",
+      "q": "La maltasi, enzima del bordo a spazzola, scinde il maltosio in quali prodotti?",
+      "choices": [
+        "Due molecole di glucosio",
+        "Glucosio e fruttosio",
+        "Glucosio e galattosio",
+        "Fruttosio e galattosio",
+        "Due molecole di galattosio"
+      ],
+      "answer": 0,
+      "explain": "Il maltosio deriva dall'amido ed è formato da due unità di glucosio, quindi la maltasi libera due molecole di glucosio. La coppia glucosio-fruttosio è tentante perché è un prodotto reale della digestione, ma proviene dal saccarosio.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q034",
+      "q": "Perché l'amido rappresenta la principale fonte di glucosio della dieta?",
+      "choices": [
+        "Perché è un monosaccaride presente nella frutta e nel miele",
+        "Perché contiene fruttosio polimerizzato in catene ramificate",
+        "Perché è una proteina di riserva dei semi vegetali",
+        "Perché è indigeribile e fermenta nel colon come fibra",
+        "Perché è un polisaccaride di glucosio abbondante nei cereali"
+      ],
+      "answer": 4,
+      "explain": "Cereali, patate e legumi contengono grandi quantità di amido, un polimero di glucosio che la digestione converte in glucosio assorbibile. Non è un monosaccaride né una proteina, e nell'uomo è digeribile, non fermenta nel colon.",
+      "slide": 18
+    },
+    {
+      "id": "d02-b03-q035",
+      "q": "Dove si trovano gli enzimi che completano la digestione dei disaccaridi nell'intestino tenue?",
+      "choices": [
+        "Nel citoplasma profondo dell'enterocita, dove avviene la glicolisi",
+        "Nel nucleo dell'enterocita, dove si trascrivono i loro geni",
+        "Sulla membrana del bordo a spazzola, verso il lume",
+        "Nei mitocondri dell'enterocita, dove si ossidano gli zuccheri",
+        "Nel reticolo endoplasmatico liscio, dove si sintetizzano i lipidi"
+      ],
+      "answer": 2,
+      "explain": "Le idrolasi come lattasi, maltasi e saccarasi sono proteine di membrana esposte verso il lume, così i disaccaridi vengono scissi subito prima del trasporto. Il citoplasma è un distrattore insidioso perché la glicolisi avviene lì, ma la digestione dei disaccaridi è un evento di membrana.",
+      "slide": 19
+    },
+    {
+      "id": "d02-b03-q036",
+      "q": "Quale sequenza riassume correttamente la tappa intestinale della digestione dei carboidrati?",
+      "choices": [
+        "Assorbimento nel lume, idrolisi nel sangue, escrezione biliare, ritorno al colon",
+        "Fermentazione nel colon, assorbimento gastrico, trasporto linfatico, escrezione renale",
+        "Idrolisi nel lume, idrolisi sul bordo a spazzola, trasporto nell'enterocita, passaggio nel sangue",
+        "Idrolisi nel fegato, trasporto al duodeno, escrezione renale, ritorno al colon",
+        "Sintesi nel lume, idrolisi epatica, trasporto linfatico, ritorno al colon"
+      ],
+      "answer": 2,
+      "explain": "La digestione inizia nel lume, si completa sulla membrana del bordo a spazzola e solo dopo i monosaccaridi entrano nell'enterocita e passano al sangue. L'idrolisi epatica è un distrattore errato, perché il fegato riceve zuccheri già assorbiti e non digerisce il contenuto intestinale.",
+      "slide": 19
+    },
+    {
+      "id": "d02-b03-q037",
+      "q": "Qual è la causa dell'intolleranza al lattosio?",
+      "choices": [
+        "La riduzione dell'attività della lattasi intestinale",
+        "Una reazione immunitaria alle proteine del latte",
+        "L'assenza totale di glucosio nel sangue",
+        "Un'eccessiva produzione di lattasi pancreatica",
+        "Un'alterata sintesi di insulina"
+      ],
+      "answer": 0,
+      "explain": "Nell'intolleranza al lattosio l'enzima lattasi del bordo a spazzola è ridotto, quindi il lattosio non viene scisso e resta nel lume. La reazione immunitaria è il distrattore più insidioso perché descrive l'allergia alle proteine del latte, un disturbo diverso e immunomediato.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q038",
+      "q": "Quale zucchero si accumula nel lume intestinale nell'intolleranza al lattosio?",
+      "choices": [
+        "Maltosio",
+        "Saccarosio",
+        "Amido",
+        "Lattosio",
+        "Glicogeno"
+      ],
+      "answer": 3,
+      "explain": "Se la lattasi è carente, il lattosio non viene idrolizzato e si accumula nel lume intestinale richiamando acqua. Il saccarosio è tentante perché è un altro disaccaride della dieta, ma viene scisso dalla saccarasi e non dipende dalla lattasi.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q039",
+      "q": "Perché il lattosio non digerito richiama acqua nel lume intestinale?",
+      "choices": [
+        "Perché viene attivamente secreto nel lume",
+        "Perché lega i sali biliari",
+        "Perché blocca i canali del sodio",
+        "Perché viene convertito in proteine",
+        "Perché esercita un effetto osmotico"
+      ],
+      "answer": 4,
+      "explain": "Lo zucchero non assorbito rimane nel lume e trattiene osmoticamente acqua, dando feci liquide. La secrezione attiva è il distrattore più vicino, ma il meccanismo principale è osmotico e non un trasporto attivo di lattosio.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q040",
+      "q": "Nell'intolleranza al lattosio, quale disturbo intestinale si osserva tipicamente?",
+      "choices": [
+        "Ittero con urine scure e feci chiare",
+        "Diarrea osmotica con gonfiore e crampi",
+        "Anemia emolitica con ittero e splenomegalia",
+        "Iperglicemia a digiuno con poliuria",
+        "Edema polmonare con dispnea notturna"
+      ],
+      "answer": 1,
+      "explain": "La mancata digestione del lattosio provoca diarrea osmotica, gonfiore e crampi per il richiamo di acqua e la fermentazione colica. Ittero e anemia riguardano altri apparati e non sono legati al lattosio non digerito.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q041",
+      "q": "Da che cosa dipende il gonfiore addominale nell'intolleranza al lattosio?",
+      "choices": [
+        "Dall'accumulo nel colon di proteine non digerite",
+        "Dalla secrezione eccessiva di acido cloridrico nello stomaco",
+        "Dall'aumento dei sali biliari nel lume intestinale",
+        "Dall'assorbimento eccessivo di glucosio nel tenue intestinale",
+        "Dalla fermentazione del lattosio nel colon con produzione di gas"
+      ],
+      "answer": 4,
+      "explain": "Il lattosio che raggiunge il colon viene fermentato dai batteri, con produzione di gas responsabili del gonfiore. L'accumulo di proteine non digerite è un distrattore plausibile, ma il disturbo in questione riguarda uno zucchero e non le proteine.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q042",
+      "q": "Quale strategia alimentare è consigliata a una persona con intolleranza al lattosio?",
+      "choices": [
+        "Aumentare il consumo di latte intero e di formaggi freschi",
+        "Eliminare tutti i carboidrati dalla dieta quotidiana",
+        "Assumere dosi elevate di glucosio prima dei pasti",
+        "Ridurre il lattosio usando alimenti senza lattosio o lattasi",
+        "Seguire una dieta priva di proteine animali"
+      ],
+      "answer": 3,
+      "explain": "La strategia consiste nel limitare il lattosio e, se serve, nell'assumere l'enzima lattasi mancante per via orale. Eliminare tutti i carboidrati è un distrattore eccessivo, perché il problema riguarda un solo disaccaride e non l'intera classe.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q043",
+      "q": "Perché lo yogurt e i formaggi stagionati sono spesso meglio tollerati del latte fresco?",
+      "choices": [
+        "Perché sono privi di calcio e di fosfati",
+        "Perché contengono meno lattosio, in parte fermentato",
+        "Perché contengono più lattasi umana attiva",
+        "Perché il loro lattosio è un monosaccaride semplice",
+        "Perché vengono assorbiti già nello stomaco senza digestione"
+      ],
+      "answer": 1,
+      "explain": "La fermentazione riduce il contenuto di lattosio dello yogurt e dei formaggi stagionati, che quindi provocano meno sintomi. Il lattosio resta un disaccaride e non un monosaccaride, quindi quella spiegazione è errata.",
+      "slide": 20
+    },
+    {
+      "id": "d02-b03-q044",
+      "q": "In quale forma i carboidrati attraversano la parete intestinale e raggiungono il sangue?",
+      "choices": [
+        "Come polisaccaridi intatti",
+        "Come disaccaridi intatti",
+        "Come monosaccaridi",
+        "Come trigliceridi",
+        "Come proteine veicolo"
+      ],
+      "answer": 2,
+      "explain": "I trasportatori dell'enterocita riconoscono e trasferiscono i monosaccaridi, che sono la forma assorbibile. I disaccaridi intatti sono il distrattore più insidioso, ma a livello della membrana del bordo a spazzola vengono già scissi nei monosaccaridi corrispondenti.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q045",
+      "q": "Quale via segue il glucosio assorbito dall'enterocita verso il fegato?",
+      "choices": [
+        "La vena porta",
+        "Il dotto toracico",
+        "L'arteria epatica",
+        "La vena cava inferiore direttamente",
+        "Il dotto biliare"
+      ],
+      "answer": 0,
+      "explain": "I monosaccaridi entrano nei capillari dei villi e confluiscono nella vena porta, che li porta direttamente al fegato. Il dotto toracico è il distrattore più tentante perché è una via di trasporto reale dell'intestino, ma è riservata ai lipidi sotto forma di chilomicroni.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q046",
+      "q": "Quale proteina dell'enterocita trasporta il glucosio dal lume alla cellula in modo sodio-dipendente?",
+      "choices": [
+        "SGLT1",
+        "GLUT5",
+        "GLUT2",
+        "La pompa sodio-potassio",
+        "La lattasi"
+      ],
+      "answer": 0,
+      "explain": "SGLT1 è il cotrasportatore che introduce glucosio insieme al sodio attraverso la membrana apicale. GLUT2 è il distrattore più insidioso perché trasporta glucosio, ma opera sulla membrana basolaterale verso il sangue.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q047",
+      "q": "Quale trasportatore media l'assorbimento del fruttosio nell'enterocita?",
+      "choices": [
+        "SGLT1",
+        "GLUT2",
+        "GLUT5",
+        "La pompa sodio-potassio",
+        "La maltasi"
+      ],
+      "answer": 2,
+      "explain": "Il fruttosio entra nell'enterocita attraverso GLUT5, un trasportatore specifico che non dipende dal sodio. SGLT1 è il distrattore più vicino perché è un trasportatore intestinale di zuccheri, ma è sodio-dipendente e dedicato al glucosio.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q048",
+      "q": "Quale pompa mantiene il gradiente di sodio necessario al trasporto attivo secondario del glucosio?",
+      "choices": [
+        "La pompa protonica gastrica",
+        "La calcio-ATPasi del reticolo",
+        "L'acquaporina apicale",
+        "La lattasi del bordo a spazzola",
+        "La pompa sodio-potassio basolaterale"
+      ],
+      "answer": 4,
+      "explain": "La pompa sodio-potassio espelle sodio dalla cellula e mantiene bassa la concentrazione intracellulare, alimentando indirettamente il cotrasporto SGLT1. L'acquaporina è tentante perché è una proteina di membrana intestinale, ma trasporta acqua e non sodio.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q049",
+      "q": "Quale affermazione descrive il destino dei monosaccaridi dopo l'assorbimento?",
+      "choices": [
+        "Restano nel lume fino alla fermentazione batterica del colon",
+        "Passano dall'enterocita ai capillari e raggiungono il fegato",
+        "Vengono escreti con la bile sotto forma di sali",
+        "Passano tutti nei vasi linfatici come chilomicroni",
+        "Vengono immagazzinati come amido nell'enterocita"
+      ],
+      "answer": 1,
+      "explain": "I monosaccaridi lasciano l'enterocita verso i capillari e raggiungono il fegato attraverso il circolo portale. La via linfatica dei chilomicroni è il distrattore più insidioso, ma riguarda i lipidi assorbiti e non gli zuccheri.",
+      "slide": 21
+    },
+    {
+      "id": "d02-b03-q050",
+      "q": "Perché il trasporto intestinale dei carboidrati è definito specifico?",
+      "choices": [
+        "Perché avviene per semplice diffusione attraverso il doppio strato",
+        "Perché riguarda qualsiasi molecola disciolta nel lume",
+        "Perché dipende soltanto dalla solubilità in acqua",
+        "Perché usa proteine trasportatrici specifiche per ogni zucchero",
+        "Perché avviene solo per pinocitosi da parte dell'enterocita"
+      ],
+      "answer": 3,
+      "explain": "Il glucosio e il fruttosio usano trasportatori distinti, SGLT1 e GLUT5, quindi il passaggio è selettivo e non generico. La diffusione semplice è il distrattore più tentante, ma gli zuccheri polari non attraversano liberamente il doppio strato lipidico.",
+      "slide": 21
+    }
+  ]
+}

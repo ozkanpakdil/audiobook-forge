@@ -1,0 +1,79 @@
+# Deck 5 — Proteine plasmatiche, enzimi, vitamine ed elettroliti (2025-11-11)
+# Batch 4 — argomento: Metabolismo intermedio, complesso della PDH e mitocondrio
+# Slide da 35 a 45
+
+### Slide 35
+METABOLISMO INTERMEDIO
+
+### Slide 36
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 37
+[Devlin T.M. Biochimica con aspetti clinici 5E, 2011, Edises]
+
+### Slide 38
+[Devlin T.M. Biochimica con aspetti clinici 5E, 2011, Edises]
+
+### Slide 39
+Complesso della PDH
+
+### Slide 40
+MITOCONDRIO
+
+### Slide 41
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 42
+H
+NH2 S
+VITAMINA B1 +
+N CH2 N
+CH2 CH2 OH
+CH3
+H3 C
+N
+tiamina (vit. B1)
+
+### Slide 43
+Fabbisogno Vitamina B1: 1,0-1,5 se dieta ricca di mg/die (maggiore glicidi)
+Beriberi: deficit di vitamina B1
+• alimentazione sbilanciata (solo riso brillato)
+• alcolismo
+• malassorbimento intestinale
+➢ Le lesioni neurologiche sono dovute al blocco della PirDH nel sistema nervoso
+
+### Slide 44
+Vitamina N
+➢ Non vi sono prove che
+nell’uomo vi sia necessità
+di assumere acido
+lipoico: quasi certamente
+lo sintetizziamo nelle
+quantità minime
+necessarie
+➢ La lipoamide si trova in
+quasi tutti i cibi, e in
+elevate quantità in spinaci,
+broccoli e pomodori, nel
+fegato e nel rene
+
+### Slide 45
+NH2
+➢ Coenzima A (CoA): derivato della
+Coenzima Vitamina B5
+A (CoA) N
+N
+H H H CH O O N N
+3
+HS CH CH N C CH CH N C C C CH O P O P O CH2 O
+2 2 2 2 2
+O O OH CH O O
+3 H H H
+H
+beta-mercapto- acido pantotenico (vit. B5) O OH
+etilammina
+(cisteammina) O P O
+O
+3'-fosfo-ADP
+• Fabbisogno Vitamina B5: 10 mg/die
+• La carenza nell’uomo è sconosciuta

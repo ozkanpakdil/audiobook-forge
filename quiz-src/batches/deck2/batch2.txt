@@ -1,0 +1,41 @@
+# Deck 2 — Metabolismo energetico e metabolismo dei carboidrati (2025-10-22)
+# Batch 2 — argomento: Catabolismo, anabolismo, ossidoriduzioni e ATP
+# Slide da 9 a 14
+
+### Slide 9
+➢ Ricaviamo energia chimica (ATP) dagli alimenti.
+➢ Quanta energia (ATP) contengono i nostri alimenti?
+
+### Slide 10
+Valore calorico degli alimenti
+• carboidrati = 4,1 kcal/g = 17 kJ/g
+• lipidi = 9,3 kcal/g = 39 kJ/g
+• proteine = 4,1 kcal/g = 17 kJ/g
+• alcol = 7 kcal/g
+➢ Chilocaloria (kcal): è l’energia richiesta per aumentare di 1°C (da
+14,5 a 15,5°C) la temperatura di 1 kg di acqua ed equivale alla
+Caloria nutrizionale (Cal) e a 4,18 kJ.
+
+### Slide 11
+ENERGIA = ATP
+Mg++
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 12
+CATABOLISMO
+PRODUZIONE di ATP
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 13
+l’ATP è una valuta energetica universale in tutte le cellule
+➢ lavoro meccanico (contrazione muscolare)
+➢ trasporto transmembrana
+➢ biosintesi chimica
+➢ conservazione dell’informazione genetica
+
+### Slide 14
+METABOLISMO
+• CARBOIDRATI
+• LIPIDI
+• PROTEINE
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]

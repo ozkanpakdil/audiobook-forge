@@ -1,0 +1,42 @@
+[
+ {
+  "deck": 1,
+  "date": "2025-10-15",
+  "title": "Chimica generale e propedeutica biochimica",
+  "slides": 119,
+  "empty_slides": 5,
+  "words": 3102
+ },
+ {
+  "deck": 2,
+  "date": "2025-10-22",
+  "title": "Metabolismo energetico e metabolismo dei carboidrati",
+  "slides": 85,
+  "empty_slides": 9,
+  "words": 2030
+ },
+ {
+  "deck": 3,
+  "date": "2025-10-30",
+  "title": "Metabolismo dei lipidi",
+  "slides": 76,
+  "empty_slides": 6,
+  "words": 2504
+ },
+ {
+  "deck": 4,
+  "date": "2025-11-05",
+  "title": "Metabolismo del colesterolo e delle proteine",
+  "slides": 73,
+  "empty_slides": 5,
+  "words": 2204
+ },
+ {
+  "deck": 5,
+  "date": "2025-11-11",
+  "title": "Proteine plasmatiche, enzimi, vitamine ed elettroliti",
+  "slides": 81,
+  "empty_slides": 11,
+  "words": 1724
+ }
+]

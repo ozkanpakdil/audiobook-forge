@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 7,
+  "topic": "Sintesi dell'ATP, termogenesi e termogenina",
+  "questions": [
+    {
+      "id": "d05-b07-q001",
+      "q": "Quale enzima catalizza la sintesi di ATP sfruttando il gradiente protonico mitocondriale?",
+      "choices": [
+        "L'ATP sintasi F0F1 della membrana interna",
+        "La citocromo c ossidasi del complesso IV",
+        "La succinato deidrogenasi del complesso II",
+        "La fosfofruttochinasi della glicolisi",
+        "La piruvato chinasi della glicolisi"
+      ],
+      "answer": 0,
+      "explain": "L'ATP sintasi accoppia il ritorno dei protoni nella matrice alla condensazione di ADP e fosfato inorganico in ATP. La citocromo c ossidasi appartiene invece alla catena di trasporto degli elettroni e riduce l'ossigeno ad acqua senza sintetizzare ATP.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q002",
+      "q": "In quale compartimento del mitocondrio avviene la sintesi della maggior parte dell'ATP?",
+      "choices": [
+        "Nello spazio intermembrana",
+        "Nella matrice mitocondriale",
+        "Nel citosol",
+        "Nella membrana mitocondriale esterna",
+        "Nel reticolo endoplasmatico liscio"
+      ],
+      "answer": 1,
+      "explain": "La porzione catalitica F1 dell'ATP sintasi sporge nella matrice, dove avviene la conversione di ADP in ATP. Il citosol è la sede della glicolisi, che produce ATP per fosforilazione a livello del substrato ma non è la sede della fosforilazione ossidativa.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q003",
+      "q": "Da quale evento deriva direttamente l'energia utilizzata dall'ATP sintasi per formare ATP?",
+      "choices": [
+        "Dall'idrolisi diretta del NADH ad opera dell'ADP",
+        "Dalla decarbossilazione ossidativa del piruvato",
+        "Dal flusso di protoni che rientrano nella matrice secondo gradiente",
+        "Dal trasferimento di elettroni dall'ossigeno ai complessi respiratori",
+        "Dall'idrolisi del GTP in GDP e fosfato"
+      ],
+      "answer": 2,
+      "explain": "L'ATP sintasi sfrutta la forza proton-motrice: i protoni accumulati nello spazio intermembrana rientrano nella matrice attraverso il canale F0 e la loro energia libera sostiene la fosforilazione dell'ADP. Il NADH non cede energia direttamente all'ADP, ma alimenta la catena respiratoria che genera il gradiente.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q004",
+      "q": "Quante molecole di ATP si ottengono complessivamente, in via approssimativa, dall'ossidazione completa di una molecola di glucosio?",
+      "choices": [
+        "Circa due molecole di ATP per glucosio",
+        "Circa quattro molecole di ATP per glucosio",
+        "Circa dodici molecole di ATP per glucosio",
+        "Circa trenta o trentadue molecole di ATP",
+        "Circa cento molecole di ATP per glucosio"
+      ],
+      "answer": 3,
+      "explain": "Sommando il contributo della glicolisi, del ciclo di Krebs e della fosforilazione ossidativa, il rendimento stimato è di circa trenta o trentadue molecole di ATP per glucosio. Due molecole è il bilancio netto della sola glicolisi, che trascura la grande quota prodotta dalla catena respiratoria.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q005",
+      "q": "Che cosa esprime il rapporto P/O nella fosforilazione ossidativa?",
+      "choices": [
+        "Il numero di protoni pompati per ogni elettrone trasferito",
+        "La velocità di consumo dell'ossigeno in presenza di un disaccoppiante",
+        "La quantità di calore prodotta per mole di glucosio ossidata",
+        "Il rapporto fra piruvato e ossigeno nella matrice",
+        "Il numero di molecole di ATP sintetizzate per atomo di ossigeno consumato"
+      ],
+      "answer": 4,
+      "explain": "Il rapporto P/O indica le moli di fosfato inorganico incorporate in ATP per ogni atomo di ossigeno ridotto dalla catena respiratoria, ed è quindi una misura dell'accoppiamento. Quando il gradiente viene dissipato da un disaccoppiante questo rapporto diminuisce, non aumenta.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q006",
+      "q": "Come si chiama il meccanismo catalitico dell'ATP sintasi basato su tre siti che assumono conformazioni diverse?",
+      "choices": [
+        "Modello a ping-pong",
+        "Catalisi acido-base concertata",
+        "Modello del trasporto attivo secondario",
+        "Meccanismo del colpo di forza",
+        "Meccanismo di cambiamento di legame"
+      ],
+      "answer": 4,
+      "explain": "Nel meccanismo di cambiamento di legame i tre siti beta della testa F1 si trovano in conformazioni diverse e la rotazione della subunità gamma ne modifica ciclicamente l'affinità per i substrati. Il modello a ping-pong descrive invece il comportamento di alcuni enzimi a due substrati e non il rotore dell'ATP sintasi.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q007",
+      "q": "Quale parte dell'ATP sintasi ruota durante la catalisi?",
+      "choices": [
+        "Solo la subunità alfa della testa F1",
+        "La membrana mitocondriale esterna",
+        "Il complesso II della catena respiratoria",
+        "La subunità gamma insieme all'anello c di F0",
+        "Il traslocatore dell'ADP e del fosfato"
+      ],
+      "answer": 3,
+      "explain": "Il flusso di protoni attraverso l'anello c di F0 induce la rotazione dell'anello e della subunità gamma, che a sua volta deforma ciclicamente i siti catalitici beta. Le subunità alfa hanno funzione strutturale e non ruotano, mentre il traslocatore ADP/ATP serve solo a scambiare i nucleotidi con il citosol.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q008",
+      "q": "Perché la sintesi mitocondriale di ATP è definita fosforilazione ossidativa?",
+      "choices": [
+        "Perché l'ADP viene fosforilato direttamente dall'acqua ossigenata",
+        "Perché l'ATP viene prodotto solo in assenza di ossigeno molecolare",
+        "Perché l'ossidazione dei substrati alimenta la catena di trasporto degli elettroni",
+        "Perché l'ossigeno viene incorporato direttamente nella molecola di ATP",
+        "Perché il fosfato inorganico viene ossidato prima di essere trasferito all'ADP"
+      ],
+      "answer": 2,
+      "explain": "Il nome indica che la fosforilazione dell'ADP è sostenuta dall'energia liberata dall'ossidazione dei coenzimi ridotti lungo la catena respiratoria. L'ossigeno non entra nella molecola di ATP: viene ridotto ad acqua come accettore finale degli elettroni.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q009",
+      "q": "La fosforilazione dell'ADP ad ATP è una reazione endoergonica: come viene resa possibile?",
+      "choices": [
+        "Viene accoppiata all'idrolisi di una seconda molecola di ATP",
+        "Viene accoppiata al rientro dei protoni attraverso l'ATP sintasi",
+        "Viene resa spontanea dal fatto che l'ADP è instabile in soluzione",
+        "Viene resa possibile dall'ossidazione diretta del fosfato inorganico",
+        "Viene sostenuta dall'aumento della temperatura corporea"
+      ],
+      "answer": 1,
+      "explain": "La formazione del legame fosfoanidridico richiede energia libera positiva, che viene fornita dal flusso di protoni secondo gradiente attraverso l'ATP sintasi. Accoppiarla all'idrolisi di un'altra molecola di ATP non avrebbe senso, perché il bilancio energetico resterebbe nullo o addirittura negativo.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q010",
+      "q": "Quale funzione svolge il traslocatore ADP/ATP della membrana mitocondriale interna?",
+      "choices": [
+        "Scambia l'ATP appena formato con l'ADP citosolico",
+        "Sintetizza ATP utilizzando direttamente l'ossigeno",
+        "Pompa protoni dalla matrice allo spazio intermembrana",
+        "Trasporta gli elettroni dal NADH al coenzima Q",
+        "Idrolizza l'ATP quando il gradiente diminuisce"
+      ],
+      "answer": 0,
+      "explain": "Il traslocatore adenin-nucleotide introduce l'ADP nella matrice ed esporta l'ATP verso il citosol, dove viene utilizzato dalle cellule. Il pompaggio dei protoni è compito dei complessi della catena respiratoria e non di questo scambiatore di nucleotidi.",
+      "slide": 68
+    },
+    {
+      "id": "d05-b07-q011",
+      "q": "Chi ha proposto il modello chemiosmotico della sintesi di ATP?",
+      "choices": [
+        "Peter Mitchell",
+        "Hans Krebs",
+        "Fritz Lipmann",
+        "Melvin Calvin",
+        "Otto Warburg"
+      ],
+      "answer": 0,
+      "explain": "Il modello chemiosmotico fu formulato da Peter Mitchell, che interpretò il mitocondrio come una pila capace di accumulare energia separando cariche ai due lati della membrana interna. Hans Krebs descrisse invece il ciclo degli acidi tricarbossilici e Lipmann il ruolo del coenzima A e dei legami ad alta energia.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q012",
+      "q": "Nel modello chemiosmotico, in quale forma il mitocondrio accumula l'energia destinata alla sintesi di ATP?",
+      "choices": [
+        "Sotto forma di legami fosfoanidridici immagazzinati nel citosol",
+        "Sotto forma di separazione di cariche ai lati della membrana interna",
+        "Sotto forma di calore trattenuto e accumulato nella matrice mitocondriale",
+        "Sotto forma di NADH accumulato nello spazio intermembrana",
+        "Sotto forma di ATP stoccato nella membrana mitocondriale esterna"
+      ],
+      "answer": 1,
+      "explain": "Secondo Mitchell l'energia viene conservata come separazione di cariche: i protoni positivi si accumulano da un lato della membrana interna mentre l'altro lato resta negativo. Questa differenza di carica e di pH costituisce la forza proton-motrice e non un legame chimico ad alta energia.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q013",
+      "q": "Quali due componenti costituiscono la forza proton-motrice?",
+      "choices": [
+        "La temperatura mitocondriale e la pressione osmotica",
+        "La concentrazione di ATP e quella di ADP nella matrice",
+        "La differenza di pH e il potenziale elettrico di membrana",
+        "La concentrazione di ossigeno e quella di anidride carbonica",
+        "La viscosità della membrana e la sua composizione in colesterolo"
+      ],
+      "answer": 2,
+      "explain": "La forza proton-motrice somma il contributo chimico, cioè la differenza di concentrazione dei protoni, e il contributo elettrico, cioè la differenza di potenziale attraverso la membrana interna. I gradienti di ATP, ADP o dei gas respiratori non sono componenti di questa forza motrice.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q014",
+      "q": "Quale proprietà della membrana mitocondriale interna è indispensabile perché il modello chemiosmotico funzioni?",
+      "choices": [
+        "La capacità di lasciar passare liberamente i protoni",
+        "L'assenza completa di proteine integrali",
+        "La permeabilità selettiva ai soli ioni calcio",
+        "La sua elevata impermeabilità ai protoni",
+        "La presenza di porine che attraversano il doppio strato"
+      ],
+      "answer": 3,
+      "explain": "Se la membrana interna fosse permeabile ai protoni, il gradiente si dissiperebbe immediatamente e l'energia verrebbe dispersa come calore. Le porine sono presenti nella membrana esterna, che è infatti liberamente permeabile a molte piccole molecole.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q015",
+      "q": "Verso quale compartimento vengono pompati i protoni dalla catena di trasporto degli elettroni?",
+      "choices": [
+        "Verso la matrice mitocondriale",
+        "Verso il citosol attraverso la membrana esterna",
+        "Verso l'interno delle creste, cioè nella matrice",
+        "Verso il reticolo endoplasmatico",
+        "Verso lo spazio intermembrana"
+      ],
+      "answer": 4,
+      "explain": "I complessi della catena respiratoria pompano protoni dalla matrice verso lo spazio intermembrana, che diventa così più acido e positivo. Il successivo rientro nella matrice attraverso l'ATP sintasi fornisce l'energia necessaria per la fosforilazione dell'ADP.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q016",
+      "q": "Che effetto produce un disaccoppiante come il 2,4-dinitrofenolo sulla fosforilazione ossidativa?",
+      "choices": [
+        "Aumenta la sintesi di ATP senza modificare il consumo di ossigeno",
+        "Blocca in modo irreversibile il complesso IV della catena respiratoria mitocondriale",
+        "Dissipa il gradiente protonico, accelera il consumo di ossigeno e genera calore",
+        "Impedisce il passaggio degli elettroni dal NADH al coenzima Q della catena",
+        "Stimola l'ATP sintasi favorendo il rientro ordinato dei protoni nella matrice"
+      ],
+      "answer": 2,
+      "explain": "Il dinitrofenolo trasporta protoni attraverso la membrana interna e cortocircuita il gradiente: l'energia della respirazione si trasforma in calore e la sintesi di ATP crolla. Il blocco del complesso IV è tipico del cianuro e del monossido di carbonio, non dei disaccoppianti.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q017",
+      "q": "Che cosa provoca l'oligomicina, inibitore dell'ATP sintasi?",
+      "choices": [
+        "Aumenta la sintesi di ATP bloccando il consumo di ossigeno",
+        "Dissipa il gradiente protonico trasformandolo in calore",
+        "Accelera il trasporto degli elettroni nella catena respiratoria",
+        "Blocca il canale F0, arresta la sintesi di ATP e rallenta la respirazione",
+        "Trasferisce i protoni dalla matrice allo spazio intermembrana"
+      ],
+      "answer": 3,
+      "explain": "L'oligomicina chiude il canale protonico F0: i protoni non possono rientrare nella matrice, l'ATP non viene più formato e il gradiente accumulato frena il trasporto degli elettroni. La dissipazione del gradiente in calore è invece l'effetto caratteristico dei disaccoppianti.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q018",
+      "q": "Perché l'avvelenamento da cianuro arresta rapidamente la sintesi di ATP?",
+      "choices": [
+        "Perché idrolizza l'ATP già accumulato nella matrice mitocondriale",
+        "Perché rende permeabile ai protoni la membrana mitocondriale interna",
+        "Perché inibisce direttamente l'ATP sintasi legandosi alla subunità beta",
+        "Perché impedisce l'ingresso dell'ADP nella matrice mitocondriale",
+        "Perché inibisce la citocromo c ossidasi e blocca il trasporto degli elettroni"
+      ],
+      "answer": 4,
+      "explain": "Il cianuro blocca la citocromo c ossidasi, ultimo complesso della catena respiratoria: senza flusso di elettroni non si genera più il gradiente protonico che alimenta l'ATP sintasi. Il cianuro non agisce come disaccoppiante e non inibisce direttamente l'ATP sintasi.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q019",
+      "q": "In che senso l'accoppiamento chemiosmotico è definito indiretto?",
+      "choices": [
+        "Perché i due processi sono collegati dal gradiente protonico e non da un intermedio comune",
+        "Perché gli elettroni passano direttamente dall'ADP all'ossigeno senza catena",
+        "Perché l'ATP viene formato senza alcun consumo di energia da parte della cellula",
+        "Perché la sintesi di ATP avviene nel citosol invece che nella matrice mitocondriale",
+        "Perché il fosfato inorganico viene trasferito all'ADP senza l'intervento di enzimi"
+      ],
+      "answer": 0,
+      "explain": "Il modello chemiosmotico prevede che i due processi comunichino solo attraverso il gradiente di protoni, senza un intermedio chimico ad alta energia come ipotizzavano i modelli precedenti. L'ossigeno riceve elettroni dalla catena e non dall'ADP, e l'ATP si forma nella matrice grazie all'ATP sintasi.",
+      "slide": 69
+    },
+    {
+      "id": "d05-b07-q020",
+      "q": "Che cosa si intende per acqua metabolica?",
+      "choices": [
+        "L'acqua assunta con gli alimenti solidi e con le bevande",
+        "L'acqua prodotta riducendo l'ossigeno nella respirazione cellulare",
+        "L'acqua contenuta nel plasma e nei liquidi interstiziali del corpo",
+        "L'acqua eliminata con l'urina, il sudore e la respirazione",
+        "L'acqua che si forma esclusivamente durante la fotosintesi"
+      ],
+      "answer": 1,
+      "explain": "L'acqua metabolica, detta anche acqua di ossidazione, nasce dalla riduzione dell'ossigeno molecolare ad acqua nella catena respiratoria. Non deriva dall'assunzione di liquidi né dal contenuto idrico dei tessuti e non ha nulla a che vedere con la fotosintesi.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q021",
+      "q": "Quanta acqua metabolica produce approssimativamente ogni giorno la respirazione di un organismo umano?",
+      "choices": [
+        "Circa trenta millilitri al giorno",
+        "Circa trecento millilitri al giorno",
+        "Circa tre litri al giorno",
+        "Circa trenta litri al giorno",
+        "Circa mezzo litro al giorno"
+      ],
+      "answer": 1,
+      "explain": "La respirazione cellulare produce ogni giorno all'incirca trecento millilitri di acqua metabolica, una frazione significativa del bilancio idrico quotidiano. Trenta litri è un valore enormemente superiore all'intera massa d'acqua corporea e non è compatibile con il bilancio giornaliero.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q022",
+      "q": "Quale percentuale del volume totale di acqua gestito ogni giorno dall'organismo umano è rappresentata dall'acqua metabolica?",
+      "choices": [
+        "Circa il quindici per cento",
+        "Circa il cinquanta per cento",
+        "Circa l'ottanta per cento",
+        "Circa il due per cento",
+        "Circa il novantacinque per cento"
+      ],
+      "answer": 0,
+      "explain": "Delle migliaia di millilitri che un organismo umano assume ed elimina quotidianamente, circa il quindici per cento è costituito da acqua metabolica. Il cinquanta per cento è una sovrastima grossolana, perché la maggior parte dell'acqua proviene dalle bevande e dagli alimenti.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q023",
+      "q": "Quanto vale complessivamente, secondo le stime, il volume di acqua che un organismo umano assume ed elimina ogni giorno?",
+      "choices": [
+        "Circa duecentodieci millilitri",
+        "Circa ventuno litri",
+        "Circa cinquecento millilitri",
+        "Circa mille litri",
+        "Circa duemilacento millilitri"
+      ],
+      "answer": 4,
+      "explain": "Il bilancio idrico giornaliero di una persona adulta si aggira intorno a duemilacento millilitri, fra acqua esogena e acqua metabolica. Duecentodieci millilitri sottostimano di dieci volte il valore reale e corrispondono solo a una piccola parte dell'acqua metabolica.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q024",
+      "q": "Perché i lipidi accumulati nelle gobbe dei cammelli rappresentano una riserva utile durante i lunghi viaggi nel deserto?",
+      "choices": [
+        "Perché si trasformano in acqua senza essere ossidati",
+        "Perché impediscono la perdita di elettroliti attraverso la cute",
+        "Perché sostituiscono completamente l'ossigeno nella respirazione",
+        "Perché forniscono sia energia sia acqua quando vengono ossidati",
+        "Perché assorbono l'acqua dall'umidità notturna"
+      ],
+      "answer": 3,
+      "explain": "L'ossidazione dei grassi produce energia e libera acqua metabolica, per cui la gobba funziona come riserva energetica e idrica insieme. I lipidi non si convertono in acqua senza essere ossidati, perché l'acqua nasce proprio dalla riduzione dell'ossigeno durante la loro ossidazione.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q025",
+      "q": "Come può il topo canguro sopravvivere per un tempo indefinito senza bere acqua?",
+      "choices": [
+        "Bevendo la rugiada che si deposita sul pelo",
+        "Utilizzando l'acqua contenuta esclusivamente nell'aria inspirata",
+        "Alimentandosi di semi ricchi di lipidi che forniscono acqua metabolica",
+        "Ricavando acqua dalla degradazione delle proteine muscolari",
+        "Assorbendo acqua direttamente dalla sabbia umida"
+      ],
+      "answer": 2,
+      "explain": "Il topo canguro si nutre di semi ricchi di lipidi e la loro ossidazione libera abbastanza acqua metabolica da coprire il fabbisogno, limitando al minimo le perdite. La rugiada e l'acqua contenuta nell'aria non sono sufficienti a mantenere il bilancio idrico di un mammifero attivo.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q026",
+      "q": "Perché, a parità di massa, i lipidi forniscono più acqua metabolica dei carboidrati?",
+      "choices": [
+        "Perché contengono più ossigeno e meno idrogeno nella molecola",
+        "Perché vengono ossidati senza consumo di ossigeno molecolare",
+        "Perché producono anidride carbonica invece di acqua metabolica",
+        "Perché sono più ricchi di idrogeno, che si ossida formando acqua",
+        "Perché contengono azoto che si combina con l'ossigeno dell'aria"
+      ],
+      "answer": 3,
+      "explain": "I lipidi sono molecole molto ridotte, cioè ricche di idrogeno: ossidandoli si forma una quantità di acqua maggiore rispetto ai carboidrati, che sono più ossigenati. L'azoto non è un componente tipico dei trigliceridi e non partecipa alla formazione dell'acqua metabolica.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q027",
+      "q": "Quale reazione genera l'acqua metabolica nella catena respiratoria?",
+      "choices": [
+        "La scissione dell'acqua ossigenata in radicali liberi tossici",
+        "La condensazione di due molecole di ADP in una di ATP",
+        "La riduzione del piruvato ad acido lattico nel citosol",
+        "La decarbossilazione dell'acetil coenzima A nella matrice",
+        "La riduzione dell'ossigeno ad acqua con elettroni e protoni"
+      ],
+      "answer": 4,
+      "explain": "Nella catena respiratoria l'ossigeno è l'accettore finale degli elettroni e, ricevendo quattro elettroni e quattro protoni, viene ridotto ad acqua. La decarbossilazione ossidativa del piruvato libera anidride carbonica e non acqua metabolica.",
+      "slide": 70
+    },
+    {
+      "id": "d05-b07-q028",
+      "q": "Che cosa distingue il complesso II dagli altri complessi della catena respiratoria?",
+      "choices": [
+        "Riceve gli elettroni dal FADH2 e non pompa protoni",
+        "Riceve gli elettroni direttamente dall'ossigeno",
+        "È l'unico complesso in grado di idrolizzare l'ATP",
+        "Trasferisce i protoni dallo spazio intermembrana alla matrice",
+        "Contiene l'anello c responsabile della rotazione"
+      ],
+      "answer": 0,
+      "explain": "Il complesso II, o succinato deidrogenasi, introduce gli elettroni provenienti dal FADH2 ma non accoppia questo trasferimento al pompaggio di protoni. Il trasporto protonico è invece tipico dei complessi I, III e IV, mentre l'anello c appartiene all'ATP sintasi.",
+      "slide": 71
+    },
+    {
+      "id": "d05-b07-q029",
+      "q": "Quali molecole trasportano gli elettroni fra i complessi respiratori?",
+      "choices": [
+        "L'ATP e il fosfato inorganico",
+        "Il coenzima Q e il citocromo c",
+        "Il glucosio e il piruvato",
+        "La carnitina e il malonil coenzima A",
+        "Il ferro e il rame liberi nel citosol"
+      ],
+      "answer": 1,
+      "explain": "Il coenzima Q, lipofilo, si muove dentro la membrana e collega i complessi I e II al complesso III, mentre il citocromo c, idrofilo, trasferisce gli elettroni dal complesso III al complesso IV sul versante intermembrana. ATP e fosfato non sono trasportatori di elettroni.",
+      "slide": 71
+    },
+    {
+      "id": "d05-b07-q030",
+      "q": "Dove si trovano i siti catalitici responsabili della formazione dell'ATP nell'ATP sintasi?",
+      "choices": [
+        "Nella subunità c dell'anello di F0, che forma il canale protonico",
+        "Nel coenzima Q, che trasporta elettroni nella membrana interna",
+        "Nelle subunità beta della testa F1, che sporge verso la matrice",
+        "Nel complesso III, che pompa protoni verso lo spazio intermembrana",
+        "Nella membrana mitocondriale esterna, ricca di porine"
+      ],
+      "answer": 2,
+      "explain": "I siti catalitici si trovano nelle subunità beta della porzione F1, che sporge nella matrice dove sono disponibili ADP e fosfato. L'anello c di F0 forma il canale protonico e trasmette la rotazione, ma non catalizza la sintesi dell'ATP.",
+      "slide": 71
+    },
+    {
+      "id": "d05-b07-q031",
+      "q": "Quale complesso della catena respiratoria riduce direttamente l'ossigeno molecolare ad acqua?",
+      "choices": [
+        "Il complesso I, NADH deidrogenasi",
+        "Il complesso II, succinato deidrogenasi",
+        "Il complesso IV, citocromo c ossidasi",
+        "Il complesso V, ATP sintasi",
+        "Il coenzima Q"
+      ],
+      "answer": 2,
+      "explain": "Il complesso IV, o citocromo c ossidasi, cede gli elettroni all'ossigeno e lo converte in acqua, completando la catena respiratoria. Il complesso I trasferisce gli elettroni dal NADH al coenzima Q e pompa protoni, ma non interagisce direttamente con l'ossigeno.",
+      "slide": 71
+    },
+    {
+      "id": "d05-b07-q032",
+      "q": "Quali complessi della catena respiratoria pompano protoni dalla matrice verso lo spazio intermembrana?",
+      "choices": [
+        "I complessi I, III e IV",
+        "Solo il complesso II",
+        "I complessi II e V",
+        "Solo il complesso IV",
+        "Il coenzima Q e il citocromo c"
+      ],
+      "answer": 0,
+      "explain": "I complessi I, III e IV accoppiano il trasferimento di elettroni al pompaggio di protoni e costruiscono così la forza proton-motrice. Il complesso II non pompa protoni, mentre il coenzima Q e il citocromo c si limitano a trasportare elettroni fra i complessi.",
+      "slide": 71
+    },
+    {
+      "id": "d05-b07-q033",
+      "q": "Che cosa si intende per termogenesi?",
+      "choices": [
+        "La produzione di ATP a partire dal calore corporeo",
+        "La produzione di calore da parte dell'organismo",
+        "La dispersione dei lipidi attraverso le feci",
+        "La sintesi di glucosio a partire da precursori non glucidici",
+        "Il trasporto di ossigeno da parte dell'emoglobina"
+      ],
+      "answer": 1,
+      "explain": "La termogenesi è la produzione di calore, indispensabile per mantenere la temperatura corporea, e può essere brividante o non brividante. La sintesi di glucosio da precursori non glucidici si chiama gluconeogenesi e non ha come scopo primario la produzione di calore.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q034",
+      "q": "Quale affermazione distingue correttamente la termogenesi brividante da quella non brividante?",
+      "choices": [
+        "La termogenesi brividante avviene solo negli animali che vanno in letargo",
+        "La termogenesi non brividante dipende dalla contrazione muscolare ritmica dei muscoli scheletrici",
+        "La termogenesi brividante è la forma tipica del tessuto adiposo bruno ricco di termogenina",
+        "La termogenesi brividante e quella non brividante sono due forme identiche che differiscono solo per la durata",
+        "La termogenesi brividante dipende dalla contrazione dei muscoli, quella non brividante dal disaccoppiamento"
+      ],
+      "answer": 4,
+      "explain": "Il brivido produce calore attraverso contrazioni muscolari ritmiche che consumano ATP, mentre la termogenesi non brividante sfrutta la dissipazione del gradiente protonico nei mitocondri. Attribuire il brivido al tessuto adiposo bruno è errato, perché quel tessuto è la sede principale della termogenesi non brividante.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q035",
+      "q": "Nella termogenesi non brividante, che fine fa l'energia del gradiente protonico?",
+      "choices": [
+        "Viene convertita in ATP con un rendimento maggiore",
+        "Viene immagazzinata sotto forma di NADH nella matrice",
+        "Viene usata per sintetizzare glucosio nel fegato",
+        "Viene dissipata come calore invece di formare ATP",
+        "Viene trasferita all'ossigeno come potenziale elettrico"
+      ],
+      "answer": 3,
+      "explain": "Quando i protoni rientrano nella matrice senza passare dall'ATP sintasi, l'energia del gradiente si libera sotto forma di calore. Proprio per questo il rendimento in ATP diminuisce mentre la produzione di calore aumenta.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q036",
+      "q": "Che cosa sono le proteine disaccoppianti indicate con la sigla UCP?",
+      "choices": [
+        "Enzimi che idrolizzano l'ATP in ADP e fosfato nella matrice",
+        "Trasportatori che introducono gli acidi grassi nella matrice",
+        "Canali che permettono il passaggio degli elettroni all'ossigeno",
+        "Proteine che legano l'ADP impedendo la fosforilazione",
+        "Proteine che lasciano rientrare i protoni dissipando il gradiente"
+      ],
+      "answer": 4,
+      "explain": "Le proteine disaccoppianti formano vie alternative per il rientro dei protoni e separano così il trasporto di elettroni dalla sintesi di ATP. Non sono enzimi idrolitici né trasportatori di acidi grassi: la loro funzione specifica è dissipare la forza proton-motrice.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q037",
+      "q": "Quale effetto hanno gli ormoni tiroidei sul metabolismo energetico?",
+      "choices": [
+        "Riducono il consumo di ossigeno e la produzione di calore",
+        "Bloccano completamente la catena respiratoria",
+        "Stimolano il consumo di ossigeno e la termogenesi",
+        "Inibiscono selettivamente l'ATP sintasi",
+        "Impediscono la sintesi delle proteine disaccoppianti"
+      ],
+      "answer": 2,
+      "explain": "Gli ormoni tiroidei aumentano il metabolismo basale, il consumo di ossigeno e la produzione di calore, contribuendo alla termogenesi. Un loro deficit riduce la spesa energetica e la tolleranza al freddo, mentre un eccesso aumenta la produzione di calore.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q038",
+      "q": "Quale stimolo attiva fisiologicamente la termogenesi non brividante nel tessuto adiposo bruno?",
+      "choices": [
+        "L'aumento della concentrazione di insulina nel sangue dopo il pasto",
+        "La riduzione della temperatura corporea ottenuta con il riposo",
+        "L'aumento della pressione parziale di anidride carbonica nel sangue",
+        "L'esposizione al freddo, mediata dalla noradrenalina del sistema simpatico",
+        "La diminuzione del consumo di ossigeno nei mitocondri del tessuto"
+      ],
+      "answer": 3,
+      "explain": "Il freddo attiva il sistema nervoso simpatico, che libera noradrenalina e stimola la lipolisi e l'attività delle proteine disaccoppianti nel tessuto bruno. L'insulina favorisce l'accumulo di riserve energetiche e non è il segnale principale di attivazione termogenica.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q039",
+      "q": "Che effetto ha il disaccoppiamento sulla sintesi di ATP e sul rapporto P/O?",
+      "choices": [
+        "La sintesi di ATP diminuisce e il rapporto P/O si riduce",
+        "La sintesi di ATP aumenta e il rapporto P/O si riduce",
+        "La sintesi di ATP e il rapporto P/O restano invariati",
+        "La sintesi di ATP si interrompe ma il rapporto P/O aumenta",
+        "La sintesi di ATP aumenta insieme al rapporto P/O"
+      ],
+      "answer": 0,
+      "explain": "Se i protoni rientrano senza passare dall'ATP sintasi, si formano meno molecole di ATP per atomo di ossigeno ridotto e quindi il rapporto P/O diminuisce. Un aumento del rapporto P/O durante il disaccoppiamento è impossibile, perché il legame fra respirazione e fosforilazione si allenta.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q040",
+      "q": "Quale tessuto è il principale responsabile della termogenesi brividante?",
+      "choices": [
+        "Il fegato, che libera calore dal metabolismo dei nutrienti",
+        "Il muscolo scheletrico, che produce calore con contrazioni ritmiche",
+        "Il tessuto adiposo bianco, che accumula trigliceridi come riserva",
+        "Il polmone, che libera calore nell'aria espirata durante la ventilazione",
+        "Il rene, che libera calore riassorbendo i soluti dal filtrato"
+      ],
+      "answer": 1,
+      "explain": "Il brivido consiste in contrazioni muscolari involontarie e rapide del muscolo scheletrico, che liberano calore dall'idrolisi dell'ATP. Il fegato contribuisce al metabolismo basale ma non è la sede principale del brivido termogenico.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q041",
+      "q": "Quale situazione fisiologica comporta un marcato aumento della termogenesi?",
+      "choices": [
+        "Il digiuno prolungato con riposo assoluto",
+        "Il risveglio dal letargo e l'esposizione prolungata al freddo",
+        "L'aumento dell'umidità ambientale",
+        "L'assunzione di un pasto ricco di carboidrati a temperatura ambiente",
+        "Il sonno profondo in un ambiente caldo"
+      ],
+      "answer": 1,
+      "explain": "Durante il risveglio dal letargo e nelle condizioni di freddo prolungato l'organismo aumenta la produzione di calore per riportare la temperatura corporea ai valori normali. Un pasto a temperatura ambiente o il riposo in ambiente caldo non richiedono un aumento della termogenesi.",
+      "slide": 72
+    },
+    {
+      "id": "d05-b07-q042",
+      "q": "Che cos'è la termogenina?",
+      "choices": [
+        "Un ormone tiroideo che aumenta il metabolismo basale",
+        "Un enzima che idrolizza i trigliceridi nel tessuto adiposo",
+        "La proteina disaccoppiante UCP1 della membrana mitocondriale interna",
+        "Un enzima della catena respiratoria che riduce l'ossigeno ad acqua",
+        "Un trasportatore di glucosio presente nel tessuto adiposo bianco"
+      ],
+      "answer": 2,
+      "explain": "La termogenina, o UCP1, è una proteina della membrana mitocondriale interna del tessuto adiposo bruno che permette il rientro dei protoni senza sintesi di ATP. Non è un ormone né un enzima idrolitico: la sua azione consiste nel dissipare il gradiente protonico in calore.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q043",
+      "q": "Come agisce la termogenina sulla membrana mitocondriale interna?",
+      "choices": [
+        "Blocca il trasferimento degli elettroni al complesso IV della catena",
+        "Idrolizza l'ATP accumulato nella matrice mitocondriale",
+        "Impedisce l'ingresso dell'ADP nella matrice attraverso il traslocatore",
+        "Forma un canale che lascia rientrare i protoni nella matrice",
+        "Aumenta il pompaggio dei protoni nello spazio intermembrana"
+      ],
+      "answer": 3,
+      "explain": "La termogenina crea una via di fuga per i protoni, che rientrano nella matrice senza passare dall'ATP sintasi: l'energia del gradiente viene così dissipata come calore. Non inibisce la catena respiratoria, che anzi accelera proprio perché il gradiente viene continuamente abbassato.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q044",
+      "q": "Quali caratteristiche morfologiche contraddistinguono il tessuto adiposo bruno?",
+      "choices": [
+        "Un'unica grande goccia lipidica e pochissimi mitocondri",
+        "Scarsa vascolarizzazione e assenza quasi totale di mitocondri",
+        "Abbondante matrice extracellulare e nuclei in posizione periferica",
+        "Un'unica goccia lipidica e una ricca rete di capillari",
+        "Molte gocce lipidiche, numerosi mitocondri e molti capillari"
+      ],
+      "answer": 4,
+      "explain": "Gli adipociti bruni contengono numerose gocce lipidiche, tantissimi mitocondri e una fitta rete di capillari che portano ossigeno e distribuiscono il calore. L'unica grande goccia lipidica con pochi mitocondri è invece tipica dell'adipocita bianco, deputato all'accumulo di energia.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q045",
+      "q": "Perché il tessuto adiposo bruno è particolarmente abbondante nel neonato?",
+      "choices": [
+        "Perché il neonato non è in grado di produrre calore con il brivido in modo efficiente",
+        "Perché il neonato deve accumulare riserve energetiche a lungo termine",
+        "Perché il neonato non possiede mitocondri nei muscoli",
+        "Perché il tessuto bruno sostituisce il fegato nelle funzioni metaboliche",
+        "Perché il neonato ha una temperatura corporea più alta di quella dell'adulto"
+      ],
+      "answer": 0,
+      "explain": "Il neonato possiede una massa muscolare ridotta e non può contare su una termogenesi brividante efficace, per cui il tessuto bruno garantisce la termogenesi non brividante. I depositi di tessuto bruno non servono come riserva energetica a lungo termine: quella funzione spetta al tessuto adiposo bianco.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q046",
+      "q": "Qual è la funzione principale del tessuto adiposo bianco rispetto a quello bruno?",
+      "choices": [
+        "Produrre calore mediante la termogenina",
+        "Ossidare gli acidi grassi senza produrre ATP",
+        "Trasportare ossigeno ai tessuti periferici",
+        "Accumulare trigliceridi come riserva energetica",
+        "Dissipare il gradiente protonico come calore"
+      ],
+      "answer": 3,
+      "explain": "Il tessuto adiposo bianco immagazzina trigliceridi in una grande goccia lipidica e li mobilita quando l'organismo necessita di energia. La dissipazione del gradiente protonico in calore è invece la funzione specifica del tessuto bruno, ricco di termogenina.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q047",
+      "q": "Quando la termogenina è attiva, quale variazione si osserva nel mitocondrio?",
+      "choices": [
+        "Il consumo di ossigeno diminuisce e la sintesi di ATP aumenta",
+        "Il consumo di ossigeno aumenta, la sintesi di ATP cala e il calore cresce",
+        "Il gradiente protonico aumenta insieme alla sintesi di ATP",
+        "La catena respiratoria si arresta per mancanza di elettroni",
+        "Il rapporto P/O aumenta perché la fosforilazione diventa più efficiente"
+      ],
+      "answer": 1,
+      "explain": "La termogenina abbassa continuamente il gradiente, per cui la catena respiratoria accelera e consuma più ossigeno, mentre la sintesi di ATP cala e l'energia viene liberata come calore. Il rapporto P/O diminuisce, perché si forma meno ATP per atomo di ossigeno consumato.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q048",
+      "q": "Quale segnale fisiologico induce l'attivazione della termogenina nel tessuto adiposo bruno?",
+      "choices": [
+        "La noradrenalina liberata dalle terminazioni del sistema simpatico",
+        "L'insulina rilasciata dalle cellule pancreatiche dopo il pasto",
+        "Il glucagone prodotto durante l'assorbimento intestinale",
+        "L'aumento della concentrazione di calcio nel sangue arterioso",
+        "La diminuzione dell'ossigeno disponibile nei tessuti periferici"
+      ],
+      "answer": 0,
+      "explain": "L'esposizione al freddo attiva il sistema nervoso simpatico, che libera noradrenalina e stimola la lipolisi e l'attività della termogenina. L'insulina favorisce invece l'accumulo di grassi e non rappresenta il segnale di attivazione della termogenesi.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q049",
+      "q": "Quale conseguenza avrebbe un deficit funzionale di termogenina in un neonato esposto al freddo?",
+      "choices": [
+        "Un aumento della sintesi di ATP nel tessuto bruno",
+        "Un aumento della temperatura corporea per eccesso di calore",
+        "Una maggiore difficoltà a mantenere la temperatura corporea",
+        "Una riduzione del consumo di ossigeno con ipertermia",
+        "Nessuna conseguenza, perché il brivido compensa sempre in modo completo"
+      ],
+      "answer": 2,
+      "explain": "Senza termogenina il tessuto bruno non può dissipare il gradiente come calore e la capacità di termogenesi non brividante si riduce, rendendo più difficile mantenere la temperatura corporea. Nel neonato il brivido non è sufficientemente efficiente per compensare completamente questa perdita.",
+      "slide": 73
+    },
+    {
+      "id": "d05-b07-q050",
+      "q": "In quali depositi corporei si trova tipicamente il tessuto adiposo bruno nell'essere umano?",
+      "choices": [
+        "Esclusivamente nei muscoli degli arti inferiori e del bacino",
+        "Nel fegato e nella milza, che non sono sedi di termogenesi",
+        "Nel midollo osseo e nel timo, dove maturano le cellule immunitarie",
+        "Nella cavità addominale, come il tessuto adiposo bianco di riserva",
+        "In sede interscapolare e cervicale, soprattutto nel neonato"
+      ],
+      "answer": 4,
+      "explain": "Il tessuto adiposo bruno è localizzato in depositi tipici come la regione interscapolare e quella cervicale, molto sviluppati nel neonato. Non si trova nei muscoli degli arti inferiori né nel fegato, che non sono sedi di termogenesi non brividante.",
+      "slide": 73
+    }
+  ]
+}

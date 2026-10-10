@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 2,
+  "topic": "Enzimi: cinetica, coenzimi e regolazione",
+  "questions": [
+    {
+      "id": "d05-b02-q001",
+      "q": "Un inibitore non competitivo si lega all'enzima in un sito diverso da quello attivo: quale effetto ha sulla cinetica della reazione?",
+      "choices": [
+        "Aumenta la Km apparente lasciando invariata la Vmax",
+        "Riduce la Vmax senza modificare la Km apparente",
+        "Aumenta sia la Vmax sia l'affinità per il substrato",
+        "Non modifica né la Km né la Vmax della reazione",
+        "Riduce la Km apparente e aumenta la Vmax"
+      ],
+      "answer": 1,
+      "explain": "L'inibitore non competitivo si lega a un sito diverso dal sito attivo e altera la conformazione dell'enzima: una frazione di molecole resta inattiva anche quando il substrato è abbondante, per cui la Vmax diminuisce mentre la Km apparente non cambia. L'aumento della Km con Vmax invariata è invece tipico dell'inibizione competitiva, in cui l'inibitore occupa il sito attivo e può essere spiazzato da una maggiore concentrazione di substrato.",
+      "slide": 19
+    },
+    {
+      "id": "d05-b02-q002",
+      "q": "Per quale motivo l'attività di un enzima intracellulare aumenta nel siero dopo una necrosi cellulare?",
+      "choices": [
+        "Perché l'enzima fuoriesce dalle cellule danneggiate e si accumula nel plasma",
+        "Perché il fegato lo sintetizza in quantità maggiore durante l'infiammazione",
+        "Perché la temperatura corporea aumenta e accelera la reazione catalizzata",
+        "Perché il pH del sangue si alcalinizza e attiva l'enzima",
+        "Perché i reni smettono di riassorbire l'enzima dal filtrato glomerulare"
+      ],
+      "answer": 0,
+      "explain": "Nella necrosi la membrana plasmatica perde la sua integrità e gli enzimi intracellulari, normalmente confinati dentro la cellula, si riversano nel sangue dove la loro attività catalitica diventa dosabile. La sintesi epatica aumentata è il meccanismo tipico delle proteine di fase acuta, come la proteina C reattiva, e non degli enzimi di danno cellulare; il pH e la temperatura non sono responsabili dell'aumento osservato.",
+      "slide": 10
+    },
+    {
+      "id": "d05-b02-q003",
+      "q": "Come si chiama la forma cataliticamente inattiva di un enzima, costituita dalla sola parte proteica priva del cofattore?",
+      "choices": [
+        "Oloenzima",
+        "Coenzima",
+        "Gruppo prostetico",
+        "Zimogeno",
+        "Apoenzima"
+      ],
+      "answer": 4,
+      "explain": "La parte proteica dell'enzima quando è priva del cofattore si chiama apoenzima ed è inattiva, perché senza il cofattore il sito attivo non può completare la catalisi; quando il cofattore si lega si forma l'oloenzima, che è la specie attiva. Il coenzima e il gruppo prostetico sono i cofattori stessi e non la porzione proteica, mentre lo zimogeno è un precursore inattivo che si attiva per taglio proteolitico e non per aggiunta del cofattore.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q004",
+      "q": "Cosa rappresenta il profilo temporale dell'attività di un enzima dopo un evento di danno tissutale?",
+      "choices": [
+        "La velocità con cui l'enzima viene eliminato dal rene in condizioni basali",
+        "L'andamento dell'attività nel tempo, con picco e ritorno ai valori basali",
+        "Il numero di molecole di enzima prodotte dal fegato in un'ora",
+        "La quantità di substrato consumato dall'enzima nelle prime ore di reazione",
+        "La variazione della temperatura corporea durante la fase infiammatoria"
+      ],
+      "answer": 1,
+      "explain": "Dopo il danno l'enzima raggiunge il plasma, l'attività sale fino a un picco e poi decade secondo la sua emivita, tornando ai valori basali: l'insieme di questa curva è il profilo temporale. La velocità di eliminazione renale contribuisce alla fase di discesa ma non descrive da sola l'intero profilo, e il substrato consumato non è ciò che si misura nel dosaggio clinico.",
+      "slide": 11
+    },
+    {
+      "id": "d05-b02-q005",
+      "q": "Perché in clinica si dosano più enzimi in successione temporale dopo un sospetto infarto?",
+      "choices": [
+        "Perché nessun enzima di danno cellulare è misurabile nel siero",
+        "Perché tutti gli enzimi di danno si degradano nello stesso momento",
+        "Perché il dosaggio enzimatico costa meno di quello della troponina",
+        "Perché enzimi diversi compaiono e scompaiono con tempi diversi",
+        "Perché gli enzimi plasmatici di danno cambiano a ogni pasto"
+      ],
+      "answer": 3,
+      "explain": "Enzimi come CK, GOT, LDH e HBDH hanno tempi di comparsa e di persistenza diversi: dosarli in serie permette di inquadrare sia gli eventi recenti sia quelli più lontani, quando un singolo marcatore potrebbe essere già normalizzato. La troponina non è esclusa ma affiancata, e gli enzimi di danno cellulare non sono influenzati dal pasto come lo sono invece la glicemia o i trigliceridi.",
+      "slide": 11
+    },
+    {
+      "id": "d05-b02-q006",
+      "q": "A che cosa serve conoscere l'emivita plasmatica di un enzima di diagnostica?",
+      "choices": [
+        "A scegliere la temperatura di conservazione del campione di siero",
+        "A calcolare la dose di farmaco da somministrare al paziente",
+        "A stimare per quanto tempo l'attività resterà elevata dopo il danno",
+        "A determinare il pH ottimale della reazione catalizzata dall'enzima",
+        "A stabilire il peso molecolare dell'enzima con la cromatografia"
+      ],
+      "answer": 2,
+      "explain": "L'emivita plasmatica decide la velocità con cui l'attività enzimatica decade dopo il picco: un'emivita breve offre una finestra diagnostica stretta, una lunga consente di documentare un danno avvenuto giorni prima. Il pH ottimale e il peso molecolare sono proprietà intrinseche dell'enzima e non si ricavano dall'emivita, mentre la dose dei farmaci non dipende da questo parametro.",
+      "slide": 11
+    },
+    {
+      "id": "d05-b02-q007",
+      "q": "Quale caratteristica rende un enzima un buon marcatore di un danno d'organo specifico?",
+      "choices": [
+        "L'essere abbondante in quel tessuto e quasi assente negli altri",
+        "L'essere presente in tutti i tessuti nella stessa quantità",
+        "L'avere un'emivita plasmatica molto lunga dopo il danno",
+        "L'essere legato saldamente a un gruppo prostetico della proteina",
+        "L'avere una Km molto alta per il proprio substrato"
+      ],
+      "answer": 0,
+      "explain": "Un marcatore utile deve essere abbondante nell'organo di interesse e quasi assente altrove, così l'aumento sierico può essere attribuito a quel tessuto. Un enzima ubiquitario, presente in tutti i tessuti nella stessa quantità, non permette di localizzare il danno; emivita, gruppo prostetico e valore di Km descrivono il comportamento dell'enzima ma non la sua specificità d'organo.",
+      "slide": 11
+    },
+    {
+      "id": "d05-b02-q008",
+      "q": "Dopo un infarto del miocardio, quale enzima fra quelli dosati raggiunge più precocemente il picco di attività?",
+      "choices": [
+        "La lattato deidrogenasi (LDH)",
+        "L'idrossibutirrato deidrogenasi (HBDH)",
+        "La glutamico ossalacetato transaminasi (GOT)",
+        "La fosfatasi alcalina",
+        "La creatina cinasi (CK)"
+      ],
+      "answer": 4,
+      "explain": "Nella curva post-infartuale la CK sale e raggiunge il picco per prima, già nelle prime ore-giorni, mentre LDH, HBDH e GOT hanno un picco più tardivo e persistono più a lungo. La fosfatasi alcalina è un marcatore delle vie biliari e dell'osso, estraneo al profilo enzimatico dell'infarto miocardico.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q009",
+      "q": "Quale enzima, fra CK, GOT, LDH e HBDH, mantiene l'attività elevata più a lungo dopo un infarto del miocardio?",
+      "choices": [
+        "La creatina cinasi (CK)",
+        "La lattato deidrogenasi (LDH)",
+        "La glutamico piruvato transaminasi (GPT)",
+        "La creatina chinasi MB (CK-MB)",
+        "L'amilasi pancreatica"
+      ],
+      "answer": 1,
+      "explain": "LDH e HBDH hanno una cinetica più lenta: salgono più tardi e restano elevate per molti giorni, risultando utili quando il paziente arriva tardivamente in ospedale. La CK e la sua frazione MB raggiungono invece il picco prima e si normalizzano più rapidamente, mentre amilasi e GPT non appartengono al profilo enzimatico tipico dell'infarto miocardico.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q010",
+      "q": "Che cosa indica l'acronimo HBDH nel profilo enzimatico dopo infarto?",
+      "choices": [
+        "Un enzima epatico che trasferisce gruppi amminici all'ossalacetato",
+        "Un enzima lisosomiale che degrada i glicosaminoglicani della matrice",
+        "Un enzima pancreatico che idrolizza i trigliceridi del chilo",
+        "L'idrossibutirrato deidrogenasi, attività legata alla LDH cardiaca",
+        "Un enzima renale che riassorbe il bicarbonato dal filtrato"
+      ],
+      "answer": 3,
+      "explain": "HBDH sta per idrossibutirrato deidrogenasi e misura un'attività deidrogenasica associata soprattutto alle isoforme della LDH prevalenti nel cuore, perciò segue un andamento simile a quello della LDH totale. Le transaminasi che trasferiscono gruppi amminici sono GOT e GPT, mentre nessuno degli enzimi lisosomiali o pancreatici citati corrisponde a questa sigla.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q011",
+      "q": "Che cosa designa la sigla GOT nel profilo enzimatico di diagnostica?",
+      "choices": [
+        "La glutamico ossalacetato transaminasi, nota anche come AST",
+        "La glutamico piruvato transaminasi, nota anche come ALT",
+        "La gamma glutamil transferasi, marcatore delle vie biliari",
+        "La creatina cinasi, marcatore del danno muscolare",
+        "La lattato deidrogenasi, marcatore aspecifico"
+      ],
+      "answer": 0,
+      "explain": "GOT indica la glutamico ossalacetato transaminasi, l'enzima che trasferisce il gruppo amminico all'ossalacetato e che corrisponde all'AST. La GPT, o ALT, è l'altra transaminasi, più legata al fegato, mentre gamma glutamil transferasi, creatina cinasi e lattato deidrogenasi sono enzimi diversi con sigle proprie.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q012",
+      "q": "A quale attività enzimatica corrisponde la sigla CK nel profilo di diagnostica?",
+      "choices": [
+        "Alla carbossilasi dipendente dalla biotina del fegato",
+        "Alla chinasi del piruvato che produce ATP nella glicolisi",
+        "Alla creatina cinasi del metabolismo energetico del muscolo",
+        "Alla citocromo c ossidasi della catena respiratoria mitocondriale",
+        "Alla colesterolo esterasi del plasma che idrolizza gli esteri"
+      ],
+      "answer": 2,
+      "explain": "CK indica la creatina cinasi, l'enzima che trasferisce un gruppo fosfato fra la creatina e l'ATP ed è abbondante nel muscolo scheletrico e nel miocardio, perciò aumenta nel siero dopo danno muscolare. La chinasi del piruvato è un enzima della glicolisi con sigla diversa, e citocromo c ossidasi, carbossilasi e colesterolo esterasi appartengono ad altre vie metaboliche.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q013",
+      "q": "Perché il dosaggio della frazione CK-MB è più informativo del solo CK totale dopo un sospetto infarto?",
+      "choices": [
+        "Perché la CK-MB ha un'emivita plasmatica più lunga della CK totale",
+        "Perché la CK-MB si trova esclusivamente nel tessuto epatico",
+        "Perché la CK-MB non è un enzima ma un ormone cardiaco",
+        "Perché la CK-MB è attiva soltanto a pH acido nel siero",
+        "Perché la frazione MB è arricchita nel miocardio e non nel muscolo"
+      ],
+      "answer": 4,
+      "explain": "La CK totale aumenta anche dopo sforzo intenso, iniezioni intramuscolari o trauma muscolare, mentre la frazione MB è arricchita nel miocardio e rende il dato più specifico per il cuore. La CK-MB è comunque un enzima con emivita piuttosto breve e non un ormone, e non si trova esclusivamente nel fegato.",
+      "slide": 12
+    },
+    {
+      "id": "d05-b02-q014",
+      "q": "Su quale principio si basa il dosaggio enzimatico del glucosio plasmatico?",
+      "choices": [
+        "Sull'idrolisi alcalina del glucosio con formazione di un complesso colorato",
+        "Sull'ossidazione del glucosio da parte della glucosio ossidasi con perossido",
+        "Sulla riduzione del glucosio da parte della lattato deidrogenasi del siero",
+        "Sull'esterificazione del glucosio con il colesterolo del campione",
+        "Sulla precipitazione del glucosio con acido fosfotungstico"
+      ],
+      "answer": 1,
+      "explain": "Nel dosaggio enzimatico la glucosio ossidasi ossida il glucosio formando perossido di idrogeno, che in una reazione accoppiata con la perossidasi genera un prodotto colorato la cui intensità è proporzionale alla glicemia. La lattato deidrogenasi non riduce direttamente il glucosio, e i metodi di precipitazione appartengono a tecniche chimiche superate e non a un saggio enzimatico.",
+      "slide": 13
+    },
+    {
+      "id": "d05-b02-q015",
+      "q": "Nel dosaggio enzimatico del colesterolo plasmatico, quale enzima libera il colesterolo dagli esteri prima della sua ossidazione?",
+      "choices": [
+        "La colesterolo ossidasi",
+        "La perossidasi",
+        "La lipoproteina lipasi",
+        "La colesterolo esterasi",
+        "La lecitina colesterolo aciltransferasi"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo circola in gran parte esterificato con acidi grassi: la colesterolo esterasi idrolizza questi esteri liberando colesterolo, che viene poi ossidato dalla colesterolo ossidasi e rivelato dalla perossidasi. La colesterolo ossidasi interviene dopo l'idrolisi, mentre la lipoproteina lipasi agisce sui trigliceridi delle lipoproteine e non sugli esteri del colesterolo nel saggio.",
+      "slide": 13
+    },
+    {
+      "id": "d05-b02-q016",
+      "q": "Quale vantaggio principale offrono i metodi enzimatici rispetto ai metodi chimici tradizionali nel dosaggio di glucosio e colesterolo?",
+      "choices": [
+        "L'elevata specificità per il substrato, che riduce le interferenze",
+        "La possibilità di evitare qualsiasi lettura strumentale del campione",
+        "Il costo praticamente nullo dei reagenti impiegati nel saggio",
+        "L'indipendenza dalla temperatura di incubazione della reazione",
+        "La capacità di dosare contemporaneamente tutte le molecole del siero"
+      ],
+      "answer": 0,
+      "explain": "Gli enzimi riconoscono con alta specificità il proprio substrato, per cui il dosaggio enzimatico risente molto meno della presenza di altre sostanze rispetto ai metodi chimici classici. I metodi enzimatici richiedono comunque un'incubazione controllata e una lettura spettrofotometrica, e non sono né gratuiti né in grado di dosare tutte le molecole in una sola volta.",
+      "slide": 13
+    },
+    {
+      "id": "d05-b02-q017",
+      "q": "In molte reazioni enzimatiche accoppiate si segue la comparsa o la scomparsa di NADH: a quale lunghezza d'onda si legge questa variazione?",
+      "choices": [
+        "A 260 nm, dove assorbono gli acidi nucleici del campione",
+        "A 280 nm, dove assorbono gli aminoacidi aromatici delle proteine",
+        "A 340 nm, dove assorbe il NADH e non il NAD ossidato",
+        "A 540 nm, dove assorbe l'emoglobina del campione",
+        "A 620 nm, dove assorbono i complessi con il rame"
+      ],
+      "answer": 2,
+      "explain": "Il NADH e il NADPH assorbono luce a 340 nm, mentre le forme ossidate NAD e NADP non assorbono a questa lunghezza d'onda: la variazione di assorbanza a 340 nm misura quindi direttamente l'avanzare della reazione. I 260 e 280 nm sono tipici rispettivamente degli acidi nucleici e delle proteine, e l'assorbanza dell'emoglobina o dei complessi del rame non serve a seguire il NADH.",
+      "slide": 13
+    },
+    {
+      "id": "d05-b02-q018",
+      "q": "In un saggio enzimatico accoppiato, che cosa si intende per reazione indicatore?",
+      "choices": [
+        "La reazione che inattiva l'enzima alla fine del dosaggio",
+        "La reazione che genera il substrato principale del saggio",
+        "La reazione che elimina le interferenze presenti nel campione",
+        "La reazione che fissa il pH ottimale del tampone di incubazione",
+        "La reazione che genera la specie dosata e ne riflette la velocità"
+      ],
+      "answer": 4,
+      "explain": "Nella reazione indicatore il prodotto della reazione principale alimenta una seconda reazione enzimatica che genera una specie misurabile, colorata o fluorescente, così la velocità osservata è proporzionale all'attività di interesse. Non è una reazione di inattivazione né di tamponamento, e la specie misurata deriva dalla reazione principale e non da un substrato indipendente.",
+      "slide": 13
+    },
+    {
+      "id": "d05-b02-q019",
+      "q": "Che cos'è l'ELISA?",
+      "choices": [
+        "Una tecnica di separazione delle proteine in base al loro punto isoelettrico",
+        "Un metodo di dosaggio degli elettroliti basato su elettrodi ionoselettivi",
+        "Un saggio immunoenzimatico che usa un anticorpo marcato con un enzima",
+        "Una tecnica di amplificazione del DNA basata su cicli termici ripetuti",
+        "Un esame di imaging che utilizza radioisotopi per la tiroide"
+      ],
+      "answer": 2,
+      "explain": "ELISA significa enzyme-linked immunosorbent assay: si sfrutta un anticorpo coniugato con un enzima che, in presenza del substrato, produce un segnale colorato proporzionale alla molecola ricercata. La tecnica che amplifica il DNA è la PCR e l'imaging con radioisotopi è la scintigrafia, mentre la separazione in base al punto isoelettrico è l'isoelettrofocusing.",
+      "slide": 14
+    },
+    {
+      "id": "d05-b02-q020",
+      "q": "Qual è la funzione dell'enzima coniugato all'anticorpo in un saggio ELISA?",
+      "choices": [
+        "Convertire un substrato incolore in un prodotto colorato misurabile",
+        "Legare in modo aspecifico tutte le proteine presenti nel campione",
+        "Digerire l'antigene per renderlo dosabile nel pozzetto",
+        "Fissare l'anticorpo al fondo del pozzetto della piastra",
+        "Emettere radiazioni ionizzanti rilevabili su una lastra"
+      ],
+      "answer": 0,
+      "explain": "L'enzima coniugato è il marcatore del saggio: quando l'anticorpo si lega al bersaglio, l'enzima catalizza, in presenza del substrato aggiunto, la formazione di un prodotto colorato la cui intensità è proporzionale alla quantità di antigene. Il legame aspecifico è un'interferenza da minimizzare e non la funzione del coniugato, mentre la rivelazione è colorimetrica e non radioattiva.",
+      "slide": 14
+    },
+    {
+      "id": "d05-b02-q021",
+      "q": "Nell'ELISA di tipo sandwich, quali elementi caratterizzano il saggio?",
+      "choices": [
+        "Un solo anticorpo direttamente adsorbito sull'antigene in soluzione",
+        "La separazione elettroforetica delle proteine su gel di poliacrilammide",
+        "L'uso di due enzimi che competono per lo stesso substrato colorato",
+        "La precipitazione dell'antigene con un sale in soluzione satura",
+        "Un anticorpo di cattura immobilizzato e un secondo anticorpo rivelatore"
+      ],
+      "answer": 4,
+      "explain": "Nel formato sandwich l'anticorpo di cattura immobilizzato lega l'antigene, che viene poi riconosciuto da un secondo anticorpo rivelatore coniugato all'enzima: il segnale è proporzionale all'antigene intrappolato fra i due anticorpi. Non si tratta di una separazione elettroforetica né di una precipitazione salina, e i due anticorpi non competono fra loro ma riconoscono siti diversi del bersaglio.",
+      "slide": 14
+    },
+    {
+      "id": "d05-b02-q022",
+      "q": "Come viene rivelato il risultato di un saggio ELISA?",
+      "choices": [
+        "Con una lastra radiografica esposta alle radiazioni del campione",
+        "Misurando con lo spettrofotometro l'intensità del colore sviluppato",
+        "Contando al microscopio le cellule colorate dal saggio",
+        "Pesando il precipitato formatosi nel fondo del pozzetto",
+        "Misurando la conducibilità elettrica della soluzione del pozzetto"
+      ],
+      "answer": 1,
+      "explain": "La reazione enzimatica del coniugato trasforma un substrato incolore in un prodotto colorato, e lo spettrofotometro misura l'assorbanza, proporzionale alla quantità di antigene o anticorpo ricercato. Non si contano cellule né si pesa un precipitato, e l'ELISA classico non impiega lastre radiografiche, che appartengono invece ai saggi radioimmunologici.",
+      "slide": 14
+    },
+    {
+      "id": "d05-b02-q023",
+      "q": "Quale applicazione clinica è tipica dei saggi ELISA?",
+      "choices": [
+        "La misura incruenta della pressione arteriosa con lo sfigmomanometro",
+        "La determinazione del gruppo sanguigno mediante agglutinazione",
+        "L'analisi del tracciato elettrocardiografico a riposo",
+        "La ricerca nel siero di anticorpi contro agenti infettivi",
+        "La misurazione della saturazione di ossigeno con un pulsossimetro"
+      ],
+      "answer": 3,
+      "explain": "L'ELISA è largamente impiegato per cercare anticorpi contro virus e batteri o per dosare antigeni e ormoni nel siero, grazie alla sua sensibilità e alla possibilità di automatizzare molti campioni. La determinazione del gruppo sanguigno si basa sull'agglutinazione, mentre elettrocardiogramma e pulsossimetria sono indagini strumentali non immunoenzimatiche.",
+      "slide": 14
+    },
+    {
+      "id": "d05-b02-q024",
+      "q": "Che cosa rappresenta la Km di un enzima secondo il modello di Michaelis-Menten?",
+      "choices": [
+        "La concentrazione di substrato che dà metà della velocità massima",
+        "La velocità massima raggiunta quando l'enzima è saturo di substrato",
+        "La concentrazione di enzima necessaria per saturare tutto il substrato",
+        "Il numero di turnover al secondo di una molecola di enzima",
+        "La quantità di prodotto formata in un'ora di reazione enzimatica"
+      ],
+      "answer": 0,
+      "explain": "La Km è la costante di Michaelis, cioè la concentrazione di substrato per cui la velocità iniziale vale esattamente metà della velocità massima: è un indice dell'affinità dell'enzima per il substrato. La Vmax è un parametro distinto e rappresenta la velocità a saturazione, mentre il numero di turnover è la kcat e non la Km.",
+      "slide": 15
+    },
+    {
+      "id": "d05-b02-q025",
+      "q": "Due isoenzimi catalizzano la stessa reazione: il primo ha Km = 0,5 mM e il secondo Km = 5 mM. Quale affermazione è corretta?",
+      "choices": [
+        "Il secondo isoenzima ha maggiore affinità perché la sua Km è più alta",
+        "I due isoenzimi hanno la stessa affinità perché la Km non dipende dall'affinità",
+        "Il primo isoenzima ha maggiore affinità perché la sua Km è più bassa",
+        "Il primo isoenzima ha una Vmax dieci volte maggiore del secondo",
+        "Il secondo isoenzima è saturato a una concentrazione di substrato minore"
+      ],
+      "answer": 2,
+      "explain": "Più bassa è la Km, minore è la concentrazione di substrato necessaria per arrivare a metà della Vmax, quindi il primo isoenzima con Km = 0,5 mM ha affinità maggiore del secondo con Km = 5 mM. La Km non fornisce alcuna informazione sulla Vmax, e il secondo isoenzima è saturato a concentrazioni di substrato più alte, non più basse.",
+      "slide": 15
+    },
+    {
+      "id": "d05-b02-q026",
+      "q": "In un esperimento in cui si aumenta solo la concentrazione dell'enzima mantenendo costante quella del substrato, che cosa si osserva?",
+      "choices": [
+        "La Km diminuisce in proporzione all'aumento dell'enzima",
+        "La Km aumenta in proporzione all'aumento dell'enzima",
+        "La Vmax diminuisce perché l'enzima risulta diluito",
+        "Nessun parametro cinetico cambia",
+        "La Vmax aumenta mentre la Km resta invariata"
+      ],
+      "answer": 4,
+      "explain": "La Vmax è proporzionale alla quantità di enzima presente, quindi aggiungendo enzima aumenta la velocità massima, mentre la Km è una proprietà intrinseca dell'enzima e del suo substrato e non cambia. Se la Km variasse significherebbe che è cambiata l'affinità, cosa che non avviene per un semplice aumento della concentrazione dell'enzima.",
+      "slide": 15
+    },
+    {
+      "id": "d05-b02-q027",
+      "q": "Quale forma ha la curva della velocità iniziale in funzione della concentrazione di substrato per un enzima con cinetica di Michaelis-Menten?",
+      "choices": [
+        "Una retta che cresce senza limite al crescere del substrato",
+        "Un'iperbole che tende asintoticamente a un valore massimo di velocità",
+        "Una parabola con un minimo a concentrazioni intermedie di substrato",
+        "Una sigmoide con un punto di flesso netto",
+        "Una curva che diminuisce al crescere del substrato"
+      ],
+      "answer": 1,
+      "explain": "La cinetica michaeliana è descritta da un'iperbole: a basse concentrazioni di substrato la velocità cresce quasi linearmente, poi l'aumento si attenua fino a un plateau asintotico che corrisponde alla Vmax. La sigmoide è tipica degli enzimi allosterici con comportamento cooperativo, e una crescita illimitata non è possibile perché l'enzima si satura.",
+      "slide": 15
+    },
+    {
+      "id": "d05-b02-q028",
+      "q": "Per un enzima con cinetica di Michaelis-Menten, quale velocità si misura quando la concentrazione di substrato è uguale alla Km?",
+      "choices": [
+        "Una velocità nulla, perché l'enzima non è ancora saturato",
+        "Una velocità pari al 25% della Vmax",
+        "Una velocità pari al 75% della Vmax",
+        "Una velocità pari al 50% della Vmax",
+        "Una velocità pari alla Vmax"
+      ],
+      "answer": 3,
+      "explain": "Per definizione la Km è la concentrazione di substrato che dà una velocità iniziale pari alla metà della Vmax: sostituendo [S] = Km nell'equazione di Michaelis-Menten si ottiene v = Vmax/2. Il 75% della Vmax si raggiunge a una concentrazione di substrato pari a tre volte la Km, mentre alla Vmax si arriva solo quando il substrato è molto più concentrato della Km.",
+      "slide": 15
+    },
+    {
+      "id": "d05-b02-q029",
+      "q": "Su quale enzima agiscono i farmaci anti-infiammatori non steroidei per ridurre la sintesi delle prostaglandine?",
+      "choices": [
+        "Sulla fosfolipasi A2 che libera l'acido arachidonico",
+        "Sulla lipossigenasi che produce i leucotrieni",
+        "Sulla cicloossigenasi (COX)",
+        "Sulla acetilcolinesterasi",
+        "Sulla xantina ossidasi"
+      ],
+      "answer": 2,
+      "explain": "I FANS inibiscono la cicloossigenasi, l'enzima che trasforma l'acido arachidonico in prostaglandine e trombossani, riducendo così febbre, dolore e infiammazione. La lipossigenasi è una via distinta che porta ai leucotrieni e non è il bersaglio principale dei FANS classici, mentre acetilcolinesterasi e xantina ossidasi appartengono ad altri bersagli farmacologici.",
+      "slide": 16
+    },
+    {
+      "id": "d05-b02-q030",
+      "q": "Quale ruolo svolgono le prostaglandine nell'organismo?",
+      "choices": [
+        "Trasportano l'ossigeno nel sangue legandolo nel ferro",
+        "Catalizzano la digestione dei trigliceridi nel duodeno",
+        "Costituiscono la principale riserva energetica dell'organismo",
+        "Formano la guaina isolante degli assoni nel sistema nervoso",
+        "Agiscono come mediatori chimici di febbre, dolore e infiammazione"
+      ],
+      "answer": 4,
+      "explain": "Le prostaglandine sono mediatori lipidici sintetizzati a partire dall'acido arachidonico e svolgono un ruolo chiave nel determinare febbre, dolore e infiammazione, motivo per cui i FANS che ne bloccano la sintesi sono efficaci. Il trasporto dell'ossigeno spetta all'emoglobina, la guaina degli assoni è la mielina e la riserva energetica è rappresentata dai trigliceridi, non dalle prostaglandine.",
+      "slide": 16
+    },
+    {
+      "id": "d05-b02-q031",
+      "q": "Perché i farmaci anti-infiammatori non steroidei riducono contemporaneamente febbre, dolore e infiammazione?",
+      "choices": [
+        "Perché bloccano la cicloossigenasi, comune a tutti questi mediatori",
+        "Perché uccidono direttamente i batteri responsabili dell'infezione",
+        "Perché bloccano i recettori degli oppioidi nel sistema nervoso centrale",
+        "Perché aumentano la sintesi delle prostaglandine antinfiammatorie",
+        "Perché riducono il numero dei globuli bianchi circolanti nel sangue"
+      ],
+      "answer": 0,
+      "explain": "I FANS inibiscono la cicloossigenasi e quindi bloccano a monte la formazione di tutte le prostaglandine, fra cui quelle che inducono la febbre, sensibilizzano i nocicettori e sostengono l'infiammazione: per questo un solo meccanismo produce più effetti. Essi non sono antibiotici e non aumentano affatto la produzione di prostaglandine, anzi la riducono.",
+      "slide": 16
+    },
+    {
+      "id": "d05-b02-q032",
+      "q": "Perché l'uso prolungato di FANS può provocare lesioni della mucosa gastrica?",
+      "choices": [
+        "Perché aumenta la produzione di acido cloridrico da parte delle cellule parietali",
+        "Perché inibendo la COX-1 riduce le prostaglandine protettive della mucosa",
+        "Perché stimola la secrezione di bicarbonato nel lume gastrico",
+        "Perché accelera lo svuotamento gastrico verso il duodeno",
+        "Perché impedisce l'assorbimento della vitamina B12 nel tratto terminale"
+      ],
+      "answer": 1,
+      "explain": "Le prostaglandine prodotte dalla COX-1 aumentano la secrezione di muco e bicarbonato e riducono l'acidità gastrica, proteggendo la mucosa: inibendole, i FANS classici rimuovono questa difesa e favoriscono gastrite e ulcera. Essi non aumentano la secrezione acida né stimolano la produzione di bicarbonato, e la mucosa risulta così più esposta all'acido già presente.",
+      "slide": 16
+    },
+    {
+      "id": "d05-b02-q033",
+      "q": "Per quale motivo l'aspirina a basse dosi è impiegata come antiaggregante piastrinico?",
+      "choices": [
+        "Perché dissolve direttamente i coaguli già formati nei vasi",
+        "Perché aumenta la sintesi di prostaciclina nell'endotelio vasale",
+        "Perché blocca i recettori dell'ADP sulla membrana piastrinica",
+        "Perché inibisce la COX-1 piastrinica e riduce il trombossano A2",
+        "Perché attiva la plasmina nel plasma e scioglie la fibrina"
+      ],
+      "answer": 3,
+      "explain": "Le piastrine, prive di nucleo, non possono risintetizzare la COX inibita dall'aspirina: l'inibizione persiste per tutta la loro vita e la ridotta formazione di trombossano A2 diminuisce l'aggregazione. L'aspirina non è un fibrinolitico e non dissolve i coaguli già formati, e i farmaci che bloccano i recettori dell'ADP sono antiaggreganti di altra classe.",
+      "slide": 16
+    },
+    {
+      "id": "d05-b02-q034",
+      "q": "Che cosa si intende per cofattore di un enzima?",
+      "choices": [
+        "Una molecola o uno ione non proteico necessario alla catalisi",
+        "Il sito dell'enzima in cui si lega il substrato",
+        "Una proteina che inibisce irreversibilmente l'enzima",
+        "Il prodotto finale della reazione catalizzata dall'enzima",
+        "Il substrato che viene trasformato più lentamente"
+      ],
+      "answer": 0,
+      "explain": "Il cofattore è una specie chimica non proteica, uno ione o una molecola organica, che l'enzima deve legare per poter catalizzare la reazione. Il sito di legame del substrato è il sito attivo e non il cofattore, e il prodotto finale non è un cofattore ma il risultato della catalisi.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q035",
+      "q": "Qual è la differenza fra un coenzima e un gruppo prostetico?",
+      "choices": [
+        "Il coenzima è uno ione metallico, il gruppo prostetico è una proteina",
+        "Il coenzima è sempre una vitamina, il gruppo prostetico è sempre un nucleotide",
+        "Il coenzima è legato debolmente all'enzima, mentre il gruppo prostetico è legato saldamente",
+        "Il coenzima si trova solo negli enzimi di membrana, il gruppo prostetico solo nel citosol",
+        "Il coenzima è il substrato della reazione, il gruppo prostetico è il prodotto"
+      ],
+      "answer": 2,
+      "explain": "Entrambi sono cofattori organici, ma il coenzima si associa all'enzima in modo debole e può dissociarsi, mentre il gruppo prostetico resta legato saldamente e spesso in modo covalente alla proteina enzimatica. Le vitamine non coincidono con i coenzimi ma ne sono i precursori, e né il coenzima né il gruppo prostetico sono substrati o prodotti della reazione.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q036",
+      "q": "Che cosa distingue uno ione attivatore da uno ione di metalloenzima?",
+      "choices": [
+        "Lo ione attivatore è sempre monovalente, quello del metalloenzima sempre bivalente",
+        "Lo ione attivatore è una proteina, quello del metalloenzima un lipide",
+        "Lo ione attivatore inibisce l'enzima, quello del metalloenzima lo attiva",
+        "Lo ione attivatore agisce solo a pH acido, quello del metalloenzima a pH neutro",
+        "Lo ione attivatore si lega debolmente, quello del metalloenzima saldamente"
+      ],
+      "answer": 4,
+      "explain": "Lo ione attivatore si associa in modo labile all'enzima e può essere allontanato senza denaturare la proteina, mentre lo ione del metalloenzima è legato stabilmente ed è parte costitutiva della molecola cataliticamente attiva. La distinzione non dipende dalla valenza né dal pH, e sia gli attivatori sia gli ioni dei metalloenzimi favoriscono la catalisi anziché inibirla.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q037",
+      "q": "Da quale vitamina deriva il coenzima NAD, impiegato nelle reazioni di ossidoriduzione?",
+      "choices": [
+        "Dalla tiamina (vitamina B1)",
+        "Dalla niacina (vitamina B3 o PP)",
+        "Dalla riboflavina (vitamina B2)",
+        "Dall'acido pantotenico (vitamina B5)",
+        "Dalla cobalamina (vitamina B12)"
+      ],
+      "answer": 1,
+      "explain": "Il NAD e il NADP derivano dalla niacina, o vitamina B3, e funzionano come trasportatori di elettroni in molte deidrogenasi. Dalla riboflavina deriva invece il FAD, dalla tiamina il tiamin pirofosfato e dall'acido pantotenico il coenzima A, mentre la cobalamina è il precursore dei coenzimi cobamidici.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q038",
+      "q": "Che cosa accade all'attività di un enzima quando la temperatura sale molto al di sopra del valore ottimale?",
+      "choices": [
+        "Aumenta ancora, perché gli urti fra le molecole sono più energetici",
+        "Resta costante, perché l'enzima è ormai saturo di substrato",
+        "Diminuisce soltanto se cambia anche il pH della soluzione",
+        "Crolla perché la proteina enzimatica si denatura",
+        "Si inverte, perché l'enzima catalizza la reazione opposta"
+      ],
+      "answer": 3,
+      "explain": "Ogni enzima ha una temperatura ottimale alla quale la velocità è massima: al di sotto di essa il riscaldamento accelera la catalisi, ma al di sopra la struttura tridimensionale della proteina si destabilizza e l'attività diminuisce bruscamente. Il calore rompe i legami deboli che mantengono la conformazione del sito attivo, per cui l'enzima si denatura e perde la funzione, mentre la saturazione del substrato e il pH non spiegano questo crollo.",
+      "slide": 20
+    },
+    {
+      "id": "d05-b02-q039",
+      "q": "Il tiamin pirofosfato, coenzima delle decarbossilasi, deriva da quale vitamina?",
+      "choices": [
+        "Dalla tiamina (vitamina B1)",
+        "Dalla niacina (vitamina B3)",
+        "Dalla piridossina (vitamina B6)",
+        "Dalla biotina (vitamina B7)",
+        "Dall'acido folico (vitamina B9)"
+      ],
+      "answer": 0,
+      "explain": "Il tiamin pirofosfato è la forma coenzimatica attiva della tiamina, o vitamina B1, e interviene nelle decarbossilazioni ossidative e nella via dei pentoso fosfati. La niacina è il precursore del NAD, la piridossina del piridossal fosfato e l'acido folico dei coenzimi che trasferiscono unità monocarboniose.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q040",
+      "q": "Quale coenzima, derivato dalla piridossina (vitamina B6), è essenziale nelle reazioni di transaminazione?",
+      "choices": [
+        "Il tetraidrofolato",
+        "Il coenzima A",
+        "Il piridossal fosfato",
+        "Il FAD",
+        "Il tiamin pirofosfato"
+      ],
+      "answer": 2,
+      "explain": "Il piridossal fosfato è il coenzima delle transaminasi e delle decarbossilasi degli aminoacidi: accetta temporaneamente il gruppo amminico dal substrato e lo trasferisce all'accettore. Il tetraidrofolato trasferisce unità monocarboniose, il coenzima A trasporta gruppi acilici e il FAD partecipa alle ossidoriduzioni, funzioni diverse dalla transaminazione.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q041",
+      "q": "Da quale vitamina deriva il coenzima A, che trasporta i gruppi acilici?",
+      "choices": [
+        "Dalla riboflavina (vitamina B2)",
+        "Dalla tiamina (vitamina B1)",
+        "Dalla cobalamina (vitamina B12)",
+        "Dalla piridossina (vitamina B6)",
+        "Dall'acido pantotenico (vitamina B5)"
+      ],
+      "answer": 4,
+      "explain": "Il coenzima A contiene acido pantotenico nella sua struttura e deriva quindi dalla vitamina B5: la sua parte reattiva, il gruppo tiolico, forma legami tioestere con gli acili e con l'acetile. Riboflavina, tiamina, cobalamina e piridossina danno invece origine rispettivamente a FAD, tiamin pirofosfato, coenzimi cobamidici e piridossal fosfato.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q042",
+      "q": "Che cosa distingue un cosubstrato da un gruppo prostetico in una reazione enzimatica?",
+      "choices": [
+        "Il cosubstrato è una proteina, il gruppo prostetico un lipide di membrana",
+        "Il cosubstrato si dissocia dall'enzima, il gruppo prostetico resta legato",
+        "Il cosubstrato viene consumato una sola volta, il gruppo prostetico mai",
+        "Il cosubstrato è sempre un metallo, il gruppo prostetico una vitamina",
+        "Il cosubstrato inibisce l'enzima, il gruppo prostetico lo attiva sempre"
+      ],
+      "answer": 1,
+      "explain": "Il cosubstrato, come il NAD in molte deidrogenasi, si associa debolmente all'enzima e si allontana dopo aver accettato o ceduto elettroni, mentre il gruppo prostetico rimane saldamente legato e viene rigenerato all'interno dello stesso complesso enzimatico. Entrambi sono cofattori organici che partecipano alla catalisi senza essere consumati in modo irreversibile, quindi non sono inibitori.",
+      "slide": 17
+    },
+    {
+      "id": "d05-b02-q043",
+      "q": "In quale funzione enzimatica lo zinco è tipicamente coinvolto come ione di metalloenzima?",
+      "choices": [
+        "Nel trasporto di elettroni lungo la catena respiratoria",
+        "Nella coagulazione del sangue come fattore vitamina K-dipendente",
+        "Nella sintesi degli acidi grassi come trasportatore di gruppi acilici",
+        "Nella catalisi dell'idratazione della CO2 da parte dell'anidrasi carbonica",
+        "Nel trasporto dell'ossigeno nel sangue legato all'eme"
+      ],
+      "answer": 3,
+      "explain": "Lo zinco è un componente essenziale di metalloenzimi come l'anidrasi carbonica, che idrata la CO2, e le carbossipeptidasi, dove partecipa alla catalisi nel sito attivo. Il trasporto di elettroni è affidato a citocromi e flavoproteine, quello dell'ossigeno all'emoglobina e il trasporto dei gruppi acilici al coenzima A.",
+      "slide": 18
+    },
+    {
+      "id": "d05-b02-q044",
+      "q": "Per quale motivo il magnesio è necessario all'attività di molte chinasi?",
+      "choices": [
+        "Perché lega l'ATP rendendo trasferibile il gruppo fosfato",
+        "Perché ossida direttamente il glucosio nella glicolisi",
+        "Perché lega l'ossigeno nei tessuti periferici",
+        "Perché inibisce le fosfatasi alcaline del sangue",
+        "Perché costituisce il gruppo prostetico dell'emoglobina"
+      ],
+      "answer": 0,
+      "explain": "Le chinasi trasferiscono il gruppo fosfato terminale dell'ATP e richiedono Mg2+ legato all'ATP, che neutralizza le cariche negative dei fosfati e rende possibile il trasferimento. Il magnesio non ossida il glucosio né trasporta ossigeno, e non è il gruppo prostetico dell'emoglobina, che contiene invece ferro.",
+      "slide": 18
+    },
+    {
+      "id": "d05-b02-q045",
+      "q": "Quale oligoelemento è indispensabile per l'attività della glutatione perossidasi, enzima che protegge le cellule dai perossidi?",
+      "choices": [
+        "Il sodio",
+        "Il calcio",
+        "Il selenio",
+        "Il cloro",
+        "Il potassio"
+      ],
+      "answer": 2,
+      "explain": "La glutatione perossidasi contiene selenio sotto forma di selenocisteina nel sito attivo e riduce i perossidi usando il glutatione, proteggendo le membrane dallo stress ossidativo. Sodio, potassio, calcio e cloro sono ioni abbondanti con funzioni di equilibrio idroelettrolitico e di segnalazione, non cofattori di questo enzima.",
+      "slide": 18
+    },
+    {
+      "id": "d05-b02-q046",
+      "q": "Il ferro è indispensabile per l'attività di quali fra questi enzimi?",
+      "choices": [
+        "La colesterolo esterasi e la lipasi pancreatica",
+        "La glucosio ossidasi e la perossidasi",
+        "La piruvato chinasi e la lattato deidrogenasi",
+        "La transaminasi e la fosfatasi acida",
+        "I citocromi della catena respiratoria e la catalasi"
+      ],
+      "answer": 4,
+      "explain": "Il ferro è contenuto nei gruppi eme dei citocromi, dove permette il trasporto di elettroni, e nel sito attivo della catalasi, che degrada il perossido di idrogeno. La glucosio ossidasi e la perossidasi usano altri cofattori, e le altre attività elencate non dipendono dal ferro come gruppo prostetico.",
+      "slide": 18
+    },
+    {
+      "id": "d05-b02-q047",
+      "q": "Per quale funzione il rame è un oligoelemento essenziale negli enzimi?",
+      "choices": [
+        "Per la sintesi del collagene come cofattore della prolil idrossilasi",
+        "Per l'attività della citocromo c ossidasi e della superossido dismutasi",
+        "Per il trasporto dell'ossigeno nell'emoglobina dei globuli rossi",
+        "Per la coagulazione del sangue come cofattore della trombina",
+        "Per la digestione dei trigliceridi nel duodeno da parte della lipasi"
+      ],
+      "answer": 1,
+      "explain": "Il rame è il metallo del sito attivo della citocromo c ossidasi, che trasferisce elettroni all'ossigeno, e della superossido dismutasi citosolica, che elimina il radicale superossido. La prolil idrossilasi dipende da ferro e vitamina C, il trasporto dell'ossigeno dall'eme del ferro e la coagulazione dal calcio e dai fattori vitamina K-dipendenti.",
+      "slide": 18
+    },
+    {
+      "id": "d05-b02-q048",
+      "q": "Per quale meccanismo la fosforilazione di un enzima può regolarne rapidamente l'attività?",
+      "choices": [
+        "La chinasi aggiunge un fosfato e la fosfatasi lo rimuove in modo reversibile",
+        "Il gruppo fosfato si lega al substrato e ne impedisce l'ingresso nel sito attivo",
+        "L'enzima viene degradato nei lisosomi e poi risintetizzato",
+        "Il gruppo fosfato denatura in modo irreversibile la proteina",
+        "Il gruppo fosfato sostituisce il coenzima rendendo l'enzima inattivo"
+      ],
+      "answer": 0,
+      "explain": "La regolazione covalente per fosforilazione è un interruttore rapido e reversibile: la chinasi trasferisce il fosfato su serina, treonina o tirosina e la fosfatasi lo rimuove, con cambiamenti di conformazione che attivano o inibiscono l'enzima. Non si tratta di una degradazione lisosomiale né di una denaturazione irreversibile, e il fosfato modifica la proteina enzimatica e non si lega al substrato.",
+      "slide": 19
+    },
+    {
+      "id": "d05-b02-q049",
+      "q": "Un inibitore competitivo si lega al sito attivo dell'enzima. Quale effetto ha sulla cinetica?",
+      "choices": [
+        "Aumenta la Vmax e lascia invariata la Km",
+        "Diminuisce sia la Km sia la Vmax",
+        "Non modifica né la Km né la Vmax",
+        "Aumenta la Km apparente, con Vmax invariata",
+        "Diminuisce la Km apparente e diminuisce la Vmax"
+      ],
+      "answer": 3,
+      "explain": "L'inibitore competitivo occupa il sito attivo e può essere spiazzato aumentando la concentrazione di substrato: serve quindi più substrato per raggiungere metà della Vmax, per cui la Km apparente aumenta, ma a saturazione la Vmax resta quella dell'enzima libero. L'inibitore non competitivo riduce invece la Vmax senza modificare la Km, mentre una diminuzione della Km indicherebbe un aumento di affinità che l'inibitore competitivo non produce.",
+      "slide": 19
+    },
+    {
+      "id": "d05-b02-q050",
+      "q": "Considerando gli enzimi digestivi, quale abbinamento fra enzima e pH ottimale è corretto?",
+      "choices": [
+        "Pepsina a pH 8 e tripsina a pH 2",
+        "Pepsina a pH 7 e tripsina a pH 7",
+        "Pepsina a pH 2 e tripsina a pH 8",
+        "Pepsina a pH 10 e tripsina a pH 2",
+        "Pepsina a pH 2 e tripsina a pH 2"
+      ],
+      "answer": 2,
+      "explain": "La pepsina agisce nello stomaco, dove il pH è fortemente acido, quindi il suo ottimo è intorno a pH 2, mentre la tripsina lavora nel piccolo intestino a pH leggermente basico, intorno a pH 8. Invertendo i due valori l'abbinamento diventa errato, perché la pepsina verrebbe inattivata a pH 8 e la tripsina a pH 2.",
+      "slide": 20
+    }
+  ]
+}

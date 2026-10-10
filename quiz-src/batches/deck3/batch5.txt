@@ -1,0 +1,68 @@
+# Deck 3 — Metabolismo dei lipidi (2025-10-30)
+# Batch 5 — argomento: Catabolismo degli acidi grassi e beta-ossidazione
+# Slide da 43 a 50
+
+### Slide 43
+CATABOLISMO ACIDI GRASSI
+β-OSSIDAZIONE
+
+### Slide 44
+➢ La β-ossidazione avviene nel MITOCONDRIO
+➢ Gli ACIDI GRASSI NON possono entrare liberamente all’interno del
+mitocondrio: trasformazione in ACIL-CoA
+➢ Il trasportatore è la CARNITINA
+
+### Slide 45
+NH2
+➢ Coenzima A (CoA): derivato della
+Coenzima Vitamina B5
+A (CoA) N
+N
+H H H CH O O N N
+3
+HS CH CH N C CH CH N C C C CH O P O P O CH2 O
+2 2 2 2 2
+O O OH CH O O
+3 H H H
+H
+beta-mercapto- acido pantotenico (vit. B5) O OH
+etilammina
+(cisteammina) O P O
+O
+3'-fosfo-ADP
+• Fabbisogno Vitamina B5: 10 mg/die
+• La carenza nell’uomo è sconosciuta
+
+### Slide 46
+CARNITINA
+E’ un derivato
+aminoacidico
+sintetizzato a
+livello epatico
+e renale
+➢ Esistono casi di deficit di carnitina, che si manifestano con crampi muscolari, profonda astenia
+e anche morte: i sintomi sono spesso esacerbati da sforzo muscolare e digiuno.
+➢ REGOLAZIONE: il glucagone attiva la traslocazione, l’insulina la diminuisce.
+
+### Slide 47
+β-OSSIDAZIONE
+4 reazioni:
+1. OSSIDAZIONE
+2. IDRATAZIONE
+3. OSSIDAZIONE
+4. RILASCIO di Acetil-CoA
+
+### Slide 48
+Per ogni ciclo di β-ossidazione (4 reazioni)
+vengono prodotti:
+1 Acetil CoA + 1 FADH2 + 1 NADH
+
+### Slide 49
+BILANCIO ENERGETICO
+Ossidazione acido grasso (16 C) ~ 130 molecole di ATP
+➢ Dall’ossidazione dell’acido palmitico a CO2 e H2O si liberano 9800 kJ/mol, di cui
+131 x 30,5 = 4000 kJ/mol sono conservati sotto forma di ATP
+
+### Slide 50
+➢ Durante un esercizio aerobio prolungato, l’ossidazione di NEFA rende conto del 60% del consumo
+di O2 nel muscolo

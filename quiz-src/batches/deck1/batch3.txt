@@ -1,0 +1,71 @@
+# Deck 1 — Chimica generale e propedeutica biochimica (2025-10-15)
+# Batch 3 — argomento: Interazioni deboli e idrofobiche, reazioni di ossidoriduzione
+# Slide da 36 a 47
+
+### Slide 36
+INTERAZIONI IDROFOBICHE
+clatrato
+
+### Slide 37
+Come avvengono le REAZIONI CHIMICHE?
+
+### Slide 38
+[Bettelheim F.A. Chimica e Propedeutica Biochimica 3E, 2025, Edises]
+
+### Slide 39
+REAZIONI CHIMICHE
+Equazione chimica: rappresentazione di una
+reazione chimica attraverso le formule dei
+reagenti e dei prodotti, separate da una freccia.
+coefficiente stechiometrico
+➢ Tutte le reazioni chimiche consistono in una cessione o acquisizione di elettroni:
+1. parziale  formazione di legami covalenti
+2. totale  formazione di legami ionici
+n. elettroni ceduti = n. elettroni acquistati
+
+### Slide 40
+ossidazione = cessione di uno (o più) elettroni
+riduzione = acquisto di uno (o più) elettroni
+riducente = cede gli elettroni
+ossidante = riceve gli elettroni
+Un'ossidazione è sempre accoppiata ad una riduzione = OSSIDORIDUZIONE
+
+### Slide 41
+REAZIONI di OSSIDORIDUZIONE
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 42
+Reazioni di OSSIDAZIONE: liberazione di energia.
+L'ossidazione del metano è sfruttata nel riscaldamento d'abitazioni e nei fornelli delle cucine.
+L'ossidazione dei carboidrati e dei grassi negli organismi viventi porta alla produzione di H2O, CO2
+ed energia, in parte dispersa come calore (mantenimento temperatura corporea), in parte
+conservata in legami chimici ad alta energia, quali quelli dell'adenosintrifosfato (ATP).
+Reazioni di RIDUZIONE: richiedono apporto di energia dall'esterno e consumo di ATP (ad
+esempio, la sintesi di nuove molecole nel nostro organismo).
+
+### Slide 43
+ENERGIA nelle reazioni chimiche:
+ENERGIA = capacità di
+compiere un lavoro
+oppure di fornire calore
+
+### Slide 44
+Energia Libera di Gibbs: ΔG
+L'unità di misura della ΔG è kcal/mole
+kcalorie liberate per mole di prodotto
+
+### Slide 45
+Reazione chimica
+
+### Slide 46
+Qualunque evento fisico o chimico procede nel senso di
+ridurre il contenuto energetico di un sistema.
+Atomi e molecole possono essere visti come minuscoli
+depositi di energia.
+
+### Slide 47
+➢ VELOCITA’ delle reazioni chimiche?
+Velocità di reazione
+Stato di salute e malattia:
+cambiamento della velocità di determinate reazioni all'interno
+dell'organismo

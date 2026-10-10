@@ -1,0 +1,92 @@
+# Deck 2 — Metabolismo energetico e metabolismo dei carboidrati (2025-10-22)
+# Batch 6 — argomento: Bilancio energetico della glicolisi, NAD e NADP, fermentazione
+# Slide da 41 a 50
+
+### Slide 41
+➢ LDH nel muscolo
+L’acido lattico è un acido forte
+myosin ATP-ase
+
+### Slide 42
+Ciclo di Cori
+➢ Il lattato è rimosso dal circolo ad
+glucosio
+opera del fegato (dove viene
+gluconeogenesi risintetizzato a glucosio) e dal
+2 lattato
+muscolo cardiaco (dove viene
+glucosio
+lattato ulteriormente ossidato).
+fegato
+sangue
+2 lattato
+muscolo
+glucosio
+glicolisi
+
+### Slide 43
+Debito di ossigeno
+➢ L’eccesso di ossigeno consumato
+durante il periodo di recupero
+rappresenta il pagamento del debito di
+ossigeno, cioè l’ossigeno necessario a
+fornire ATP per la gluconeogenesi nel
+periodo di recupero e riformare il
+glucosio consumato dal muscolo a
+spese del fegato (ciclo di Cori).
+
+### Slide 44
+GLUCONEOGENESI:
+sintesi di GLUCOSIO da precursori NON GLUCIDICI
+FEGATO
+glucosio
+gluconeogenesi
+2 lattato
+glucosio
+SANGUE lattato
+fegato
+sangue
+2 lattato
+muscolo
+glucosio
+TESSUTI
+glicolisi
+
+### Slide 45
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 46
+GLUCONEOGENESI
+➢ GLUCONEOGENESI: avviene nel CITOSOL (come la glicolisi) e nei MITOCONDRI
+➢ Glicolisi e Gluconeogenesi sono regolate indipendentemente l’una dall’altra
+• Nel digiuno notturno il fegato produce 1,8-2 mg/kg/min di glucosio
+(il cervello lo consuma alla velocità di 1-2 mg/kg/min).
+• In assenza di carboidrati nella dieta il fegato produce circa 200 g di glucosio al
+giorno.
+• In un paziente diabetico il fegato può sintetizzare 1 kg di glucosio al giorno.
+
+### Slide 47
+➢ Dalla demolizione ossidativa del glucosio si ottengono:
+• 36-38 molecole di ATP nella glicolisi aerobia
+• 2 molecole di ATP nella glicolisi anaerobia, ma queste ultime sono
+prodotte ad una velocità anche 100 volte superiore a quella della
+fosforilazione ossidativa
+✓ perciò il muscolo sotto sforzo ricorre alla glicolisi anaerobia
+
+### Slide 48
+Effetto “Warburg” nei tumori
+➢ Il biochimico tedesco Otto Warburg osservò per primo nel 1928 che in quasi tutti i tipi di tumori la velocità della
+glicolisi è più elevata di quella dei tessuti normali, anche quando è disponibile l’ossigeno.
+➢ Su questo “effetto Warburg” si basano molti metodi di diagnosi e di trattamento del cancro.
+➢ Le cellule tumorali devono assorbire molto più glucosio delle cellule normali, convertendolo in piruvato e quindi in
+lattato, per riciclare il NADH.
+➢ In molti tipi di tumori umani e degli animali, la velocità della glicolisi può superare anche di dieci volte quella dei
+tessuti normali non neoplastici.
+
+### Slide 49
+RISERVA di GLUCOSIO
+GLICOGENO
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 50
+GLICOGENO → E’ la principale riserva di CARBOIDRATI nei vertebrati

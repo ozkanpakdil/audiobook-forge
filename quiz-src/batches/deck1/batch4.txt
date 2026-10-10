@@ -1,0 +1,140 @@
+# Deck 1 — Chimica generale e propedeutica biochimica (2025-10-15)
+# Batch 4 — argomento: Cinetica chimica, soluzioni, solubilita e proprieta dell'acqua
+# Slide da 48 a 69
+
+### Slide 48
+CINETICA CHIMICA
+Le reazioni chimiche possono procedere con velocità diversa
+
+### Slide 49
+CATALISI
+CATALIZZATORE
+sostanza che aumenta la velocità di una reazione senza essere consumata
+
+### Slide 50
+CATALISI: ENZIMI
+❖ Migliaia di diversi tipi di proteine, ognuna delle quali catalizza
+solo una o poche tra le migliaia di reazioni che avvengono nei
+tessuti animali.
+❖ Specificità molto elevata per il substrato.
+❖ Il meccanismo di catalisi si basa sempre sull'adsorbimento.
+
+### Slide 51
+Quali altre condizioni possono influenzare
+le reazioni chimiche?
+
+### Slide 52
+Le reazioni chimiche sono influenzate dal pH
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+ACIDI e BASI
+• ACIDO: qualsiasi molecola o ione in grado di donare idrogenioni
+(= ioni H+ = protoni)
+• BASE: qualsiasi molecola o ione in grado di accettare idrogenioni
+
+### Slide 53
+ACIDI e BASI
+➢ E' esperienza comune che gli acidi diluiti hanno sapore aspro (per esempio il limone,
+l'aceto), mentre le basi diluite hanno sapore amaro (molti farmaci sono basici).
+
+### Slide 54
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 55
+Il pH e il pOH
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 56
+➢ pH influenza:
+1) attività enzimatiche
+2) trasporto di ioni e molecole
+3) contrazione muscolare
+4) fecondazione dell'ovocita
+5) proliferazione cellulare
+➢ Un uomo adulto produce ogni giorno:
+• 13-20 moli di CO2 (acido carbonico)
+• 50-80 mmoli di acido solforico e fosforico
+• 0,3-0,4 moli di acido lattico (solo eritrociti)
+pH del sangue arterioso = 7,4 + 0,04
+pH del sangue venoso = 7,38 + 0,04
+[H+]= 40 + 4 nM
+
+### Slide 57
+SOLUZIONE TAMPONE
+➢ Soluzione contenente un acido debole e la OH
+sua base coniugata, che resiste a
+modificazioni di pH neutralizzando acidi o H A H
+basi aggiunti alla soluzione.
+AH
+SISTEMI TAMPONE FISIOLOGICI:
+3 diversi tipi di coppie acido/base:
+1. Il tampone fosfati (sangue, rene)
+➢ Ripristinano il pH al valore di
+2. Le proteine (albumina, emoglobina) neutralità = 7
+3. Il tampone CO2/HCO3¯ (BICARBONATO)
+
+### Slide 58
+➢ Tampone HCO3‾/CO2 (BICARBONATO):
+
+### Slide 59
+Domande?
+
+### Slide 60
+(slide senza testo: contiene solo immagini)
+
+### Slide 61
+➢ Struttura delle molecole biologiche
+STRUTTURALE
+https://cards.algoreducation.com
+
+### Slide 62
+BIOCHIMICA STRUTTURALE
+➢ La BIOCHIMICA
+STRUTTURALE o
+DESCRITTIVA studia la
+struttura delle molecole per
+spiegarne il loro significato a
+livello metabolico.
+
+### Slide 63
+➢ BIOCHIMICA:
+la biochimica descrive la struttura, l'organizzazione e la funzione della materia vivente in termini molecolari
+➢ L’ENERGIA è il tema centrale della biochimica
+
+### Slide 64
+Perché mangiamo?
+• Produzione energia
+• Crescita e riparazione tessuti
+Ogni giorno una persona adulta mangia 1 kg di alimenti
+e beve 1-2 litri di fluidi.
+
+### Slide 65
+➢ Contenuto di un Big Mac (219 g):
+47 g carboidrati
+30 g lipidi
+25 g proteine
+560 kilocalorie
+
+### Slide 66
+METABOLISMO GENERALE
+• CARBOIDRATI
+• LIPIDI
+• PROTEINE
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 67
+CARBOIDRATI
+• I carboidrati o saccaridi (dal greco sákcharon, “zucchero”) (CH2O)n
+sono le molecole biologiche più abbondanti.
+• Il fondamentale ruolo dei carboidrati è quello di fornire
+ENERGIA (4 kcal/grammo).
+• Nessun carboidrato è essenziale, ma partecipano a numerose
+funzioni fondamentali nell’organismo.
+
+### Slide 68
+Perché sono importanti i carboidrati?
+[www.focus.it]
+
+### Slide 69
+Il cervello ha bisogno di CARBOIDRATI: i neuroni lavorano quasi esclusivamente a GLUCOSIO,
+perciò è necessario garantirne un apporto continuo.
+120 grammi di glucosio/giorno = 480 Kilocalorie

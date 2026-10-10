@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 3,
+  "topic": "LDL, HDL, aterosclerosi e colesterolemia",
+  "questions": [
+    {
+      "id": "d04-b03-q001",
+      "q": "Quale delle seguenti condizioni NON è considerata un fattore di rischio per l'aterosclerosi?",
+      "choices": [
+        "Fumo di sigaretta, che danneggia direttamente l'endotelio",
+        "Ipertensione arteriosa, che stressa meccanicamente la parete",
+        "Attività fisica regolare, che migliora il profilo lipidico",
+        "Obesità, che altera il metabolismo dei lipidi plasmatici",
+        "Stress cronico, che favorisce ipertensione e dislipidemia"
+      ],
+      "answer": 2,
+      "explain": "L'attività fisica regolare è protettiva e non compare tra i fattori di rischio dell'aterosclerosi, che comprendono invece fumo, ipertensione, diabete, obesità, stress e dislipidemia. Il fumo è un distrattore solo in apparenza: è invece uno dei fattori di rischio classici, perché danneggia l'endotelio e favorisce l'ossidazione delle LDL.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q002",
+      "q": "La riduzione del colesterolo HDL plasmatico come viene classificata rispetto al rischio aterosclerotico?",
+      "choices": [
+        "Fattore di rischio positivo",
+        "Fattore di rischio negativo, cioè protettivo",
+        "Elemento senza alcuna correlazione con il rischio cardiovascolare",
+        "Effetto esclusivo di una dieta priva di colesterolo",
+        "Conseguenza diretta della sola ipertensione arteriosa"
+      ],
+      "answer": 0,
+      "explain": "Un valore ridotto di colesterolo HDL è un fattore di rischio positivo, cioè aumenta la probabilità di sviluppare aterosclerosi, perché le HDL svolgono il trasporto inverso del colesterolo. L'alternativa che lo definisce fattore di rischio negativo è sbagliata perché inverte il significato: è il valore elevato di HDL a essere protettivo.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q003",
+      "q": "Quale condizione metabolica è annoverata tra i fattori di rischio dell'aterosclerosi?",
+      "choices": [
+        "Anemia sideropenica",
+        "Ipotiroidismo congenito",
+        "Deficit di vitamina C",
+        "Emocromatosi",
+        "Diabete mellito"
+      ],
+      "answer": 4,
+      "explain": "Il diabete mellito rientra tra i fattori di rischio dell'aterosclerosi insieme a obesità, dislipidemia, ipertensione e fumo, perché l'iperglicemia cronica danneggia i vasi. Anemia, deficit di vitamina C, ipotiroidismo congenito ed emocromatosi non fanno parte di questo elenco.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q004",
+      "q": "Un aumento del colesterolo LDL plasmatico come si configura rispetto al rischio aterosclerotico?",
+      "choices": [
+        "Fattore di rischio negativo, quindi protettivo",
+        "Fattore di rischio positivo",
+        "Elemento privo di effetto sulla parete arteriosa",
+        "Protettivo soltanto negli uomini",
+        "Protettivo soltanto quando le HDL sono basse"
+      ],
+      "answer": 1,
+      "explain": "L'aumento del colesterolo LDL è un fattore di rischio positivo, perché le LDL in eccesso si depositano nella parete arteriosa e contribuiscono alla placca. Definirlo protettivo è l'errore più insidioso, perché confonde le LDL con le HDL, che invece sono protettive quando sono elevate.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q005",
+      "q": "L'ipertensione arteriosa, rispetto allo sviluppo dell'aterosclerosi, come va considerata?",
+      "choices": [
+        "Un fattore protettivo",
+        "Un elemento del tutto irrilevante",
+        "Un fattore rilevante soltanto in età pediatrica",
+        "Un fattore di rischio",
+        "Un fattore che riduce la formazione delle placche"
+      ],
+      "answer": 3,
+      "explain": "L'ipertensione arteriosa è un fattore di rischio perché lo stress meccanico sulla parete dei vasi favorisce il danno endoteliale e l'accumulo di lipidi. Considerarla irrilevante è sbagliato: la pressione elevata agisce in modo continuo sulla parete arteriosa e amplifica l'effetto delle LDL.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q006",
+      "q": "La mancanza di esercizio fisico come influisce sul rischio di aterosclerosi?",
+      "choices": [
+        "Lo aumenta",
+        "Lo riduce",
+        "Non ha alcun effetto dimostrabile",
+        "Ha effetto soltanto se associata al fumo",
+        "È protettiva se accompagnata da una dieta ipocalorica"
+      ],
+      "answer": 0,
+      "explain": "La sedentarietà è elencata tra i fattori di rischio dell'aterosclerosi, perché peggiora il profilo lipidico e favorisce obesità, ipertensione e insulino-resistenza. L'alternativa che la considera protettiva è sbagliata: è l'esercizio fisico regolare, non la sua mancanza, ad avere effetto favorevole.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q007",
+      "q": "Un soggetto presenta colesterolo LDL elevato e colesterolo HDL ridotto: come si configura il suo profilo di rischio?",
+      "choices": [
+        "Rischio ridotto, perché i due effetti si annullano tra loro",
+        "Rischio ridotto, perché conta soltanto il colesterolo totale",
+        "Rischio aumentato, perché entrambe le alterazioni lo accrescono",
+        "Rischio invariato, perché le HDL non influenzano la placca",
+        "Rischio aumentato soltanto in presenza di anemia conclamata"
+      ],
+      "answer": 2,
+      "explain": "Sia l'aumento delle LDL sia la riduzione delle HDL sono fattori di rischio positivi, quindi la loro compresenza somma gli effetti e aumenta il rischio aterosclerotico. L'idea che i due effetti si annullino è sbagliata, perché non si tratta di forze opposte ma di due alterazioni che spingono nella stessa direzione.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q008",
+      "q": "Che cosa si intende per lipoproteine ossidate?",
+      "choices": [
+        "LDL sintetizzate dal fegato già in forma parzialmente ossidata",
+        "HDL che hanno ceduto il loro colesterolo ai tessuti periferici",
+        "Chilomicroni che hanno perso le apolipoproteine di superficie",
+        "VLDL ossidate nel fegato prima di essere secrete nel plasma",
+        "LDL che restano a lungo in circolo e vengono ossidate"
+      ],
+      "answer": 4,
+      "explain": "Le lipoproteine ossidate sono LDL che, restando a lungo nel circolo sanguigno, subiscono modificazioni ossidative e diventano particelle riconosciute dai macrofagi. L'alternativa sulle HDL è sbagliata perché sono le LDL, non le HDL, il substrato principale di questo processo, e le HDL svolgono semmai la funzione opposta.",
+      "slide": 22
+    },
+    {
+      "id": "d04-b03-q009",
+      "q": "Quale condizione favorisce la formazione di LDL ossidate?",
+      "choices": [
+        "Il rapido catabolismo epatico delle LDL circolanti",
+        "La permanenza prolungata delle LDL nel circolo",
+        "L'aumento del colesterolo HDL plasmatico circolante",
+        "La riduzione dei trigliceridi plasmatici circolanti",
+        "L'aumento dell'attività fisica aerobica regolare"
+      ],
+      "answer": 1,
+      "explain": "Più a lungo le LDL restano in circolo, maggiore è il tempo di esposizione agli agenti ossidanti e quindi la probabilità che vengano ossidate. Un catabolismo epatico rapido è l'opposto di questa condizione e ridurrebbe il fenomeno, non lo favorirebbe.",
+      "slide": 22
+    },
+    {
+      "id": "d04-b03-q010",
+      "q": "Che cosa sono le cellule schiumose che si formano nella parete arteriosa?",
+      "choices": [
+        "Macrofagi che hanno fagocitato globuli rossi e detriti",
+        "Cellule muscolari lisce ricche di trigliceridi di deposito",
+        "Linfociti T carichi di colesterolo esterificato in eccesso",
+        "Macrofagi carichi di colesterolo accumulato nella placca",
+        "Cellule endoteliali degenerate e prive di lipidi citoplasmatici"
+      ],
+      "answer": 3,
+      "explain": "Le cellule schiumose sono macrofagi che hanno inglobato lipidi, in particolare colesterolo, e appaiono come elementi ricchi di vacuoli lipidici. I linfociti T partecipano all'infiammazione della placca ma non si caricano di colesterolo fino a diventare cellule schiumose.",
+      "slide": 23
+    },
+    {
+      "id": "d04-b03-q011",
+      "q": "Qual è la funzione principale del trasporto inverso del colesterolo operato dalle HDL?",
+      "choices": [
+        "Portare colesterolo dal fegato ai tessuti periferici",
+        "Riportare il colesterolo dai tessuti extraepatici al fegato",
+        "Trasportare i trigliceridi esogeni al tessuto adiposo",
+        "Distribuire gli acidi biliari nell'intestino",
+        "Veicolare gli ormoni steroidei nel plasma"
+      ],
+      "answer": 1,
+      "explain": "Il trasporto inverso porta il colesterolo in eccesso dai tessuti extraepatici, comprese le cellule schiumose della placca, verso il fegato per l'eliminazione. La direzione opposta, dal fegato ai tessuti, è quella delle LDL e dei loro precursori, quindi non descrive il ruolo delle HDL.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q012",
+      "q": "In che modo il trasporto inverso del colesterolo contrasta la formazione della placca aterosclerotica?",
+      "choices": [
+        "Aumentando la sintesi epatica di LDL",
+        "Ossidando le LDL circolanti",
+        "Favorendo la trasformazione dei macrofagi in cellule schiumose",
+        "Riducendo il danno potenziale che deriva dalle cellule schiumose",
+        "Aumentando l'assorbimento intestinale del colesterolo"
+      ],
+      "answer": 3,
+      "explain": "Le HDL riducono il danno potenziale legato alle cellule schiumose sottraendo loro il colesterolo e allontanandolo dalla parete del vaso, così ostacolano la crescita della placca. Favorendo la formazione delle cellule schiumose si otterrebbe l'effetto opposto, cioè un peggioramento dell'aterosclerosi.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q013",
+      "q": "Che cosa fanno le HDL povere di colesterolo, cioè svuotate, a livello dei tessuti extraepatici?",
+      "choices": [
+        "Prelevano il colesterolo accumulato nei tessuti periferici",
+        "Cedono colesterolo alle cellule schiumose della parete",
+        "Degradano il colesterolo in acidi biliari nei tessuti periferici",
+        "Trasformano il colesterolo libero in trigliceridi di deposito",
+        "Bloccano il trasporto del colesterolo verso il fegato"
+      ],
+      "answer": 0,
+      "explain": "Le HDL svuotate, con basso contenuto di colesterolo, funzionano da accettori e prelevano il colesterolo conservato nei tessuti extraepatici, comprese le cellule schiumose del sito in cui si formano le placche. L'alternativa che le descrive mentre cedono colesterolo è sbagliata, perché descrive il comportamento delle lipoproteine che trasportano lipidi verso la periferia.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q014",
+      "q": "Dopo aver prelevato il colesterolo dai tessuti, verso quale organo si dirigono le HDL?",
+      "choices": [
+        "Ai reni, per l'escrezione diretta nelle urine",
+        "Al tessuto adiposo, per lo stoccaggio",
+        "Al fegato",
+        "All'intestino tenue, per la riescrezione",
+        "Al midollo osseo, per sostenere l'eritropoiesi"
+      ],
+      "answer": 2,
+      "explain": "Le HDL cariche di colesterolo lo trasportano al fegato, dove il colesterolo può essere escreto nella bile o convertito in acidi biliari. Il rene è il distrattore più insidioso perché è un organo di escrezione, ma il colesterolo non viene eliminato direttamente con le urine.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q015",
+      "q": "Perché il trasporto inverso del colesterolo è considerato un meccanismo anti-aterogeno?",
+      "choices": [
+        "Perché aumenta la sintesi epatica delle LDL circolanti",
+        "Perché riduce il colesterolo HDL presente in circolo",
+        "Perché favorisce l'ossidazione delle LDL nella parete",
+        "Perché promuove la formazione di placche più voluminose e stabili",
+        "Perché sottrae colesterolo alla parete e lo porta al fegato"
+      ],
+      "answer": 4,
+      "explain": "Sottraendo colesterolo alla parete arteriosa e riportandolo al fegato, le HDL limitano la formazione delle placche e l'insorgenza dell'aterosclerosi. Favorire l'ossidazione delle LDL è un'azione pro-aterogena e non ha nulla a che vedere con il trasporto inverso.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q016",
+      "q": "Quale conseguenza deriva da un trasporto inverso del colesterolo insufficiente?",
+      "choices": [
+        "Riduzione del rischio di aterosclerosi coronarica",
+        "Aumento dell'escrezione biliare di colesterolo libero",
+        "Accumulo di colesterolo nelle cellule schiumose",
+        "Scomparsa delle placche aterosclerotiche già formate",
+        "Aumento del catabolismo epatico delle LDL circolanti"
+      ],
+      "answer": 2,
+      "explain": "Se il trasporto inverso è insufficiente, il colesterolo resta nei tessuti e nelle cellule schiumose della parete arteriosa, alimentando la placca e il danno vascolare. La scomparsa delle placche è l'esito opposto e si osserva quando il trasporto inverso funziona efficacemente.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q017",
+      "q": "Quali particelle possono svuotare del loro colesterolo le cellule schiumose presenti nel sito di formazione della placca?",
+      "choices": [
+        "I chilomicroni",
+        "Le VLDL nascenti",
+        "L'albumina",
+        "I sali biliari",
+        "Le HDL"
+      ],
+      "answer": 4,
+      "explain": "Le HDL prelevano il colesterolo dalle cellule schiumose della placca e lo trasportano al fegato, contribuendo a limitare il danno. L'albumina è un distrattore plausibile perché trasporta gli acidi grassi liberi nel plasma, ma non rimuove il colesterolo dalle cellule.",
+      "slide": 24
+    },
+    {
+      "id": "d04-b03-q018",
+      "q": "Quale effetto hanno gli acidi grassi saturi della dieta sul pool di colesterolo?",
+      "choices": [
+        "Riducono il pool di colesterolo libero nel plasma",
+        "Aumentano il pool di colesterolo libero a scapito degli esteri",
+        "Aumentano la sintesi epatica degli esteri del colesterolo",
+        "Aumentano il colesterolo HDL e riducono i trigliceridi",
+        "Riducono il colesterolo LDL e il colesterolo totale plasmatico"
+      ],
+      "answer": 1,
+      "explain": "Gli acidi grassi saturi aumentano il pool di colesterolo libero a scapito del colesterolo esterificato, e questo contribuisce all'aumento delle LDL. L'alternativa che li fa aumentare gli esteri inverte il rapporto descritto: sono i monoinsaturi a favorire la sintesi degli esteri.",
+      "slide": 25
+    },
+    {
+      "id": "d04-b03-q019",
+      "q": "Nel bilancio del colesterolo cellulare, che cosa indica la forma abbreviata CE?",
+      "choices": [
+        "Colesterolo libero",
+        "Colesterolo circolante",
+        "Colesterolo alimentare",
+        "Colesterolo esterificato",
+        "Colesterolo ossidato"
+      ],
+      "answer": 3,
+      "explain": "CE indica il colesterolo esterificato, cioè la forma in cui il gruppo ossidrilico del colesterolo è legato a un acido grasso, tipica del nucleo delle lipoproteine e dei depositi intracellulari. CL, abbreviazione del colesterolo libero, è la forma non esterificata ed è il distrattore che si confonde più facilmente con CE.",
+      "slide": 25
+    },
+    {
+      "id": "d04-b03-q020",
+      "q": "Come influenzano gli acidi grassi monoinsaturi della dieta il pool di colesterolo?",
+      "choices": [
+        "Abbassano il pool di colesterolo libero esterificandolo",
+        "Aumentano il pool di colesterolo libero plasmatico",
+        "Aumentano il colesterolo LDL e riducono le HDL plasmatiche",
+        "Non hanno alcun effetto sul metabolismo del colesterolo",
+        "Riducono la sintesi degli esteri del colesterolo nel fegato"
+      ],
+      "answer": 0,
+      "explain": "Gli acidi grassi monoinsaturi abbassano il pool di colesterolo libero perché ne favoriscono l'esterificazione, con un effetto complessivamente favorevole sul profilo lipidico. L'alternativa che li fa aumentare il colesterolo LDL è sbagliata, perché quell'effetto è tipico dei grassi saturi e non dei monoinsaturi.",
+      "slide": 25
+    },
+    {
+      "id": "d04-b03-q021",
+      "q": "Per quale motivo una dieta ricca di acidi grassi saturi tende ad aumentare il colesterolo LDL?",
+      "choices": [
+        "Perché accresce il pool di colesterolo libero non esterificato",
+        "Perché stimola la conversione del colesterolo in acidi biliari",
+        "Perché aumenta la sintesi epatica degli esteri del colesterolo",
+        "Perché potenzia il trasporto inverso del colesterolo",
+        "Perché inibisce l'assorbimento intestinale dei grassi"
+      ],
+      "answer": 0,
+      "explain": "L'aumento del colesterolo libero disponibile, a scapito della forma esterificata, è il meccanismo con cui i grassi saturi favoriscono l'aumento delle LDL. Potenziare il trasporto inverso sarebbe protettivo e ridurrebbe le LDL, quindi non può spiegare l'effetto osservato.",
+      "slide": 25
+    },
+    {
+      "id": "d04-b03-q022",
+      "q": "Quale affermazione descrive correttamente il rapporto tra acidi grassi della dieta e colesterolemia?",
+      "choices": [
+        "Gli acidi grassi saturi abbassano il colesterolo LDL plasmatico",
+        "Gli acidi grassi monoinsaturi aumentano il colesterolo LDL plasmatico",
+        "I saturi aumentano le LDL, i monoinsaturi riducono il colesterolo libero",
+        "Sia gli acidi grassi saturi sia i monoinsaturi aumentano le LDL",
+        "I monoinsaturi aumentano il pool di colesterolo libero plasmatico"
+      ],
+      "answer": 2,
+      "explain": "I saturi aumentano il colesterolo LDL perché ampliano il pool di colesterolo libero, mentre i monoinsaturi riducono questo pool favorendo l'esterificazione. L'alternativa che attribuisce ai monoinsaturi l'aumento delle LDL è il distrattore più insidioso, perché scambia l'effetto delle due classi di acidi grassi.",
+      "slide": 25
+    },
+    {
+      "id": "d04-b03-q023",
+      "q": "Quale effetto ha una dieta ricca di grassi saturi sul profilo lipidico plasmatico?",
+      "choices": [
+        "Aumenta il colesterolo HDL e riduce i trigliceridi plasmatici",
+        "Riduce il colesterolo LDL e aumenta il colesterolo HDL plasmatico",
+        "Riduce sia il colesterolo LDL sia i trigliceridi plasmatici",
+        "Non modifica in modo significativo il profilo lipidico",
+        "Aumenta le LDL e i trigliceridi e riduce le HDL"
+      ],
+      "answer": 4,
+      "explain": "Una dieta ricca di grassi saturi aumenta il colesterolo LDL e i trigliceridi e diminuisce il colesterolo HDL, quindi peggiora complessivamente il profilo lipidico. L'alternativa che prevede un aumento delle HDL è sbagliata, perché è proprio il contrario di quanto accade con i grassi saturi.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q024",
+      "q": "Come sono correlati i livelli plasmatici di HDL con quelli di VLDL e LDL?",
+      "choices": [
+        "Direttamente: all'aumentare delle HDL aumentano anche VLDL e LDL",
+        "Inversamente: all'aumentare di VLDL e LDL le HDL tendono a ridursi",
+        "In modo del tutto indipendente, senza alcuna correlazione",
+        "In modo direttamente proporzionale soltanto nei soggetti diabetici",
+        "In modo casuale e senza alcun significato clinico"
+      ],
+      "answer": 1,
+      "explain": "Esiste una correlazione inversa: quando VLDL e LDL sono elevate, i livelli di HDL tendono a essere bassi, e questo si associa a un maggior rischio di cardiopatia coronarica. La correlazione diretta è l'errore più frequente, perché suggerirebbe che tutte le lipoproteine crescono insieme, mentre le frazioni si muovono in direzioni opposte.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q025",
+      "q": "Quale valore di colesterolo HDL è considerato un fattore di rischio positivo?",
+      "choices": [
+        "HDL superiore a 60 mg%",
+        "HDL compreso tra 45 e 60 mg%",
+        "HDL pari a 40 mg%",
+        "HDL inferiore a 35 mg%",
+        "HDL pari a 70 mg%"
+      ],
+      "answer": 3,
+      "explain": "Un valore di HDL inferiore a 35 mg% è classificato come fattore di rischio positivo, cioè associato a un maggiore rischio cardiovascolare. Il valore superiore a 60 mg% è il distrattore più insidioso, perché è un fattore di rischio negativo, quindi protettivo, e non positivo.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q026",
+      "q": "Come viene interpretato un valore di colesterolo HDL superiore a 60 mg%?",
+      "choices": [
+        "Come fattore di rischio positivo",
+        "Come valore di borderline",
+        "Come indice sicuro di sindrome metabolica",
+        "Come valore privo di significato clinico",
+        "Come fattore di rischio negativo, cioè favorevole"
+      ],
+      "answer": 4,
+      "explain": "Un valore di HDL superiore a 60 mg% è un fattore di rischio negativo, cioè indica un profilo protettivo, coerente con il ruolo anti-aterogeno delle HDL. Definirlo fattore di rischio positivo è l'errore più insidioso, perché inverte completamente il significato clinico del dato.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q027",
+      "q": "Quale effetto hanno gli estrogeni sul profilo lipidico?",
+      "choices": [
+        "Aumentano il colesterolo LDL e riducono il colesterolo HDL",
+        "Riducono il colesterolo LDL e aumentano il colesterolo HDL",
+        "Aumentano sia il colesterolo LDL sia il colesterolo HDL",
+        "Riducono sia il colesterolo LDL sia il colesterolo HDL",
+        "Non modificano il colesterolo plasmatico"
+      ],
+      "answer": 1,
+      "explain": "Gli estrogeni abbassano il colesterolo LDL e aumentano il colesterolo HDL, contribuendo al profilo lipidico più favorevole tipico dell'età fertile. L'alternativa che li fa aumentare le LDL è sbagliata, perché descrive l'effetto opposto a quello degli estrogeni.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q028",
+      "q": "Perché la riduzione degli estrogeni dopo la menopausa si associa a un maggiore rischio aterosclerotico?",
+      "choices": [
+        "Perché gli estrogeni aumentano il colesterolo LDL plasmatico",
+        "Perché gli estrogeni riducono il colesterolo HDL plasmatico",
+        "Perché gli androgeni riducono i trigliceridi plasmatici circolanti",
+        "Perché manca il loro effetto protettivo su LDL e HDL",
+        "Perché la menopausa potenzia il trasporto inverso del colesterolo"
+      ],
+      "answer": 3,
+      "explain": "Gli estrogeni riducono le LDL e aumentano le HDL; quando diminuiscono, l'organismo perde questo effetto protettivo e il profilo lipidico peggiora. Considerarli responsabili di un aumento delle LDL è sbagliato, perché il loro effetto fisiologico è esattamente il contrario.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q029",
+      "q": "Quale relazione esiste tra livelli di colesterolo HDL e rischio di cardiopatia coronarica?",
+      "choices": [
+        "Una relazione inversa: HDL più elevate si associano a rischio minore",
+        "Una relazione diretta: HDL più elevate si associano a rischio maggiore",
+        "Nessuna relazione dimostrata",
+        "Una relazione inversa soltanto negli uomini",
+        "Una relazione diretta soltanto nelle donne"
+      ],
+      "answer": 0,
+      "explain": "I livelli di HDL sono inversamente correlati al rischio di cardiopatia coronarica, così come lo sono a quelli di VLDL e LDL. Affermare una relazione diretta è l'errore più grave, perché significherebbe che le HDL favoriscono la malattia coronarica, mentre svolgono il trasporto inverso del colesterolo.",
+      "slide": 26
+    },
+    {
+      "id": "d04-b03-q030",
+      "q": "Quale tra i seguenti è un fattore di rischio non modificabile per l'aterosclerosi?",
+      "choices": [
+        "Fumo di sigaretta",
+        "Ipertensione arteriosa",
+        "Sesso maschile",
+        "Obesità",
+        "Mancanza di esercizio fisico"
+      ],
+      "answer": 2,
+      "explain": "Il sesso maschile è un fattore di rischio non modificabile, perché non dipende dallo stile di vita né da un trattamento. Fumo, ipertensione, obesità e sedentarietà sono invece fattori modificabili, sui quali si può intervenire con la prevenzione e la terapia.",
+      "slide": 21
+    },
+    {
+      "id": "d04-b03-q031",
+      "q": "Qual è l'intervallo di colesterolemia considerato normale nell'uomo adulto?",
+      "choices": [
+        "60 – 110 mg/100 ml",
+        "90 – 130 mg/100 ml",
+        "110 – 150 mg/100 ml",
+        "130 – 200 mg/100 ml",
+        "200 – 240 mg/100 ml"
+      ],
+      "answer": 3,
+      "explain": "Nell'uomo adulto normale la colesterolemia è compresa tra 130 e 200 mg/100 ml. L'intervallo 200–240 mg/100 ml è il distrattore più insidioso, perché è vicino al precedente ma corrisponde alla fascia definita borderline, non alla norma.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q032",
+      "q": "Quale intervallo di colesterolemia è definito borderline nell'uomo adulto?",
+      "choices": [
+        "130 – 200 mg/100 ml",
+        "200 – 240 mg/100 ml",
+        "240 – 300 mg/100 ml",
+        "100 – 130 mg/100 ml",
+        "Solo i valori superiori a 300 mg/100 ml"
+      ],
+      "answer": 1,
+      "explain": "La fascia compresa tra 200 e 240 mg/100 ml è definita borderline, cioè intermedia tra la norma e un valore chiaramente elevato. L'intervallo 130–200 mg/100 ml è invece il valore normale, e proprio la sua vicinanza rende questo distrattore il più insidioso.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q033",
+      "q": "In un uomo adulto normale, in quale proporzione si trovano la forma esterificata e quella libera del colesterolo plasmatico?",
+      "choices": [
+        "Circa due terzi esterificato e un terzo libero",
+        "Circa un terzo esterificato e due terzi libero",
+        "Metà esterificato e metà libero",
+        "Quasi tutto in forma libera",
+        "Quasi tutto in forma esterificata, oltre il 95%"
+      ],
+      "answer": 0,
+      "explain": "Circa due terzi del colesterolo plasmatico è in forma esterificata e circa un terzo in forma libera. L'alternativa che inverte le due proporzioni è il distrattore più insidioso, perché conserva le stesse frazioni ma le assegna alla forma sbagliata.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q034",
+      "q": "Quale frazione del colesterolo plasmatico dell'uomo adulto normale si trova in forma libera?",
+      "choices": [
+        "Circa tre quarti",
+        "Circa la metà",
+        "Circa un terzo",
+        "Circa un quinto",
+        "Circa un decimo"
+      ],
+      "answer": 2,
+      "explain": "La forma libera rappresenta circa un terzo del colesterolo plasmatico, mentre gli altri due terzi sono esterificati. Dire che è circa la metà è l'errore più comune, perché sopravvaluta la quota libera rispetto al rapporto reale.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q035",
+      "q": "Quale dei seguenti valori di colesterolemia rientra nell'intervallo normale dell'uomo adulto?",
+      "choices": [
+        "115 mg/100 ml",
+        "125 mg/100 ml",
+        "205 mg/100 ml",
+        "215 mg/100 ml",
+        "180 mg/100 ml"
+      ],
+      "answer": 4,
+      "explain": "Il valore di 180 mg/100 ml è compreso nell'intervallo normale di 130–200 mg/100 ml. I valori di 205 e 215 mg/100 ml sono i distrattori più insidiosi, perché sono vicini al limite superiore ma cadono già nella fascia borderline.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q036",
+      "q": "Un uomo adulto presenta una colesterolemia di 220 mg/100 ml: come si colloca questo valore?",
+      "choices": [
+        "Nell'intervallo normale",
+        "Al di sotto dell'intervallo normale",
+        "In una condizione di rischio del tutto assente",
+        "Nell'intervallo borderline",
+        "In una condizione di grave deficit di colesterolo"
+      ],
+      "answer": 3,
+      "explain": "Un valore di 220 mg/100 ml cade nella fascia 200–240 mg/100 ml, definita borderline, quindi merita attenzione clinica. Considerarlo normale è l'errore più probabile, perché 220 mg/100 ml supera il limite superiore della norma fissato a 200 mg/100 ml.",
+      "slide": 27
+    },
+    {
+      "id": "d04-b03-q037",
+      "q": "Con quale evenienza clinica sono correlati i livelli elevati di colesterolo nel sangue?",
+      "choices": [
+        "Con una maggiore incidenza di malattie cardiovascolari",
+        "Con una maggiore incidenza di anemia sideropenica",
+        "Con una riduzione della sintesi degli acidi biliari",
+        "Con un aumento progressivo della densità minerale ossea",
+        "Con una riduzione del rischio trombotico e dell'aggregazione"
+      ],
+      "answer": 0,
+      "explain": "Livelli elevati di colesterolo nel sangue sono correlati con una maggiore incidenza di malattie cardiovascolari, perché favoriscono l'aterosclerosi. L'alternativa che li associa a un rischio trombotico ridotto è sbagliata, perché il quadro è opposto: il rischio cardiovascolare aumenta.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q038",
+      "q": "Qual è il ruolo del colesterolo nelle membrane cellulari?",
+      "choices": [
+        "È il principale trasportatore di ossigeno nel sangue",
+        "È un enzima di membrana che catalizza reazioni",
+        "È un lipide strutturale delle membrane cellulari",
+        "È il precursore degli acidi grassi essenziali",
+        "È una proteina canale per il trasporto ionico"
+      ],
+      "answer": 2,
+      "explain": "Il colesterolo è un lipide strutturale delle membrane cellulari, dove regola la fluidità e la stabilità del doppio strato lipidico. Definirlo un enzima o una proteina canale è sbagliato, perché il colesterolo è un lipide e non svolge attività catalitica né forma pori di trasporto.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q039",
+      "q": "Il colesterolo è il precursore di quale classe di ormoni?",
+      "choices": [
+        "Ormoni peptidici",
+        "Ormoni tiroidei iodati",
+        "Catecolamine",
+        "Ormoni proteici ipofisari",
+        "Ormoni steroidei"
+      ],
+      "answer": 4,
+      "explain": "Il colesterolo è il precursore degli ormoni steroidei, come il cortisolo, l'aldosterone e gli ormoni sessuali. Gli ormoni peptidici e proteici sono invece sintetizzati a partire dagli amminoacidi, quindi non derivano dal colesterolo.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q040",
+      "q": "Oltre agli ormoni steroidei, di quale altra classe di molecole il colesterolo è precursore?",
+      "choices": [
+        "Degli amminoacidi essenziali",
+        "Degli acidi biliari",
+        "Dei nucleotidi",
+        "Delle vitamine idrosolubili",
+        "Dei corpi chetonici"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo è il precursore degli acidi biliari, che vengono sintetizzati nel fegato e secreti nella bile. Gli amminoacidi e i nucleotidi sono invece molecole azotate che non derivano dallo scheletro del colesterolo.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q041",
+      "q": "Perché il colesterolo è essenziale per i mammiferi ma non deve essere necessariamente introdotto con la dieta?",
+      "choices": [
+        "Perché viene assorbito in quantità illimitata dall'intestino",
+        "Perché i mammiferi non ne hanno alcun bisogno per vivere",
+        "Perché viene prodotto soltanto dai vegetali e non dagli animali",
+        "Perché il fegato lo elimina con la bile senza mai riutilizzarlo",
+        "Perché le cellule animali lo sintetizzano da precursori semplici"
+      ],
+      "answer": 4,
+      "explain": "Le cellule animali possono sintetizzare il colesterolo a partire da precursori semplici, come l'acetil-CoA, per cui la dieta non è l'unica fonte disponibile. Dire che i mammiferi non ne hanno bisogno è sbagliato, perché il colesterolo è essenziale come componente delle membrane e precursore di ormoni e acidi biliari.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q042",
+      "q": "Quale affermazione sul colesterolo come componente della dieta è corretta?",
+      "choices": [
+        "È un nutriente essenziale da introdurre obbligatoriamente con la dieta",
+        "È una vitamina liposolubile presente negli alimenti di origine animale",
+        "È indispensabile, ma può essere sintetizzato dall'organismo",
+        "È un amminoacido essenziale che va assunto con le proteine",
+        "È un acido grasso essenziale che va assunto con i lipidi"
+      ],
+      "answer": 2,
+      "explain": "Il colesterolo è indispensabile, ma non è un nutriente essenziale in senso stretto, perché le cellule animali lo sintetizzano autonomamente. Definirlo un acido grasso essenziale è sbagliato: gli acidi grassi essenziali sono molecole diverse, che l'organismo non riesce a produrre.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q043",
+      "q": "A che cosa servono gli acidi biliari che derivano dal colesterolo?",
+      "choices": [
+        "A emulsionare i lipidi della dieta nel lume intestinale",
+        "A trasportare l'ossigeno nel sangue come l'emoglobina",
+        "A formare le fibre di collagene del tessuto connettivo",
+        "A sintetizzare gli amminoacidi essenziali nel fegato",
+        "A costituire i nucleotidi del DNA e dell'RNA"
+      ],
+      "answer": 0,
+      "explain": "Gli acidi biliari sintetizzati dal colesterolo emulsionano i lipidi nel lume intestinale e ne favoriscono digestione e assorbimento. L'alternativa sul trasporto dell'ossigeno è sbagliata, perché questa funzione spetta all'emoglobina e non agli acidi biliari.",
+      "slide": 28
+    },
+    {
+      "id": "d04-b03-q044",
+      "q": "Secondo i valori di riferimento, quanto colesterolo produce ogni giorno l'organismo umano e quanto ne introduce con la dieta?",
+      "choices": [
+        "300 mg prodotti e 800 mg introdotti",
+        "800 mg prodotti e 300 mg introdotti",
+        "500 mg prodotti e 500 mg introdotti",
+        "800 mg prodotti e 800 mg introdotti",
+        "300 mg prodotti e 300 mg introdotti"
+      ],
+      "answer": 1,
+      "explain": "L'uomo produce ogni giorno circa 800 mg di colesterolo endogeno e ne introduce circa 300 mg con la dieta, quindi la sintesi interna prevale nettamente. Invertire i due valori è l'errore più insidioso, perché scambia la quota endogena con quella esogena.",
+      "slide": 29
+    },
+    {
+      "id": "d04-b03-q045",
+      "q": "Quale percentuale del colesterolo assunto con la dieta viene assimilata dall'organismo?",
+      "choices": [
+        "Circa il 10%",
+        "Circa il 30%",
+        "Circa il 50%",
+        "Circa il 70%",
+        "Circa il 90%"
+      ],
+      "answer": 3,
+      "explain": "Circa il 70% del colesterolo introdotto con la dieta viene assimilato, percentuale riferita a un apporto occidentale di circa 500 mg al giorno. La quota del 30% è il distrattore più insidioso, perché è il complemento del valore reale e quindi facilmente confondibile.",
+      "slide": 29
+    },
+    {
+      "id": "d04-b03-q046",
+      "q": "Come è regolata la sintesi endogena di colesterolo rispetto all'apporto alimentare?",
+      "choices": [
+        "È direttamente correlata: più colesterolo nella dieta, più sintesi endogena",
+        "È inversamente correlata: più colesterolo nella dieta, meno sintesi",
+        "È del tutto indipendente dall'apporto alimentare di colesterolo",
+        "Aumenta soltanto quando la dieta ne è completamente priva",
+        "Dipende esclusivamente dall'esercizio fisico aerobico"
+      ],
+      "answer": 1,
+      "explain": "La sintesi endogena di colesterolo è inversamente correlata all'apporto esogeno, perché la cellula riduce la propria produzione quando riceve colesterolo dalla dieta. La correlazione diretta è l'errore intuitivo più frequente, ma porterebbe a un sovraccarico di colesterolo invece di mantenere l'equilibrio.",
+      "slide": 29
+    },
+    {
+      "id": "d04-b03-q047",
+      "q": "Se un soggetto introduce 300 mg di colesterolo con la dieta e ne assimila circa il 70%, quanto colesterolo viene effettivamente assorbito?",
+      "choices": [
+        "Circa 90 mg",
+        "Circa 150 mg",
+        "Circa 180 mg",
+        "Circa 210 mg",
+        "Circa 240 mg"
+      ],
+      "answer": 3,
+      "explain": "Il 70% di 300 mg corrisponde a circa 210 mg di colesterolo effettivamente assimilato. Il valore di circa 180 mg è il distrattore più insidioso, perché corrisponde a una percentuale inferiore, pari al 60%, e non al 70% indicato.",
+      "slide": 29
+    },
+    {
+      "id": "d04-b03-q048",
+      "q": "Quanto colesterolo viene approssimativamente introdotto con la dieta in Occidente?",
+      "choices": [
+        "Circa 500 mg al giorno",
+        "Circa 800 mg al giorno",
+        "Circa 300 mg al giorno",
+        "Circa 100 mg al giorno",
+        "Circa 70 mg al giorno"
+      ],
+      "answer": 0,
+      "explain": "In Occidente l'apporto alimentare di colesterolo è di circa 500 mg al giorno, quota di cui viene assimilato circa il 70%. Il valore di 800 mg è il distrattore più insidioso, perché corrisponde alla sintesi endogena giornaliera e non all'introduzione con la dieta.",
+      "slide": 29
+    },
+    {
+      "id": "d04-b03-q049",
+      "q": "Quale caratteristica della biosintesi del colesterolo rende necessaria una sua regolazione accurata?",
+      "choices": [
+        "È un processo che produce energia",
+        "È un processo spontaneo che non consuma energia",
+        "È un processo molto complesso che consuma energia",
+        "È un processo che avviene soltanto nei vegetali",
+        "È un processo che non richiede enzimi"
+      ],
+      "answer": 2,
+      "explain": "La biosintesi del colesterolo è un processo molto complesso che consuma energia, quindi la cellula deve regolarla in base alla quantità di colesterolo disponibile nella dieta. Considerarla un processo che produce energia è sbagliato, perché dal punto di vista metabolico essa consuma ATP e potere riducente.",
+      "slide": 30
+    },
+    {
+      "id": "d04-b03-q050",
+      "q": "Da che cosa dipende principalmente la regolazione della biosintesi del colesterolo?",
+      "choices": [
+        "Dalla quantità di acqua corporea e dall'idratazione",
+        "Dalla temperatura ambientale e dal clima esterno",
+        "Dalla concentrazione di ossigeno nell'aria inspirata",
+        "Dalla quantità di proteine assunte con la dieta",
+        "Dalla quantità di colesterolo nella dieta"
+      ],
+      "answer": 4,
+      "explain": "Essendo un processo costoso in termini energetici, la biosintesi viene regolata soprattutto in base alla quantità di colesterolo assunta con la dieta, così da evitare una produzione inutile. La quantità di proteine assunte con la dieta è il distrattore più plausibile, ma non è il segnale principale che controlla questo percorso.",
+      "slide": 30
+    }
+  ]
+}

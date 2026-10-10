@@ -1,0 +1,707 @@
+{
+  "deck": 5,
+  "batch": 3,
+  "topic": "Enzimi nella diagnostica clinica: CK, LDH, HBDH, troponina, ELISA",
+  "questions": [
+    {
+      "id": "d05-b03-q001",
+      "q": "Che cosa si intende per enzimi sierici di diagnostica?",
+      "choices": [
+        "Enzimi intracellulari che si liberano nel siero quando le cellule che li contengono si danneggiano",
+        "Enzimi di sintesi epatica dosati per valutare la funzionalità renale e la clearance glomerulare",
+        "Anticorpi diretti contro gli enzimi cellulari, tipici delle malattie autoimmuni sistemiche",
+        "Enzimi che il sangue utilizza per degradare i farmaci assunti e i metaboliti di scarto",
+        "Proteine di trasporto che legano gli ormoni steroidei e li veicolano nel torrente circolatorio"
+      ],
+      "answer": 0,
+      "explain": "Gli enzimi sierici di diagnostica sono per lo più enzimi intracellulari presenti nel siero a concentrazioni molto basse; quando una cellula viene danneggiata fuoriescono e la loro attività sierica aumenta, in modo grossolanamente proporzionale all'entità del danno. Il distrattore più insidioso è l'enzima epatico dosato per la funzionalità renale, perché confonde la sede del danno con l'organo che si vuole valutare. In realtà ogni enzima va interpretato in base alla sua distribuzione tissutale.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q002",
+      "q": "Che cosa sono gli isoenzimi di una stessa attività catalitica?",
+      "choices": [
+        "Molecole identiche prodotte da un unico gene e presenti in tutti i tessuti dell'organismo",
+        "Forme diverse della stessa proteina enzimatica, codificate da geni distinti e distribuite in tessuti differenti",
+        "Enzimi che hanno perso ogni attività catalitica e circolano come semplici antigeni cellulari",
+        "Cofattori di natura vitaminica che si legano in modo labile alla parte proteica dell'enzima",
+        "Inibitori fisiologici che regolano la velocità della reazione in modo competitivo e reversibile"
+      ],
+      "answer": 1,
+      "explain": "Gli isoenzimi catalizzano la stessa reazione ma differiscono per struttura, proprietà cinetiche e mobilità elettroforetica, essendo codificati da geni distinti con espressione tissutale differente. Per questo la loro determinazione aiuta a localizzare il tessuto danneggiato, come nel caso della creatina cinasi. Il cofattore vitaminico legato in modo labile è un distrattore insidioso, perché partecipa alla catalisi ma non è una forma alternativa dell'enzima.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q003",
+      "q": "Quale affermazione descrive correttamente il significato di un aumento dell'attività enzimatica nel siero?",
+      "choices": [
+        "Indica sempre una aumentata sintesi dell'enzima da parte del tessuto sano",
+        "Dimostra in modo specifico la sede esatta del danno d'organo e la sua estensione",
+        "Riflette la fuoriuscita dell'enzima dalle cellule danneggiate e va letto con il quadro clinico",
+        "È un artefatto privo di significato se il campione non è stato congelato subito dopo il prelievo",
+        "Dipende soltanto dalla massa muscolare del paziente e non dal danno cellulare in atto"
+      ],
+      "answer": 2,
+      "explain": "L'aumento dell'attività enzimatica sierica riflette in genere la fuoriuscita dell'enzima dalle cellule danneggiate, ma non è mai un dato autosufficiente: va letto insieme ai sintomi, all'elettrocardiogramma e agli altri esami di laboratorio. Il distrattore più insidioso è la pretesa di localizzare con certezza la sede del danno con un solo enzima, perché molti enzimi, come la lattato deidrogenasi, sono presenti in numerosi tessuti. Il dosaggio va quindi sempre inserito nel contesto clinico.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q004",
+      "q": "In quali unità si esprime normalmente l'attività catalitica di un enzima nel siero?",
+      "choices": [
+        "In milligrammi di proteina per decilitro di siero, come si fa per l'albumina",
+        "In millimoli di enzima per chilogrammo di peso corporeo del paziente",
+        "In nanogrammi di enzima per millilitro di plasma, come per molti ormoni",
+        "In unità internazionali per litro, cioè micromoli di substrato trasformate per minuto",
+        "In percentuale rispetto a un pool di sieri di soggetti sani della stessa età"
+      ],
+      "answer": 3,
+      "explain": "L'attività catalitica si esprime in unità internazionali per litro: una unità internazionale corrisponde alla quantità di enzima che trasforma una micromole di substrato in un minuto, e il risultato viene riferito al volume di siero o plasma. I milligrammi di proteina per decilitro misurano invece una concentrazione di massa e non dicono nulla sulla funzionalità catalitica. È proprio questa distinzione che separa i saggi enzimatici classici dai metodi immunologici come l'ELISA.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q005",
+      "q": "Come si definisce l'intervallo di riferimento di un parametro enzimatico in un laboratorio clinico?",
+      "choices": [
+        "Il valore medio osservato nei pazienti ricoverati nel reparto di cardiologia",
+        "Il valore soglia oltre il quale si pone sempre una diagnosi di infarto miocardico",
+        "La media aritmetica dei valori di tutti i soggetti esaminati, senza correzioni",
+        "Il valore massimo registrato nella casistica storica del laboratorio negli ultimi anni",
+        "L'intervallo che comprende il novantacinque per cento dei valori di una popolazione sana"
+      ],
+      "answer": 4,
+      "explain": "L'intervallo di riferimento è costruito su una popolazione sana e comprende il novantacinque per cento dei suoi valori, ricavandosi di solito dalla media più o meno due deviazioni standard. Non è una soglia diagnostica assoluta, perché valori esterni all'intervallo vanno interpretati nel contesto clinico. Il distrattore più insidioso è la soglia che porrebbe automaticamente diagnosi di infarto, dal momento che una diagnosi non deriva mai da un solo dato di laboratorio.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q006",
+      "q": "Quale enzima è un marcatore più specifico di danno del muscolo scheletrico e cardiaco rispetto al fegato?",
+      "choices": [
+        "La creatina cinasi, presente in abbondanza nel muscolo scheletrico e nel miocardio",
+        "La lattato deidrogenasi, di cui nel fegato predomina l'isoforma LDH5 e nel muscolo la LDH1",
+        "La gammaglutamil transferasi, enzima tipicamente epatobiliare e delle vie biliari",
+        "L'alanina aminotransferasi, enzima prevalentemente epatica e del citoplasma degli epatociti",
+        "La fosfatasi alcalina, enzima delle vie biliari e dell'osso, ma non del muscolo"
+      ],
+      "answer": 0,
+      "explain": "La creatina cinasi è abbondante nel muscolo scheletrico e nel miocardio ma è praticamente assente nel fegato, perciò un suo aumento orienta verso l'origine muscolare del danno. La lattato deidrogenasi è un distrattore insidioso perché è presente anche nel muscolo, ma è molto rappresentata pure nel fegato e nelle cellule ematiche, quindi da sola non distingue la sede del danno. Anche la gammaglutamil transferasi e la fosfatasi alcalina hanno una chiara impronta epatobiliare.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q007",
+      "q": "Quale reazione catalizza la creatina cinasi?",
+      "choices": [
+        "La deaminazione ossidativa della creatina con produzione di urea e di ammoniaca nel fegato",
+        "Il trasferimento reversibile di un gruppo fosfato dall'ATP alla creatina, con formazione di fosfocreatina",
+        "L'ossidazione del lattato a piruvato con riduzione del NAD a NADH nel citoplasma cellulare",
+        "L'idrolisi della creatina in sarcosina e urea, tipica del catabolismo delle proteine muscolari",
+        "La sintesi di creatinina a partire da creatina e acqua, senza consumo di ATP né di enzimi"
+      ],
+      "answer": 1,
+      "explain": "La creatina cinasi catalizza il trasferimento reversibile di un gruppo fosfato dall'ATP alla creatina, generando fosfocreatina e ADP, e costituisce il sistema tampone energetico del muscolo. La reazione di ossidazione del lattato a piruvato appartiene invece alla lattato deidrogenasi, che è il distrattore più insidioso perché entrambi gli enzimi sono marcatori di danno muscolare. La conversione spontanea della creatina in creatinina avviene senza intervento enzimatico e non produce energia.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q008",
+      "q": "Quali sono le tre isoforme della creatina cinasi e la loro localizzazione prevalente?",
+      "choices": [
+        "CK-A, CK-B e CK-C, rispettivamente localizzate nel cuore, nel fegato e nel rene",
+        "CK-1, CK-2 e CK-3, tutte localizzate esclusivamente nel muscolo scheletrico",
+        "CK-MM nel muscolo scheletrico, CK-MB nel miocardio e CK-BB nel cervello e nella muscolatura liscia",
+        "CK-H, CK-M e CK-L, rispettivamente nel cuore, nel muscolo scheletrico e nel fegato",
+        "CK-totale, CK-parziale e CK-residua, che rappresentano stadi di degradazione dell'enzima"
+      ],
+      "answer": 2,
+      "explain": "La creatina cinasi è un dimero formato da due subunità, M e B, la cui combinazione genera le isoforme CK-MM, prevalente nel muscolo scheletrico, CK-MB, tipica del miocardio, e CK-BB, presente nel cervello e nella muscolatura liscia. Le sigle CK-H e CK-L costituiscono il distrattore più insidioso, perché imitano la nomenclatura delle subunità della lattato deidrogenasi, che sono appunto di tipo H e M. Conoscere la distribuzione delle isoforme è essenziale per attribuire l'aumento sierico al tessuto di origine.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q009",
+      "q": "Per quale motivo la determinazione della CK-MB è stata a lungo utilizzata nella diagnosi di infarto miocardico acuto?",
+      "choices": [
+        "Perché la CK-MB è assente nel muscolo scheletrico anche dopo un trauma o uno sforzo intenso",
+        "Perché la CK-MB aumenta nel siero soltanto dopo due settimane dal danno cardiaco acuto",
+        "Perché la CK-MB misura direttamente la massa di miocardio necrotizzato in grammi di tessuto",
+        "Perché la CK-MB aumenta precocemente dopo il danno cardiaco e si normalizza in pochi giorni",
+        "Perché la CK-MB è l'unica isoforma della creatina cinasi presente nel siero dei soggetti sani"
+      ],
+      "answer": 3,
+      "explain": "La CK-MB aumenta nel siero poche ore dopo l'inizio del danno miocardico e si normalizza nell'arco di alcuni giorni, il che la rende adatta a documentare un evento acuto e la sua eventuale recidiva. Non è però completamente specifica, perché una piccola quota di CK-MB è presente anche nel muscolo scheletrico: proprio questo punto debole viene mascherato dal distrattore che la vorrebbe del tutto assente nel muscolo. La troponina cardiaca, più specifica e con finestra diagnostica più lunga, l'ha progressivamente sostituita.",
+      "slide": 24
+    },
+    {
+      "id": "d05-b03-q010",
+      "q": "In quale condizione non cardiaca si osserva tipicamente un marcato aumento della creatina cinasi totale?",
+      "choices": [
+        "Nella cirrosi epatica avanzata con insufficienza epatocellulare e iperbilirubinemia",
+        "Nella sindrome nefrosica con grave proteinuria e perdita di proteine plasmatiche",
+        "Nell'anemia sideropenica cronica con riduzione dei depositi di ferro nell'organismo",
+        "Nell'iperparatiroidismo primario con ipercalcemia e astenia muscolare",
+        "Nella rabdomiolisi da trauma o da esercizio fisico estremo, con danno del muscolo scheletrico"
+      ],
+      "answer": 4,
+      "explain": "La rabdomiolisi comporta la distruzione massiva delle fibre muscolari scheletriche, ricche di creatina cinasi, con conseguente aumento marcato dell'enzima nel siero. L'insufficienza epatocellulare è il distrattore più insidioso perché il fegato produce molte proteine plasmatiche, ma non la creatina cinasi, che in esso è praticamente assente. Anche le iniezioni intramuscolari e le distrofie muscolari possono elevare la creatina cinasi.",
+      "slide": 24
+    },
+    {
+      "id": "d05-b03-q011",
+      "q": "Quale reazione catalizza la lattato deidrogenasi e quale coenzima utilizza?",
+      "choices": [
+        "La conversione reversibile del lattato in piruvato, con il NAD come coenzima",
+        "La conversione del piruvato in acetil coenzima A, con la tiamina pirofosfato come coenzima",
+        "La fosforilazione del glucosio a glucosio sei fosfato, con l'ATP come donatore di fosfato",
+        "La decarbossilazione ossidativa dell'isocitrato, con il NADP come coenzima",
+        "L'idrolisi dei trigliceridi in acidi grassi e glicerolo, con la colipasi come cofattore"
+      ],
+      "answer": 0,
+      "explain": "La lattato deidrogenasi catalizza la conversione reversibile del lattato in piruvato e utilizza il NAD come coenzima, riducendolo a NADH nella direzione della formazione di lattato. La decarbossilazione ossidativa dell'isocitrato è il distrattore più insidioso, perché è una reazione del ciclo di Krebs che impiega anch'essa NAD o NADP, ma è catalizzata dall'isocitrato deidrogenasi e non riguarda il metabolismo del lattato. La reazione è reversibile e opera in direzioni diverse nei vari tessuti.",
+      "slide": 25
+    },
+    {
+      "id": "d05-b03-q012",
+      "q": "Come sono costituite le cinque isoforme della lattato deidrogenasi?",
+      "choices": [
+        "Da un monomero singolo che cambia conformazione secondo il pH del tessuto in cui si trova",
+        "Da tetrameri di subunità H e M, con composizione variabile dalla LDH1 alla LDH5",
+        "Da dimeri formati da una subunità catalitica e da una subunità regolatoria distinta",
+        "Da monomeri identici legati covalentemente a catene di acido sialico sulla superficie",
+        "Da complessi di due enzimi distinti, uniti da ponti disolfuro e da legami idrofobici"
+      ],
+      "answer": 1,
+      "explain": "La lattato deidrogenasi è un tetramero composto da subunità di tipo H, prevalenti nel cuore, e di tipo M, prevalenti nel muscolo e nel fegato; le cinque isoforme dalla LDH1 alla LDH5 riflettono le diverse combinazioni possibili. Il distrattore del monomero che cambia conformazione con il pH è insidioso perché le isoforme sono entità strutturalmente distinte, separabili per elettroforesi, e non semplici conformazioni della stessa catena. La composizione in subunità determina anche le proprietà cinetiche di ciascuna isoforma.",
+      "slide": 25
+    },
+    {
+      "id": "d05-b03-q013",
+      "q": "Quale quadro isoenzimatico della lattato deidrogenasi si osserva tipicamente dopo un infarto miocardico?",
+      "choices": [
+        "Un aumento isolato della LDH5, isoforma tipica del fegato e del muscolo scheletrico",
+        "Una riduzione di tutte le isoforme con scomparsa della LDH3 e della LDH4",
+        "Un aumento della LDH1 con inversione del rapporto tra LDH1 e LDH2, che diventa superiore a uno",
+        "Un aumento selettivo della LDH4 con LDH1 invariata e rapporto LDH1/LDH2 normale",
+        "La comparsa di una sesta isoforma, denominata LDH6, esclusiva del miocardio danneggiato"
+      ],
+      "answer": 2,
+      "explain": "Nel miocardio predomina la LDH1, perciò dopo un infarto la sua quota aumenta fino a invertire il rapporto fisiologico con la LDH2, che normalmente è la frazione più abbondante. L'aumento isolato della LDH5 è il distrattore più insidioso, perché la LDH5 è espressione di fegato e muscolo scheletrico e orienta quindi verso una patologia epatica o muscolare, non cardiaca. La LDH6 non esiste: le isoforme della lattato deidrogenasi sono cinque.",
+      "slide": 25
+    },
+    {
+      "id": "d05-b03-q014",
+      "q": "In quale condizione l'aumento della lattato deidrogenasi è sostenuto prevalentemente dall'isoforma LDH5?",
+      "choices": [
+        "Nell'infarto miocardico acuto in fase avanzata",
+        "Nell'anemia megaloblastica con eritropoiesi inefficace",
+        "Nella distrofia muscolare di Duchenne in fase iniziale",
+        "Nelle epatopatie con necrosi epatocellulare, come l'epatite acuta",
+        "Nell'infarto polmonare con congestione del circolo polmonare"
+      ],
+      "answer": 3,
+      "explain": "La LDH5, ricca di subunità M, predomina nel fegato e nel muscolo scheletrico, perciò un suo aumento relativo orienta verso una necrosi epatocellulare. L'anemia megaloblastica è il distrattore più insidioso perché aumenta la lattato deidrogenasi per emolisi e per eritropoiesi inefficace, ma la frazione coinvolta è la LDH1, tipica dei globuli rossi, e non la LDH5. La separazione delle isoforme aiuta quindi a distinguere l'origine epatica da quella ematologica.",
+      "slide": 25
+    },
+    {
+      "id": "d05-b03-q015",
+      "q": "Quale caratteristica rende la lattato deidrogenasi poco adatta alla diagnosi precoce di infarto miocardico?",
+      "choices": [
+        "La sua completa assenza nel miocardio, che la renderebbe un marcatore del tutto inutile",
+        "La sua comparsa nel siero soltanto dopo un mese dall'evento acuto, quando ormai è tardi",
+        "La sua distruzione immediata da parte degli enzimi pancreatici liberati nel torrente circolatorio",
+        "La sua estrema specificità cardiaca, che la renderebbe utile soltanto nei pazienti giovani",
+        "Il fatto che aumenti tardivamente e resti elevata per molti giorni, senza datare con precisione l'evento"
+      ],
+      "answer": 4,
+      "explain": "La lattato deidrogenasi aumenta in modo tardivo rispetto alla troponina e rimane elevata per molti giorni, perciò non consente di datare con precisione l'evento ischemico né di riconoscere una recidiva precoce. L'affermazione che sia assente nel miocardio è un distrattore insidioso ma falso, perché il cuore è ricco di LDH1; il problema non è l'assenza dell'enzima, ma la sua cinetica lenta e la sua scarsa specificità d'organo. Per la diagnosi precoce si preferiscono marcatori con comparsa rapida.",
+      "slide": 25
+    },
+    {
+      "id": "d05-b03-q016",
+      "q": "Che cosa misura in pratica la determinazione dell'idrossibutirrato deidrogenasi, indicata con la sigla HBDH, nel siero?",
+      "choices": [
+        "L'attività della lattato deidrogenasi saggiata con l'alfa-chetobutirrato al posto del lattato",
+        "L'attività della beta-idrossibutirrato deidrogenasi della chetogenesi epatica mitocondriale",
+        "L'attività della creatina cinasi con substrato alternativo in assenza di creatina nel siero",
+        "L'attività della transaminasi glutammico-ossalacetica misurata a pH acido e a bassa temperatura",
+        "L'attività della fosfatasi alcalina in presenza di un inibitore selettivo delle altre isoforme"
+      ],
+      "answer": 0,
+      "explain": "Nel laboratorio clinico la sigla HBDH indica l'alfa-idrossibutirrato deidrogenasi, cioè la lattato deidrogenasi saggiata con l'alfa-chetobutirrato come substrato; poiché le subunità H hanno maggiore affinità per questo substrato, il risultato riflette soprattutto LDH1 e LDH2. Confonderla con la beta-idrossibutirrato deidrogenasi della chetogenesi è il distrattore più insidioso, perché si tratta di un enzima diverso, coinvolto nella sintesi dei corpi chetonici. Il dosaggio sfrutta la variazione di assorbanza legata alla conversione del coenzima.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q017",
+      "q": "Per quale scopo clinico è stato impiegato storicamente il dosaggio dell'idrossibutirrato deidrogenasi?",
+      "choices": [
+        "Per valutare la funzionalità renale in alternativa alla creatinina e alla clearance glomerulare",
+        "Per documentare un coinvolgimento cardiaco o emolitico, poiché riflette le isoforme LDH ricche di subunità H",
+        "Per distinguere l'ittero emolitico da quello ostruttivo mediante il dosaggio delle frazioni",
+        "Per diagnosticare precocemente la pancreatite acuta insieme ad amilasi e lipasi sieriche",
+        "Per misurare la massa proteica del muscolo scheletrico e la sua risposta all'allenamento fisico"
+      ],
+      "answer": 1,
+      "explain": "Poiché l'HBDH riflette le isoforme LDH1 e LDH2, ricche di subunità H, il suo aumento è stato usato come indice di sofferenza miocardica o di emolisi, condizioni in cui queste frazioni prevalgono. La diagnosi di pancreatite acuta è il distrattore più insidioso, perché in quella patologia si dosano amilasi e lipasi, enzimi del tutto diversi. Oggi l'HBDH ha perso importanza clinica, superato dalla troponina per il cuore e dalla valutazione diretta delle isoforme per il resto.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q018",
+      "q": "Quale limite rende l'idrossibutirrato deidrogenasi poco specifica per il danno miocardico?",
+      "choices": [
+        "Il fatto che sia presente soltanto nel tessuto adiposo bruno e non nel sangue",
+        "Il fatto che la sua attività non possa essere misurata con metodi spettrofotometrici comuni",
+        "Il fatto che aumenti anche nelle condizioni emolitiche e in altre patologie che elevano LDH1 e LDH2",
+        "Il fatto che diminuisca sempre nell'infarto, rendendo l'interpretazione del tutto ambigua",
+        "Il fatto che venga inibita dalle statine assunte dal paziente per il colesterolo"
+      ],
+      "answer": 2,
+      "explain": "L'HBDH non è una molecola distinta, ma un profilo di attività della lattato deidrogenasi: aumenta quindi in tutte le condizioni che elevano le isoforme LDH1 e LDH2, comprese le anemie emolitiche e le malattie del sangue. Il distrattore che la vorrebbe diminuita nell'infarto è insidioso perché inverte la cinetica reale, che è di aumento. Per questo oggi si preferiscono marcatori più specifici, come la troponina cardiaca.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q019",
+      "q": "Perché è importante evitare l'emolisi del campione quando si dosa la lattato deidrogenasi nel siero?",
+      "choices": [
+        "Perché l'emoglobina libera inibisce irreversibilmente il NAD e la lattato deidrogenasi",
+        "Perché la lattato deidrogenasi viene degradata dagli enzimi lisosomiali liberati dai globuli rossi",
+        "Perché i globuli rossi consumano tutto il glucosio del campione durante la conservazione",
+        "Perché gli eritrociti sono ricchi di lattato deidrogenasi, che si libera e falsa in aumento il risultato",
+        "Perché l'emolisi abbassa il pH del siero e denatura la lattato deidrogenasi"
+      ],
+      "answer": 3,
+      "explain": "Gli eritrociti contengono grandi quantità di lattato deidrogenasi, soprattutto LDH1 e LDH2, perciò la loro lisi durante il prelievo o la conservazione libera l'enzima nel siero e produce un falso aumento del risultato. L'inibizione del NAD da parte dell'emoglobina è un distrattore insidioso, ma non corrisponde al meccanismo reale, che è preanalitico e puramente quantitativo. La stessa emolisi può falsare in aumento anche il potassio, motivo per cui il prelievo va eseguito con particolare cura.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q020",
+      "q": "Quali parametri comprende tipicamente il profilo acido-base valutato su sangue arterioso?",
+      "choices": [
+        "Soltanto la concentrazione del sodio e del potassio plasmatici, senza i gas",
+        "La creatinina, l'urea e la clearance della creatinina per la funzione renale",
+        "Le transaminasi e la bilirubina totale e frazionata per la funzione epatica",
+        "Il colesterolo totale, i trigliceridi e le lipoproteine per il rischio cardiovascolare",
+        "Il pH, la pressione parziale dell'anidride carbonica, la bicarbonatemia e l'eccesso di basi"
+      ],
+      "answer": 4,
+      "explain": "Il profilo acido-base misura il pH, la pressione parziale dell'anidride carbonica, la concentrazione dei bicarbonati e l'eccesso di basi, parametri che insieme definiscono l'equilibrio acido-base e i suoi meccanismi di compenso. La creatinina e l'urea appartengono al profilo di funzionalità renale ed è questo il distrattore più insidioso, perché anche i reni partecipano alla regolazione dell'equilibrio acido-base, ma con meccanismi diversi da quelli misurati direttamente dall'emogasanalisi. L'interpretazione richiede la lettura integrata di tutti i parametri.",
+      "slide": 28
+    },
+    {
+      "id": "d05-b03-q021",
+      "q": "Qual è l'intervallo di pH del sangue arterioso considerato fisiologico nell'adulto?",
+      "choices": [
+        "Da sette virgola trentacinque a sette virgola quarantacinque",
+        "Da sette virgola zero a sette virgola due",
+        "Da sette virgola cinquantacinque a sette virgola sessantacinque",
+        "Da sei virgola ottanta a sette virgola zero",
+        "Da otto virgola zero a otto virgola due"
+      ],
+      "answer": 0,
+      "explain": "Il pH del sangue arterioso è mantenuto in un intervallo ristretto, compreso all'incirca tra sette virgola trentacinque e sette virgola quarantacinque, grazie ai sistemi tampone e alla regolazione respiratoria e renale. Valori inferiori a sette virgola trentacinque definiscono l'acidosi, mentre valori superiori a sette virgola quarantacinque definiscono l'alcalosi. Il distrattore più insidioso è l'intervallo da sei virgola ottanta a sette virgola zero, perché corrisponde a valori compatibili con la vita solo per brevi periodi e non certo con la condizione fisiologica.",
+      "slide": 28
+    },
+    {
+      "id": "d05-b03-q022",
+      "q": "Quale alterazione dell'equilibrio acido-base può provocare l'iperventilazione?",
+      "choices": [
+        "Un'acidosi metabolica con aumento dei bicarbonati",
+        "Un'alcalosi respiratoria da eccessiva eliminazione di anidride carbonica",
+        "Un'acidosi respiratoria da ritenzione di anidride carbonica",
+        "Un aumento del pH dovuto all'accumulo di acidi organici",
+        "Un'alcalosi metabolica da perdita di ioni idrogeno con il vomito"
+      ],
+      "answer": 1,
+      "explain": "L'iperventilazione elimina anidride carbonica in eccesso, ne riduce la pressione parziale nel sangue e sposta l'equilibrio verso un aumento del pH, configurando un'alcalosi respiratoria. L'alcalosi metabolica da perdita di ioni idrogeno con il vomito è il distrattore più insidioso, perché porta anch'essa ad alcalosi, ma con un meccanismo metabolico e non respiratorio. Distinguere i due meccanismi richiede la lettura integrata di pH, anidride carbonica e bicarbonati.",
+      "slide": 28
+    },
+    {
+      "id": "d05-b03-q023",
+      "q": "Che cosa valuta il profilo idroelettrolitico?",
+      "choices": [
+        "La concentrazione delle proteine plasmatiche e il loro profilo elettroforetico",
+        "L'attività delle transaminasi e della fosfatasi alcalina per la funzione epatobiliare",
+        "La concentrazione degli elettroliti e l'equilibrio idrico nel sangue e nei fluidi corporei",
+        "Il numero dei globuli rossi, l'ematocrito e la concentrazione dell'emoglobina",
+        "La concentrazione dei lipidi e delle lipoproteine plasmatiche a digiuno di dodici ore"
+      ],
+      "answer": 2,
+      "explain": "Il profilo idroelettrolitico misura la concentrazione degli elettroliti, come sodio, potassio e cloruro, e valuta l'equilibrio idrico nel sangue e nei fluidi corporei. Il profilo proteico con elettroforesi è il distrattore più insidioso, perché è un esame di biochimica clinica ugualmente diffuso ma risponde a una domanda diversa, quella sulla composizione delle proteine plasmatiche. Il profilo idroelettrolitico è fondamentale per valutare lo stato di idratazione e la funzionalità di reni, cuore e altri organi.",
+      "slide": 23
+    },
+    {
+      "id": "d05-b03-q024",
+      "q": "Quale quadro clinico è tipicamente monitorato con il profilo idroelettrolitico?",
+      "choices": [
+        "La diagnosi differenziale delle anemie emolitiche di origine immunologica",
+        "Il monitoraggio della terapia con anticoagulanti orali e del tempo di protrombina",
+        "La stadiazione delle neoplasie del colon mediante marcatori tumorali",
+        "La disidratazione e gli squilibri conseguenti a vomito, diarrea o uso di diuretici",
+        "La valutazione della funzionalità tiroidea mediante il dosaggio degli ormoni"
+      ],
+      "answer": 3,
+      "explain": "Il profilo idroelettrolitico serve a riconoscere e monitorare la disidratazione e gli squilibri provocati da vomito, diarrea, iperventilazione o terapia diuretica. Il monitoraggio degli anticoagulanti orali è il distrattore più insidioso perché si basa su test della coagulazione, come il tempo di protrombina, e non sulla concentrazione degli elettroliti. Lo stesso profilo aiuta anche a seguire la funzionalità renale e la risposta alla reidratazione.",
+      "slide": 23
+    },
+    {
+      "id": "d05-b03-q025",
+      "q": "Come viene ottenuto il campione per la determinazione del profilo idroelettrolitico?",
+      "choices": [
+        "Con una biopsia renale eseguita in anestesia locale e con ago sottile",
+        "Con un prelievo di urine delle ventiquattro ore raccolte in un contenitore",
+        "Con un tampone nasofaringeo analizzato in coltura per la ricerca di virus",
+        "Con una puntura lombare per il dosaggio degli elettroliti nel liquido cefalorachidiano",
+        "Con prelievi ematici ripetuti, che misurano gli elettroliti e l'equilibrio dei fluidi"
+      ],
+      "answer": 4,
+      "explain": "Il profilo idroelettrolitico si esegue su sangue, di solito siero o plasma, e la periodicità dei prelievi consente di seguire nel tempo l'equilibrio dei fluidi e la risposta alla terapia. Il prelievo di urine delle ventiquattro ore è il distrattore più insidioso, perché è realmente usato in biochimica clinica, ma per parametri come la clearance della creatinina e la proteinuria, non per il profilo elettrolitico di base. Il dosaggio nel liquido cefalorachidiano appartiene a un contesto del tutto diverso.",
+      "slide": 23
+    },
+    {
+      "id": "d05-b03-q026",
+      "q": "Che cosa indicano principalmente le variazioni della concentrazione plasmatica del sodio?",
+      "choices": [
+        "Lo stato di idratazione, poiché il sodio è il principale catione extracellulare del plasma",
+        "La funzionalità della tiroide, poiché il sodio regola la sintesi degli ormoni tiroidei",
+        "Il metabolismo del ferro e la capacità di trasporto dell'ossigeno nel sangue",
+        "La coagulazione del sangue e l'attività delle piastrine nel circolo ematico",
+        "La sintesi delle proteine epatiche e il tempo di protrombina misurato nel plasma"
+      ],
+      "answer": 0,
+      "explain": "Il sodio è il principale catione del compartimento extracellulare e determina in larga misura l'osmolarità plasmatica, perciò eccesso o carenza sono indicatori dello stato di idratazione. Il riferimento alla coagulazione è il distrattore più insidioso, perché il sodio partecipa a molti equilibri ionici ma non alla cascata coagulativa, che dipende da fattori proteici e dal calcio. Anche la funzionalità renale contribuisce a mantenere stabile la concentrazione del sodio.",
+      "slide": 26
+    },
+    {
+      "id": "d05-b03-q027",
+      "q": "Per quale motivo gli squilibri del potassio sono particolarmente temuti in clinica?",
+      "choices": [
+        "Perché il potassio è il principale anione del plasma e richiama acqua nel compartimento vascolare",
+        "Perché il potassio è il principale catione intracellulare e le sue variazioni alterano funzione muscolare e cardiaca",
+        "Perché il potassio lega l'emoglobina e ne modifica l'affinità per l'ossigeno nei tessuti periferici",
+        "Perché il potassio inibisce la sintesi epatica del colesterolo e delle lipoproteine plasmatiche",
+        "Perché il potassio è necessario all'assorbimento intestinale del calcio e del magnesio della dieta"
+      ],
+      "answer": 1,
+      "explain": "Il potassio è il principale catione intracellulare e il suo gradiente attraverso la membrana determina il potenziale di riposo delle cellule eccitabili, perciò variazioni anche modeste possono provocare aritmie e alterazioni della contrazione muscolare. Definirlo il principale anione del plasma è il distrattore più insidioso, perché confonde la carica: il principale anione extracellulare è il cloruro. La concentrazione del potassio risente anche dell'equilibrio acido-base e della funzionalità renale.",
+      "slide": 26
+    },
+    {
+      "id": "d05-b03-q028",
+      "q": "Per quale motivo il cloruro viene di norma valutato insieme agli altri elettroliti?",
+      "choices": [
+        "Perché è l'unico elettrolita dotato di attività enzimatica e di potere catalitico",
+        "Perché la sua determinazione sostituisce quella del sodio nei pazienti disidratati",
+        "Perché contribuisce al bilancio degli elettroliti e segue di norma le variazioni del sodio",
+        "Perché il cloruro è il principale catione intracellulare del muscolo scheletrico",
+        "Perché la sua concentrazione è del tutto indipendente dallo stato di idratazione"
+      ],
+      "answer": 2,
+      "explain": "Il cloruro è il principale anione extracellulare e viene interpretato insieme al sodio e agli altri elettroliti per valutare il bilancio ionico complessivo e l'equilibrio acido-base. Considerarlo un elettrolita dotato di attività enzimatica è il distrattore più insidioso, ma è privo di fondamento, perché gli ioni non hanno attività catalitica e al massimo possono agire come cofattori. In pratica le variazioni del cloruro seguono spesso quelle del sodio, con le quali vanno lette.",
+      "slide": 26
+    },
+    {
+      "id": "d05-b03-q029",
+      "q": "Quali parametri, oltre agli elettroliti classici, vengono spesso inclusi nella valutazione per stimare la funzionalità renale?",
+      "choices": [
+        "Le transaminasi e la lattato deidrogenasi",
+        "Il colesterolo totale e i trigliceridi",
+        "La troponina e la creatina cinasi MB",
+        "L'urea e la creatinina, insieme al glucosio",
+        "La bilirubina e la fosfatasi alcalina"
+      ],
+      "answer": 3,
+      "explain": "Urea e creatinina sono i parametri di riferimento per stimare la funzionalità renale e vengono abitualmente determinati insieme agli elettroliti e al glucosio. Le transaminasi e la lattato deidrogenasi sono il distrattore più insidioso, perché sono enzimi di diagnostica molto usati ma orientano verso il fegato, il muscolo o il cuore, non verso il rene. La loro inclusione nel profilo non sostituisce comunque la valutazione della filtrazione glomerulare.",
+      "slide": 26
+    },
+    {
+      "id": "d05-b03-q030",
+      "q": "Quale errore preanalitico può far aumentare falsamente la concentrazione del potassio nel siero?",
+      "choices": [
+        "La conservazione del campione a temperatura di frigorifero per poche ore",
+        "L'uso di una provetta senza additivi per il siero",
+        "Il digiuno prolungato del paziente prima del prelievo",
+        "La centrifugazione tempestiva del campione dopo la coagulazione",
+        "L'emolisi del campione, che libera il potassio contenuto negli eritrociti"
+      ],
+      "answer": 4,
+      "explain": "Gli eritrociti contengono una concentrazione di potassio molto superiore a quella del plasma, perciò la loro lisi libera lo ione nel siero e produce un falso aumento del risultato. Il digiuno prolungato è il distrattore più insidioso, perché altera realmente alcuni parametri metabolici, come il glucosio e i lipidi, ma non è la causa di una falsa iperkaliemia. Anche una lunga attesa prima della centrifugazione può favorire la fuoriuscita del potassio dalle cellule.",
+      "slide": 26
+    },
+    {
+      "id": "d05-b03-q031",
+      "q": "Che cosa si intende per marcatore tumorale nella diagnostica di laboratorio?",
+      "choices": [
+        "Una sostanza dosabile nei fluidi corporei che può aumentare in presenza di un tumore e serve al monitoraggio",
+        "Un enzima che distrugge selettivamente le cellule neoplastiche e ne impedisce la diffusione nel torrente circolatorio",
+        "Un mezzo di contrasto che rende visibili le masse tumorali durante la diagnostica per immagini",
+        "Un anticorpo capace di neutralizzare le tossine liberate dalle cellule neoplastiche in crescita",
+        "Una proteina che identifica con certezza la sede e il tipo istologico di ogni tumore"
+      ],
+      "answer": 0,
+      "explain": "Un marcatore tumorale è una sostanza misurabile nel sangue o in altri fluidi, prodotta dalle cellule neoplastiche oppure dall'organismo in risposta al tumore, e il suo valore viene interpretato soprattutto nel monitoraggio della malattia e delle recidive. La pretesa di identificare con certezza sede e tipo istologico è il distrattore più insidioso, perché nessun marcatore possiede una specificità così assoluta e molti aumentano anche in condizioni benigne. Il dosaggio viene di norma eseguito con metodi immunologici come l'ELISA, che sfrutta anticorpi diretti contro la sostanza da misurare.",
+      "slide": 29
+    },
+    {
+      "id": "d05-b03-q032",
+      "q": "Quante molecole di acqua si formano dall'ossidazione completa di una molecola di glucosio?",
+      "choices": [
+        "Due molecole di acqua per ogni molecola di glucosio ossidata",
+        "Sei molecole di acqua per ogni molecola di glucosio ossidata",
+        "Dodici molecole di acqua per ogni molecola di glucosio ossidata",
+        "Trenta molecole di acqua per ogni molecola di glucosio ossidata",
+        "Nessuna molecola di acqua, poiché l'ossidazione produce soltanto anidride carbonica"
+      ],
+      "answer": 1,
+      "explain": "L'ossidazione completa del glucosio consuma sei molecole di ossigeno e produce sei molecole di anidride carbonica e sei molecole di acqua, come indica il bilancio complessivo della reazione. La risposta con dodici molecole di acqua è il distrattore più insidioso, perché il numero dodici corrisponde agli atomi di idrogeno presenti nel glucosio e non alle molecole di acqua effettivamente prodotte. L'acqua metabolica deriva dall'incontro dell'idrogeno rimosso dai substrati con l'ossigeno molecolare.",
+      "slide": 32
+    },
+    {
+      "id": "d05-b03-q033",
+      "q": "Quale substrato energetico, a parità di massa ossidata, produce la maggiore quantità di acqua metabolica?",
+      "choices": [
+        "I carboidrati, perché contengono molti atomi di ossigeno nella loro molecola",
+        "Le proteine, perché sono ricche di azoto e vengono ossidate con difficoltà",
+        "I lipidi, che sono i più ricchi di idrogeno e producono più acqua per grammo ossidato",
+        "Le vitamine idrosolubili, che contengono numerosi gruppi ossidrilici",
+        "Gli acidi nucleici, perché contengono gruppi fosfato e basi azotate"
+      ],
+      "answer": 2,
+      "explain": "I lipidi sono i substrati più ridotti, cioè i più ricchi di idrogeno, perciò la loro ossidazione genera più acqua metabolica per grammo rispetto a carboidrati e proteine. I carboidrati sono il distrattore più insidioso, perché contengono già molti atomi di ossigeno nella molecola e ne consumano meno per essere ossidati, con una resa idrica inferiore. Questa differenza spiega perché il bilancio idrico viene stimato tenendo conto della composizione della dieta.",
+      "slide": 32
+    },
+    {
+      "id": "d05-b03-q034",
+      "q": "In quale situazione l'acqua metabolica assume maggiore rilievo nel bilancio idrico?",
+      "choices": [
+        "Nei soggetti con apporto idrico abbondante e dieta ricca di frutta e verdura",
+        "Nei pazienti in dialisi peritoneale con infusione continua di liquidi",
+        "Nei neonati alimentati esclusivamente con latte materno e senza altri liquidi",
+        "Nei soggetti con apporto idrico molto ridotto o impossibilitati a bere, come i naufraghi",
+        "Negli atleti durante una gara di breve durata con elevata sudorazione e perdita di sali"
+      ],
+      "answer": 3,
+      "explain": "Quando l'apporto idrico esogeno è molto ridotto o impossibile, l'acqua prodotta dal metabolismo ossidativo diventa una quota rilevante del bilancio idrico e contribuisce a ritardare la disidratazione. Gli atleti con elevata sudorazione sono il distrattore più insidioso, perché in quella condizione il problema dominante è la perdita di acqua ed elettroliti, non il ruolo dell'acqua metabolica. La produzione endogena non è comunque sufficiente a compensare a lungo una perdita idrica importante.",
+      "slide": 32
+    },
+    {
+      "id": "d05-b03-q035",
+      "q": "Quale marcatore resta elevato più a lungo nel sangue dopo un danno miocardico?",
+      "choices": [
+        "La creatina cinasi totale, che rimane elevata per molte settimane",
+        "La creatina cinasi MB, che si normalizza in poche ore",
+        "L'idrossibutirrato deidrogenasi, che rimane elevata per un solo giorno",
+        "La mioglobina, che rimane elevata per circa un mese",
+        "La troponina cardiaca, che può restare elevata per una o due settimane"
+      ],
+      "answer": 4,
+      "explain": "La troponina cardiaca aumenta dopo poche ore dal danno, raggiunge il picco nelle prime ventiquattro ore e rimane elevata per una o due settimane, offrendo quindi una finestra diagnostica ampia. La mioglobina è il distrattore più insidioso, perché è il marcatore che aumenta più precocemente ma si normalizza in fretta e non documenta un evento avvenuto alcuni giorni prima. Proprio la differenza di cinetica guida la scelta del pannello di esami in pronto soccorso.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q036",
+      "q": "Da quali subunità è formato il complesso della troponina nel muscolo striato?",
+      "choices": [
+        "Dalla troponina C legante il calcio, dalla troponina I inibitoria e dalla troponina T",
+        "Dalla troponina A, dalla troponina B e dalla troponina C, tutte legate all'actina del filamento",
+        "Da due catene pesanti e due catene leggere, come nella molecola di miosina del sarcomero",
+        "Da una singola catena polipeptidica con tre domini funzionali leganti il calcio",
+        "Dalla calmodulina, dalla tropomiosina e dall'actina G del muscolo scheletrico"
+      ],
+      "answer": 0,
+      "explain": "Il complesso troponinico comprende la troponina C, che lega il calcio, la troponina I, che inibisce l'interazione tra actina e miosina, e la troponina T, che ancora il complesso alla tropomiosina. La calmodulina è il distrattore più insidioso, perché è anch'essa una proteina legante il calcio, ma appartiene a un altro sistema di regolazione e non fa parte del complesso troponinico. Proprio le isoforme cardiache della troponina I e della troponina T sono usate come marcatori di danno miocardico.",
+      "slide": 21
+    },
+    {
+      "id": "d05-b03-q037",
+      "q": "Per quale motivo la troponina I cardiaca è considerata un marcatore molto specifico di danno del miocardio?",
+      "choices": [
+        "Perché è l'unica proteina espressa dal miocardio in assoluto",
+        "Perché la sua isoforma cardiaca non è espressa nel muscolo scheletrico, a differenza della troponina C",
+        "Perché viene liberata soltanto dopo la morte di tutte le cellule miocardiche",
+        "Perché la sua concentrazione nel sangue non varia mai in condizioni patologiche",
+        "Perché è identica alla troponina espressa nel muscolo scheletrico, ma viene dosata con anticorpi diversi"
+      ],
+      "answer": 1,
+      "explain": "La troponina I e la troponina T possiedono isoforme specifiche del miocardio, mentre la troponina C è condivisa con il muscolo scheletrico, perciò il dosaggio delle prime due permette di distinguere il danno cardiaco da quello muscolare. L'affermazione che la troponina I cardiaca sia identica a quella scheletrica è il distrattore più insidioso, perché è proprio la differenza strutturale tra le isoforme a fondare la specificità del test. La troponina resta comunque elevata anche in condizioni non ischemiche, come la miocardite e lo scompenso.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q038",
+      "q": "Quale vantaggio offre la troponina cardiaca rispetto alla creatina cinasi MB nella diagnosi di sindrome coronarica acuta?",
+      "choices": [
+        "Il costo nettamente inferiore del dosaggio e la maggiore disponibilità",
+        "La possibilità di eseguire il test soltanto su urine e non sul sangue",
+        "La maggiore specificità cardiaca e la finestra diagnostica più lunga",
+        "La capacità di localizzare l'arteria coronaria ostruita e la sua sede",
+        "La completa indipendenza dalla funzionalità renale e dalla clearance"
+      ],
+      "answer": 2,
+      "explain": "La troponina cardiaca è più specifica della creatina cinasi MB, perché le sue isoforme cardiache non sono espresse nel muscolo scheletrico, e rimane elevata più a lungo, permettendo di riconoscere un evento anche a distanza di giorni. La capacità di localizzare l'arteria ostruita è il distrattore più insidioso, perché nessun marcatore biochimico identifica il vaso responsabile: per quello servono le tecniche di imaging. Anche la troponina può aumentare in assenza di ischemia, per esempio nell'insufficienza renale.",
+      "slide": 22
+    },
+    {
+      "id": "d05-b03-q039",
+      "q": "Che cosa caratterizza i dosaggi ad alta sensibilità della troponina cardiaca?",
+      "choices": [
+        "Misurano la massa del cuore danneggiato in grammi di tessuto necrotico o sofferente",
+        "Sono metodi radioisotopici privi di anticorpi e di ogni fase di lavaggio della piastra",
+        "Rilevano la troponina soltanto dopo due settimane dall'evento acuto, quando è tardivo",
+        "Rilevano concentrazioni molto basse di troponina e riducono il tempo per escludere un infarto",
+        "Sono dosaggi colorimetrici che non richiedono strumentazione dedicata né anticorpi"
+      ],
+      "answer": 3,
+      "explain": "I metodi ad alta sensibilità rilevano concentrazioni di troponina molto inferiori a quelle dei metodi tradizionali e permettono di documentare variazioni precoci, riducendo il tempo di osservazione necessario per escludere un infarto. La pretesa di misurare la massa di miocardio in grammi è il distrattore più insidioso, perché confonde una concentrazione sierica con una misura anatomica. La loro interpretazione richiede comunque il confronto con i valori di riferimento e la valutazione della cinetica.",
+      "slide": 24
+    },
+    {
+      "id": "d05-b03-q040",
+      "q": "In quale condizione non ischemica si può osservare un aumento della troponina cardiaca?",
+      "choices": [
+        "Nella sindrome di Gilbert con iperbilirubinemia indiretta",
+        "Nella carenza di vitamina C con scorbuto",
+        "Nella calcolosi renale non complicata",
+        "Nella sindrome dell'intestino irritabile",
+        "Nella miocardite e nello scompenso cardiaco acuto"
+      ],
+      "answer": 4,
+      "explain": "La troponina segnala la sofferenza dei miociti e non soltanto la necrosi di origine ischemica, perciò aumenta anche nella miocardite, nello scompenso cardiaco acuto, nell'embolia polmonare e nell'insufficienza renale. La sindrome dell'intestino irritabile è il distrattore più insidioso, perché è una patologia funzionale senza danno miocardico e il dosaggio della troponina non ha alcun ruolo nella sua valutazione. L'aumento va quindi sempre interpretato insieme al quadro clinico e all'elettrocardiogramma.",
+      "slide": 24
+    },
+    {
+      "id": "d05-b03-q041",
+      "q": "Su quale principio si basa il saggio ELISA?",
+      "choices": [
+        "Sulla rivelazione del complesso antigene-anticorpo tramite un anticorpo coniugato con un enzima",
+        "Sulla separazione delle proteine in base alla loro mobilità elettroforetica nel gel di agarosio",
+        "Sulla misura della radioattività emessa da un tracciante legato all'antigene o all'anticorpo",
+        "Sull'amplificazione in vitro del DNA mediante cicli termici ripetuti di polimerizzazione",
+        "Sulla centrifugazione differenziale delle particelle in un gradiente di densità e di velocità"
+      ],
+      "answer": 0,
+      "explain": "L'ELISA è un saggio immunologico su fase solida in cui la formazione del complesso antigene-anticorpo viene rivelata da un anticorpo coniugato con un enzima; l'enzima trasforma un substrato incolore in un prodotto colorato e l'intensità del colore è proporzionale alla quantità di analita. La misura della radioattività è il distrattore più insidioso, perché descrive il principio del dosaggio radioimmunologico, un metodo diverso che impiega isotopi al posto degli enzimi. La separazione elettroforetica appartiene invece alle tecniche di elettroforesi, come quella del profilo proteico.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q042",
+      "q": "Quali enzimi vengono impiegati più comunemente come marcatori nei saggi ELISA?",
+      "choices": [
+        "La creatina cinasi e la lattato deidrogenasi",
+        "La perossidasi di rafano e la fosfatasi alcalina",
+        "La tripsina e la chimotripsina pancreatiche",
+        "La DNA polimerasi e la ligasi",
+        "La superossido dismutasi e la catalasi"
+      ],
+      "answer": 1,
+      "explain": "Nei saggi ELISA l'anticorpo di rivelazione è coniugato di norma con la perossidasi di rafano o con la fosfatasi alcalina, enzimi stabili che trasformano substrati cromogeni in prodotti colorati facilmente misurabili. La creatina cinasi e la lattato deidrogenasi sono il distrattore più insidioso, perché sono enzimi di diagnostica clinica molto noti ma non vengono usati come coniugati nei saggi immunologici. Il segnale viene letto con uno spettrofotometro a una lunghezza d'onda definita e la reazione si arresta con una soluzione di stop.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q043",
+      "q": "In che cosa consiste il formato sandwich dell'ELISA?",
+      "choices": [
+        "Nell'uso di due substrati cromogeni sovrapposti nello stesso pozzetto della piastra",
+        "Nella stratificazione di più campioni di siero in un gradiente di densità crescente",
+        "Nella cattura dell'antigene tra un anticorpo immobilizzato e un secondo anticorpo marcato con l'enzima",
+        "Nella competizione tra l'antigene del campione e un antigene marcato per il legame all'anticorpo",
+        "Nell'impiego esclusivo di anticorpi IgM privi di catene leggere e di affinità nota"
+      ],
+      "answer": 2,
+      "explain": "Nel formato sandwich l'antigene viene intrappolato tra un anticorpo di cattura adsorbito sulla fase solida e un secondo anticorpo di rivelazione coniugato con l'enzima; ciò richiede almeno due epitopi distinti sulla molecola bersaglio e conferisce elevata specificità. La competizione tra l'antigene del campione e un antigene marcato è il distrattore più insidioso, perché descrive il formato competitivo, usato soprattutto per antigeni piccoli o apteni. I lavaggi tra i passaggi servono a eliminare i componenti non legati, che altrimenti genererebbero segnale aspecifico.",
+      "slide": 27
+    },
+    {
+      "id": "d05-b03-q044",
+      "q": "Quale formato di ELISA è più adatto a rivelare la presenza di anticorpi specifici nel siero di un paziente?",
+      "choices": [
+        "Il formato sandwich con due anticorpi monoclonali diretti contro l'antigene bersaglio",
+        "Il formato diretto, in cui l'antigene è coniugato con l'enzima di rivelazione",
+        "Il formato competitivo con antigene marcato in fase liquida e anticorpo limitato",
+        "Il formato indiretto, in cui l'anticorpo del paziente è rivelato da un anticorpo secondario coniugato",
+        "Il formato che misura la radioattività del tracciante legato all'anticorpo del paziente"
+      ],
+      "answer": 3,
+      "explain": "Nel formato indiretto l'antigene è adsorbito sulla fase solida e l'anticorpo eventualmente presente nel siero del paziente vi si lega; un anticorpo secondario coniugato con l'enzima, diretto contro le immunoglobuline umane, rivela il legame e amplifica il segnale. Il formato sandwich con due anticorpi monoclonali è il distrattore più insidioso, perché è il migliore per dosare un antigene, non per ricercare gli anticorpi del paziente. Il formato indiretto è largamente usato negli screening sierologici, per esempio per il virus dell'immunodeficienza umana.",
+      "slide": 29
+    },
+    {
+      "id": "d05-b03-q045",
+      "q": "Quale applicazione clinica è tipica di un saggio ELISA?",
+      "choices": [
+        "La determinazione del pH e dei gas del sangue arterioso",
+        "L'analisi dell'assetto cromosomico di un tumore",
+        "La misura dell'attività catalitica della fosfatasi alcalina nel siero",
+        "La separazione delle proteine plasmatiche in frazioni con l'elettroforesi",
+        "La ricerca dell'antigene di superficie del virus dell'epatite B nel siero"
+      ],
+      "answer": 4,
+      "explain": "L'ELISA è ampiamente impiegato per la ricerca di antigeni e anticorpi, come l'antigene di superficie del virus dell'epatite B, oltre che per ormoni, marcatori tumorali e allergeni. La misura dell'attività catalitica della fosfatasi alcalina è il distrattore più insidioso, perché anche l'ELISA sfrutta un enzima, ma come sistema di rivelazione e non come analita da dosare. La determinazione dei gas del sangue richiede invece un analizzatore dedicato con elettrodi specifici.",
+      "slide": 29
+    },
+    {
+      "id": "d05-b03-q046",
+      "q": "A che cosa servono i lavaggi e la saturazione dei siti liberi della fase solida in un saggio ELISA?",
+      "choices": [
+        "A rimuovere i componenti non legati e a impedire le adesioni aspecifiche sulla piastra",
+        "A denaturare l'antigene per aumentarne la reattività con l'anticorpo di cattura",
+        "A idrolizzare il substrato cromogeno prima della lettura allo spettrofotometro",
+        "A sterilizzare la piastra per evitare contaminazioni batteriche durante il saggio",
+        "A fissare in modo covalente l'anticorpo di cattura al pozzetto di plastica"
+      ],
+      "answer": 0,
+      "explain": "I lavaggi eliminano il materiale non legato dopo ogni passaggio, mentre la saturazione con proteine inerti, come l'albumina o il latte in polvere, occupa i siti liberi della plastica e riduce le adesioni aspecifiche che produrrebbero un falso segnale positivo. La sterilizzazione della piastra è il distrattore più insidioso, perché sembra una precauzione logica, ma l'ELISA è un saggio immunologico e non una coltura, quindi il problema non è la contaminazione batterica. Un lavaggio insufficiente è una delle cause più comuni di risultati falsamente elevati.",
+      "slide": 29
+    },
+    {
+      "id": "d05-b03-q047",
+      "q": "Come si ottiene un risultato quantitativo in un saggio ELISA?",
+      "choices": [
+        "Contando al microscopio il numero di cellule che hanno legato l'anticorpo",
+        "Confrontando l'assorbanza del campione con una curva di calibrazione di standard noti",
+        "Pesando il precipitato formatosi sul fondo del pozzetto dopo la centrifugazione",
+        "Misurando la radioattività emessa e convertendola in unità internazionali",
+        "Valutando a occhio nudo l'intensità del colore, senza standard di riferimento"
+      ],
+      "answer": 1,
+      "explain": "La quantificazione si basa sulla misura dell'assorbanza con uno spettrofotometro e sul confronto del valore ottenuto con una curva di calibrazione preparata con standard a concentrazione nota. La valutazione a occhio nudo è il distrattore più insidioso, perché può essere sufficiente per un saggio qualitativo, ma non fornisce alcuna misura attendibile della concentrazione. La conversione in unità internazionali appartiene ai saggi di attività enzimatica, non ai metodi immunologici.",
+      "slide": 30
+    },
+    {
+      "id": "d05-b03-q048",
+      "q": "Quale caratteristica distingue il saggio ELISA da un dosaggio radioimmunologico?",
+      "choices": [
+        "L'uso di anticorpi monoclonali al posto di anticorpi policlonali di coniglio",
+        "La necessità di separare le proteine per elettroforesi prima della lettura finale",
+        "L'impiego di un enzima e di un substrato cromogeno al posto di un tracciante radioattivo",
+        "La capacità di misurare soltanto sostanze di natura lipidica e di basso peso",
+        "L'assenza di qualsiasi fase di lavaggio tra un passaggio e l'altro"
+      ],
+      "answer": 2,
+      "explain": "L'ELISA sostituisce il tracciante radioattivo del dosaggio radioimmunologico con un enzima coniugato e un substrato cromogeno, eliminando i problemi di smaltimento dei rifiuti radioattivi e mantenendo una buona sensibilità. L'uso di anticorpi monoclonali è il distrattore più insidioso, perché può essere presente in entrambi i metodi e non è quindi un elemento discriminante. Anche l'ELISA richiede lavaggi ripetuti per separare il materiale legato da quello non legato.",
+      "slide": 30
+    },
+    {
+      "id": "d05-b03-q049",
+      "q": "Nel sospetto di infarto miocardico acuto, quale combinazione di esami di laboratorio è più appropriata in pronto soccorso?",
+      "choices": [
+        "Amilasi e lipasi sieriche per il sospetto di pancreatite acuta",
+        "Transaminasi e fosfatasi alcalina per il sospetto di danno epatico",
+        "Colesterolo totale e trigliceridi per la stima del rischio cardiovascolare",
+        "Troponina cardiaca ad alta sensibilità, associata alla creatina cinasi MB se serve",
+        "Elettroforesi delle proteine plasmatiche con dosaggio delle immunoglobuline"
+      ],
+      "answer": 3,
+      "explain": "In pronto soccorso il marcatore di scelta è la troponina cardiaca ad alta sensibilità, che offre la migliore specificità e una cinetica adeguata; l'associazione con la creatina cinasi MB può avere valore per valutare una recidiva precoce. Amilasi e lipasi sono il distrattore più insidioso, perché sono esami richiesti spesso nei pazienti con dolore toracico, ma indagano la pancreatite e non il miocardio. L'elettroforesi proteica appartiene invece alla valutazione delle proteine plasmatiche.",
+      "slide": 31
+    },
+    {
+      "id": "d05-b03-q050",
+      "q": "Perché nella pratica clinica si preferisce interpretare i marcatori enzimatici insieme al quadro clinico e all'elettrocardiogramma?",
+      "choices": [
+        "Perché i marcatori enzimatici sono privi di valore se non accompagnati da una biopsia",
+        "Perché l'elettrocardiogramma misura direttamente le concentrazioni delle troponine nel sangue",
+        "Perché nessun marcatore enzimatico può essere dosato nel siero con metodi affidabili",
+        "Perché i valori di riferimento sono identici per tutti i pazienti e non richiedono confronto",
+        "Perché ogni marcatore ha una cinetica e una specificità limitate e va integrato con gli altri dati"
+      ],
+      "answer": 4,
+      "explain": "Nessun marcatore biochimico è perfetto: ciascuno ha una propria cinetica di comparsa e scomparsa e una specificità incompleta, perciò l'interpretazione richiede sempre l'integrazione con i sintomi, l'elettrocardiogramma e gli esami di imaging. L'affermazione che i valori di riferimento siano identici per tutti è il distrattore più insidioso, perché gli intervalli possono variare con l'età, il sesso, la massa muscolare e il metodo analitico. La troponina, in particolare, può aumentare anche in condizioni non ischemiche.",
+      "slide": 31
+    }
+  ]
+}

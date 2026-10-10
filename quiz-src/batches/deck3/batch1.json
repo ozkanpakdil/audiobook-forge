@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 1,
+  "topic": "Alimentazione, trigliceridi della dieta, NEFA e fonti di acidi grassi",
+  "questions": [
+    {
+      "id": "d03-b01-q001",
+      "q": "Quale percentuale dei grassi introdotti con la dieta è costituita da trigliceridi?",
+      "choices": [
+        "Circa il 20%",
+        "Circa il 50%",
+        "Circa il 90%",
+        "Circa il 10%",
+        "Circa il 65%"
+      ],
+      "answer": 2,
+      "explain": "Circa il 90% dei grassi della dieta è rappresentato da trigliceridi, mentre la quota rimanente comprende colesterolo libero ed esterificato, fosfolipidi e acidi grassi. L'alternativa del 50% sottostima nettamente questa prevalenza e non corrisponde ai dati indicati.",
+      "slide": 4
+    },
+    {
+      "id": "d03-b01-q002",
+      "q": "Qual è l'intervallo di grassi assunto abitualmente con la dieta in un giorno?",
+      "choices": [
+        "10-30 g/die",
+        "60-150 g/die",
+        "200-250 g/die",
+        "20-50 g/die",
+        "300-400 g/die"
+      ],
+      "answer": 1,
+      "explain": "L'apporto giornaliero abituale di grassi con la dieta è indicato in circa 60-150 g al giorno, di cui la grande maggioranza è costituita da trigliceridi. Valori come 300-400 g/die sono troppo elevati e non corrispondono all'intervallo di riferimento.",
+      "slide": 4
+    },
+    {
+      "id": "d03-b01-q003",
+      "q": "Quali molecole sono considerate i principali combustibili del metabolismo energetico?",
+      "choices": [
+        "Gli aminoacidi",
+        "I monosaccaridi",
+        "Gli acidi nucleici",
+        "Gli acidi grassi",
+        "I corpi chetonici"
+      ],
+      "answer": 3,
+      "explain": "Gli acidi grassi sono i principali combustibili del metabolismo energetico e vengono utilizzati dall'organismo come NEFA o FFA. I monosaccaridi, in particolare il glucosio, sono un combustibile importante ma non sono indicati come i principali nel metabolismo lipidico.",
+      "slide": 4
+    },
+    {
+      "id": "d03-b01-q004",
+      "q": "In quale forma l'organismo utilizza prevalentemente i lipidi della dieta a scopo energetico?",
+      "choices": [
+        "Come acidi grassi liberi, indicati come NEFA o FFA",
+        "Come trigliceridi intatti, assorbiti senza idrolisi",
+        "Come colesterolo esterificato, usato per le membrane",
+        "Come fosfolipidi di membrana, riutilizzati come tali",
+        "Come glicerolo libero, ossidato direttamente nei tessuti"
+      ],
+      "answer": 0,
+      "explain": "I trigliceridi della dieta vengono idrolizzati e l'organismo utilizza gli acidi grassi liberi, detti NEFA o FFA, come combustibile. I trigliceridi intatti non rappresentano la forma con cui il lipide viene ossidato a scopo energetico.",
+      "slide": 4
+    },
+    {
+      "id": "d03-b01-q005",
+      "q": "I trigliceridi della dieta forniscono all'organismo soprattutto:",
+      "choices": [
+        "Colesterolo per le membrane cellulari",
+        "Vitamine idrosolubili del gruppo B",
+        "Amminoacidi essenziali per la sintesi proteica",
+        "Glicerolo ossidato come unica fonte di ATP",
+        "Acidi grassi utilizzabili a fini energetici"
+      ],
+      "answer": 4,
+      "explain": "Dai trigliceridi della dieta derivano gli acidi grassi, che l'organismo utilizza nel metabolismo energetico. Attribuire ai trigliceridi la funzione di fornire colesterolo per le membrane è improprio, perché il colesterolo è una classe lipidica distinta.",
+      "slide": 4
+    },
+    {
+      "id": "d03-b01-q006",
+      "q": "Quale funzione svolge principalmente il tessuto adiposo nel metabolismo dei lipidi?",
+      "choices": [
+        "Sede esclusiva della digestione dei grassi",
+        "Sede di deposito dei trigliceridi",
+        "Produzione dei sali biliari",
+        "Sintesi dell'albumina plasmatica",
+        "Assorbimento intestinale delle vitamine idrosolubili"
+      ],
+      "answer": 1,
+      "explain": "Il tessuto adiposo è la sede in cui i trigliceridi vengono depositati e conservati come riserva lipidica. La produzione dei sali biliari avviene invece nel fegato e non nel tessuto adiposo.",
+      "slide": 3
+    },
+    {
+      "id": "d03-b01-q007",
+      "q": "Nell'ambito del metabolismo dei lipidi, l'alimentazione rappresenta:",
+      "choices": [
+        "La principale fonte esogena di lipidi",
+        "La via di sintesi endogena dei trigliceridi",
+        "Il sistema di trasporto plasmatico dei lipidi",
+        "La sede della beta-ossidazione degli acidi grassi",
+        "Il meccanismo di escrezione biliare dei lipidi"
+      ],
+      "answer": 0,
+      "explain": "Con l'alimentazione l'organismo riceve lipidi dall'esterno, cioè una fonte esogena, in gran parte sotto forma di trigliceridi. La sintesi endogena dei trigliceridi è invece un processo metabolico del fegato e del tessuto adiposo, non l'apporto alimentare.",
+      "slide": 3
+    },
+    {
+      "id": "d03-b01-q008",
+      "q": "Quale relazione esiste tra alimentazione e tessuto adiposo?",
+      "choices": [
+        "Il tessuto adiposo digerisce i grassi alimentari con le proprie lipasi",
+        "Il tessuto adiposo produce gli acidi biliari necessari alla dieta",
+        "I lipidi della dieta si accumulano come trigliceridi negli adipociti",
+        "L'alimentazione impedisce il deposito dei trigliceridi negli adipociti",
+        "Il tessuto adiposo assorbe direttamente i lipidi alimentari nel duodeno"
+      ],
+      "answer": 2,
+      "explain": "I lipidi assunti con la dieta, quando sono in eccesso rispetto al fabbisogno, possono essere depositati nel tessuto adiposo sotto forma di trigliceridi. La digestione dei grassi alimentari avviene invece nel tubo digerente e non nel tessuto adiposo.",
+      "slide": 3
+    },
+    {
+      "id": "d03-b01-q009",
+      "q": "Nel metabolismo dei glucidi, la glicolisi e la glicogenolisi sono processi di:",
+      "choices": [
+        "Anabolismo",
+        "Trasporto plasmatico",
+        "Regolazione ormonale",
+        "Catabolismo",
+        "Assorbimento intestinale"
+      ],
+      "answer": 3,
+      "explain": "Glicolisi e glicogenolisi degradano rispettivamente il glucosio e il glicogeno per ricavare energia, quindi appartengono al catabolismo. L'anabolismo comprende invece i processi di sintesi come la gluconeogenesi e la glicogenosintesi.",
+      "slide": 2
+    },
+    {
+      "id": "d03-b01-q010",
+      "q": "Quali processi costituiscono l'anabolismo dei carboidrati?",
+      "choices": [
+        "Gluconeogenesi e glicogenosintesi",
+        "Glicolisi e glicogenolisi",
+        "Digestione e assorbimento",
+        "Lipolisi e beta-ossidazione",
+        "Ciclo di Krebs e fosforilazione ossidativa"
+      ],
+      "answer": 0,
+      "explain": "L'anabolismo dei carboidrati comprende la gluconeogenesi, che sintetizza glucosio da precursori non glucidici, e la glicogenosintesi, che polimerizza il glucosio in glicogeno. La glicolisi e la glicogenolisi sono invece processi catabolici di degradazione.",
+      "slide": 2
+    },
+    {
+      "id": "d03-b01-q011",
+      "q": "Quali ormoni sono coinvolti nella regolazione del metabolismo dei carboidrati?",
+      "choices": [
+        "Albumina, transferrina e ferritina",
+        "Pepsina, tripsina e chimotripsina",
+        "Lipasi linguale, gastrica e pancreatica",
+        "Amilasi, maltasi e lattasi",
+        "Insulina, glucagone e adrenalina"
+      ],
+      "answer": 4,
+      "explain": "La regolazione del metabolismo dei carboidrati è affidata a insulina, glucagone e adrenalina, che modulano l'ingresso e il rilascio del glucosio. Amilasi e maltasi sono enzimi digestivi e non ormoni, quindi non svolgono questa funzione regolatoria.",
+      "slide": 2
+    },
+    {
+      "id": "d03-b01-q012",
+      "q": "La glicemia, nello studio del metabolismo glucidico, viene caratterizzata soprattutto per:",
+      "choices": [
+        "La regolazione ormonale del metabolismo lipidico",
+        "Il trasporto dei lipidi nel plasma",
+        "La digestione gastrica dei trigliceridi",
+        "Il metodo di misura e i valori di riferimento",
+        "La sintesi degli acidi biliari"
+      ],
+      "answer": 3,
+      "explain": "La glicemia viene studiata considerando il metodo con cui si misura e i valori che la caratterizzano. Le altre opzioni riguardano processi lipidici o digestivi che non hanno attinenza con la determinazione della concentrazione di glucosio nel sangue.",
+      "slide": 2
+    },
+    {
+      "id": "d03-b01-q013",
+      "q": "Cosa significa la sigla NEFA?",
+      "choices": [
+        "Neutral Esterified Fatty Acid",
+        "Non Esterified Fatty Acid",
+        "Nucleic Essential Fatty Acid",
+        "Non Enzymatic Fatty Aldehyde",
+        "Nitrogen-Free Amino Acid"
+      ],
+      "answer": 1,
+      "explain": "NEFA è l'acronimo di Non Esterified Fatty Acid, cioè acidi grassi non esterificati, sinonimo di acidi grassi liberi o FFA. Le altre espansioni sono costruzioni prive di significato biochimico e non corrispondono alla definizione.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q014",
+      "q": "Da quali fonti le cellule possono ricavare NEFA?",
+      "choices": [
+        "Solo dai trigliceridi della dieta, senza altre fonti",
+        "Dai corpi chetonici circolanti e dall'albumina plasmatica",
+        "Dai trigliceridi della dieta, degli adipociti e del fegato",
+        "Dai fosfolipidi di membrana e dalle lipoproteine plasmatiche",
+        "Dai trigliceridi del tessuto adiposo e dal colesterolo"
+      ],
+      "answer": 2,
+      "explain": "Le cellule possono ottenere NEFA da tre fonti: i trigliceridi della dieta, i trigliceridi degli adipociti e i trigliceridi sintetizzati dal fegato. Limitare le fonti ai soli trigliceridi alimentari è riduttivo, perché anche il deposito adiposo e la sintesi epatica contribuiscono.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q015",
+      "q": "Quali sono i tre sistemi di trasporto dell'energia associata ai lipidi?",
+      "choices": [
+        "Emoglobina, transferrina e ceruloplasmina del plasma",
+        "Albumina, glicogeno e glucosio plasmatici",
+        "Sali biliari, micelle e chilomicroni intestinali",
+        "Fosfolipidi, colesterolo e trigliceridi di membrana",
+        "Lipoproteine, NEFA-albumina e corpi chetonici"
+      ],
+      "answer": 4,
+      "explain": "I tre sistemi di trasporto dell'energia associata ai lipidi sono le lipoproteine, i NEFA legati all'albumina e i corpi chetonici. I sali biliari sono emulsionanti che facilitano la digestione, non sistemi di trasporto plasmatico dell'energia lipidica.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q016",
+      "q": "Nel plasma i NEFA sono trasportati prevalentemente:",
+      "choices": [
+        "Legati all'albumina",
+        "Legati all'emoglobina",
+        "Dentro i corpi chetonici",
+        "Come trigliceridi liberi",
+        "Legati al colesterolo"
+      ],
+      "answer": 0,
+      "explain": "I NEFA sono poco solubili in acqua e nel sangue viaggiano legati all'albumina, che li rende trasportabili. L'emoglobina è una proteina che trasporta l'ossigeno e non ha questa funzione di trasporto lipidico.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q017",
+      "q": "I corpi chetonici, nell'ambito del metabolismo lipidico, rappresentano:",
+      "choices": [
+        "Enzimi della lipolisi del tessuto adiposo",
+        "Sali biliari secondari della flora intestinale",
+        "Precursori degli acidi biliari nel fegato",
+        "Un sistema di trasporto dell'energia lipidica",
+        "Una forma di deposito dei trigliceridi negli adipociti"
+      ],
+      "answer": 3,
+      "explain": "I corpi chetonici costituiscono uno dei tre sistemi con cui l'energia associata ai lipidi viene trasportata nell'organismo. Non sono enzimi né sali biliari, che appartengono a categorie funzionali completamente diverse.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q018",
+      "q": "A cosa servono principalmente le lipoproteine?",
+      "choices": [
+        "A emulsionare i grassi nel duodeno",
+        "A trasportare i lipidi nel sangue",
+        "A idrolizzare i trigliceridi intestinali",
+        "A legare l'ossigeno nel sangue",
+        "A depositare i trigliceridi negli adipociti"
+      ],
+      "answer": 1,
+      "explain": "Le lipoproteine sono complessi con cui i lipidi, insolubili in acqua, vengono trasportati nel sangue. L'emulsionamento dei grassi nel duodeno è compito dei sali biliari e non delle lipoproteine.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q019",
+      "q": "Quale affermazione distingue correttamente i NEFA dai trigliceridi?",
+      "choices": [
+        "Nei NEFA gli acidi grassi sono esterificati, nei trigliceridi liberi",
+        "Nei NEFA è presente un fosfato, nei trigliceridi è assente",
+        "Nei NEFA il carbossile è libero, nei trigliceridi è esterificato",
+        "Nei NEFA gli acidi grassi sono saturi, nei trigliceridi insaturi",
+        "Nei NEFA la catena deriva dal colesterolo, non dai trigliceridi"
+      ],
+      "answer": 2,
+      "explain": "I NEFA sono acidi grassi non esterificati, cioè con il gruppo carbossilico libero, mentre nei trigliceridi tre acidi grassi sono legati con legami estere al glicerolo. Dire che nei NEFA gli acidi grassi sono esterificati è l'esatto contrario della loro definizione.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q020",
+      "q": "Durante il digiuno, quale fonte di NEFA diventa quantitativamente più importante per i tessuti?",
+      "choices": [
+        "I trigliceridi appena introdotti con la dieta",
+        "I trigliceridi sintetizzati dal fegato a partire dal glucosio",
+        "Gli acidi grassi dei fosfolipidi di membrana",
+        "I corpi chetonici del plasma",
+        "I trigliceridi immagazzinati negli adipociti"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno gli acidi grassi sono mobilizzati soprattutto dai trigliceridi del tessuto adiposo, che costituiscono la riserva energetica dell'organismo. I trigliceridi della dieta non sono disponibili in questa condizione, perché manca l'apporto alimentare.",
+      "slide": 5
+    },
+    {
+      "id": "d03-b01-q021",
+      "q": "Oltre ai lipidi di deposito e a quelli introdotti con la dieta, quale altra fonte di acidi grassi è disponibile per l'organismo?",
+      "choices": [
+        "I sali biliari prodotti dalla cistifellea",
+        "Le vitamine liposolubili assorbite",
+        "I corpi chetonici del plasma",
+        "I lipidi sintetizzati dal fegato ed esportati",
+        "Il colesterolo esterificato delle membrane"
+      ],
+      "answer": 3,
+      "explain": "Fra le fonti di acidi grassi rientrano i lipidi sintetizzati dal fegato e poi esportati verso gli altri tessuti. I sali biliari sono emulsionanti che facilitano la digestione e non rappresentano una fonte di acidi grassi.",
+      "slide": 6
+    },
+    {
+      "id": "d03-b01-q022",
+      "q": "Un eccesso di proteine e carboidrati nella dieta può:",
+      "choices": [
+        "Costituire una fonte di acidi grassi per l'organismo",
+        "Bloccare la sintesi dei trigliceridi epatici",
+        "Impedire l'assorbimento delle vitamine liposolubili",
+        "Aumentare la degradazione dei sali biliari",
+        "Trasformare i lipidi in amminoacidi essenziali"
+      ],
+      "answer": 0,
+      "explain": "L'eccesso di proteine e carboidrati della dieta può essere convertito in lipidi e quindi contribuire all'apporto di acidi grassi. Non si tratta di un blocco della sintesi, ma al contrario di una via che porta alla formazione di depositi lipidici.",
+      "slide": 6
+    },
+    {
+      "id": "d03-b01-q023",
+      "q": "I lipidi di deposito corrispondono a:",
+      "choices": [
+        "Colesterolo libero del plasma circolante",
+        "Trigliceridi accumulati negli adipociti",
+        "Fosfolipidi delle membrane cellulari",
+        "Vitamine liposolubili immagazzinate nel fegato",
+        "Acidi biliari coniugati con la taurina"
+      ],
+      "answer": 1,
+      "explain": "I lipidi di deposito sono i trigliceridi accumulati nel tessuto adiposo, pronti a essere mobilizzati come acidi grassi. I fosfolipidi di membrana svolgono funzioni strutturali e non costituiscono una riserva energetica.",
+      "slide": 6
+    },
+    {
+      "id": "d03-b01-q024",
+      "q": "Quale delle seguenti NON è elencata tra le fonti di acidi grassi?",
+      "choices": [
+        "Lipidi sintetizzati dal fegato ed esportati",
+        "Lipidi introdotti con la dieta",
+        "Eccesso di proteine e carboidrati della dieta",
+        "Lipidi di deposito del tessuto adiposo",
+        "Acidi nucleici assunti con gli alimenti"
+      ],
+      "answer": 4,
+      "explain": "Le fonti di acidi grassi comprendono i lipidi di deposito, quelli sintetizzati dal fegato, quelli della dieta e l'eccesso di proteine e carboidrati. Gli acidi nucleici non sono una fonte di acidi grassi, perché la loro degradazione porta a basi azotate e zuccheri, non a lipidi.",
+      "slide": 6
+    },
+    {
+      "id": "d03-b01-q025",
+      "q": "La sintesi epatica dei lipidi contribuisce alle fonti di acidi grassi perché:",
+      "choices": [
+        "Il fegato degrada i sali biliari in acidi grassi",
+        "Il fegato assorbe direttamente i grassi alimentari",
+        "Il fegato esporta lipidi verso gli altri tessuti",
+        "Il fegato trasforma gli acidi grassi in glucosio",
+        "Il fegato immagazzina ossigeno per la beta-ossidazione"
+      ],
+      "answer": 2,
+      "explain": "Il fegato sintetizza lipidi e li esporta agli altri tessuti, dove possono essere utilizzati o depositati, configurandosi così come fonte endogena di acidi grassi. L'assorbimento dei grassi alimentari avviene invece nell'intestino e non nel fegato.",
+      "slide": 6
+    },
+    {
+      "id": "d03-b01-q026",
+      "q": "Quali componenti lipidiche, oltre ai trigliceridi, sono presenti nei grassi della dieta?",
+      "choices": [
+        "Solo acidi grassi liberi, senza altre componenti",
+        "Solo fosfolipidi di membrana e glicogeno di riserva",
+        "Amminoacidi essenziali e vitamine idrosolubili del gruppo B",
+        "Colesterolo libero ed esterificato, fosfolipidi e NEFA",
+        "Trigliceridi ramificati e acidi nucleici degli alimenti"
+      ],
+      "answer": 3,
+      "explain": "Oltre ai trigliceridi, che rappresentano circa il 90% dei grassi alimentari, la dieta apporta colesterolo libero ed esterificato, fosfolipidi e NEFA. Il glicogeno è un polisaccaride di riserva e non un lipide della dieta.",
+      "slide": 7
+    },
+    {
+      "id": "d03-b01-q027",
+      "q": "Perché i lipidi della dieta sono difficili da digerire da parte delle idrolasi intestinali?",
+      "choices": [
+        "Perché sono insolubili in acqua e coalescono in gocce grandi",
+        "Perché sono instabili al pH acido dello stomaco e precipitano",
+        "Perché hanno un peso molecolare troppo elevato per le idrolasi",
+        "Perché sono privi di legami esterei idrolizzabili dalle lipasi",
+        "Perché vengono legati subito all'albumina del plasma"
+      ],
+      "answer": 0,
+      "explain": "La digestione dei lipidi è ostacolata dalla loro scarsa solubilità in acqua e dalla tendenza a coalescere in gocce di grandi dimensioni, che offrono poca superficie alle idrolasi. I trigliceridi possiedono legami esterei idrolizzabili, quindi la mancanza di legami attaccabili non è il motivo.",
+      "slide": 7
+    },
+    {
+      "id": "d03-b01-q028",
+      "q": "Nello stomaco, quali fattori favoriscono la liquefazione e l'emulsione dei lipidi?",
+      "choices": [
+        "I sali biliari e la lipasi pancreatica",
+        "Il calore e i movimenti peristaltici",
+        "L'albumina e i corpi chetonici",
+        "Il pH alcalino e le micelle",
+        "La lipasi linguale e il colesterolo"
+      ],
+      "answer": 1,
+      "explain": "Nello stomaco il calore e i movimenti peristaltici favoriscono la liquefazione e l'emulsione lipidica, preparando i trigliceridi alla successiva digestione. I sali biliari intervengono invece nell'intestino, non nello stomaco.",
+      "slide": 7
+    },
+    {
+      "id": "d03-b01-q029",
+      "q": "Che cosa si intende per emulsione dei lipidi nello stomaco?",
+      "choices": [
+        "L'idrolisi completa dei trigliceridi in glicerolo e acidi grassi",
+        "La conversione dei grassi in corpi chetonici nel fegato",
+        "Il legame dei lipidi all'albumina plasmatica del sangue",
+        "La sintesi di nuovi trigliceridi da parte della mucosa gastrica",
+        "La dispersione dei lipidi in gocce fini di piccole dimensioni"
+      ],
+      "answer": 4,
+      "explain": "L'emulsione è la dispersione dei lipidi in gocce di piccole dimensioni, che aumenta la superficie disponibile per l'azione delle lipasi. Non comporta idrolisi dei trigliceridi né sintesi di nuove molecole, processi che avvengono per altre vie.",
+      "slide": 7
+    },
+    {
+      "id": "d03-b01-q030",
+      "q": "Quale conseguenza ha la formazione di gocce lipidiche di grandi dimensioni sulla digestione?",
+      "choices": [
+        "Aumenta la solubilità dei trigliceridi in acqua",
+        "Accelera l'assorbimento intestinale dei grassi",
+        "Riduce la superficie esposta all'azione delle idrolasi",
+        "Favorisce l'azione dei sali biliari",
+        "Rende superflua la lipasi pancreatica"
+      ],
+      "answer": 2,
+      "explain": "Gocce lipidiche grandi hanno una superficie totale ridotta rispetto al volume, quindi le idrolasi dispongono di meno area per attaccare i trigliceridi. L'emulsionamento aumenta invece la superficie, ed è per questo che esso accelera la digestione.",
+      "slide": 7
+    },
+    {
+      "id": "d03-b01-q031",
+      "q": "In quale sede comincia la digestione dei trigliceridi?",
+      "choices": [
+        "Nel cavo orale, per azione della lipasi linguale",
+        "Nello stomaco, per azione di una lipasi gastrica",
+        "Nel duodeno, per azione della lipasi pancreatica",
+        "Nel colon, per azione della flora batterica",
+        "Nel fegato, per azione degli acidi biliari"
+      ],
+      "answer": 1,
+      "explain": "La digestione dei trigliceridi comincia già nello stomaco, dove una lipasi gastrica acido-stabile avvia l'idrolisi. La lipasi pancreatica interviene più tardi, nel primo tratto dell'intestino tenue, e rappresenta la fase quantitativamente più importante.",
+      "slide": 8
+    },
+    {
+      "id": "d03-b01-q032",
+      "q": "Quale percentuale di acidi grassi viene rilasciata dall'azione della lipasi gastrica?",
+      "choices": [
+        "Circa il 15-30%",
+        "Circa il 2-5%",
+        "Circa il 45-55%",
+        "Circa il 75-85%",
+        "Circa il 95-100%"
+      ],
+      "answer": 0,
+      "explain": "La lipasi gastrica acido-stabile libera circa il 15-30% degli acidi grassi dai trigliceridi della dieta. La quota restante viene digerita soprattutto nell'intestino tenue a opera della lipasi pancreatica.",
+      "slide": 8
+    },
+    {
+      "id": "d03-b01-q033",
+      "q": "Quale caratteristica distingue la lipasi gastrica?",
+      "choices": [
+        "Richiede i sali biliari come cofattore",
+        "È attiva solo a pH alcalino dell'intestino",
+        "È prodotta dal pancreas e secreta nel duodeno",
+        "È acido-stabile e attiva nello stomaco",
+        "Agisce solo sui fosfolipidi di membrana"
+      ],
+      "answer": 3,
+      "explain": "La lipasi gastrica è acido-stabile, quindi mantiene la sua attività nell'ambiente acido dello stomaco, dove avvia la digestione dei trigliceridi. La lipasi pancreatica è invece l'enzima che opera nell'intestino e richiede un ambiente diverso.",
+      "slide": 8
+    },
+    {
+      "id": "d03-b01-q034",
+      "q": "L'azione della lipasi gastrica sui trigliceridi produce:",
+      "choices": [
+        "Colesterolo esterificato dal fegato",
+        "Corpi chetonici sintetizzati nel fegato",
+        "Acidi grassi liberi (NEFA o FFA)",
+        "Sali biliari coniugati con la taurina",
+        "Glicogeno di riserva degli epatociti"
+      ],
+      "answer": 2,
+      "explain": "L'idrolisi dei trigliceridi da parte della lipasi gastrica libera acidi grassi, indicati come NEFA o FFA. I corpi chetonici e i sali biliari sono prodotti da altre vie metaboliche e non derivano dall'attività di questo enzima.",
+      "slide": 8
+    },
+    {
+      "id": "d03-b01-q035",
+      "q": "Rispetto alla digestione intestinale, la quota di trigliceridi idrolizzata nello stomaco è:",
+      "choices": [
+        "Superiore a quella intestinale",
+        "Pari a circa il 90% del totale",
+        "Del tutto assente",
+        "Limitata ai soli trigliceridi saturi",
+        "Minoritaria, ma già significativa"
+      ],
+      "answer": 4,
+      "explain": "Nello stomaco viene liberato il 15-30% degli acidi grassi, quindi una quota minoritaria ma non trascurabile; la parte più significativa della digestione avviene poi nell'intestino tenue. Dire che la digestione gastrica è del tutto assente contraddice il ruolo della lipasi gastrica.",
+      "slide": 8
+    },
+    {
+      "id": "d03-b01-q036",
+      "q": "Dove avviene la digestione più significativa dei trigliceridi?",
+      "choices": [
+        "Nel primo tratto dell'intestino tenue",
+        "Nello stomaco, per la lipasi gastrica",
+        "Nel cavo orale, per la lipasi linguale",
+        "Nel colon, per la flora batterica",
+        "Nell'esofago, durante la deglutizione"
+      ],
+      "answer": 0,
+      "explain": "La digestione quantitativamente più importante dei trigliceridi avviene nel primo tratto dell'intestino tenue e richiede la lipasi pancreatica. Nello stomaco la digestione è solo iniziale, perché la lipasi gastrica libera una quota limitata di acidi grassi.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q037",
+      "q": "Quale enzima è indispensabile per la digestione intestinale dei trigliceridi?",
+      "choices": [
+        "La lipasi gastrica",
+        "La lipasi pancreatica",
+        "L'amilasi salivare",
+        "La pepsina",
+        "La tripsina"
+      ],
+      "answer": 1,
+      "explain": "La digestione intestinale dei trigliceridi richiede la lipasi pancreatica, che idrolizza i trigliceridi emulsionati. La pepsina e la tripsina sono proteasi e non hanno alcun ruolo nella digestione dei lipidi.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q038",
+      "q": "Qual è il ruolo principale dei sali biliari nella digestione dei lipidi?",
+      "choices": [
+        "Idrolizzare i trigliceridi in acidi grassi",
+        "Trasportare i lipidi nel plasma come lipoproteine",
+        "Neutralizzare l'acidità gastrica del chimo",
+        "Emulsionare i trigliceridi in gocce fini",
+        "Sintetizzare nuovi trigliceridi nel lume intestinale"
+      ],
+      "answer": 3,
+      "explain": "I sali biliari potenziano l'emulsionamento dei trigliceridi, formando gocce di 4-60 nm che espongono una superficie molto maggiore all'azione idrolitica della lipasi. Non sono enzimi e quindi non idrolizzano direttamente i trigliceridi.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q039",
+      "q": "Quali dimensioni hanno le gocce di emulsione formate dai sali biliari?",
+      "choices": [
+        "Circa 1-2 µm",
+        "Circa 100-200 nm",
+        "Circa 4-60 nm",
+        "Circa 0,5-1 mm",
+        "Circa 5-10 µm"
+      ],
+      "answer": 2,
+      "explain": "I sali biliari formano gocce di emulsione di 4-60 nm, molto piccole e quindi dotate di un'ampia superficie complessiva. È proprio questa superficie estesa che rende più rapida l'azione idrolitica della lipasi.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q040",
+      "q": "In assenza di acidi biliari, l'idrolisi dei trigliceridi da parte della lipasi sarebbe:",
+      "choices": [
+        "Più rapida, per assenza di competizione",
+        "Completa, ma solo per i trigliceridi insaturi",
+        "Indipendente dalla superficie disponibile",
+        "Spostata nello stomaco",
+        "Troppo lenta, perché manca l'emulsionamento"
+      ],
+      "answer": 4,
+      "explain": "Senza sali biliari manca l'emulsionamento che frammenta i trigliceridi in gocce fini, quindi la lipasi dispone di poca superficie e l'idrolisi procede troppo lentamente. I sali biliari non competono con l'enzima, per cui la loro assenza non può accelerare la reazione.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q041",
+      "q": "Quale funzione svolgono la lipasi linguale e quella gastrica prima della digestione intestinale?",
+      "choices": [
+        "Idrolizzano parte dei trigliceridi in NEFA",
+        "Trasportano i lipidi nel sangue legati all'albumina",
+        "Sintetizzano i sali biliari nel fegato",
+        "Neutralizzano il pH gastrico del chimo",
+        "Convertono gli acidi grassi in glucosio"
+      ],
+      "answer": 0,
+      "explain": "La lipasi linguale e quella gastrica idrolizzano una parte dei trigliceridi liberando NEFA, e questo favorisce l'emulsionamento dei trigliceridi che restano da digerire. Il trasporto plasmatico dei lipidi è invece affidato ad albumina e lipoproteine.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q042",
+      "q": "Confrontando trigliceridi saturi e insaturi, quali vengono digeriti e assimilati più rapidamente?",
+      "choices": [
+        "I trigliceridi saturi",
+        "Vengono digeriti alla stessa velocità",
+        "Nessuno dei due viene digerito dalle lipasi",
+        "I trigliceridi insaturi",
+        "Solo i trigliceridi a catena molto lunga"
+      ],
+      "answer": 3,
+      "explain": "I trigliceridi insaturi sono digeriti ed assimilati più rapidamente di quelli saturi, per la loro maggiore fluidità che ne facilita l'emulsionamento. Non si tratta quindi di una velocità identica per le due classi.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q043",
+      "q": "Perché l'aumento della superficie esposta accelera l'idrolisi dei trigliceridi?",
+      "choices": [
+        "Perché i sali biliari diventano enzimi attivi",
+        "Perché la lipasi dispone di più siti di attacco",
+        "Perché la lipasi cambia la sua specificità",
+        "Perché i trigliceridi diventano solubili in acqua",
+        "Perché aumenta la temperatura del contenuto intestinale"
+      ],
+      "answer": 1,
+      "explain": "L'emulsionamento frammenta i lipidi in gocce fini, aumentando la superficie sulla quale la lipasi può agire e quindi la velocità dell'idrolisi. I sali biliari non diventano enzimi: restano emulsionanti e facilitano soltanto l'incontro tra enzima e substrato.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q044",
+      "q": "Per quale motivo, in carenza di sali biliari, le vitamine liposolubili possono andare perdute con le feci?",
+      "choices": [
+        "Perché vengono degradate dalla lipasi pancreatica",
+        "Perché sono idrosolubili e non vengono assorbite",
+        "Perché la loro solubilizzazione nelle micelle è insufficiente",
+        "Perché vengono convertite in acidi biliari",
+        "Perché l'albumina le trattiene nel lume intestinale"
+      ],
+      "answer": 2,
+      "explain": "Le vitamine liposolubili necessitano di un'adeguata emulsione e di micelle per essere solubilizzate e assorbite; senza sali biliari questa fase è insufficiente e le vitamine si perdono con le feci. Esse non sono idrosolubili, quindi la motivazione legata alla loro idrosolubilità è errata.",
+      "slide": 10
+    },
+    {
+      "id": "d03-b01-q045",
+      "q": "Qual è il tratto intestinale in cui i lipidi arrivano e inizia la loro digestione?",
+      "choices": [
+        "Il digiuno",
+        "L'ileo",
+        "Il colon",
+        "Il cieco",
+        "Il duodeno"
+      ],
+      "answer": 4,
+      "explain": "I lipidi arrivano nel duodeno, il primo tratto dell'intestino tenue, dove inizia la loro digestione grazie ad acidi biliari e lipasi pancreatica. Digiuno e ileo sono tratti più distali dell'intestino tenue, mentre il colon appartiene all'intestino crasso.",
+      "slide": 11
+    },
+    {
+      "id": "d03-b01-q046",
+      "q": "Qual è la sequenza corretta della digestione dei lipidi nell'intestino?",
+      "choices": [
+        "Idrolisi da parte della lipasi pancreatica, poi emulsionamento",
+        "Emulsionamento con sali biliari, poi idrolisi pancreatica",
+        "Assorbimento diretto dei trigliceridi intatti, poi idrolisi",
+        "Azione dei sali biliari senza intervento di enzimi",
+        "Idrolisi gastrica completa, poi semplice assorbimento"
+      ],
+      "answer": 1,
+      "explain": "Nell'intestino i lipidi sono prima emulsionati dai sali biliari e poi degradati dalla lipasi pancreatica: l'ordine è essenziale perché l'emulsione crea la superficie su cui l'enzima agisce. Invertire i due passaggi non è corretto, perché la lipasi ha bisogno dei trigliceridi già emulsionati.",
+      "slide": 14
+    },
+    {
+      "id": "d03-b01-q047",
+      "q": "Nel sangue, i lipidi sono trasportati:",
+      "choices": [
+        "In soluzione libera nel plasma acquoso",
+        "Legati all'emoglobina dei globuli rossi",
+        "Legati a proteine, come lipoproteine",
+        "Dentro le micelle dei sali biliari",
+        "Come trigliceridi cristallizzati"
+      ],
+      "answer": 2,
+      "explain": "Nel sangue i lipidi sono trasportati legati a proteine, formando le lipoproteine, perché sono scarsamente solubili in ambiente acquoso. La forma libera in soluzione non è possibile proprio per la loro natura idrofobica.",
+      "slide": 14
+    },
+    {
+      "id": "d03-b01-q048",
+      "q": "Quale funzione svolgono le lipoproteine plasmatiche?",
+      "choices": [
+        "Trasportare i lipidi nel torrente circolatorio",
+        "Emulsionare i grassi nel lume intestinale",
+        "Idrolizzare i trigliceridi nel sangue",
+        "Sintetizzare gli acidi biliari",
+        "Legare l'ossigeno per il trasporto tissutale"
+      ],
+      "answer": 0,
+      "explain": "Le lipoproteine trasportano i lipidi nel sangue, rendendo possibile la loro distribuzione ai tessuti nonostante l'insolubilità in acqua. L'emulsionamento intestinale è invece opera dei sali biliari e non delle lipoproteine.",
+      "slide": 14
+    },
+    {
+      "id": "d03-b01-q049",
+      "q": "Perché nel sangue i lipidi necessitano di lipoproteine?",
+      "choices": [
+        "Perché sono troppo grandi per diffondere",
+        "Perché vengono ossidati nel plasma",
+        "Perché devono essere convertiti in glucosio",
+        "Perché sono scarsamente solubili in acqua",
+        "Perché altrimenti verrebbero escreti con l'urina"
+      ],
+      "answer": 3,
+      "explain": "I lipidi sono scarsamente solubili in acqua e quindi non possono circolare liberi nel plasma: le lipoproteine li avvolgono e li rendono trasportabili. Il problema non è la dimensione molecolare, ma la loro idrofobicità.",
+      "slide": 14
+    },
+    {
+      "id": "d03-b01-q050",
+      "q": "Se la secrezione degli acidi biliari è ridotta, la digestione dei trigliceridi intestinali risulta:",
+      "choices": [
+        "Più rapida perché aumenta l'azione della lipasi",
+        "Invariata, perché la lipasi basta da sola",
+        "Completa, ma con assorbimento ritardato",
+        "Spostata nello stomaco",
+        "Rallentata per insufficienza dell'emulsionamento"
+      ],
+      "answer": 4,
+      "explain": "Gli acidi biliari sono indispensabili per emulsionare i trigliceridi e, se la loro secrezione diminuisce, l'emulsionamento è insufficiente e la digestione rallenta. La lipasi pancreatica da sola non è in grado di compensare, perché senza emulsione la superficie di attacco resta limitata.",
+      "slide": 14
+    }
+  ]
+}

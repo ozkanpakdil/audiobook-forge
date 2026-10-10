@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 5,
+  "topic": "Catabolismo degli acidi grassi e beta-ossidazione",
+  "questions": [
+    {
+      "id": "d03-b05-q001",
+      "q": "In quale compartimento cellulare avviene la β-ossidazione degli acidi grassi?",
+      "choices": [
+        "Nel mitocondrio",
+        "Nel reticolo endoplasmatico liscio",
+        "Nel citosol",
+        "Nel nucleo",
+        "Nei lisosomi"
+      ],
+      "answer": 0,
+      "explain": "La β-ossidazione è localizzata nel mitocondrio, dove la matrice contiene tutti gli enzimi del ciclo. Il citosol ospita invece la sintesi degli acidi grassi, che è un processo distinto e separato proprio per evitare un ciclo futile.",
+      "slide": 43
+    },
+    {
+      "id": "d03-b05-q002",
+      "q": "Che cosa indica il termine catabolismo degli acidi grassi?",
+      "choices": [
+        "La sintesi di trigliceridi a partire da acetil-CoA",
+        "La degradazione ossidativa degli acidi grassi con produzione di energia",
+        "La conversione degli acidi grassi in carboidrati nel fegato",
+        "Il trasporto degli acidi grassi nel sangue legati all'albumina",
+        "L'esterificazione degli acidi grassi con il glicerolo"
+      ],
+      "answer": 1,
+      "explain": "Il catabolismo degli acidi grassi è la via degradativa che ossida le catene carboniose fino ad acetil-CoA, conservando energia sotto forma di coenzimi ridotti. L'esterificazione con il glicerolo è il processo inverso, cioè la formazione dei trigliceridi di deposito, e appartiene all'anabolismo.",
+      "slide": 43
+    },
+    {
+      "id": "d03-b05-q003",
+      "q": "Quale condizione fisiologica stimola maggiormente la degradazione ossidativa degli acidi grassi?",
+      "choices": [
+        "L'assunzione di un pasto ricco di carboidrati",
+        "L'infusione di insulina",
+        "Il digiuno notturno prolungato",
+        "Il periodo immediatamente postprandiale",
+        "La sintesi di acidi grassi nel fegato"
+      ],
+      "answer": 2,
+      "explain": "Nel digiuno prolungato calano l'insulina e aumentano il glucagone e le catecolamine, per cui il tessuto adiposo mobilizza gli acidi grassi e i tessuti periferici li ossidano per ricavarne energia. Il pasto ricco di carboidrati e l'insulina favoriscono invece il deposito dei lipidi e frenano la degradazione ossidativa.",
+      "slide": 43
+    },
+    {
+      "id": "d03-b05-q004",
+      "q": "Quale ormone Pancreatico favorisce la traslocazione della carnitina e quindi l'ingresso degli acidi grassi nel mitocondrio?",
+      "choices": [
+        "L'insulina",
+        "L'aldosterone",
+        "La leptina",
+        "Il glucagone",
+        "La calcitonina"
+      ],
+      "answer": 3,
+      "explain": "Il glucagone attiva la traslocazione della carnitina, aumentando il trasporto degli acidi grassi nella matrice mitocondriale quando l'organismo ha bisogno di energia. L'insulina ha l'effetto opposto, cioè riduce questa traslocazione, coerentemente con la sua funzione di ormone del deposito.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q005",
+      "q": "Quale affermazione descrive correttamente il destino degli acidi grassi a catena lunga prima della β-ossidazione?",
+      "choices": [
+        "Entrano liberamente nel mitocondrio attraverso i pori della membrana esterna",
+        "Vengono idrolizzati nel citosol e poi diffondono nella matrice",
+        "Vengono legati all'albumina all'interno della cellula",
+        "Vengono convertiti in corpi chetonici nel citosol",
+        "Vengono attivati ad acil-CoA e trasferiti alla carnitina"
+      ],
+      "answer": 4,
+      "explain": "Gli acidi grassi non possono attraversare liberamente la membrana mitocondriale interna: vengono prima attivati ad acil-CoA e poi legati alla carnitina, che li trasporta nella matrice. La semplice diffusione non è possibile perché la membrana interna è impermeabile agli acil-CoA a catena lunga.",
+      "slide": 44
+    },
+    {
+      "id": "d03-b05-q006",
+      "q": "Qual è la funzione principale della carnitina nel metabolismo degli acidi grassi?",
+      "choices": [
+        "Trasportare gli acidi grassi attraverso la membrana mitocondriale interna",
+        "Ossidare direttamente gli acidi grassi nella matrice",
+        "Attivare gli acidi grassi formando il legame tioestere",
+        "Legare l'ossigeno necessario alla respirazione cellulare",
+        "Convertire l'acetil-CoA in citrato"
+      ],
+      "answer": 0,
+      "explain": "La carnitina forma con l'acido grasso attivato un'acilcarnitina che può attraversare la membrana mitocondriale interna e raggiungere la matrice, dove l'acido grasso viene ricostituito come acil-CoA. L'attivazione con il legame tioestere è compito del coenzima A, non della carnitina.",
+      "slide": 44
+    },
+    {
+      "id": "d03-b05-q007",
+      "q": "In quali quattro reazioni si articola un ciclo completo di β-ossidazione?",
+      "choices": [
+        "Idrolisi, fosforilazione, decarbossilazione e riduzione",
+        "Ossidazione, idratazione, ossidazione e rilascio di acetil-CoA",
+        "Condensazione, isomerizzazione, riduzione e idratazione",
+        "Ossidazione, decarbossilazione, idratazione e fosforilazione",
+        "Idratazione, idrolisi, ossidazione e carbossilazione"
+      ],
+      "answer": 1,
+      "explain": "Ogni ciclo di β-ossidazione comprende due ossidazioni separate da un'idratazione e si conclude con il rilascio di una molecola di acetil-CoA. Non compare alcuna decarbossilazione, perché il distacco del carbonio avviene per rottura tiolitica e non con perdita di CO2.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q008",
+      "q": "Quanti cicli di β-ossidazione sono necessari per degradare completamente l'acido palmitico, che contiene sedici atomi di carbonio?",
+      "choices": [
+        "Quindici cicli",
+        "Otto cicli",
+        "Sette cicli",
+        "Sedici cicli",
+        "Quattro cicli"
+      ],
+      "answer": 2,
+      "explain": "L'acido palmitico a sedici atomi di carbonio viene scisso in otto unità di acetil-CoA e a ogni ciclo si stacca una sola unità bicarboniosa, quindi servono sette cicli per ottenere otto acetil-CoA. Sedici cicli sarebbero corretti solo se ogni ciclo rimuovesse un singolo atomo di carbonio, cosa che non accade.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q009",
+      "q": "Da quale vitamina deriva il coenzima A, cofattore essenziale delle reazioni di acilazione del metabolismo lipidico?",
+      "choices": [
+        "Vitamina B1 (tiamina)",
+        "Vitamina B12 (cobalamina)",
+        "Vitamina B6 (piridossina)",
+        "Vitamina B5 (acido pantotenico)",
+        "Vitamina C (acido ascorbico)"
+      ],
+      "answer": 3,
+      "explain": "Il coenzima A è un derivato della vitamina B5, l'acido pantotenico, che costituisce la porzione centrale della sua molecola. La tiamina e la piridossina sono cofattori di altre reazioni, per esempio le decarbossilazioni, ma non fanno parte della struttura del coenzima A.",
+      "slide": 45
+    },
+    {
+      "id": "d03-b05-q010",
+      "q": "Quale affermazione sulla carenza di vitamina B5 nell'uomo è corretta?",
+      "choices": [
+        "È molto frequente negli adulti sani",
+        "Richiede supplementazione in tutti gli sportivi",
+        "Si osserva solo nei vegetariani",
+        "Provoca sempre anemia emolitica grave",
+        "Non è conosciuta, perché la vitamina è ampiamente diffusa negli alimenti"
+      ],
+      "answer": 4,
+      "explain": "La carenza di vitamina B5 nell'uomo non è conosciuta, perché l'acido pantotenico è ubiquitario negli alimenti e il fabbisogno giornaliero è modesto. Non esistono quindi quadri carenziali tipici paragonabili a quelli delle vitamine idrosolubili meno diffuse.",
+      "slide": 45
+    },
+    {
+      "id": "d03-b05-q011",
+      "q": "Qual è il fabbisogno giornaliero indicato di vitamina B5 nell'uomo adulto?",
+      "choices": [
+        "Circa dieci milligrammi al giorno",
+        "Circa dieci microgrammi al giorno",
+        "Circa cento milligrammi al giorno",
+        "Circa un grammo al giorno",
+        "Circa cento microgrammi al giorno"
+      ],
+      "answer": 0,
+      "explain": "Il fabbisogno di vitamina B5 è dell'ordine di dieci milligrammi al giorno, un valore molto più alto di quello delle vitamine attive in tracce come la B12. Dieci microgrammi sarebbero insufficienti, perché l'acido pantotenico partecipa a un flusso metabolico quantitativamente molto rilevante.",
+      "slide": 45
+    },
+    {
+      "id": "d03-b05-q012",
+      "q": "Quale caratteristica chimica del coenzima A gli consente di formare legami tioestere con gli acidi grassi?",
+      "choices": [
+        "La presenza di un anello aromatico",
+        "La presenza di un gruppo sulfidrilico reattivo",
+        "La presenza di uno ione metallico coordinato",
+        "La presenza di un gruppo fosfato in posizione terminale",
+        "La presenza di una catena isoprenoide"
+      ],
+      "answer": 1,
+      "explain": "Il coenzima A possiede un gruppo sulfidrilico che, reagendo con il carbossile dell'acido grasso, forma un legame tioestere ad alta energia. Il gruppo fosfato e la porzione nucleotidica servono a rendere solubile e riconoscibile la molecola, ma non sono il sito di legame dell'acil catena.",
+      "slide": 45
+    },
+    {
+      "id": "d03-b05-q013",
+      "q": "Qual è la funzione dell'acetil-CoA prodotto dalla β-ossidazione degli acidi grassi?",
+      "choices": [
+        "Viene riconvertito in glucosio nel fegato",
+        "Viene immagazzinato nel tessuto adiposo come trigliceride",
+        "Entra nel ciclo di Krebs per essere ossidato a CO2 producendo energia",
+        "Viene escreto per via renale",
+        "Viene utilizzato per sintetizzare l'emoglobina"
+      ],
+      "answer": 2,
+      "explain": "L'acetil-CoA formato nella matrice viene ossidato nel ciclo di Krebs a CO2, generando coenzimi ridotti che alimentano la fosforilazione ossidativa. La conversione in glucosio non è possibile nell'uomo, perché l'acetil-CoA non può essere usato come precursore netto per la gluconeogenesi.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q014",
+      "q": "A quale classe di molecole appartiene la carnitina?",
+      "choices": [
+        "A un nucleotide ciclico",
+        "A un derivato steroideo",
+        "A un monosaccaride fosforilato",
+        "A un derivato aminoacidico",
+        "A un acido grasso a catena ramificata"
+      ],
+      "answer": 3,
+      "explain": "La carnitina è un derivato aminoacidico, sintetizzato a partire da aminoacidi e dotato di un gruppo ammonico quaternario che le consente di legare gli acili. Non è un derivato del colesterolo, quindi non condivide né struttura né funzioni con gli steroidi.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q015",
+      "q": "In quali organi viene sintetizzata la carnitina?",
+      "choices": [
+        "Nel muscolo scheletrico e nel cuore",
+        "Nel midollo osseo e nella milza",
+        "Nel pancreas e nella tiroide",
+        "Nel polmone e nella cute",
+        "Nel fegato e nel rene"
+      ],
+      "answer": 4,
+      "explain": "La carnitina è sintetizzata a livello epatico e renale, mentre il muscolo scheletrico la assume dal plasma perché non è in grado di produrne in quantità adeguate. Il muscolo è un grande consumatore di carnitina, ma non è la sede principale della sua sintesi.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q016",
+      "q": "Quale quadro clinico si osserva in un deficit di carnitina?",
+      "choices": [
+        "Crampi muscolari, astenia profonda e possibile morte",
+        "Iperglicemia persistente con glicosuria",
+        "Ittero con bilirubina coniugata elevata",
+        "Anemia sideropenica con microcitosi",
+        "Ipotensione arteriosa con iponatriemia"
+      ],
+      "answer": 0,
+      "explain": "Il deficit di carnitina impedisce il trasporto degli acidi grassi nel mitocondrio e si manifesta con crampi muscolari, astenia profonda e, nei casi gravi, morte. L'iperglicemia non è tipica, perché il difetto riguarda il catabolismo lipidico e non la secrezione o l'azione dell'insulina.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q017",
+      "q": "Quale condizione esacerba tipicamente i sintomi di un deficit di carnitina?",
+      "choices": [
+        "Il riposo prolungato a letto",
+        "Lo sforzo muscolare e il digiuno",
+        "L'abbondanza di carboidrati nella dieta",
+        "L'assunzione di una dieta ricca di grassi a catena corta",
+        "L'iperventilazione volontaria"
+      ],
+      "answer": 1,
+      "explain": "I sintomi del deficit di carnitina peggiorano con lo sforzo muscolare e con il digiuno, cioè nelle condizioni in cui il muscolo dipende maggiormente dall'ossidazione degli acidi grassi. Il riposo e una dieta ricca di carboidrati riducono invece la richiesta di ossidazione lipidica e attenuano la sintomatologia.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q018",
+      "q": "Quale processo metabolico risulta compromesso quando il trasporto della carnitina è difettoso?",
+      "choices": [
+        "La glicolisi anaerobia nel citosol",
+        "Il trasporto dell'ossigeno da parte dell'emoglobina",
+        "L'ossidazione mitocondriale degli acidi grassi a catena lunga",
+        "La sintesi proteica sui ribosomi",
+        "Il riassorbimento renale del glucosio"
+      ],
+      "answer": 2,
+      "explain": "Se la carnitina non funziona, gli acidi grassi a catena lunga non raggiungono la matrice mitocondriale e la loro ossidazione si arresta, con deficit energetico soprattutto nel muscolo. La glicolisi citosolica non dipende dalla carnitina e resta quindi attiva.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q019",
+      "q": "Qual è l'effetto dell'insulina sulla traslocazione della carnitina?",
+      "choices": [
+        "La aumenta in modo marcato",
+        "La blocca in modo irreversibile",
+        "Non ha alcun effetto",
+        "La diminuisce",
+        "La aumenta solo nel digiuno"
+      ],
+      "answer": 3,
+      "explain": "L'insulina diminuisce la traslocazione della carnitina, coerentemente con il suo ruolo di ormone che promuove il deposito e riduce l'ossidazione dei lipidi. Il glucagone agisce in senso opposto e rappresenta quindi il segnale che attiva il trasporto quando serve energia.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q020",
+      "q": "Quale delle seguenti non è una delle quattro reazioni della β-ossidazione?",
+      "choices": [
+        "Una reazione di idratazione",
+        "Un rilascio tiolitico di acetil-CoA",
+        "Una reazione di ossidazione con formazione di un doppio legame",
+        "Una reazione di ossidazione con formazione di un chetone",
+        "Una reazione di carbossilazione"
+      ],
+      "answer": 4,
+      "explain": "Il ciclo della β-ossidazione comprende ossidazione, idratazione, una seconda ossidazione e il rilascio tiolitico di acetil-CoA, senza alcuna carbossilazione. L'aggiunta di CO2 è tipica di altre vie, come la sintesi degli acidi grassi, che infatti consuma bicarbonato.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q021",
+      "q": "Quale prodotto si forma nella quarta reazione del ciclo di β-ossidazione?",
+      "choices": [
+        "Una molecola di acetil-CoA e un acil-CoA accorciato di due atomi di carbonio",
+        "Una molecola di ossigeno molecolare",
+        "Una molecola di glucosio-6-fosfato",
+        "Una molecola di urea",
+        "Una molecola di acido urico"
+      ],
+      "answer": 0,
+      "explain": "La quarta reazione è una rottura tiolitica operata dal coenzima A, che libera acetil-CoA e lascia un acil-CoA più corto di due atomi di carbonio. Non si produce ossigeno molecolare: l'ossigeno consumato nel processo è quello utilizzato dalla catena respiratoria.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q022",
+      "q": "Quale coenzima ridotto si genera nella seconda ossidazione del ciclo di β-ossidazione?",
+      "choices": [
+        "FADH2",
+        "NADH",
+        "NADPH",
+        "ATP",
+        "Acetil-CoA"
+      ],
+      "answer": 1,
+      "explain": "La seconda ossidazione, che converte il gruppo ossidrilico in un chetone, trasferisce elettroni al NAD+ generando NADH. Il FADH2 deriva invece dalla prima ossidazione, quella che introduce il doppio legame nella catena.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q023",
+      "q": "Quale reazione del ciclo di β-ossidazione produce FADH2?",
+      "choices": [
+        "L'idratazione dell'enoyl-CoA",
+        "Il rilascio di acetil-CoA",
+        "La prima ossidazione dell'acil-CoA a enoyl-CoA",
+        "La seconda ossidazione dell'idrossiacil-CoA",
+        "La condensazione con l'ossalacetato"
+      ],
+      "answer": 2,
+      "explain": "La prima ossidazione, catalizzata dall'acil-CoA deidrogenasi, introduce un doppio legame tra il carbonio alfa e il carbonio beta e cede gli elettroni al FAD, formando FADH2. L'idratazione e la rottura tiolitica non sono reazioni redox e non generano coenzimi ridotti.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q024",
+      "q": "In quale posizione della catena avviene l'ossidazione che dà il nome al processo di β-ossidazione?",
+      "choices": [
+        "Sul carbonio carbossilico terminale",
+        "Sul carbonio alfa, cioè il secondo a partire dal carbossile",
+        "Sull'ultimo carbonio metilico della catena",
+        "Sul carbonio beta, cioè il terzo a partire dal carbossile",
+        "Sul carbonio del gruppo metilico ramificato"
+      ],
+      "answer": 3,
+      "explain": "Il nome β-ossidazione deriva dal fatto che l'ossidazione avviene sul carbonio beta, il terzo della catena a partire dal gruppo carbossilico. Il carbonio alfa è quello che porta il gruppo carbossilico e non è il sito dell'ossidazione caratteristica del ciclo.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q025",
+      "q": "Quale enzima catalizza l'idratazione del doppio legame durante la β-ossidazione?",
+      "choices": [
+        "L'acil-CoA deidrogenasi",
+        "La tiolasi",
+        "L'esochinasi",
+        "La piruvato chinasi",
+        "L'enoyl-CoA idratasi"
+      ],
+      "answer": 4,
+      "explain": "L'enoyl-CoA idratasi aggiunge una molecola d'acqua al doppio legame formato dalla prima ossidazione, generando un idrossiacil-CoA. L'acil-CoA deidrogenasi opera la prima ossidazione e la tiolasi opera la rottura finale, quindi non catalizzano l'idratazione.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q026",
+      "q": "Quale enzima catalizza la reazione finale di rilascio dell'acetil-CoA nella β-ossidazione?",
+      "choices": [
+        "La β-chetoacil-CoA tiolasi",
+        "L'enoyl-CoA idratasi",
+        "L'acil-CoA deidrogenasi",
+        "La citrato sintasi",
+        "La carnitina aciltransferasi"
+      ],
+      "answer": 0,
+      "explain": "La β-chetoacil-CoA tiolasi scinde il legame carbonio-carbonio con l'intervento del coenzima A, liberando acetil-CoA e accorciando la catena di due atomi di carbonio. La citrato sintasi appartiene al ciclo di Krebs e non partecipa al ciclo della β-ossidazione.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q027",
+      "q": "Quali prodotti si ottengono da un singolo ciclo completo di β-ossidazione?",
+      "choices": [
+        "Due acetil-CoA, un FADH2 e un NADH",
+        "Un acetil-CoA, un FADH2 e un NADH",
+        "Un acetil-CoA, due FADH2 e due NADH",
+        "Un acetil-CoA e una molecola di ATP",
+        "Due acetil-CoA e due molecole di ATP"
+      ],
+      "answer": 1,
+      "explain": "Ogni ciclo rimuove una sola unità bicarboniosa sotto forma di acetil-CoA e genera un FADH2 e un NADH dalle due ossidazioni. La produzione di energia sotto forma di ATP avviene a valle, nella catena respiratoria, e non direttamente nel ciclo.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q028",
+      "q": "Quale coppia di coenzimi ridotti viene prodotta in ciascun ciclo di β-ossidazione?",
+      "choices": [
+        "NADPH e FAD",
+        "ATP e GTP",
+        "FADH2 e NADH",
+        "NADH e NADPH",
+        "FADH2 e ATP"
+      ],
+      "answer": 2,
+      "explain": "Le due reazioni di ossidazione del ciclo trasferiscono elettroni rispettivamente al FAD e al NAD+, producendo FADH2 e NADH. Il NADPH è invece tipico delle vie biosintetiche riduttive, come la sintesi degli acidi grassi.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q029",
+      "q": "Quante molecole di NADH e di FADH2 produce complessivamente la sola β-ossidazione dell'acido palmitico, prima dell'ingresso degli acetil-CoA nel ciclo di Krebs?",
+      "choices": [
+        "Sette NADH e sette FADH2",
+        "Otto NADH e otto FADH2",
+        "Quattordici NADH e quattordici FADH2",
+        "Sei NADH e sei FADH2",
+        "Quindici NADH e quindici FADH2"
+      ],
+      "answer": 0,
+      "explain": "La β-ossidazione del palmitato richiede sette cicli e ciascun ciclo genera un NADH e un FADH2, per un totale di sette NADH e sette FADH2. Otto sarebbe il numero degli acetil-CoA prodotti, non quello dei coenzimi ridotti della sola β-ossidazione.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q030",
+      "q": "Quale coenzima ridotto si forma nella prima ossidazione del ciclo di β-ossidazione?",
+      "choices": [
+        "NADH",
+        "Citocromo c ridotto",
+        "NADPH",
+        "Coenzima Q ridotto",
+        "FADH2"
+      ],
+      "answer": 4,
+      "explain": "La prima ossidazione è catalizzata da una deidrogenasi legata al FAD, che riceve gli elettroni formando FADH2. Il NADH compare nella seconda ossidazione, mentre il coenzima Q e il citocromo c operano nella catena respiratoria, non nel ciclo.",
+      "slide": 47
+    },
+    {
+      "id": "d03-b05-q031",
+      "q": "Quale prodotto viene liberato nella quarta reazione di un ciclo di β-ossidazione?",
+      "choices": [
+        "Una molecola di acetil-CoA",
+        "Una molecola di acetoacetato",
+        "Una molecola di piruvato",
+        "Una molecola di lattato",
+        "Una molecola di citrato"
+      ],
+      "answer": 0,
+      "explain": "La quarta reazione è la rottura tiolitica che stacca un'unità bicarboniosa sotto forma di acetil-CoA. L'acetoacetato è un corpo chetonico che si forma nel fegato a partire dall'acetil-CoA, ma non è il prodotto diretto del ciclo.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q032",
+      "q": "Quante molecole di acetil-CoA derivano dall'ossidazione completa dell'acido palmitico, formato da sedici atomi di carbonio?",
+      "choices": [
+        "Quattro molecole",
+        "Otto molecole",
+        "Sei molecole",
+        "Sette molecole",
+        "Dodici molecole"
+      ],
+      "answer": 1,
+      "explain": "Poiché ogni acetil-CoA contiene due atomi di carbonio, da una catena di sedici atomi si ottengono otto molecole di acetil-CoA. Sette è il numero dei cicli di β-ossidazione, non quello delle unità bicarboniose liberate.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q033",
+      "q": "Quali sono i prodotti comuni che rendono conto dell'energia ottenuta da ogni ciclo di β-ossidazione?",
+      "choices": [
+        "Acqua e anidride carbonica",
+        "Glucosio e glicogeno",
+        "Acetil-CoA, FADH2 e NADH",
+        "Acil-CoA, FADH2 e NADH",
+        "ATP, GTP e CTP"
+      ],
+      "answer": 2,
+      "explain": "Il ciclo produce acetil-CoA insieme a FADH2 e NADH, che sono le forme ridotte con cui l'energia viene conservata e poi trasferita alla catena respiratoria. Acqua e anidride carbonica sono i prodotti finali dell'ossidazione completa, non del singolo ciclo.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q034",
+      "q": "Complessivamente, quante molecole di coenzimi ridotti provengono dall'ossidazione completa dell'acido palmitico, considerando anche i coenzimi prodotti dal ciclo di Krebs per ogni acetil-CoA?",
+      "choices": [
+        "Dieci molecole",
+        "Sette molecole",
+        "Otto molecole",
+        "Quindici molecole",
+        "Trentadue molecole"
+      ],
+      "answer": 3,
+      "explain": "La β-ossidazione produce sette FADH2 e sette NADH, mentre i cicli di Krebs alimentati da otto acetil-CoA producono ulteriori coenzimi ridotti, per un totale complessivo di quindici molecole ridotte. Considerare solo i prodotti della β-ossidazione porterebbe a sottostimare il contributo energetico della molecola.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q035",
+      "q": "Che cosa accade all'acetil-CoA prodotto dalla β-ossidazione?",
+      "choices": [
+        "Resta nella matrice mitocondriale senza ulteriori trasformazioni",
+        "Viene trasportato nel nucleo per regolare l'espressione genica",
+        "Viene escreto nella bile",
+        "Viene convertito in glucosio nel citosol",
+        "Entra nel ciclo di Krebs, dove viene ossidato a CO2"
+      ],
+      "answer": 4,
+      "explain": "L'acetil-CoA entra nel ciclo di Krebs e viene ossidato completamente ad anidride carbonica, generando coenzimi ridotti e GTP. La conversione netta in glucosio non è possibile nell'uomo, perché il piruvato deidrogenasi catalizza una reazione irreversibile.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q036",
+      "q": "Quale percentuale dell'energia liberata dall'ossidazione dell'acido palmitico viene conservata sotto forma di ATP?",
+      "choices": [
+        "Circa il quaranta per cento",
+        "Circa l'ottanta per cento",
+        "Circa il dieci per cento",
+        "Circa il sessanta per cento",
+        "Circa il venti per cento"
+      ],
+      "answer": 0,
+      "explain": "Dei circa novemilaottocento chilojoule per mole liberati dall'ossidazione del palmitato, circa quattromila vengono conservati nei legami dell'ATP, cioè all'incirca il quaranta per cento. Il sessanta per cento è la quota di energia dissipata come calore, non quella conservata.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q037",
+      "q": "Quanta energia si libera dall'ossidazione completa di una mole di acido palmitico a anidride carbonica e acqua?",
+      "choices": [
+        "Circa quattromila chilojoule per mole",
+        "Circa novemilaottocento chilojoule per mole",
+        "Circa mille chilojoule per mole",
+        "Circa ventimila chilojoule per mole",
+        "Circa trecento chilojoule per mole"
+      ],
+      "answer": 1,
+      "explain": "L'ossidazione completa dell'acido palmitico libera circa novemilaottocento chilojoule per mole, un valore molto elevato rispetto ai carboidrati. Quattromila chilojoule per mole è la parte conservata nei legami dell'ATP, non l'energia totale liberata.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q038",
+      "q": "Quante molecole di ATP si ottengono complessivamente dall'ossidazione di un acido grasso a sedici atomi di carbonio secondo il bilancio energetico classico?",
+      "choices": [
+        "Circa trenta molecole",
+        "Circa cinquanta molecole",
+        "Circa centotrenta molecole",
+        "Circa duecento molecole",
+        "Circa settanta molecole"
+      ],
+      "answer": 2,
+      "explain": "Il bilancio energetico classico attribuisce all'ossidazione di un acido grasso a sedici atomi di carbonio un guadagno di circa centotrenta molecole di ATP. Il valore è molto superiore a quello del glucosio, perché l'acido grasso è più ridotto e produce più coenzimi ridotti per atomo di carbonio.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q039",
+      "q": "Quale valore energetico viene attribuito al legame dell'ATP nel bilancio dell'ossidazione dell'acido palmitico?",
+      "choices": [
+        "Circa cinquanta chilojoule per mole",
+        "Circa dieci chilojoule per mole",
+        "Circa cento chilojoule per mole",
+        "Circa trenta chilojoule per mole",
+        "Circa duecento chilojoule per mole"
+      ],
+      "answer": 3,
+      "explain": "Nel bilancio dell'ossidazione del palmitato si assume che l'idrolisi dell'ATP liberi circa trenta chilojoule per mole, valore usato per calcolare l'energia conservata. Dieci chilojoule per mole sottostimerebbero di molto il contenuto energetico del legame fosfoanidridico.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q040",
+      "q": "Quale tra questi è un prodotto finale dell'ossidazione completa degli acidi grassi?",
+      "choices": [
+        "L'emoglobina",
+        "Il glucosio",
+        "L'urea",
+        "L'acido urico",
+        "L'anidride carbonica"
+      ],
+      "answer": 4,
+      "explain": "L'ossidazione completa degli acidi grassi porta alla formazione di anidride carbonica e acqua, con conservazione di energia sotto forma di ATP. Il glucosio è un combustibile di partenza e non un prodotto finale del catabolismo lipidico.",
+      "slide": 49
+    },
+    {
+      "id": "d03-b05-q041",
+      "q": "Che cosa si intende con l'acronimo NEFA nel metabolismo lipidico?",
+      "choices": [
+        "Acidi grassi non esterificati",
+        "Trigliceridi a catena corta",
+        "Fosfolipidi di membrana",
+        "Corpi chetonici circolanti",
+        "Esteri del colesterolo"
+      ],
+      "answer": 0,
+      "explain": "NEFA indica gli acidi grassi non esterificati, cioè gli acidi grassi liberi trasportati nel plasma legati all'albumina. I trigliceridi sono la forma di deposito e non circolano liberi nel sangue in quantità rilevanti.",
+      "slide": 50
+    },
+    {
+      "id": "d03-b05-q042",
+      "q": "Durante un esercizio aerobio prolungato, quale quota del consumo di ossigeno del muscolo è attribuibile all'ossidazione degli acidi grassi non esterificati?",
+      "choices": [
+        "Circa il dieci per cento",
+        "Circa il sessanta per cento",
+        "Circa il trenta per cento",
+        "Circa il novanta per cento",
+        "Circa il cinque per cento"
+      ],
+      "answer": 1,
+      "explain": "Nell'esercizio aerobio prolungato l'ossidazione degli acidi grassi non esterificati rende conto di circa il sessanta per cento del consumo di ossigeno del muscolo, segno del passaggio dai carboidrati ai lipidi come principale combustibile. Il dieci per cento è una quota troppo bassa, tipica piuttosto delle fasi iniziali e intense dell'esercizio.",
+      "slide": 50
+    },
+    {
+      "id": "d03-b05-q043",
+      "q": "Quale condizione aumenta il contributo degli acidi grassi alla produzione di energia nel muscolo durante l'attività fisica?",
+      "choices": [
+        "Un esercizio anaerobio lattacido intenso",
+        "Uno scatto massimale di pochi secondi",
+        "Un esercizio aerobio di lunga durata",
+        "Il riposo completo dopo un pasto abbondante",
+        "L'assunzione di una bevanda zuccherata durante lo sforzo"
+      ],
+      "answer": 2,
+      "explain": "Nell'esercizio aerobio prolungato l'ossidazione degli acidi grassi diventa la principale fonte energetica del muscolo, perché l'apporto di ossigeno è adeguato e i depositi lipidici sono abbondanti. Negli sforzi brevi e intensi prevale invece la glicolisi anaerobia, che non richiede ossigeno.",
+      "slide": 50
+    },
+    {
+      "id": "d03-b05-q044",
+      "q": "Da dove provengono gli acidi grassi utilizzati dal muscolo durante un esercizio prolungato?",
+      "choices": [
+        "Esclusivamente dalla dieta assunta durante lo sforzo",
+        "Dalla sintesi di acidi grassi nel muscolo stesso",
+        "Dalla degradazione delle proteine plasmatiche",
+        "Dal tessuto adiposo, per mobilizzazione dei trigliceridi di deposito",
+        "Dalla conversione diretta del glucosio in acidi grassi nel muscolo"
+      ],
+      "answer": 3,
+      "explain": "Durante l'esercizio prolungato il tessuto adiposo mobilizza i trigliceridi di deposito e libera acidi grassi che raggiungono il muscolo attraverso il plasma. Il muscolo scheletrico non è una sede rilevante di sintesi di acidi grassi, attività che avviene soprattutto nel fegato e nel tessuto adiposo.",
+      "slide": 50
+    },
+    {
+      "id": "d03-b05-q045",
+      "q": "Perché la carnitina è indispensabile nel muscolo scheletrico?",
+      "choices": [
+        "Perché è il principale substrato della glicolisi anaerobia",
+        "Perché costituisce una riserva di fosfato ad alta energia",
+        "Perché trasporta l'ossigeno all'interno delle fibre muscolari",
+        "Perché neutralizza l'acido lattico prodotto durante lo sforzo",
+        "Perché consente agli acidi grassi di entrare nel mitocondrio ed essere ossidati"
+      ],
+      "answer": 4,
+      "explain": "La carnitina permette agli acidi grassi attivati di attraversare la membrana mitocondriale interna e di raggiungere la matrice, dove vengono ossidati per produrre energia. La carnitina non è una riserva di fosfato e non ha alcun ruolo nel trasporto dell'ossigeno, che dipende dall'emoglobina e dalla mioglobina.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q046",
+      "q": "In quale sede cellulare gli acetil-CoA derivati dalla β-ossidazione vengono ossidati a anidride carbonica?",
+      "choices": [
+        "Nella matrice mitocondriale",
+        "Nel citosol",
+        "Nel reticolo endoplasmatico",
+        "Nello spazio intermembrana",
+        "Nel nucleo"
+      ],
+      "answer": 0,
+      "explain": "Gli acetil-CoA prodotti dalla β-ossidazione restano nella matrice mitocondriale, dove il ciclo di Krebs li ossida completamente ad anidride carbonica. Il citosol ospita la glicolisi e la sintesi degli acidi grassi, non l'ossidazione finale dell'acetil-CoA.",
+      "slide": 48
+    },
+    {
+      "id": "d03-b05-q047",
+      "q": "Quale situazione fisiologica favorisce la mobilizzazione degli acidi grassi dal tessuto adiposo verso i tessuti che li ossidano?",
+      "choices": [
+        "L'aumento dell'insulina plasmatica",
+        "L'aumento del glucagone e delle catecolamine",
+        "L'aumento della glicemia dopo un pasto",
+        "La riduzione del fabbisogno energetico dell'organismo",
+        "L'aumento della sintesi di trigliceridi nel fegato"
+      ],
+      "answer": 1,
+      "explain": "Glucagone e catecolamine attivano la lipolisi del tessuto adiposo e favoriscono l'ossidazione degli acidi grassi nei tessuti periferici quando l'organismo richiede energia. L'aumento dell'insulina dopo un pasto ha l'effetto contrario, perché promuove il deposito dei lipidi.",
+      "slide": 50
+    },
+    {
+      "id": "d03-b05-q048",
+      "q": "In un soggetto con deficit di carnitina, quale adattamento metabolico ci si attende durante il digiuno?",
+      "choices": [
+        "Un maggiore utilizzo muscolare degli acidi grassi",
+        "Un aumento della produzione epatica di corpi chetonici",
+        "Un maggiore utilizzo muscolare del glucosio, con rischio di ipoglicemia da sforzo",
+        "Un aumento della sintesi di trigliceridi nel muscolo",
+        "Una riduzione del consumo di ossigeno a riposo"
+      ],
+      "answer": 2,
+      "explain": "Se gli acidi grassi non possono entrare nel mitocondrio, il muscolo deve dipendere dal glucosio, con consumo accelerato delle riserve e rischio di ipoglicemia durante lo sforzo o il digiuno. Un maggiore utilizzo degli acidi grassi è impossibile proprio perché il difetto blocca il loro trasporto.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q049",
+      "q": "Quale processo rimane attivo nel muscolo anche quando l'ossidazione degli acidi grassi è ridotta per un difetto della carnitina?",
+      "choices": [
+        "La β-ossidazione degli acidi grassi a catena lunga",
+        "La formazione di acilcarnitina nella membrana interna",
+        "Il trasporto degli acil-CoA nella matrice mitocondriale",
+        "La glicolisi con produzione di piruvato e lattato",
+        "L'ossidazione mitocondriale degli acidi grassi a catena lunga"
+      ],
+      "answer": 3,
+      "explain": "La glicolisi avviene nel citosol e non richiede la carnitina, quindi resta attiva e può sostenere la produzione di energia, con accumulo di piruvato e lattato. Tutti i passaggi che dipendono dal trasporto mitocondriale degli acil-CoA risultano invece compromessi.",
+      "slide": 46
+    },
+    {
+      "id": "d03-b05-q050",
+      "q": "Quale effetto ha il digiuno prolungato sul sistema della carnitina nel muscolo?",
+      "choices": [
+        "Riduce la traslocazione della carnitina",
+        "Non modifica la traslocazione della carnitina",
+        "Trasforma la carnitina in acetil-CoA",
+        "Blocca in modo irreversibile la carnitina aciltransferasi",
+        "Aumenta la traslocazione della carnitina"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno cala l'insulina e aumenta il glucagone, che attiva la traslocazione della carnitina e quindi l'ingresso degli acidi grassi nel mitocondrio. La riduzione della traslocazione si osserva invece quando prevale l'insulina, cioè nella condizione postprandiale.",
+      "slide": 46
+    }
+  ]
+}

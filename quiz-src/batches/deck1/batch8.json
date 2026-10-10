@@ -1,0 +1,707 @@
+{
+  "deck": 1,
+  "batch": 8,
+  "topic": "Biochimica metabolica: sintesi e collegamenti del corso",
+  "questions": [
+    {
+      "id": "d01-b08-q001",
+      "q": "Che cosa caratterizza la famiglia delle globine?",
+      "choices": [
+        "Sono proteine che legano l'ossigeno e condividono strutture primaria e terziaria simili",
+        "Sono enzimi che idrolizzano i trigliceridi del plasma",
+        "Sono proteine strutturali della matrice extracellulare",
+        "Sono trasportatori di elettroni della catena respiratoria",
+        "Sono anticorpi prodotti dai linfociti B nel corso delle infezioni batteriche e delle reazioni allergiche"
+      ],
+      "answer": 0,
+      "explain": "Le globine costituiscono una famiglia di proteine che legano l'ossigeno e condividono strutture primaria e terziaria simili, pur svolgendo ruoli diversi nei vari tessuti. L'opzione degli enzimi litici è sbagliata perché le globine non hanno funzione catalitica, ma di trasporto dell'ossigeno.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q002",
+      "q": "A quale gruppo dell'emoglobina si lega reversibilmente l'ossigeno?",
+      "choices": [
+        "Alla catena laterale dei residui di lisina",
+        "Al gruppo prostetico eme",
+        "Ai fosfolipidi della membrana eritrocitaria",
+        "Al 2,3-bisfosfoglicerato legato alla globina",
+        "Al gruppo carbossilico terminale della catena globinica"
+      ],
+      "answer": 1,
+      "explain": "L'ossigeno si lega reversibilmente al gruppo prostetico eme, e in particolare allo ione ferro coordinato nell'anello porfirinico. Il 2,3-bisfosfoglicerato si lega all'emoglobina in un sito diverso e ne regola l'affinità per l'ossigeno, ma non è il sito di legame dell'ossigeno.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q003",
+      "q": "Da quali componenti è formato il gruppo eme?",
+      "choices": [
+        "Da una catena polipeptidica e da uno ione magnesio",
+        "Da un nucleotide e da uno ione ferro",
+        "Da protoporfirina IX e da uno ione ferro",
+        "Da due residui di cisteina e da uno ione zinco",
+        "Da un anello sterolico e da un gruppo fosfato"
+      ],
+      "answer": 2,
+      "explain": "Il gruppo eme è formato da una protoporfirina IX, cioè un anello tetrapirrolico, con al centro uno ione ferro. Il magnesio è invece il metallo centrale della clorofilla e non dell'eme, per questo l'opzione con il magnesio è errata.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q004",
+      "q": "Perché l'ossigeno deve essere legato all'emoglobina per raggiungere i tessuti in quantità sufficiente?",
+      "choices": [
+        "Perché l'ossigeno è troppo grande per diffondere attraverso le membrane",
+        "Perché l'ossigeno reagisce con l'acqua formando acidi forti",
+        "Perché l'ossigeno viene consumato dai polmoni durante l'inspirazione",
+        "Perché l'ossigeno è poco solubile in acqua e disciolto nel plasma non basterebbe",
+        "Perché l'ossigeno non può attraversare la parete degli alveoli polmonari durante la respirazione"
+      ],
+      "answer": 3,
+      "explain": "L'ossigeno è poco solubile in acqua, quindi la quantità che può essere semplicemente disciolta nel plasma non basterebbe a rifornire i tessuti. Il legame a un trasportatore come l'emoglobina permette di aumentare molto la quota di ossigeno trasportata dal sangue.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q005",
+      "q": "Che cosa si intende per gruppo prostetico di una proteina coniugata come l'emoglobina?",
+      "choices": [
+        "Una catena di zuccheri legata alla proteina",
+        "Una sequenza di amminoacidi che forma il sito attivo",
+        "Un ponte disolfuro che stabilizza la struttura terziaria tra due residui di cisteina vicini",
+        "Un peptide segnale che indirizza la proteina",
+        "Un componente non proteico legato stabilmente alla proteina e necessario alla sua funzione"
+      ],
+      "answer": 4,
+      "explain": "Il gruppo prostetico è la porzione non proteica legata stabilmente alla proteina, come l'eme nell'emoglobina, ed è indispensabile per la sua funzione. Una sequenza amminoacidica del sito attivo fa parte della catena polipeptidica e non è quindi un gruppo prostetico.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q006",
+      "q": "Quale differenza strutturale distingue l'emoglobina dalla mioglobina?",
+      "choices": [
+        "L'emoglobina è un tetramero, mentre la mioglobina è formata da una sola catena",
+        "L'emoglobina contiene rame, mentre la mioglobina contiene ferro",
+        "L'emoglobina non contiene gruppi eme, mentre la mioglobina sì",
+        "L'emoglobina si trova nel tessuto muscolare, mentre la mioglobina nel sangue, per la maggiore affinità",
+        "L'emoglobina ha struttura fibrosa, mentre la mioglobina è globulare"
+      ],
+      "answer": 0,
+      "explain": "L'emoglobina è un tetramero formato da quattro catene globiniche, mentre la mioglobina è un monomero con una sola catena. Entrambe contengono eme e ferro, quindi l'opzione che attribuisce il rame all'emoglobina è sbagliata.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q007",
+      "q": "Perché la somiglianza della struttura terziaria tra i membri della famiglia delle globine è significativa?",
+      "choices": [
+        "Perché dimostra che tutte le globine hanno la stessa funzione enzimatica",
+        "Perché indica un'origine evolutiva comune e un ripiegamento tridimensionale conservato",
+        "Perché implica che tutte le globine legano il ferro con la stessa affinità anche in assenza del gruppo eme",
+        "Perché prova che le globine sono sintetizzate nei mitocondri",
+        "Perché significa che le globine hanno la stessa struttura primaria"
+      ],
+      "answer": 1,
+      "explain": "La conservazione della struttura terziaria tra globine diverse suggerisce un'origine evolutiva comune e un ripiegamento tridimensionale funzionalmente importante. La struttura primaria, cioè la sequenza degli amminoacidi, può invece variare molto tra i diversi membri della famiglia.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q008",
+      "q": "Quale funzione svolge la tasca idrofobica della globina che accoglie l'eme?",
+      "choices": [
+        "Idrolizza l'ossigeno molecolare in acqua",
+        "Trasporta gli elettroni alla catena respiratoria",
+        "Protegge il ferro dall'ossidazione e favorisce il legame reversibile dell'ossigeno",
+        "Fosforila la globina modificandone l'affinità",
+        "Sequestra il ferro rendendolo indisponibile quando la pressione parziale dell'ossigeno aumenta"
+      ],
+      "answer": 2,
+      "explain": "La tasca idrofobica della globina accoglie l'eme e protegge il ferro dall'ossidazione, mantenendolo nello stato ferroso necessario per legare l'ossigeno. L'eme non catalizza l'idrolisi dell'ossigeno né partecipa alla fosforilazione delle proteine.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q009",
+      "q": "Quale affermazione descrive correttamente il legame dell'ossigeno all'emoglobina?",
+      "choices": [
+        "È un legame covalente stabile che non si rompe nei tessuti",
+        "È un legame irreversibile che consuma ATP",
+        "È un legame enzimatico che ossida il ferro a ione ferrico",
+        "È un legame reversibile che consente il carico nei polmoni e lo scarico nei tessuti",
+        "È un legame ionico con i gruppi fosfato della membrana eritrocitaria"
+      ],
+      "answer": 3,
+      "explain": "Il legame dell'ossigeno all'eme è reversibile: l'emoglobina lo carica nei polmoni e lo cede nei tessuti. Un legame covalente irreversibile non permetterebbe né il carico né lo scarico dell'ossigeno, quindi quella descrizione è errata.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q010",
+      "q": "Per quale motivo il gruppo eme contiene un atomo di ferro?",
+      "choices": [
+        "Perché il ferro rende l'emoglobina solubile nel plasma",
+        "Perché il ferro catalizza l'idrolisi dell'ATP nella globina",
+        "Perché il ferro stabilizza i ponti disolfuro della globina",
+        "Perché il ferro è l'unico atomo capace di legare l'anidride carbonica trasportata dai tessuti ai polmoni",
+        "Perché gli amminoacidi della globina non sono in grado di legare direttamente l'ossigeno molecolare"
+      ],
+      "answer": 4,
+      "explain": "Gli amminoacidi della globina non sono in grado di legare direttamente l'ossigeno molecolare, per questo la proteina utilizza un gruppo prostetico contenente ferro. Il ferro non serve a rendere solubile l'emoglobina né a catalizzare reazioni all'interno della proteina.",
+      "slide": 112
+    },
+    {
+      "id": "d01-b08-q011",
+      "q": "Quale proprietà chimica del ferro gli permette di legare reversibilmente l'ossigeno?",
+      "choices": [
+        "È un metallo di transizione capace di formare legami di coordinazione",
+        "È un metallo alcalino che cede facilmente un elettrone",
+        "È un alogeno che forma legami covalenti con l'ossigeno",
+        "È un gas nobile che non reagisce con altre molecole",
+        "È un metallo che forma soltanto legami ionici con il cloro"
+      ],
+      "answer": 0,
+      "explain": "Il ferro è un metallo di transizione e può formare legami di coordinazione con l'ossigeno molecolare in modo reversibile. I metalli alcalini e i gas nobili non possiedono questa capacità di coordinazione, quindi le relative opzioni sono sbagliate.",
+      "slide": 112
+    },
+    {
+      "id": "d01-b08-q012",
+      "q": "Che cosa comporta l'ossidazione del ferro dell'eme da ione ferroso a ione ferrico?",
+      "choices": [
+        "Aumenta l'affinità dell'emoglobina per l'ossigeno",
+        "L'emoglobina perde la capacità di legare l'ossigeno",
+        "L'emoglobina acquisisce una funzione enzimatica catalitica",
+        "Il gruppo eme si stacca dalla globina e viene escreto nelle urine",
+        "L'ossigeno si lega in modo covalente e permanente"
+      ],
+      "answer": 1,
+      "explain": "Quando il ferro passa dallo stato ferroso a quello ferrico l'emoglobina perde la capacità di legare l'ossigeno e si forma metaemoglobina. L'ossidazione non aumenta l'affinità per l'ossigeno né trasforma la proteina in un enzima.",
+      "slide": 112
+    },
+    {
+      "id": "d01-b08-q013",
+      "q": "Perché l'ossigeno non può legarsi direttamente alle catene laterali degli amminoacidi di una proteina?",
+      "choices": [
+        "Perché gli amminoacidi sono troppo grandi per interagire con l'ossigeno e non possiedono gruppi reattivi",
+        "Perché gli amminoacidi sono carichi positivamente a pH fisiologico",
+        "Perché le catene laterali non offrono un centro metallico adatto a coordinare l'ossigeno",
+        "Perché l'ossigeno è un catione e viene respinto dalle catene laterali",
+        "Perché gli amminoacidi idrofobici degradano l'ossigeno molecolare"
+      ],
+      "answer": 2,
+      "explain": "Le catene laterali degli amminoacidi non offrono un centro metallico capace di coordinare l'ossigeno molecolare in modo reversibile. Per questo la natura ha selezionato un gruppo prostetico con ferro, e non un semplice sito formato da amminoacidi.",
+      "slide": 112
+    },
+    {
+      "id": "d01-b08-q014",
+      "q": "Quale insieme di funzioni svolge l'emoglobina?",
+      "choices": [
+        "Catalisi delle reazioni del ciclo di Krebs, sintesi di ATP e produzione dei coenzimi ridotti",
+        "Difesa immunitaria e coagulazione del sangue",
+        "Trasporto dei lipidi e delle vitamine liposolubili",
+        "Trasporto dell'ossigeno, azione tampone sul pH e trasporto dell'anidride carbonica",
+        "Sintesi del gruppo eme e degradazione dell'urea"
+      ],
+      "answer": 3,
+      "explain": "L'emoglobina trasporta l'ossigeno dai polmoni ai tessuti, contribuisce al tamponamento del pH ematico e trasporta l'anidride carbonica dai tessuti ai polmoni. La catalisi delle reazioni del ciclo di Krebs è invece compito di enzimi mitocondriali, non dell'emoglobina.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q015",
+      "q": "In quale direzione l'emoglobina trasporta l'ossigeno?",
+      "choices": [
+        "Dai tessuti ai polmoni",
+        "Dal fegato ai muscoli",
+        "Dai polmoni al midollo osseo",
+        "Dai tessuti al cuore",
+        "Dai polmoni ai tessuti"
+      ],
+      "answer": 4,
+      "explain": "L'emoglobina carica l'ossigeno nei polmoni, dove la pressione parziale dell'ossigeno è elevata, e lo trasporta ai tessuti. Il percorso inverso, dai tessuti ai polmoni, riguarda invece l'anidride carbonica.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q016",
+      "q": "In quale direzione l'emoglobina trasporta l'anidride carbonica?",
+      "choices": [
+        "Dai tessuti ai polmoni",
+        "Dai polmoni ai tessuti",
+        "Dal fegato all'intestino",
+        "Dai reni al sangue",
+        "Dal sangue al midollo osseo"
+      ],
+      "answer": 0,
+      "explain": "L'anidride carbonica prodotta dai tessuti viene trasportata dal sangue fino ai polmoni, dove viene eliminata con l'espirazione. L'emoglobina partecipa a questo trasporto insieme alla forma disciolta nel plasma e al bicarbonato.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q017",
+      "q": "Come contribuisce l'emoglobina a mantenere costante il pH del sangue?",
+      "choices": [
+        "Ossidando i protoni in eccesso in acqua",
+        "Legando i protoni in eccesso e rilasciandoli a livello polmonare",
+        "Trasformando i protoni in anidride carbonica",
+        "Producendo ioni bicarbonato nei tessuti periferici",
+        "Catalizzando la sintesi di acidi organici nel plasma"
+      ],
+      "answer": 1,
+      "explain": "L'emoglobina agisce come tampone legando i protoni che si formano nei tessuti e rilasciandoli poi nei polmoni. Non ossida i protoni né li trasforma in anidride carbonica, quindi le opzioni che le attribuiscono queste reazioni sono errate.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q018",
+      "q": "In quali forme viene trasportata l'anidride carbonica nel sangue?",
+      "choices": [
+        "Solo disciolta nel plasma",
+        "Solo legata al ferro dell'eme",
+        "Disciolta, legata all'emoglobina e sotto forma di bicarbonato",
+        "Esclusivamente come acido carbonico nelle urine prima di essere eliminato con la respirazione",
+        "Legata ai lipidi delle membrane eritrocitarie"
+      ],
+      "answer": 2,
+      "explain": "L'anidride carbonica viaggia nel sangue in parte disciolta, in parte legata all'emoglobina e in gran parte sotto forma di bicarbonato. Il legame al ferro dell'eme è invece riservato all'ossigeno, perché il ferro coordina l'ossigeno molecolare e non l'anidride carbonica.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q019",
+      "q": "Come varia l'affinità dell'emoglobina per l'ossigeno quando il pH diminuisce nei tessuti che consumano ossigeno?",
+      "choices": [
+        "Resta invariata perché l'eme non risente del pH",
+        "Aumenta, così l'emoglobina trattiene più ossigeno",
+        "Aumenta perché i protoni stabilizzano il gruppo eme anche quando la temperatura corporea resta normale",
+        "Diminuisce, favorendo il rilascio dell'ossigeno ai tessuti",
+        "Diminuisce, ma soltanto se la temperatura si abbassa"
+      ],
+      "answer": 3,
+      "explain": "Nei tessuti che consumano ossigeno si accumulano protoni e anidride carbonica; la diminuzione del pH riduce l'affinità dell'emoglobina per l'ossigeno e ne favorisce il rilascio. Questo comportamento è noto come effetto Bohr e non dipende da un abbassamento della temperatura.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q020",
+      "q": "Che cosa significa che il legame dell'ossigeno all'emoglobina è cooperativo?",
+      "choices": [
+        "Che ogni catena lega l'ossigeno in modo completamente indipendente dalle altre",
+        "Che l'emoglobina lega quattro molecole di anidride carbonica insieme all'ossigeno",
+        "Che il legame dell'ossigeno consuma energia sotto forma di ATP",
+        "Che il legame è irreversibile nei polmoni e reversibile nei tessuti",
+        "Che il legame di una molecola di ossigeno facilita il legame delle successive"
+      ],
+      "answer": 4,
+      "explain": "Il legame è cooperativo perché l'ossigeno che si lega a una subunità modifica la conformazione delle altre e ne aumenta l'affinità, dando alla curva di saturazione una forma sigmoide. Le quattro subunità non lavorano quindi in modo completamente indipendente.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q021",
+      "q": "Perché durante l'attività muscolare intensa l'emoglobina cede più ossigeno al muscolo?",
+      "choices": [
+        "Perché pH più basso, anidride carbonica più abbondante e temperatura più elevata riducono l'affinità per l'ossigeno",
+        "Perché nei muscoli la pressione parziale dell'ossigeno è più alta",
+        "Perché il ferro dell'eme si ossida temporaneamente e l'emoglobina rilascia tutto l'ossigeno legato ai tessuti che lo consumano",
+        "Perché l'emoglobina viene degradata durante l'esercizio fisico con perdita completa della funzione di trasporto",
+        "Perché aumenta la sintesi del gruppo eme nelle fibre muscolari"
+      ],
+      "answer": 0,
+      "explain": "Durante l'attività muscolare intensa aumentano anidride carbonica, protoni e temperatura, condizioni che riducono l'affinità dell'emoglobina per l'ossigeno e ne favoriscono il rilascio. Nei muscoli attivi la pressione parziale dell'ossigeno è più bassa, non più alta.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q022",
+      "q": "Che cosa favorisce il passaggio dell'emoglobina alla conformazione deossigenata a bassa affinità nei tessuti?",
+      "choices": [
+        "L'aumento della pressione parziale dell'ossigeno",
+        "Il legame dei protoni e dell'anidride carbonica, che stabilizza lo stato a bassa affinità",
+        "La perdita del gruppo eme dalla tasca idrofobica",
+        "La defosforilazione delle catene globiniche",
+        "La sintesi di nuove catene proteiche nei tessuti periferici"
+      ],
+      "answer": 1,
+      "explain": "Nei tessuti il legame dei protoni e dell'anidride carbonica stabilizza la conformazione deossigenata a bassa affinità, favorendo la cessione dell'ossigeno. Il gruppo eme non viene perso in questa transizione, che è una variazione conformazionale reversibile della proteina.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q023",
+      "q": "Che cosa sono gli enzimi?",
+      "choices": [
+        "Lipidi con funzione di trasporto nel plasma",
+        "Acidi nucleici con funzione catalitica",
+        "Proteine con funzione catalitica",
+        "Carboidrati con funzione di riserva energetica",
+        "Sali minerali che accelerano le reazioni chimiche"
+      ],
+      "answer": 2,
+      "explain": "Gli enzimi sono proteine con funzione catalitica, cioè accelerano le reazioni chimiche della cellula. I carboidrati e i lipidi non hanno funzione catalitica, mentre gli acidi nucleici conservano e trasmettono l'informazione genetica.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q024",
+      "q": "In che modo un enzima accelera una reazione chimica?",
+      "choices": [
+        "Aumentando la temperatura della cellula",
+        "Modificando l'equilibrio della reazione verso i prodotti",
+        "Consumando ATP a ogni ciclo catalitico",
+        "Abbassando l'energia di attivazione della reazione",
+        "Sostituendo il substrato con un prodotto più stabile"
+      ],
+      "answer": 3,
+      "explain": "Un enzima accelera una reazione abbassando l'energia di attivazione, cioè la barriera energetica che i reagenti devono superare. Non modifica la costante di equilibrio né fornisce energia sotto forma di ATP alla reazione.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q025",
+      "q": "Che cosa accade all'enzima al termine di un ciclo catalitico?",
+      "choices": [
+        "Viene degradato in amminoacidi liberi",
+        "Viene convertito nel prodotto della reazione",
+        "Viene fosforilato e perso dalla cellula",
+        "Viene escreto nelle urine in forma attiva",
+        "Rimane inalterato e può catalizzare nuovi cicli"
+      ],
+      "answer": 4,
+      "explain": "Al termine del ciclo catalitico l'enzima resta inalterato e può catalizzare nuovi cicli, perché non viene consumato dalla reazione. Per questo quantità molto piccole di enzima possono trasformare grandi quantità di substrato.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q026",
+      "q": "Perché gli enzimi sono fondamentali nel metabolismo cellulare?",
+      "choices": [
+        "Rendono possibili e regolano le reazioni metaboliche alle temperature corporee",
+        "Forniscono direttamente l'energia necessaria a superare la barriera di attivazione della reazione",
+        "Trasportano l'ossigeno dai polmoni ai tessuti",
+        "Conservano l'informazione genetica della cellula",
+        "Costituiscono la struttura delle membrane cellulari"
+      ],
+      "answer": 0,
+      "explain": "Gli enzimi rendono possibili le reazioni metaboliche alle temperature corporee, dove le reazioni non catalizzate sarebbero troppo lente, e ne regolano la velocità. Non forniscono energia alla reazione né trasportano ossigeno, compiti che spettano ad altre molecole.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q027",
+      "q": "Perché alcune attività enzimatiche del sangue sono utilizzate come marker diagnostici?",
+      "choices": [
+        "Perché tutti gli enzimi del sangue aumentano in ogni malattia",
+        "Perché la loro variazione rispetto ai valori abituali di riferimento segnala un danno d'organo",
+        "Perché gli enzimi del sangue sono identici in tutti i tessuti",
+        "Perché gli enzimi scompaiono completamente nel sangue della persona sana quando il fegato o il muscolo sono danneggiati",
+        "Perché gli enzimi sostituiscono gli esami strumentali"
+      ],
+      "answer": 1,
+      "explain": "La concentrazione di alcuni enzimi nel sangue cambia quando un tessuto è danneggiato, per esempio nel danno epatico o muscolare, e questo li rende utili come marker diagnostici. Gli enzimi del sangue non aumentano in tutte le malattie e non sono identici in tutti i tessuti.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q028",
+      "q": "Che cosa determina la specificità di un enzima per il suo substrato?",
+      "choices": [
+        "Il numero totale di amminoacidi che formano la proteina",
+        "Il peso molecolare del substrato da trasformare",
+        "La forma e le proprietà chimiche del sito attivo, complementari al substrato",
+        "La presenza obbligatoria di uno ione calcio nel citosol",
+        "La temperatura del compartimento cellulare e la presenza di specifici ioni metallici nel citosol"
+      ],
+      "answer": 2,
+      "explain": "La specificità dipende dalla forma e dalle proprietà chimiche del sito attivo, che è complementare al substrato come una serratura rispetto alla chiave. Il peso molecolare del substrato o il numero totale di amminoacidi della proteina non spiegano da soli questa selettività.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q029",
+      "q": "Quale effetto ha un enzima sull'equilibrio di una reazione?",
+      "choices": [
+        "Sposta l'equilibrio verso la formazione dei prodotti",
+        "Sposta l'equilibrio verso i reagenti di partenza",
+        "Cambia la costante di equilibrio in funzione del pH",
+        "Non modifica la costante di equilibrio, ma accelera il raggiungimento dell'equilibrio",
+        "Impedisce il raggiungimento dell'equilibrio della reazione"
+      ],
+      "answer": 3,
+      "explain": "Un enzima accelera sia la reazione diretta sia quella inversa e quindi non cambia la costante di equilibrio: fa soltanto raggiungere l'equilibrio più rapidamente. Spostare l'equilibrio verso i prodotti è invece compito di variazioni delle condizioni di reazione o della rimozione dei prodotti.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q030",
+      "q": "Che cosa si intende per cofattore enzimatico?",
+      "choices": [
+        "Una proteina che blocca irreversibilmente l'enzima",
+        "Il prodotto finale di una via metabolica",
+        "Un amminoacido essenziale introdotto con la dieta",
+        "Una molecola di DNA che regola la sintesi dell'enzima in risposta a un segnale ormonale o nutrizionale",
+        "Un componente non proteico necessario all'attività catalitica di alcuni enzimi"
+      ],
+      "answer": 4,
+      "explain": "Il cofattore è un componente non proteico, come uno ione metallico o una molecola organica, necessario all'attività di molti enzimi. Non è un inibitore irreversibile né un amminoacido essenziale della dieta, e non fa parte della sequenza proteica.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q031",
+      "q": "Perché la denaturazione di un enzima ne provoca la perdita dell'attività catalitica?",
+      "choices": [
+        "Perché la struttura tridimensionale si altera e il sito attivo perde la sua conformazione",
+        "Perché i legami peptidici si rompono e si liberano amminoacidi con perdita della struttura primaria",
+        "Perché aumenta il numero di gruppi eme legati alla proteina",
+        "Perché vengono sintetizzate nuove catene polipeptidiche",
+        "Perché la proteina diventa più solubile in acqua"
+      ],
+      "answer": 0,
+      "explain": "La denaturazione altera la struttura tridimensionale dell'enzima e quindi la conformazione del sito attivo, con perdita dell'attività catalitica. I legami peptidici della catena restano invece intatti, perché la denaturazione non è un'idrolisi della proteina.",
+      "slide": 114
+    },
+    {
+      "id": "d01-b08-q032",
+      "q": "Che cosa accade al gruppo eme quando l'emoglobina viene degradata?",
+      "choices": [
+        "Viene convertito direttamente in glucosio nel fegato",
+        "L'anello porfirinico si apre e il gruppo eme viene trasformato in bilirubina",
+        "Viene reincorporato intatto nell'emoglobina dei nuovi globuli rossi maturi",
+        "Viene escreto tal quale con le urine senza ulteriori modificazioni",
+        "Viene utilizzato per la sintesi degli acidi biliari primari insieme al colesterolo"
+      ],
+      "answer": 1,
+      "explain": "Quando i globuli rossi invecchiati vengono demoliti, il gruppo eme liberato non viene riutilizzato così com'è: l'anello porfirinico si apre, il ferro viene recuperato e riciclato e il resto della molecola è convertito in bilirubina, che raggiunge il fegato ed è eliminata con la bile. Gli acidi biliari derivano invece dal colesterolo e non dal gruppo eme. Nei globuli rossi maturi, privi di nucleo e di mitocondri, non avviene alcuna nuova sintesi di emoglobina.",
+      "slide": 111
+    },
+    {
+      "id": "d01-b08-q033",
+      "q": "Quale caratteristica definisce le vie cataboliche?",
+      "choices": [
+        "Sono riducenti e richiedono energia",
+        "Sono reazioni di sintesi di macromolecole",
+        "Sono ossidative, degradative e producono energia",
+        "Avvengono esclusivamente nel nucleo cellulare",
+        "Utilizzano NADPH come principale donatore di elettroni"
+      ],
+      "answer": 2,
+      "explain": "Le vie cataboliche sono ossidative e degradative: partono da molecole complesse e producono energia, spesso sotto forma di ATP e di coenzimi ridotti. L'uso di NADPH come donatore di elettroni è invece tipico delle vie anaboliche riducenti.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q034",
+      "q": "Quale caratteristica definisce le vie anaboliche?",
+      "choices": [
+        "Degradano i nutrienti in molecole semplici",
+        "Producono ATP ossidando il glucosio",
+        "Avvengono soltanto a livello epatico",
+        "Sono riducenti e consumano energia per costruire molecole complesse",
+        "Liberano anidride carbonica e acqua come prodotti finali"
+      ],
+      "answer": 3,
+      "explain": "Le vie anaboliche sono riducenti e consumano energia per costruire molecole complesse a partire da precursori semplici. Non liberano anidride carbonica come le vie cataboliche ossidative e non producono ATP degradando il glucosio.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q035",
+      "q": "Dove avviene la glicolisi e quale prodotto finale genera?",
+      "choices": [
+        "Nel mitocondrio e genera acetil-CoA",
+        "Nel citosol e genera etanolo in tutte le cellule umane",
+        "Nel mitocondrio e genera lattato",
+        "Nel citosol e genera anidride carbonica",
+        "Nel citosol e genera piruvato"
+      ],
+      "answer": 4,
+      "explain": "La glicolisi avviene nel citosol e trasforma una molecola di glucosio in due molecole di piruvato. L'etanolo è il prodotto della fermentazione nei lieviti, non nelle cellule umane, dove in anaerobiosi si forma invece lattato.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q036",
+      "q": "Come agisce il bisfosfoglicerato presente nei globuli rossi sull'emoglobina?",
+      "choices": [
+        "Riduce l'affinità dell'emoglobina per l'ossigeno e ne favorisce il rilascio nei tessuti",
+        "Aumenta l'affinità dell'emoglobina per l'ossigeno e ne impedisce il rilascio",
+        "Si lega al ferro dell'eme al posto dell'ossigeno e lo trasporta ai polmoni",
+        "Ossida il ferro ferroso dell'eme a ferro ferrico, formando metaemoglobina",
+        "Forma un legame covalente stabile tra l'ossigeno e la catena globinica"
+      ],
+      "answer": 0,
+      "explain": "Il bisfosfoglicerato si lega alla forma deossigenata dell'emoglobina e ne stabilizza lo stato a bassa affinità, favorendo la cessione dell'ossigeno ai tessuti. La sua concentrazione nei globuli rossi aumenta quando l'ossigeno scarseggia, per esempio in alta quota, e questo migliora lo scarico dell'ossigeno. Il ferro dell'eme resta il sito di legame dell'ossigeno, perché il bisfosfoglicerato si lega alla globina in un sito diverso.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q037",
+      "q": "Qual è il destino del piruvato in condizioni aerobiche?",
+      "choices": [
+        "Viene ridotto a lattato nel citosol",
+        "Viene ossidato ad acetil-CoA ed entra nel ciclo di Krebs",
+        "Viene convertito direttamente in urea nel fegato",
+        "Viene trasformato di nuovo in glucosio nel citosol",
+        "Viene escreto nelle urine senza ulteriori trasformazioni"
+      ],
+      "answer": 1,
+      "explain": "In condizioni aerobiche il piruvato entra nel mitocondrio, viene ossidato ad acetil-CoA e convogliato nel ciclo di Krebs. La riduzione a lattato avviene invece in condizioni anaerobiche, quando la catena respiratoria non riesce a riossidare i coenzimi ridotti.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q038",
+      "q": "Quale complesso enzimatico collega la glicolisi al ciclo di Krebs?",
+      "choices": [
+        "L'ATP sintasi mitocondriale",
+        "La fosfofruttochinasi",
+        "Il complesso della piruvato deidrogenasi",
+        "La carnitina aciltransferasi",
+        "La carbamil fosfato sintetasi che avvia il ciclo dell'urea a partire dall'ammoniaca nel fegato"
+      ],
+      "answer": 2,
+      "explain": "Il complesso della piruvato deidrogenasi ossida il piruvato ad acetil-CoA e rappresenta il collegamento tra glicolisi e ciclo di Krebs. La fosfofruttochinasi è un enzima della stessa glicolisi, mentre la carnitina aciltransferasi serve al trasporto degli acidi grassi.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q039",
+      "q": "Dove avviene il ciclo di Krebs e quale reazione lo avvia?",
+      "choices": [
+        "Nel citosol, con la formazione di glucosio-6-fosfato",
+        "Nella membrana mitocondriale esterna, con la sintesi di ATP e il consumo di ossigeno da parte della cellula",
+        "Nel citosol, con la scissione del glucosio in due triosi",
+        "Nella matrice mitocondriale, con la condensazione di acetil-CoA e ossalacetato in citrato",
+        "Nel reticolo endoplasmatico, con la sintesi degli acidi grassi"
+      ],
+      "answer": 3,
+      "explain": "Il ciclo di Krebs si svolge nella matrice mitocondriale e inizia con la condensazione dell'acetil-CoA con l'ossalacetato, che produce citrato. La scissione del glucosio in due triosi appartiene invece alla glicolisi, che avviene nel citosol.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q040",
+      "q": "Quali prodotti ad alta energia e quale gas si formano nel ciclo di Krebs?",
+      "choices": [
+        "Soltanto ATP e ossigeno molecolare",
+        "NADPH e glucosio",
+        "Lattato e anidride carbonica",
+        "Acetil-CoA e acqua",
+        "NADH, FADH2 e anidride carbonica"
+      ],
+      "answer": 4,
+      "explain": "Il ciclo di Krebs produce coenzimi ridotti, NADH e FADH2, che alimentano la catena respiratoria, e libera anidride carbonica. L'ossigeno non è un prodotto del ciclo, ma viene consumato nella catena di trasporto degli elettroni.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q041",
+      "q": "Dove avviene la fosforilazione ossidativa e quale enzima sintetizza la maggior parte dell'ATP cellulare?",
+      "choices": [
+        "Nella membrana mitocondriale interna, tramite l'ATP sintasi",
+        "Nel citosol, tramite gli enzimi della glicolisi",
+        "Nella matrice mitocondriale, tramite la piruvato deidrogenasi",
+        "Nel nucleo, tramite la RNA polimerasi",
+        "Nella membrana plasmatica, tramite la pompa sodio-potassio"
+      ],
+      "answer": 0,
+      "explain": "La fosforilazione ossidativa avviene nella membrana mitocondriale interna e la maggior parte dell'ATP cellulare è sintetizzata dall'ATP sintasi. La pompa sodio-potassio della membrana plasmatica consuma ATP e non lo produce.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q042",
+      "q": "Quale forza guida la sintesi di ATP nella fosforilazione ossidativa?",
+      "choices": [
+        "La differenza di temperatura tra matrice e citosol",
+        "Il gradiente di protoni tra spazio intermembrana e matrice mitocondriale",
+        "L'idrolisi del glucosio in piruvato",
+        "Il gradiente di calcio tra citosol e reticolo endoplasmatico",
+        "La sintesi di urea che avviene nel fegato"
+      ],
+      "answer": 1,
+      "explain": "La sintesi di ATP è guidata dal gradiente di protoni accumulati nello spazio intermembrana, che rifluiscono nella matrice attraverso l'ATP sintasi secondo la chemiosmosi. Il gradiente di calcio tra citosol e reticolo regola altri processi cellulari e non è il motore della fosforilazione ossidativa.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q043",
+      "q": "In che cosa consiste la β-ossidazione degli acidi grassi?",
+      "choices": [
+        "Nella sintesi di acidi grassi a partire da acetil-CoA",
+        "Nella conversione degli amminoacidi in glucosio",
+        "Nella degradazione degli acidi grassi in unità di acetil-CoA con produzione di NADH e FADH2",
+        "Nella degradazione del glucosio in piruvato",
+        "Nel trasporto dei lipidi nel sangue da parte dell'emoglobina presente nei globuli rossi maturi del circolo"
+      ],
+      "answer": 2,
+      "explain": "La β-ossidazione degrada gli acidi grassi rimuovendo progressivamente unità bicarboniose sotto forma di acetil-CoA e producendo NADH e FADH2. La sintesi degli acidi grassi è un processo anabolico distinto, che consuma energia e utilizza enzimi diversi.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q044",
+      "q": "Quale costo energetico comporta l'attivazione di un acido grasso prima della β-ossidazione?",
+      "choices": [
+        "Nessun costo, perché l'attivazione è spontanea e non richiede energia metabolica sotto forma di ATP",
+        "La sintesi di una molecola di ATP",
+        "Il consumo di una molecola di NADPH",
+        "Il consumo di energia equivalente a due legami ad alta energia dell'ATP",
+        "Il consumo di una molecola di GTP"
+      ],
+      "answer": 3,
+      "explain": "L'attivazione dell'acido grasso ad acil-CoA consuma ATP, che viene scisso in AMP e pirofosfato, con un costo equivalente a due legami ad alta energia. Non è quindi un processo spontaneo e non si esaurisce con il consumo di una sola molecola di GTP.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q045",
+      "q": "In quale condizione e in quale organo si formano i corpi chetonici?",
+      "choices": [
+        "Dopo un pasto ricco di carboidrati, nel muscolo scheletrico e nel tessuto adiposo durante la lipogenesi",
+        "Nel digiuno, nel rene",
+        "In ogni condizione, nel tessuto adiposo",
+        "Durante l'esercizio intenso, nei globuli rossi",
+        "Durante il digiuno prolungato, nel fegato, a partire dall'acetil-CoA"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno prolungato il fegato produce corpi chetonici a partire dall'acetil-CoA, e questi composti diventano un combustibile importante anche per il cervello. Dopo un pasto ricco di carboidrati prevale invece la sintesi e l'accumulo dei grassi, non la chetogenesi.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q046",
+      "q": "Perché il fegato è considerato l'organo centrale dell'integrazione metabolica?",
+      "choices": [
+        "Perché ospita la gluconeogenesi, il ciclo dell'urea e la chetogenesi e distribuisce combustibili agli altri tessuti",
+        "Perché produce insulina e glucagone, gli ormoni che regolano la glicemia e il destino dei nutrienti",
+        "Perché dipende esclusivamente dalla glicolisi anaerobica per il proprio fabbisogno energetico e non possiede mitocondri",
+        "Perché contiene la maggior parte della mioglobina dell'organismo e la utilizza per ossidare i grassi",
+        "Perché non utilizza gli acidi grassi e ossida soltanto il glucosio che riceve dalla circolazione"
+      ],
+      "answer": 0,
+      "explain": "Il fegato è il principale centro di smistamento del metabolismo: sintetizza glucosio con la gluconeogenesi e la glicogenolisi, detossifica l'azoto con il ciclo dell'urea, produce corpi chetonici nel digiuno e distribuisce glucosio e lipoproteine agli altri tessuti. L'insulina e il glucagone sono invece prodotti dal pancreas endocrino e non dal fegato. Il fegato utilizza anche gli acidi grassi e possiede numerosi mitocondri, quindi non dipende dalla glicolisi anaerobica.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q047",
+      "q": "Che cosa si intende per transaminazione?",
+      "choices": [
+        "La rimozione dell'azoto sotto forma di ammoniaca libera",
+        "Il trasferimento del gruppo amminico da un amminoacido a un chetoacido",
+        "La sintesi di un legame peptidico nel ribosoma",
+        "La conversione del glucosio in piruvato",
+        "Il trasporto di elettroni alla catena respiratoria"
+      ],
+      "answer": 1,
+      "explain": "La transaminazione trasferisce il gruppo amminico da un amminoacido a un chetoacido, spesso l'α-chetoglutarato, formando glutamate e liberando lo scheletro carbonioso da ossidare. La rimozione dell'azoto come ammoniaca libera è invece la deaminazione ossidativa.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q048",
+      "q": "Perché l'emoglobina fetale riesce a trasferire l'ossigeno dal sangue materno a quello del feto?",
+      "choices": [
+        "Perché contiene rame al posto del ferro nel gruppo eme",
+        "Perché ha un'affinità per l'ossigeno inferiore a quella dell'emoglobina materna",
+        "Perché ha un'affinità per l'ossigeno maggiore di quella dell'emoglobina materna",
+        "Perché lega l'ossigeno in modo covalente e irreversibile",
+        "Perché non contiene gruppi eme e lega l'ossigeno direttamente alla globina"
+      ],
+      "answer": 2,
+      "explain": "L'emoglobina fetale contiene una catena globinica diversa che le conferisce un'affinità per l'ossigeno maggiore di quella dell'emoglobina materna. A livello della placenta riesce quindi a sottrarre ossigeno al sangue materno e a cederlo al feto. L'ossigeno resta legato in modo reversibile al ferro dell'eme, perciò le opzioni che descrivono un legame irreversibile o l'assenza del gruppo eme sono errate.",
+      "slide": 113
+    },
+    {
+      "id": "d01-b08-q049",
+      "q": "Che cosa prevede il ciclo di Cori?",
+      "choices": [
+        "Il trasporto dell'ossigeno dai polmoni ai muscoli",
+        "La sintesi di urea a partire dall'ammoniaca",
+        "La conversione del glucosio in acidi grassi nel fegato",
+        "Il trasferimento del lattato dal muscolo al fegato, che lo riconverte in glucosio",
+        "Il passaggio degli amminoacidi dal fegato al muscolo"
+      ],
+      "answer": 3,
+      "explain": "Nel ciclo di Cori il lattato prodotto dal muscolo in anaerobiosi raggiunge il fegato, dove viene riconvertito in glucosio e rimandato ai muscoli. Non si tratta quindi di un semplice trasporto di ossigeno o di amminoacidi tra gli organi.",
+      "slide": 115
+    },
+    {
+      "id": "d01-b08-q050",
+      "q": "Perché il catabolismo di carboidrati, lipidi e proteine è considerato convergente?",
+      "choices": [
+        "Perché tutti e tre producono direttamente urea",
+        "Perché tutti e tre iniziano con la stessa reazione enzimatica e utilizzano gli stessi enzimi regolatori in ogni tappa",
+        "Perché tutti e tre avvengono esclusivamente nel citosol",
+        "Perché tutti e tre richiedono l'emoglobina come coenzima",
+        "Perché i loro prodotti confluiscono verso l'acetil-CoA e il ciclo di Krebs, che alimentano la catena respiratoria"
+      ],
+      "answer": 4,
+      "explain": "Carboidrati, lipidi e proteine vengono degradati attraverso vie diverse, ma i loro prodotti confluiscono verso un percorso comune: l'acetil-CoA e il ciclo di Krebs, che alimentano la catena respiratoria. Il catabolismo è perciò convergente, mentre l'anabolismo procede in senso divergente.",
+      "slide": 115
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 2,
+  "topic": "Lipoproteine plasmatiche e trasporto del colesterolo",
+  "questions": [
+    {
+      "id": "d04-b02-q001",
+      "q": "Per quale motivo i lipidi assorbiti o sintetizzati dall'organismo devono circolare nel plasma all'interno delle lipoproteine?",
+      "choices": [
+        "Perché sono praticamente insolubili in acqua e non potrebbero viaggiare liberi nel plasma",
+        "Perché sono troppo grandi per attraversare i capillari",
+        "Perché nel plasma verrebbero immediatamente degradati dagli enzimi digestivi",
+        "Perché il plasma contiene pochissima acqua",
+        "Perché devono essere riconosciuti come corpi estranei dal sistema immunitario"
+      ],
+      "answer": 0,
+      "explain": "Colesterolo, trigliceridi e fosfolipidi sono molecole apolari o anfipatiche che non si sciolgono nel plasma, che è una soluzione acquosa; le lipoproteine li racchiudono in un nucleo idrofobico e li rendono trasportabili. Le altre alternative non descrivono il problema reale, perché il plasma è ricco di acqua e i lipidi assorbiti non vengono più degradati dagli enzimi digestivi, che restano nel lume intestinale.",
+      "slide": 9
+    },
+    {
+      "id": "d04-b02-q002",
+      "q": "Quale proteina plasmatica trasferisce gli esteri del colesterolo dalle HDL alle lipoproteine ricche di trigliceridi, ricevendo in cambio trigliceridi?",
+      "choices": [
+        "La lecitina-colesterolo aciltransferasi, che esterifica il colesterolo sulle HDL",
+        "La lipoproteina lipasi, che idrolizza i trigliceridi nei capillari",
+        "La proteina di trasferimento degli esteri del colesterolo",
+        "L'acetil-CoA carbossilasi, che avvia la sintesi degli acidi grassi",
+        "L'albumina, che lega gli acidi grassi liberi del plasma"
+      ],
+      "answer": 2,
+      "explain": "La proteina di trasferimento degli esteri del colesterolo, nota anche come CETP, scambia materiale tra le classi di lipoproteine: cede esteri del colesterolo dalle HDL alle VLDL e alle LDL e ne riceve in cambio trigliceridi. La LCAT invece esterifica il colesterolo sulla superficie delle HDL, mentre la lipoproteina lipasi idrolizza i trigliceridi nei capillari e l'albumina lega gli acidi grassi liberi.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q003",
+      "q": "Quale delle seguenti molecole o particelle non appartiene alla classe delle lipoproteine plasmatiche?",
+      "choices": [
+        "Chilomicroni",
+        "VLDL",
+        "LDL",
+        "HDL",
+        "Albumina"
+      ],
+      "answer": 4,
+      "explain": "L'albumina è una proteina plasmatica che lega e trasporta gli acidi grassi liberi, ma non è una lipoproteina perché non possiede un nucleo lipidico organizzato. Chilomicroni, VLDL, LDL e HDL sono invece le classi classiche di lipoproteine, ordinate per densità crescente.",
+      "slide": 9
+    },
+    {
+      "id": "d04-b02-q004",
+      "q": "Qual è la principale funzione svolta dalle LDL?",
+      "choices": [
+        "Trasportare i trigliceridi della dieta dall'intestino ai tessuti",
+        "Portare colesterolo alle cellule che ne hanno bisogno, per esempio per costruire le membrane",
+        "Riportare al fegato il colesterolo in eccesso dei tessuti periferici",
+        "Trasferire l'ossigeno dai polmoni ai tessuti",
+        "Idrolizzare i trigliceridi nel lume intestinale"
+      ],
+      "answer": 1,
+      "explain": "Le LDL consegnano colesterolo alle cellule, che lo utilizzano soprattutto per la costruzione delle membrane e per altre necessità metaboliche. Il trasporto dei trigliceridi della dieta spetta ai chilomicroni, mentre la rimozione del colesterolo in eccesso dai tessuti è compito delle HDL.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q005",
+      "q": "Che cosa fa una cellula con il colesterolo che riceve in eccesso rispetto alle proprie necessità?",
+      "choices": [
+        "Lo ossida completamente ad acetil-CoA per ricavare energia",
+        "Lo converte direttamente in glucosio",
+        "Lo elimina come tale attraverso i canali del calcio",
+        "Lo esterifica e lo raccoglie in gocciole lipidiche nel citosol",
+        "Lo trasforma in acidi grassi liberi"
+      ],
+      "answer": 3,
+      "explain": "L'eccesso di colesterolo viene esterificato, cioè legato a un acido grasso, e accumulato in gocciole lipidiche citosoliche che fungono da deposito. Il colesterolo non può essere ossidato ad acetil-CoA né trasformato in glucosio, perché l'anello steroideo non è degradabile in queste vie metaboliche.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q006",
+      "q": "Per quale motivo il colesterolo in eccesso viene esterificato prima di essere immagazzinato?",
+      "choices": [
+        "Perché l'estere è più idrofobico e può essere accumulato senza alterare le membrane",
+        "Perché l'esterificazione lo rende idrosolubile e ne facilita l'escrezione renale",
+        "Perché l'estere può essere ossidato direttamente nei mitocondri",
+        "Perché l'esterificazione lo trasforma in un acido biliare",
+        "Perché l'estere è la forma attiva che inibisce i recettori delle LDL"
+      ],
+      "answer": 0,
+      "explain": "Legando un acido grasso il colesterolo diventa ancora più apolare e può essere stipato in gocciole lipidiche senza destabilizzare il doppio strato delle membrane. L'esterificazione non lo rende idrosolubile e non lo trasforma in acido biliare, che è invece un prodotto del catabolismo epatico del colesterolo.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q007",
+      "q": "Quale tessuto utilizza il colesterolo fornito dalle LDL come materiale di partenza per la sintesi degli ormoni steroidei?",
+      "choices": [
+        "La corteccia surrenale e le gonadi",
+        "Il midollo osseo rosso",
+        "Il cristallino",
+        "L'epidermide",
+        "Il tessuto adiposo bruno"
+      ],
+      "answer": 0,
+      "explain": "Le cellule steroidogeniche, come quelle della corteccia surrenale e delle gonadi, prelevano colesterolo anche dalle LDL e lo convertono in ormoni steroidei. Gli altri tessuti citati non producono ormoni steroidei e quindi non impiegano il colesterolo con questa finalità.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q008",
+      "q": "Che cosa accade in un macrofago della parete arteriosa che capta quantità eccessive di LDL?",
+      "choices": [
+        "Aumenta la sintesi di acidi biliari",
+        "Espelle subito tutto il colesterolo grazie ai recettori delle LDL",
+        "Trasforma il colesterolo in vitamina D",
+        "Blocca definitivamente l'endocitosi di qualunque particella",
+        "Si riempie di esteri del colesterolo e si trasforma in cellula schiumosa"
+      ],
+      "answer": 4,
+      "explain": "Il macrofago esterifica il colesterolo in eccesso e lo accumula in gocciole citoplasmatiche, assumendo l'aspetto di cellula schiumosa tipico della lesione aterosclerotica. I macrofagi non sintetizzano acidi biliari e non riescono a smaltire rapidamente tutto il colesterolo captato, perché i loro recettori delle LDL vengono regolati negativamente.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q009",
+      "q": "Che significato metabolico hanno le gocciole lipidiche citosoliche che si formano nelle cellule cariche di colesterolo?",
+      "choices": [
+        "Sono vacuoli digestivi che degradano il colesterolo",
+        "Costituiscono un deposito di colesterolo esterificato che può essere mobilizzato in seguito",
+        "Servono a trasportare ossigeno nel citoplasma",
+        "Sono la sede della sintesi delle proteine di membrana",
+        "Rappresentano un prodotto di rifiuto che non viene mai riutilizzato"
+      ],
+      "answer": 1,
+      "explain": "Le gocciole lipidiche contengono esteri del colesterolo e rappresentano una riserva intracellulare, dalla quale il colesterolo può essere liberato per idrolisi quando la cellula ne ha di nuovo bisogno. Non sono vacuoli digestivi, perché la cellula non è in grado di degradare l'anello steroideo.",
+      "slide": 10
+    },
+    {
+      "id": "d04-b02-q010",
+      "q": "Qual è la composizione approssimativa delle HDL?",
+      "choices": [
+        "Circa il 90% lipidi e il 10% proteine",
+        "Quasi esclusivamente trigliceridi con tracce di proteine",
+        "Circa il 20% lipidi e l'80% proteine",
+        "Circa il 50% lipidi e il 50% proteine",
+        "Circa il 70% carboidrati e il 30% lipidi"
+      ],
+      "answer": 3,
+      "explain": "Le HDL contengono all'incirca metà lipidi e metà proteine, una proporzione che spiega la loro densità elevata rispetto alle altre lipoproteine. Le alternative con percentuali molto diverse non corrispondono alla composizione reale e il contenuto di carboidrati nelle lipoproteine è trascurabile.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q011",
+      "q": "Quali lipidi prevalgono nella componente lipidica delle HDL?",
+      "choices": [
+        "Esteri del colesterolo e fosfolipidi, con pochi trigliceridi",
+        "Trigliceridi, con quantità minime di fosfolipidi",
+        "Acidi grassi liberi e sali biliari",
+        "Solo colesterolo libero",
+        "Sfingolipidi e cere"
+      ],
+      "answer": 0,
+      "explain": "La quota lipidica delle HDL è formata soprattutto da esteri del colesterolo e fosfolipidi, mentre i trigliceridi sono scarsi. Questo profilo è coerente con il ruolo delle HDL, che raccolgono colesterolo dalle membrane e lo trasportano, invece di distribuire trigliceridi ai tessuti.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q012",
+      "q": "Da quali strutture le HDL captano il colesterolo?",
+      "choices": [
+        "Solo dai chilomicroni presenti nel sangue",
+        "Esclusivamente dal fegato durante la secrezione biliare",
+        "Dalle membrane cellulari e dalle altre lipoproteine",
+        "Dai tessuti ossei e dalla cartilagine",
+        "Dagli eritrociti maturi, che ne sono l'unica fonte"
+      ],
+      "answer": 2,
+      "explain": "Le HDL prelevano colesterolo sia dalle membrane delle cellule sia dalle altre lipoproteine plasmatiche, funzionando come accettrici mobili di colesterolo. Le alternative che indicano un'unica fonte sono troppo restrittive e non descrivono il carattere generale di questa funzione.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q013",
+      "q": "Qual è la principale apolipoproteina strutturale delle HDL?",
+      "choices": [
+        "ApoB48",
+        "ApoC-II",
+        "ApoB100",
+        "ApoE",
+        "ApoA-I"
+      ],
+      "answer": 4,
+      "explain": "L'apoA-I è la principale apolipoproteina delle HDL e ne rappresenta il marcatore strutturale e funzionale, essendo anche l'attivatore della LCAT. L'apoB100 è invece la proteina portante delle LDL e delle VLDL, mentre l'apoB48 caratterizza i chilomicroni.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q014",
+      "q": "Da che cosa deriva l'elevata densità delle HDL rispetto alle altre lipoproteine?",
+      "choices": [
+        "Dalla presenza di un grande nucleo di trigliceridi",
+        "Dall'alto contenuto proteico e dalla scarsa componente lipidica",
+        "Dalla presenza di sali biliari sulla superficie",
+        "Dalle piccole dimensioni, che da sole determinano la densità",
+        "Dal legame stabile con l'albumina plasmatica"
+      ],
+      "answer": 1,
+      "explain": "La densità di una lipoproteina dipende dal rapporto tra proteine e lipidi: le HDL sono ricche di proteine e povere di lipidi, quindi risultano le particelle più dense. Un grande nucleo di trigliceridi riduce invece la densità, come si osserva nei chilomicroni e nelle VLDL.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q015",
+      "q": "Quale enzima, presente sulla superficie delle HDL, trasforma il colesterolo libero in estere del colesterolo?",
+      "choices": [
+        "La lipoproteina lipasi",
+        "L'acetil-CoA carbossilasi",
+        "La lipasi pancreatica",
+        "La lecitina-colesterolo aciltransferasi (LCAT)",
+        "La carnitina aciltransferasi I"
+      ],
+      "answer": 3,
+      "explain": "La LCAT, attivata dall'apoA-I, trasferisce un acido grasso dalla lecitina al colesterolo libero, formando un estere che passa nel nucleo della particella. La lipoproteina lipasi ha invece il compito di idrolizzare i trigliceridi delle lipoproteine ricche in trigliceridi, non di esterificare il colesterolo.",
+      "slide": 11
+    },
+    {
+      "id": "d04-b02-q016",
+      "q": "Da quale organo sono prodotte le VLDL e con quale scopo principale?",
+      "choices": [
+        "Dal fegato, per esportare trigliceridi in eccesso verso i tessuti",
+        "Dall'intestino, per trasportare i lipidi della dieta",
+        "Dal tessuto adiposo, per distribuire colesterolo alle membrane",
+        "Dal rene, per eliminare i trigliceridi con le urine",
+        "Dai macrofagi, per alimentare la placca aterosclerotica"
+      ],
+      "answer": 0,
+      "explain": "Le VLDL sono sintetizzate dal fegato e consentono agli epatociti di esportare i trigliceridi in eccesso, insieme a colesterolo, verso il sangue e quindi verso i tessuti. I lipidi della dieta sono invece veicolati dai chilomicroni, che hanno origine intestinale.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q017",
+      "q": "Da quali fonti derivano i trigliceridi che gli epatociti esportano con le VLDL?",
+      "choices": [
+        "Solo dal colesterolo della dieta",
+        "Solo dagli acidi biliari riciclati",
+        "Solo dalle proteine plasmatiche",
+        "Dalla lipogenesi, dagli acidi grassi liberi plasmatici e dai resti dei chilomicroni",
+        "Solo dalla degradazione delle proteine muscolari"
+      ],
+      "answer": 3,
+      "explain": "Il fegato raccoglie trigliceridi da più sorgenti: la lipogenesi a partire dal glucosio, gli acidi grassi liberi prelevati dal plasma e i resti dei chilomicroni. Indicare una sola di queste fonti è riduttivo, e il colesterolo della dieta non è un substrato per la sintesi dei trigliceridi epatici.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q018",
+      "q": "Oltre ai trigliceridi, che cos'altro trasportano le VLDL dal fegato ai tessuti?",
+      "choices": [
+        "Esclusivamente ossigeno",
+        "Colesterolo",
+        "Glucosio",
+        "Aminoacidi essenziali",
+        "Bilirubina coniugata"
+      ],
+      "answer": 1,
+      "explain": "Le VLDL esportano dal fegato sia trigliceridi sia colesterolo, contribuendo quindi anche al trasporto del colesterolo nel plasma. Glucosio, aminoacidi e bilirubina non sono trasportati dalle lipoproteine, che veicolano lipidi e possiedono una componente proteica di natura strutturale.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q019",
+      "q": "Da quali particelle derivano le LDL e le HDL nel loro rapporto metabolico?",
+      "choices": [
+        "Dai chilomicroni direttamente",
+        "Dall'albumina plasmatica",
+        "Dalle VLDL",
+        "Dai sali biliari",
+        "Dalle membrane degli eritrociti"
+      ],
+      "answer": 2,
+      "explain": "Le LDL e le HDL derivano dalle VLDL, che rappresentano quindi la particella di partenza comune di questo ramo del metabolismo lipoproteico. I chilomicroni seguono invece la via dei lipidi della dieta e non sono il precursore diretto di LDL e HDL.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q020",
+      "q": "Quale particella rappresenta lo stadio intermedio nella conversione delle VLDL in LDL?",
+      "choices": [
+        "Il chilomicrone",
+        "L'HDL nascente",
+        "Il complesso albumina-acido grasso",
+        "La micella biliare",
+        "L'IDL, cioè la VLDL rimaneggiata"
+      ],
+      "answer": 4,
+      "explain": "Quando la lipoproteina lipasi rimuove parte dei trigliceridi, la VLDL si trasforma in IDL, detta anche VLDL rimaneggiata, che può ulteriormente perdere trigliceridi e apolipoproteine fino a diventare LDL. Il chilomicrone appartiene alla via esogena e non è un intermedio della via endogena.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q021",
+      "q": "Quale enzima idrolizza i trigliceridi delle VLDL nei capillari, liberando acidi grassi per i tessuti?",
+      "choices": [
+        "La lipoproteina lipasi",
+        "La lipasi ormone-sensibile del tessuto adiposo",
+        "La LCAT",
+        "La lipasi pancreatica",
+        "L'acetil-CoA carbossilasi"
+      ],
+      "answer": 0,
+      "explain": "La lipoproteina lipasi, situata sull'endotelio dei capillari, idrolizza i trigliceridi delle VLDL e dei chilomicroni, permettendo ai tessuti di captare gli acidi grassi liberati. La lipasi ormone-sensibile agisce invece dentro l'adipocita, mobilizzando i trigliceridi depositati, e non sulle lipoproteine circolanti.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q022",
+      "q": "Quale apolipoproteina associata alle VLDL attiva la lipoproteina lipasi?",
+      "choices": [
+        "ApoA-I",
+        "ApoC-II",
+        "ApoB100",
+        "ApoB48",
+        "ApoE"
+      ],
+      "answer": 1,
+      "explain": "L'apoC-II è il cofattore che attiva la lipoproteina lipasi, consentendo l'idrolisi dei trigliceridi delle lipoproteine ricche in trigliceridi. L'apoA-I attiva invece la LCAT sulle HDL, mentre l'apoB100 svolge una funzione strutturale e di riconoscimento recettoriale.",
+      "slide": 12
+    },
+    {
+      "id": "d04-b02-q023",
+      "q": "Come variano dimensioni e densità passando dai chilomicroni alle HDL?",
+      "choices": [
+        "Le dimensioni aumentano e la densità aumenta",
+        "Le dimensioni e la densità restano costanti",
+        "Le dimensioni aumentano e la densità diminuisce",
+        "Le dimensioni diminuiscono e la densità aumenta",
+        "Le dimensioni diminuiscono e la densità diminuisce"
+      ],
+      "answer": 3,
+      "explain": "I chilomicroni sono le particelle più grandi e meno dense, mentre le HDL sono le più piccole e le più dense: procedendo lungo questa scala le dimensioni calano e la densità cresce. La densità non dipende solo dalle dimensioni ma soprattutto dal rapporto tra proteine e lipidi, che aumenta nelle particelle più piccole.",
+      "slide": 13
+    },
+    {
+      "id": "d04-b02-q024",
+      "q": "Quale classe di lipoproteine è quella più ricca di trigliceridi?",
+      "choices": [
+        "Le HDL",
+        "Le LDL",
+        "I chilomicroni",
+        "L'albumina",
+        "Le VLDL, che non contengono trigliceridi"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni sono costituiti in massima parte da trigliceridi, perché il loro compito è trasportare i lipidi della dieta appena assorbiti. Le HDL sono invece povere di trigliceridi e ricche di proteine, mentre le LDL contengono soprattutto colesterolo esterificato.",
+      "slide": 13
+    },
+    {
+      "id": "d04-b02-q025",
+      "q": "Qual è la principale forma con cui il colesterolo viene trasportato ai tessuti?",
+      "choices": [
+        "Le LDL",
+        "Le HDL",
+        "I chilomicroni",
+        "L'albumina",
+        "Gli acidi biliari"
+      ],
+      "answer": 0,
+      "explain": "Le LDL rappresentano la principale forma di trasporto del colesterolo verso i tessuti, dove lo steroide serve per le membrane e per altre funzioni cellulari. Le HDL svolgono il percorso opposto, riportando al fegato il colesterolo in eccesso raccolto dai tessuti.",
+      "slide": 14
+    },
+    {
+      "id": "d04-b02-q026",
+      "q": "In che modo le HDL contribuiscono all'eliminazione del colesterolo in eccesso?",
+      "choices": [
+        "Trasformano direttamente il colesterolo in glucosio nel sangue",
+        "Lo depositano nelle gocciole lipidiche dei macrofagi",
+        "Lo convertono in trigliceridi nel tessuto adiposo",
+        "Lo trasportano ai reni perché venga escreto con l'urina",
+        "Lo conducono al fegato, dove può essere escreto o trasformato in acidi biliari"
+      ],
+      "answer": 4,
+      "explain": "Le HDL prelevano il colesterolo in eccesso dai tessuti e lo conducono al fegato, dove viene eliminato come tale nella bile o convertito in acidi biliari. Il colesterolo non è eliminabile per via renale e non può essere trasformato in glucosio o in trigliceridi per questa via.",
+      "slide": 14
+    },
+    {
+      "id": "d04-b02-q027",
+      "q": "Che cosa si intende per trasporto inverso del colesterolo?",
+      "choices": [
+        "Il passaggio del colesterolo dalle LDL alle membrane cellulari",
+        "Il movimento del colesterolo dai tessuti periferici al fegato, mediato dalle HDL",
+        "La sintesi epatica del colesterolo a partire dall'acetil-CoA",
+        "L'assorbimento intestinale del colesterolo della dieta",
+        "La conversione del colesterolo in ormoni steroidei nelle gonadi"
+      ],
+      "answer": 1,
+      "explain": "Il trasporto inverso del colesterolo è il flusso che va dai tessuti extraepatici verso il fegato ed è mediato dalle HDL, con funzione protettiva nei confronti dell'aterosclerosi. Il passaggio del colesterolo dalle LDL alle cellule rappresenta invece il trasporto in direzione opposta, cioè quello di distribuzione ai tessuti.",
+      "slide": 14
+    },
+    {
+      "id": "d04-b02-q028",
+      "q": "Che destino può subire, nel fegato, il colesterolo consegnato dalle HDL?",
+      "choices": [
+        "Essere degradato ad acetil-CoA ed entrare nel ciclo di Krebs",
+        "Essere convertito in glucosio e immesso nel sangue",
+        "Essere convertito in acidi biliari oppure escreto nella bile",
+        "Essere trasformato in acidi grassi e depositato",
+        "Essere eliminato direttamente con l'urina"
+      ],
+      "answer": 2,
+      "explain": "Il fegato può convertire il colesterolo in acidi biliari oppure escreverlo come tale nella bile, che è la principale via di eliminazione dello steroide dall'organismo. L'anello del colesterolo non è degradabile ad acetil-CoA e il colesterolo non viene eliminato per via renale.",
+      "slide": 14
+    },
+    {
+      "id": "d04-b02-q029",
+      "q": "Quale affermazione confronta correttamente la direzione del trasporto delle LDL e delle HDL?",
+      "choices": [
+        "Entrambe trasportano colesterolo dai tessuti al fegato",
+        "Entrambe trasportano colesterolo dal fegato ai tessuti",
+        "Le LDL riportano il colesterolo al fegato e le HDL lo distribuiscono ai tessuti",
+        "Le LDL distribuiscono colesterolo ai tessuti e le HDL lo riportano al fegato",
+        "Le HDL distribuiscono colesterolo ai tessuti e le LDL lo trasformano in acidi biliari nel sangue"
+      ],
+      "answer": 3,
+      "explain": "Le LDL funzionano da vettore di distribuzione del colesterolo verso i tessuti, mentre le HDL operano in senso inverso riportandolo al fegato. Invertire i due ruoli, come fanno le altre alternative, contraddice il significato fisiologico del trasporto lipoproteico.",
+      "slide": 14
+    },
+    {
+      "id": "d04-b02-q030",
+      "q": "Qual è la sequenza corretta della via endogena che porta alla formazione delle LDL?",
+      "choices": [
+        "VLDL, poi IDL, poi LDL",
+        "LDL, poi IDL, poi VLDL",
+        "Chilomicroni, poi VLDL, poi HDL",
+        "HDL, poi chilomicroni, poi LDL",
+        "IDL, poi chilomicroni, poi VLDL"
+      ],
+      "answer": 0,
+      "explain": "Nella via endogena le VLDL epatiche perdono trigliceridi e si trasformano prima in IDL e poi in LDL. La sequenza inversa o le miscele con i chilomicroni sono errate, perché i chilomicroni appartengono alla via esogena dei lipidi alimentari.",
+      "slide": 15
+    },
+    {
+      "id": "d04-b02-q031",
+      "q": "Come matura una VLDL appena secreta dal fegato?",
+      "choices": [
+        "Perde subito tutte le sue apolipoproteine e diventa albumina",
+        "Viene fagocitata interamente dagli epatociti",
+        "Si trasforma immediatamente in chilomicrone",
+        "Viene convertita in acido biliare nel plasma",
+        "Acquisisce apoC-II e apoE cedute dalle HDL circolanti"
+      ],
+      "answer": 4,
+      "explain": "La VLDL nascente acquista dal pool delle HDL le apolipoproteine apoC-II e apoE, necessarie per attivare la lipoproteina lipasi e per il successivo riconoscimento recettoriale. Il trasferimento di apolipoproteine tra lipoproteine è un fenomeno normale e non comporta la trasformazione in chilomicroni.",
+      "slide": 15
+    },
+    {
+      "id": "d04-b02-q032",
+      "q": "Con quale meccanismo le LDL forniscono colesterolo ai tessuti extraepatici?",
+      "choices": [
+        "Per diffusione semplice attraverso la membrana",
+        "Per endocitosi mediata da un recettore specifico",
+        "Per fagocitosi aspecifica da parte dei lisosomi",
+        "Per trasporto attivo attraverso la parete dei capillari",
+        "Per pinocitosi non selettiva del plasma"
+      ],
+      "answer": 1,
+      "explain": "Gli esteri del colesterolo entrano nella cellula attraverso l'endocitosi mediata dal recettore delle LDL, un processo selettivo e regolato. La diffusione semplice non è possibile per una particella di grandi dimensioni e la fagocitosi aspecifica non è il meccanismo fisiologico principale di captazione delle LDL.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q033",
+      "q": "Quale componente delle LDL viene riconosciuta dai recettori presenti sulla superficie cellulare?",
+      "choices": [
+        "L'apoA-I",
+        "L'apoC-II",
+        "L'apoB100",
+        "La LCAT",
+        "Il colesterolo libero di superficie"
+      ],
+      "answer": 2,
+      "explain": "Il recettore delle LDL riconosce specificamente l'apoB100 esposta sulla superficie della particella, e questo legame innesca l'endocitosi. L'apoA-I è tipica delle HDL e l'apoC-II appartiene alle lipoproteine ricche in trigliceridi, quindi non sono le molecole riconosciute da questo recettore.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q034",
+      "q": "Quali cellule utilizzano principalmente l'endocitosi delle LDL mediata dal recettore?",
+      "choices": [
+        "Solo gli eritrociti maturi, privi di nucleo",
+        "Solo i neuroni del sistema nervoso centrale",
+        "Solo le cellule del cristallino",
+        "Solo i linfociti T del timo",
+        "Le cellule dei tessuti extraepatici che devono assumere colesterolo"
+      ],
+      "answer": 4,
+      "explain": "Il recettore delle LDL è presente sulle cellule dei tessuti extraepatici che hanno bisogno di assumere colesterolo, per esempio per rinnovare le membrane o per la sintesi di ormoni steroidei. Gli eritrociti maturi non possiedono questo recettore e non sono la sede principale di tale captazione.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q035",
+      "q": "Quale conseguenza comporta un difetto genetico del recettore delle LDL?",
+      "choices": [
+        "Un aumento del colesterolo LDL nel plasma, perché le LDL non vengono captate",
+        "Una riduzione del colesterolo plasmatico per aumento dell'assorbimento",
+        "La comparsa di anemia emolitica da difetto di membrana",
+        "L'impossibilità di digerire i trigliceridi della dieta",
+        "Una riduzione della sintesi degli acidi biliari senza effetti sul plasma"
+      ],
+      "answer": 0,
+      "explain": "Se il recettore delle LDL è difettoso, le LDL non vengono internalizzate e restano a lungo nel plasma, determinando ipercolesterolemia familiare e aumento del rischio cardiovascolare. La digestione dei trigliceridi della dieta non dipende da questo recettore, che riguarda specificamente la captazione cellulare delle LDL.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q036",
+      "q": "Una volta entrati nella cellula, che cosa accade agli esteri del colesterolo contenuti nelle LDL?",
+      "choices": [
+        "Vengono trasferiti intatti nel nucleo",
+        "Vengono escreti nuovamente nello spazio extracellulare",
+        "Vengono convertiti in trigliceridi nel citosol",
+        "Vengono idrolizzati nei lisosomi con liberazione di colesterolo libero",
+        "Vengono ossidati direttamente nei perossisomi ad acetil-CoA"
+      ],
+      "answer": 3,
+      "explain": "La particella viene degradata nei lisosomi, dove gli esteri del colesterolo sono idrolizzati e si libera colesterolo libero utilizzabile dalla cellula. Il colesterolo non entra nel nucleo e non viene ossidato nei perossisomi, perché l'anello steroideo non è degradabile in queste sedi.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q037",
+      "q": "Quale effetto ha sulla cellula l'aumento del colesterolo libero derivato dalla captazione delle LDL?",
+      "choices": [
+        "Stimola la sintesi endogena del colesterolo per via della HMG-CoA reduttasi",
+        "Inibisce la HMG-CoA reduttasi e riduce la sintesi endogena di colesterolo",
+        "Aumenta la sintesi degli acidi grassi nel citosol",
+        "Blocca la sintesi delle proteine di membrana",
+        "Attiva la digestione dei trigliceridi nel lume intestinale"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo libero che si accumula nella cellula inibisce la HMG-CoA reduttasi, l'enzima limitante della sintesi endogena, e riduce anche la produzione dei recettori delle LDL. Si tratta di una regolazione a feedback negativo che evita l'accumulo eccessivo dello steroide.",
+      "slide": 16
+    },
+    {
+      "id": "d04-b02-q038",
+      "q": "Come evolve la forma di una HDL nascente man mano che raccoglie colesterolo?",
+      "choices": [
+        "Da sferica diventa un cristallo di colesterolo puro",
+        "Da discoidale diventa un chilomicrone",
+        "Da discoidale diventa una particella sferica matura",
+        "Da sferica diventa una micella biliare",
+        "Resta sempre identica, senza cambiare forma né composizione"
+      ],
+      "answer": 2,
+      "explain": "L'HDL nascente è discoidale e, accumulando colesterolo libero che viene esterificato dalla LCAT, si trasforma in una particella sferica matura con un nucleo di esteri del colesterolo. Non si trasforma in un chilomicrone né in una micella biliare, che appartengono a contesti funzionali diversi.",
+      "slide": 17
+    },
+    {
+      "id": "d04-b02-q039",
+      "q": "Attraverso quale recettore epatico le HDL cedono il loro colesterolo al fegato?",
+      "choices": [
+        "Il recettore scavenger SR-BI",
+        "Il recettore delle LDL per l'apoB100",
+        "Il recettore dell'insulina",
+        "Il canale del calcio di tipo L",
+        "Il trasportatore del glucosio GLUT4"
+      ],
+      "answer": 0,
+      "explain": "Il fegato capta gli esteri del colesterolo dalle HDL attraverso il recettore scavenger SR-BI, che riconosce l'apoA-I e permette il trasferimento selettivo del carico lipidico. Il recettore delle LDL lega l'apoB100 e serve alla captazione delle LDL, non al prelievo del colesterolo dalle HDL.",
+      "slide": 17
+    },
+    {
+      "id": "d04-b02-q040",
+      "q": "Quale meccanismo rende le HDL protettive nei confronti dell'aterosclerosi?",
+      "choices": [
+        "Aumentano la sintesi epatica delle VLDL",
+        "Favoriscono la deposizione di colesterolo nella parete arteriosa",
+        "Ossidano le LDL rendendole più facilmente captabili",
+        "Promuovono la formazione delle cellule schiumose",
+        "Rimuovono il colesterolo dalle cellule e lo riportano al fegato per l'eliminazione"
+      ],
+      "answer": 4,
+      "explain": "Le HDL sottraggono colesterolo ai tessuti periferici, comprese le cellule schiumose della parete arteriosa, e lo consegnano al fegato per l'escrezione, frenando lo sviluppo della placca. Le alternative che le descrivono come promotrici dell'ossidazione delle LDL o della formazione di cellule schiumose ne rovesciano il ruolo fisiologico.",
+      "slide": 18
+    },
+    {
+      "id": "d04-b02-q041",
+      "q": "Quale trasportatore consente ai macrofagi di cedere il colesterolo alle HDL?",
+      "choices": [
+        "Il recettore delle LDL",
+        "Il trasportatore ABCA1",
+        "La carnitina aciltransferasi I",
+        "Il trasportatore GLUT4",
+        "La pompa sodio-potassio"
+      ],
+      "answer": 1,
+      "explain": "Il trasportatore ABCA1 media l'efflusso del colesterolo e dei fosfolipidi verso l'apoA-I e le HDL nascenti, permettendo ai macrofagi di liberarsi dello steroide in eccesso. Il recettore delle LDL svolge la funzione opposta, cioè fa entrare le particelle nella cellula.",
+      "slide": 18
+    },
+    {
+      "id": "d04-b02-q042",
+      "q": "Qual è il valore normale di HDL indicato per l'uomo adulto?",
+      "choices": [
+        "Circa 20 mg%",
+        "Circa 35 mg%",
+        "Circa 45 mg%",
+        "Circa 56 mg%",
+        "Circa 100 mg%"
+      ],
+      "answer": 2,
+      "explain": "Per l'uomo adulto il valore normale di HDL è di circa 45 mg%, mentre nella donna adulta il riferimento è più alto. Valori nettamente inferiori a questo riferimento si associano a un aumento del rischio cardiovascolare.",
+      "slide": 19
+    },
+    {
+      "id": "d04-b02-q043",
+      "q": "Qual è il valore normale di HDL indicato per la donna adulta?",
+      "choices": [
+        "Circa 30 mg%",
+        "Circa 45 mg%",
+        "Circa 50 mg%",
+        "Circa 56 mg%",
+        "Circa 80 mg%"
+      ],
+      "answer": 3,
+      "explain": "Nella donna adulta il valore normale di HDL è di circa 56 mg%, quindi superiore a quello dell'uomo adulto, che è di circa 45 mg%. Questa differenza contribuisce a spiegare, almeno in parte, la diversa distribuzione del rischio cardiovascolare tra i due sessi.",
+      "slide": 19
+    },
+    {
+      "id": "d04-b02-q044",
+      "q": "Quale apolipoproteina permette alle lipoproteine rimanenti e a una parte delle HDL di essere riconosciute dai recettori epatici?",
+      "choices": [
+        "L'apolipoproteina E",
+        "L'apolipoproteina A-I, che attiva la LCAT",
+        "L'apolipoproteina C-II, che attiva la lipoproteina lipasi",
+        "L'apolipoproteina B, che lega il recettore delle LDL",
+        "La lipoproteina lipasi, che idrolizza i trigliceridi"
+      ],
+      "answer": 0,
+      "explain": "L'apolipoproteina E è il segnale riconosciuto dai recettori epatici sulle lipoproteine rimanenti, cioè i resti dei chilomicroni e delle VLDL, e su una parte delle HDL, e ne consente la captazione da parte del fegato. L'apoA-I è invece la proteina strutturale delle HDL e attiva la LCAT, l'apoC-II attiva la lipoproteina lipasi e l'apoB serve al riconoscimento delle LDL.",
+      "slide": 17
+    },
+    {
+      "id": "d04-b02-q045",
+      "q": "Come si correla il livello plasmatico delle HDL con il rischio di cardiopatia coronarica?",
+      "choices": [
+        "In modo direttamente proporzionale",
+        "In modo inversamente proporzionale",
+        "In modo casuale, senza alcuna relazione",
+        "Solo negli uomini e non nelle donne",
+        "Solo in presenza di valori superiori a 100 mg%"
+      ],
+      "answer": 1,
+      "explain": "Il rischio di cardiopatia coronarica è inversamente correlato ai livelli di HDL: valori più alti si associano a rischio più basso e valori bassi a rischio più alto. Non si tratta quindi di una relazione diretta né di un effetto limitato a un solo sesso.",
+      "slide": 19
+    },
+    {
+      "id": "d04-b02-q046",
+      "q": "Un uomo adulto presenta un valore di HDL di 35 mg%: come si interpreta questo dato?",
+      "choices": [
+        "È un valore normale per l'uomo adulto",
+        "È un valore tipico della donna adulta",
+        "È un valore elevato e protettivo",
+        "È un valore del tutto privo di significato clinico",
+        "È inferiore al valore normale di riferimento e si associa a rischio cardiovascolare aumentato"
+      ],
+      "answer": 4,
+      "explain": "Il valore di riferimento per l'uomo adulto è di circa 45 mg%, quindi 35 mg% è al di sotto della norma. Poiché le HDL sono inversamente correlate al rischio di cardiopatia coronarica, un valore ridotto indica un rischio maggiore rispetto a un uomo con HDL nella norma.",
+      "slide": 19
+    },
+    {
+      "id": "d04-b02-q047",
+      "q": "Poiché i livelli di HDL sono inversamente correlati a quelli di VLDL e LDL, che cosa ci si attende in una persona con HDL elevate?",
+      "choices": [
+        "Valori di VLDL e LDL anch'essi elevati",
+        "Valori di VLDL e LDL identici a quelli di un soggetto con HDL basse",
+        "Valori di VLDL e LDL tendenzialmente bassi",
+        "Valori di VLDL bassi e di LDL sempre molto elevati",
+        "Valori di VLDL e LDL che non dipendono dalle HDL"
+      ],
+      "answer": 2,
+      "explain": "Se la correlazione è inversa, a HDL elevate corrispondono in genere VLDL e LDL più basse, un profilo considerato favorevole dal punto di vista cardiovascolare. Le alternative che prevedono valori elevati o del tutto indipendenti contraddicono la relazione descritta.",
+      "slide": 19
+    },
+    {
+      "id": "d04-b02-q048",
+      "q": "Quale processo è responsabile della formazione della placca aterosclerotica nelle arterie?",
+      "choices": [
+        "L'accumulo di colesterolo e lipidi nella parete arteriosa",
+        "L'aumento della sintesi di acidi biliari nel fegato",
+        "La riduzione dei trigliceridi circolanti",
+        "L'aumento dell'escrezione renale di colesterolo",
+        "Il deposito di glucosio nella tonaca media"
+      ],
+      "answer": 0,
+      "explain": "L'aterosclerosi nasce dall'accumulo di colesterolo e altri lipidi nella parete delle arterie, con formazione di una placca che restringe il lume e favorisce eventi cardiovascolari. La sintesi degli acidi biliari e l'escrezione renale del colesterolo sono vie di smaltimento che non generano la placca.",
+      "slide": 20
+    },
+    {
+      "id": "d04-b02-q049",
+      "q": "Da quale classe di lipoproteine deriva principalmente il colesterolo che si deposita nella parete arteriosa?",
+      "choices": [
+        "Dalle HDL",
+        "Dall'albumina",
+        "Dai chilomicroni",
+        "Dalle LDL",
+        "Dai sali biliari"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo che si accumula nella parete arteriosa proviene soprattutto dalle LDL, che quando sono in eccesso nel plasma possono penetrare nell'intima ed essere captate dai macrofagi. Le HDL svolgono invece il ruolo opposto, rimuovendo il colesterolo dalla parete.",
+      "slide": 20
+    },
+    {
+      "id": "d04-b02-q050",
+      "q": "Qual è il meccanismo con cui le statine riducono il colesterolo LDL plasmatico?",
+      "choices": [
+        "Bloccano il recettore delle LDL sulle cellule epatiche",
+        "Inibiscono la HMG-CoA reduttasi e aumentano l'espressione dei recettori delle LDL",
+        "Stimolano la sintesi epatica del colesterolo",
+        "Impediscono l'assorbimento intestinale degli acidi biliari",
+        "Aumentano la produzione di VLDL da parte del fegato"
+      ],
+      "answer": 1,
+      "explain": "Le statine inibiscono la HMG-CoA reduttasi, l'enzima limitante della sintesi del colesterolo; la cellula epatica reagisce aumentando l'espressione dei recettori delle LDL e quindi captando più LDL dal plasma. Bloccare i recettori o stimolare la sintesi del colesterolo avrebbe l'effetto opposto, cioè aumentare la colesterolemia.",
+      "slide": 20
+    }
+  ]
+}

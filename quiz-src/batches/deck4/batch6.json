@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 6,
+  "topic": "Metabolismo degli amminoacidi: transaminazione e deaminazione",
+  "questions": [
+    {
+      "id": "d04-b06-q001",
+      "q": "Qual è il principale sito di degradazione degli amminoacidi nell'organismo umano?",
+      "choices": [
+        "Il tessuto adiposo",
+        "Il muscolo scheletrico",
+        "Il rene",
+        "Il fegato",
+        "L'intestino tenue"
+      ],
+      "answer": 3,
+      "explain": "Il fegato è il maggior sito di degradazione degli amminoacidi, perché concentra le transaminasi e la glutammato deidrogenasi necessarie a rimuovere il gruppo amminico. Il muscolo scheletrico è il distrattore più insidioso: è la sede principale della proteolisi, ma gli amminoacidi liberati vengono inviati al fegato per essere degradati. Il rene e l'intestino partecipano al metabolismo azotato, ma non sono la sede principale di questa via.",
+      "slide": 50
+    },
+    {
+      "id": "d04-b06-q002",
+      "q": "Quale reazione trasferisce il gruppo amminico della maggior parte degli amminoacidi sull'α-chetoglutarato, formando glutammato?",
+      "choices": [
+        "Il trasporto mitocondriale",
+        "La deaminazione ossidativa diretta",
+        "La decarbossilazione",
+        "La deamminazione non ossidativa",
+        "La transaminazione"
+      ],
+      "answer": 4,
+      "explain": "La transaminazione trasferisce il gruppo amminico da un amminoacido all'α-chetoglutarato, che diventa glutammato, senza liberare ammoniaca. La decarbossilazione è il distrattore più insidioso perché è anch'essa una reazione tipica degli amminoacidi, ma rimuove il gruppo carbossilico e produce ammine, non elimina l'azoto. La deaminazione ossidativa diretta riguarda soprattutto il glutammato e non è la via generale di rimozione dell'azoto.",
+      "slide": 50
+    },
+    {
+      "id": "d04-b06-q003",
+      "q": "Dove si trova la glutammato deidrogenasi, l'enzima che deamina il glutammato nel fegato?",
+      "choices": [
+        "Nella matrice mitocondriale",
+        "Nel citosol",
+        "Nel reticolo endoplasmatico liscio",
+        "Nello spazio intermembrana mitocondriale",
+        "Nel nucleo"
+      ],
+      "answer": 0,
+      "explain": "La glutammato deidrogenasi è localizzata nella matrice mitocondriale, dove il glutammato entra per essere deaminato ossidativamente con liberazione di ammoniaca. Il citosol è il distrattore più insidioso perché è la sede delle transaminasi, ma la deaminazione del glutammato avviene dentro il mitocondrio. Lo spazio intermembrana e il reticolo endoplasmatico non ospitano questa reazione.",
+      "slide": 51
+    },
+    {
+      "id": "d04-b06-q004",
+      "q": "Che cosa significa la sigla ALT, usata per una delle transaminasi epatiche?",
+      "choices": [
+        "Aspartato aminotransferasi",
+        "Alanina aminotransferasi",
+        "Arginina aminotransferasi",
+        "Ammoniaca liasi transferasica",
+        "Acetil transferasi lipidica"
+      ],
+      "answer": 1,
+      "explain": "ALT significa alanina aminotransferasi ed è lo stesso enzima indicato anche come GPT, cioè glutammato-piruvato transaminasi. La sigla AST, che indica l'aspartato aminotransferasi, è il distrattore più insidioso perché le due sigle sono spesso confuse tra loro. Le altre denominazioni non corrispondono ad alcun enzima del metabolismo degli amminoacidi.",
+      "slide": 54
+    },
+    {
+      "id": "d04-b06-q005",
+      "q": "Quale coppia di sigle indica lo stesso enzima?",
+      "choices": [
+        "GOT e ALT",
+        "GPT e AST",
+        "GOT e AST",
+        "GPT e GDH",
+        "AST e ALT"
+      ],
+      "answer": 2,
+      "explain": "GOT e AST sono due nomi dello stesso enzima, l'aspartato aminotransferasi, detta anche glutammato-ossalacetato transaminasi. La coppia GPT e AST è il distrattore più insidioso perché mescola le due transaminasi: GPT corrisponde invece ad ALT. Le coppie che accostano GDH o che uniscono AST e ALT indicano enzimi diversi tra loro.",
+      "slide": 54
+    },
+    {
+      "id": "d04-b06-q006",
+      "q": "Perché si dice che le transaminasi hanno una bassa affinità per gli amminoacidi?",
+      "choices": [
+        "Perché richiedono un pH fortemente acido per legare il substrato",
+        "Perché degradano gli amminoacidi soltanto nel tessuto renale",
+        "Perché funzionano soltanto in assenza di ossigeno nei mitocondri",
+        "Perché diventano efficienti solo se gli amminoacidi sono abbondanti",
+        "Perché trasferiscono l'azoto direttamente alle proteine di membrana"
+      ],
+      "answer": 3,
+      "explain": "Una bassa affinità per il substrato significa che l'enzima lavora in modo efficiente solo quando la concentrazione di amminoacidi è elevata, cioè quando occorre smaltirne l'eccesso. Il fatto che degradino gli amminoacidi solo nel rene è il distrattore più insidioso, ma le transaminasi sono ubiquitarie e particolarmente attive nel fegato. L'affinità bassa non dipende né dall'ossigeno né dal pH acido.",
+      "slide": 54
+    },
+    {
+      "id": "d04-b06-q007",
+      "q": "Quale condizione alimentare induce le transaminasi epatiche e intestinali?",
+      "choices": [
+        "Il digiuno prolungato",
+        "Una dieta ipoproteica",
+        "Una dieta priva di grassi",
+        "Una dieta ricca di zuccheri semplici",
+        "Una dieta iperproteica"
+      ],
+      "answer": 4,
+      "explain": "Una dieta ricca di proteine aumenta il flusso di amminoacidi al fegato e all'intestino e induce la sintesi delle transaminasi, che devono smaltire l'eccesso azotato. Il digiuno prolungato è il distrattore più insidioso perché aumenta la proteolisi muscolare e quindi il rilascio di amminoacidi, ma non è una condizione di induzione alimentare delle transaminasi. Una dieta ipoproteica riduce piuttosto il lavoro di questi enzimi.",
+      "slide": 54
+    },
+    {
+      "id": "d04-b06-q008",
+      "q": "Quali composti si ottengono quando l'alanina cede il suo gruppo amminico all'α-chetoglutarato?",
+      "choices": [
+        "Piruvato e glutammato",
+        "Ossalacetato e glutammato",
+        "Piruvato e aspartato",
+        "α-chetoglutarato e alanina",
+        "Glutammina e alanina"
+      ],
+      "answer": 0,
+      "explain": "L'alanina aminotransferasi trasferisce il gruppo amminico dell'alanina all'α-chetoglutarato, generando piruvato e glutammato. La coppia ossalacetato e glutammato è il distrattore più insidioso perché è il prodotto della reazione dell'aspartato aminotransferasi, non di quella dell'alanina. L'α-chetoglutarato e l'alanina sono i substrati di partenza e non i prodotti finali.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q009",
+      "q": "Nella reazione dell'ALT, da quale amminoacido proviene il gruppo amminico trasferito?",
+      "choices": [
+        "Dall'aspartato",
+        "Dall'alanina",
+        "Dal glutammato",
+        "Dalla glutammina",
+        "Dalla serina"
+      ],
+      "answer": 1,
+      "explain": "L'alanina aminotransferasi preleva il gruppo amminico dall'alanina e lo trasferisce all'α-chetoglutarato per formare glutammato. L'aspartato è il distrattore più insidioso perché è il donatore della reazione catalizzata dall'AST, l'altra transaminasi epatica. Il glutammato è il prodotto della reazione e non il donatore del gruppo amminico.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q010",
+      "q": "Che cosa rappresenta il piruvato nella reazione dell'alanina aminotransferasi?",
+      "choices": [
+        "Il coenzima che trasferisce il gruppo amminico",
+        "L'accettore del gruppo amminico dell'alanina",
+        "Il prodotto carbonioso che deriva dall'alanina",
+        "Il donatore del gruppo amminico alla transaminasi",
+        "L'enzima che catalizza la transaminazione"
+      ],
+      "answer": 2,
+      "explain": "Quando l'alanina cede il proprio gruppo amminico all'α-chetoglutarato, lo scheletro carbonioso che resta è il piruvato. L'accettore del gruppo amminico è il distrattore più insidioso, ma quel ruolo spetta all'α-chetoglutarato, che diventa glutammato. Il piruvato non è né un coenzima né un enzima, ma un intermedio metabolico.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q011",
+      "q": "Qual è il ruolo dell'α-chetoglutarato nella reazione catalizzata dall'ALT?",
+      "choices": [
+        "Fungere da coenzima della transaminasi epatica",
+        "Cedere il gruppo amminico all'alanina nel citosol",
+        "Legare il piruvato e trasformarlo in ossalacetato",
+        "Accettare l'azoto e convertirsi in glutammato",
+        "Ossidare il piruvato ad acetil-CoA nel mitocondrio"
+      ],
+      "answer": 3,
+      "explain": "Nella transaminazione l'α-chetoglutarato è l'accettore universale del gruppo amminico e, ricevendolo, si converte in glutammato. Cedere il gruppo amminico all'alanina è il distrattore più insidioso perché inverte la direzione reale del trasferimento. L'α-chetoglutarato non è un coenzima e non forma ossalacetato, che deriva invece dall'aspartato.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q012",
+      "q": "Quale amminoacido si forma quando l'α-chetoglutarato accetta un gruppo amminico?",
+      "choices": [
+        "La serina",
+        "L'alanina",
+        "L'aspartato",
+        "La glutammina",
+        "Il glutammato"
+      ],
+      "answer": 4,
+      "explain": "L'α-chetoglutarato è l'α-chetoacido corrispondente al glutammato: acquisendo un gruppo amminico si trasforma proprio in glutammato. L'alanina è il distrattore più insidioso perché deriva dalla transaminazione del piruvato, non dell'α-chetoglutarato. L'aspartato si ottiene invece dall'ossalacetato, mentre la glutammina richiede l'aggiunta di un secondo azoto.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q013",
+      "q": "Qual è l'esito della transaminazione dell'aspartato con α-chetoglutarato?",
+      "choices": [
+        "Ossalacetato e glutammato",
+        "Piruvato e glutammato",
+        "Ossalacetato e aspartato",
+        "α-chetoglutarato e aspartato",
+        "Malato e glutammato"
+      ],
+      "answer": 0,
+      "explain": "L'aspartato aminotransferasi trasferisce il gruppo amminico dell'aspartato all'α-chetoglutarato, formando ossalacetato e glutammato. La coppia piruvato e glutammato è il distrattore più insidioso perché è il prodotto dell'ALT, l'altra transaminasi epatica. L'α-chetoglutarato e l'aspartato sono i substrati della reazione, non i prodotti.",
+      "slide": 53
+    },
+    {
+      "id": "d04-b06-q014",
+      "q": "Da quale amminoacido l'aspartato aminotransferasi preleva il gruppo amminico?",
+      "choices": [
+        "Dall'alanina",
+        "Dall'aspartato",
+        "Dal glutammato",
+        "Dall'asparagina",
+        "Dalla glicina"
+      ],
+      "answer": 1,
+      "explain": "L'aspartato aminotransferasi, detta anche GOT, trasferisce all'α-chetoglutarato il gruppo amminico dell'aspartato. L'alanina è il distrattore più insidioso perché è il donatore della reazione catalizzata dall'ALT, non dall'AST. L'asparagina e la glicina non sono i substrati di questa transaminasi.",
+      "slide": 53
+    },
+    {
+      "id": "d04-b06-q015",
+      "q": "Quale α-chetoacido origina dall'aspartato dopo la rimozione del gruppo amminico?",
+      "choices": [
+        "L'α-chetoglutarato",
+        "Il piruvato",
+        "L'ossalacetato",
+        "Il malato",
+        "Il fumarato"
+      ],
+      "answer": 2,
+      "explain": "L'aspartato corrisponde all'ossalacetato, che si forma quando l'amminoacido perde il gruppo amminico per transaminazione. Il piruvato è il distrattore più insidioso perché è l'α-chetoacido corrispondente all'alanina, l'amminoacido dell'altra transaminasi. Il malato e il fumarato sono intermedi del ciclo di Krebs e non derivano direttamente dalla transaminazione dell'aspartato.",
+      "slide": 53
+    },
+    {
+      "id": "d04-b06-q016",
+      "q": "Quale enzima catalizza la conversione dell'aspartato in ossalacetato con trasferimento dell'azoto all'α-chetoglutarato?",
+      "choices": [
+        "L'asparaginasi",
+        "L'alanina aminotransferasi",
+        "La glutammato deidrogenasi",
+        "L'aspartato aminotransferasi",
+        "La glutammina sintetasi"
+      ],
+      "answer": 3,
+      "explain": "La reazione descritta è una transaminazione in cui il donatore è l'aspartato e l'accettore è l'α-chetoglutarato, cioè la reazione tipica dell'aspartato aminotransferasi. L'alanina aminotransferasi è il distrattore più insidioso perché è l'altra transaminasi, ma il suo donatore è l'alanina e il prodotto è il piruvato. La glutammato deidrogenasi deamina invece il glutammato senza trasferire l'azoto a un α-chetoacido.",
+      "slide": 53
+    },
+    {
+      "id": "d04-b06-q017",
+      "q": "Nella reazione catalizzata dalla GOT, che ruolo ha il glutammato?",
+      "choices": [
+        "È il prodotto che deriva dall'aspartato",
+        "È il donatore del gruppo amminico",
+        "È il coenzima della transaminasi",
+        "È il substrato che si trasforma in ossalacetato",
+        "È il prodotto che si forma dall'α-chetoglutarato"
+      ],
+      "answer": 4,
+      "explain": "Nella reazione della GOT l'α-chetoglutarato accetta il gruppo amminico dell'aspartato e diventa glutammato, che è quindi un prodotto. Il fatto che sia il donatore del gruppo amminico è il distrattore più insidioso, perché nella deaminazione ossidativa il glutammato cede davvero il suo azoto, ma nella transaminazione della GOT esso si forma e non si consuma. Il coenzima della reazione è il piridossal fosfato e non il glutammato.",
+      "slide": 53
+    },
+    {
+      "id": "d04-b06-q018",
+      "q": "Nel metabolismo degli amminoacidi, che cosa indica il termine transaminazione?",
+      "choices": [
+        "Il trasferimento reversibile di un gruppo amminico a un α-chetoacido",
+        "La rimozione ossidativa dell'azoto con liberazione di ammoniaca",
+        "La sintesi di un legame peptidico tra due amminoacidi vicini",
+        "La decarbossilazione di un amminoacido con formazione di un'ammina",
+        "Il trasporto degli amminoacidi attraverso la membrana cellulare"
+      ],
+      "answer": 0,
+      "explain": "La transaminazione consiste nel trasferimento reversibile del gruppo amminico da un amminoacido a un α-chetoacido, senza liberazione di ammoniaca. La rimozione ossidativa dell'azoto con liberazione di ammoniaca è il distrattore più insidioso perché descrive la deaminazione ossidativa, un processo distinto e successivo. Il trasporto di membrana e la formazione del legame peptidico sono processi del tutto diversi.",
+      "slide": 51
+    },
+    {
+      "id": "d04-b06-q019",
+      "q": "Perché la transaminazione è considerata la via più frequente di rimozione dell'azoto dagli amminoacidi?",
+      "choices": [
+        "Perché libera direttamente ammoniaca utilizzabile per il ciclo dell'urea",
+        "Perché raccoglie l'azoto degli amminoacidi sul glutammato",
+        "Perché produce energia sotto forma di ATP nel citosol",
+        "Perché avviene soltanto nei mitocondri delle cellule epatiche",
+        "Perché consuma l'urea già prodotta dal fegato per formare ammoniaca"
+      ],
+      "answer": 1,
+      "explain": "La transaminazione convoglia l'azoto di molti amminoacidi su un unico accettore, l'α-chetoglutarato, che diventa glutammato, senza perdite di azoto. Il fatto che liberi direttamente ammoniaca è il distrattore più insidioso, perché è invece la successiva deaminazione del glutammato a produrre ammoniaca. Questa via non produce ATP e non consuma urea.",
+      "slide": 51
+    },
+    {
+      "id": "d04-b06-q020",
+      "q": "Se un amminoacido viene transaminato, che cosa accade al suo scheletro carbonioso?",
+      "choices": [
+        "Viene sempre convertito in glucosio nel muscolo",
+        "Si trasforma in urea",
+        "Si trasforma nell'α-chetoacido corrispondente",
+        "Viene ossidato direttamente ad ammoniaca",
+        "Si lega al piridossal fosfato in modo permanente"
+      ],
+      "answer": 2,
+      "explain": "Rimosso il gruppo amminico, lo scheletro carbonioso dell'amminoacido resta come α-chetoacido, che potrà essere ossidato o usato per la gluconeogenesi. La conversione in urea è il distrattore più insidioso perché l'urea è il prodotto finale dello smaltimento dell'azoto, non dello scheletro carbonioso. Il piridossal fosfato è un coenzima che si rigenera e non resta legato in modo permanente al substrato.",
+      "slide": 51
+    },
+    {
+      "id": "d04-b06-q021",
+      "q": "Per quale principale scopo clinico si misura l'attività delle transaminasi GOT e GPT nel sangue?",
+      "choices": [
+        "Per dosare il colesterolo totale nel plasma",
+        "Per determinare la concentrazione di glucosio nel sangue",
+        "Per valutare la funzione renale del paziente",
+        "Per valutare la salute di fegato, cuore e muscoli",
+        "Per misurare la clearance della creatinina plasmatica"
+      ],
+      "answer": 3,
+      "explain": "Le transaminasi sono enzimi intracellulari: il loro aumento nel plasma segnala sofferenza o danno delle cellule che li contengono, in particolare epatociti, miocardio e muscolo scheletrico. La funzione renale è il distrattore più insidioso perché si valuta con altri parametri come la creatinina e l'azoto ureico, non con le transaminasi. Il dosaggio del colesterolo e della glicemia non ha alcun rapporto con questi enzimi.",
+      "slide": 55
+    },
+    {
+      "id": "d04-b06-q022",
+      "q": "Quale transaminasi è considerata più indicativa dello stato di salute del fegato?",
+      "choices": [
+        "La lattato deidrogenasi",
+        "La GOT (AST)",
+        "La glutammato deidrogenasi",
+        "La creatina chinasi",
+        "La GPT (ALT)"
+      ],
+      "answer": 4,
+      "explain": "La GPT, cioè l'ALT, è più abbondante nel fegato e quindi il suo aumento orienta verso un danno epatocellulare. La GOT è il distrattore più insidioso perché è anch'essa una transaminasi epatica, ma è presente anche nel cuore e nel muscolo scheletrico, quindi è meno specifica per il fegato. La creatina chinasi e la lattato deidrogenasi sono marker muscolari e non transaminasi.",
+      "slide": 55
+    },
+    {
+      "id": "d04-b06-q023",
+      "q": "In quale condizione clinica l'aumento delle transaminasi può riflettere un danno muscolare scheletrico?",
+      "choices": [
+        "In una miopatia con danno delle fibre muscolari",
+        "In una calcolosi renale con coliche ricorrenti",
+        "In una carenza di ferro con anemia sideropenica",
+        "In un ipotiroidismo primario con mixedema",
+        "In una sindrome nefrosica con proteinuria"
+      ],
+      "answer": 0,
+      "explain": "La GOT è presente anche nel muscolo scheletrico, perciò la sua elevazione può accompagnare un danno delle fibre muscolari. La carenza di ferro è il distrattore più insidioso perché produce anemia e alterazioni di laboratorio, ma non un aumento delle transaminasi per danno muscolare. Calcolosi renale e sindrome nefrosica non sono cause tipiche di ipertransaminasemia.",
+      "slide": 55
+    },
+    {
+      "id": "d04-b06-q024",
+      "q": "Qual è il principale metodo con cui si misura l'attività delle transaminasi nella pratica clinica?",
+      "choices": [
+        "L'esame delle urine delle ventiquattro ore",
+        "L'esame del sangue",
+        "La biopsia epatica",
+        "L'ecografia addominale",
+        "Il test da sforzo cardiologico"
+      ],
+      "answer": 1,
+      "explain": "L'attività delle transaminasi viene misurata su un campione di sangue, che rappresenta il metodo principale, semplice e poco invasivo. La biopsia epatica è il distrattore più insidioso perché valuta direttamente il tessuto epatico ed è il riferimento diagnostico in casi selezionati, ma non è il metodo usato per misurare le transaminasi. Ecografia e test da sforzo non dosano l'attività enzimatica.",
+      "slide": 55
+    },
+    {
+      "id": "d04-b06-q025",
+      "q": "Qual è l'intervallo di riferimento dei valori di GOT (AST) negli uomini, secondo i valori comunemente riportati?",
+      "choices": [
+        "Meno di dieci unità per litro",
+        "Meno di trentacinque unità per litro",
+        "Meno di quaranta unità per litro",
+        "Meno di cinquantasei unità per litro",
+        "Meno di settanta unità per litro"
+      ],
+      "answer": 2,
+      "explain": "Negli uomini il valore di riferimento della GOT è inferiore a quaranta unità per litro, mentre nelle donne il limite è più basso. Meno di trentacinque unità per litro è il distrattore più insidioso perché è proprio il limite di riferimento della GOT nelle donne, non negli uomini. Il limite di cinquantasei unità per litro appartiene invece alla GPT.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q026",
+      "q": "Qual è l'intervallo di riferimento dei valori di GPT (ALT) riportato per la popolazione generale?",
+      "choices": [
+        "Da venti a ottanta unità per litro",
+        "Da dieci a quaranta unità per litro",
+        "Da dieci a trentacinque unità per litro",
+        "Da sette a cinquantasei unità per litro",
+        "Da cinque a venticinque unità per litro"
+      ],
+      "answer": 3,
+      "explain": "L'intervallo di riferimento della GPT è compreso tra sette e cinquantasei unità per litro. L'intervallo da dieci a quaranta unità per litro è il distrattore più insidioso perché è quello della GOT, non della GPT. Gli altri intervalli non corrispondono ai valori usualmente riportati per questa transaminasi.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q027",
+      "q": "Se in una donna il valore di GOT supera trentacinque unità per litro, che cosa se ne deduce?",
+      "choices": [
+        "Il valore indica necessariamente una necrosi epatica",
+        "Il valore rientra ancora nell'intervallo di riferimento femminile",
+        "Il valore corrisponde al limite superiore della GPT",
+        "Il valore è nella norma perché per le donne non esiste un limite",
+        "Il valore supera il limite di riferimento previsto per il sesso femminile"
+      ],
+      "answer": 4,
+      "explain": "Nelle donne il limite superiore di riferimento della GOT è trentacinque unità per litro, quindi un valore superiore esce dall'intervallo. Il fatto che rientri ancora nell'intervallo è il distrattore più insidioso, ma si confonde il valore femminile con quello maschile, che è quaranta. Superare il limite non dimostra da solo una necrosi epatica: va sempre interpretato nel contesto clinico.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q028",
+      "q": "Con quali metodi viene principalmente analizzato in laboratorio il campione di sangue per dosare le transaminasi?",
+      "choices": [
+        "Con metodi spettrofotometrici o enzimatici",
+        "Con metodi di spettrometria di massa",
+        "Con l'elettroforesi delle proteine plasmatiche",
+        "Con la cromatografia ionica",
+        "Con la risonanza magnetica nucleare"
+      ],
+      "answer": 0,
+      "explain": "Le transaminasi si dosano con metodi spettrofotometrici o enzimatici, che misurano la velocità di formazione dei prodotti della reazione. L'elettroforesi delle proteine è il distrattore più insidioso perché è un esame di laboratorio reale e diffuso, ma serve a frazionare le proteine plasmatiche e non a misurare l'attività enzimatica. La spettrometria di massa e la risonanza magnetica non sono i metodi di routine per questo dosaggio.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q029",
+      "q": "Perché i valori di riferimento della GOT differiscono tra uomini e donne?",
+      "choices": [
+        "Perché la GOT ha una struttura chimica diversa nei due sessi",
+        "Perché la massa muscolare differisce tra i due sessi",
+        "Perché le donne non possiedono il gene della GOT epatica",
+        "Perché il dosaggio viene eseguito con metodi diversi nei due sessi",
+        "Perché negli uomini la GOT è prodotta soltanto dal cuore"
+      ],
+      "answer": 1,
+      "explain": "La GOT è presente anche nel muscolo scheletrico, quindi una maggiore massa muscolare maschile si riflette in valori di riferimento tendenzialmente più alti negli uomini. La differenza di struttura chimica è il distrattore più insidioso perché suggerisce una variante enzimatica sesso-specifica, che non esiste: la proteina è la stessa. La differenza non dipende dal metodo di dosaggio né dall'assenza del gene nella donna.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q030",
+      "q": "Quale organo riceve e degrada la maggior parte degli amminoacidi provenienti dal catabolismo proteico dei tessuti?",
+      "choices": [
+        "Il rene",
+        "Il polmone",
+        "Il fegato",
+        "La milza",
+        "Il pancreas esocrino"
+      ],
+      "answer": 2,
+      "explain": "Il fegato è l'organo centrale del metabolismo azotato: riceve gli amminoacidi dagli altri tessuti e li degrada per transaminazione e deaminazione. Il rene è il distrattore più insidioso perché partecipa allo smaltimento dell'azoto e all'eliminazione dell'urea, ma non è la sede principale della degradazione degli amminoacidi. Polmone, milza e pancreas non svolgono questo ruolo.",
+      "slide": 57
+    },
+    {
+      "id": "d04-b06-q031",
+      "q": "Che cosa si intende per metabolismo degli amminoacidi dal punto di vista biochimico?",
+      "choices": [
+        "La sola produzione di urea nel rene a partire dall'ammoniaca",
+        "Esclusivamente la sintesi delle proteine strutturali della cellula",
+        "Esclusivamente la digestione degli amminoacidi nello stomaco",
+        "La rimozione dell'azoto e il riutilizzo dello scheletro carbonioso",
+        "Il trasporto degli amminoacidi attraverso la barriera ematoencefalica"
+      ],
+      "answer": 3,
+      "explain": "Il metabolismo degli amminoacidi comprende la rimozione del gruppo amminico e l'utilizzo dello scheletro carbonioso per produrre energia, glucosio o corpi chetonici. La sola produzione di urea nel rene è il distrattore più insidioso perché l'urea è effettivamente il prodotto finale dell'azoto, ma viene sintetizzata nel fegato e costituisce solo l'ultima tappa della via. La sintesi proteica e la digestione gastrica sono processi distinti.",
+      "slide": 57
+    },
+    {
+      "id": "d04-b06-q032",
+      "q": "Da quali fonti provengono gli amminoacidi che il fegato utilizza per la degradazione?",
+      "choices": [
+        "Solo dalla sintesi batterica che avviene nel colon",
+        "Solo dalle proteine assunte ogni giorno con la dieta",
+        "Solo dalla sintesi degli amminoacidi ramificati nel muscolo",
+        "Solo dalla demolizione dell'emoglobina dei globuli rossi",
+        "Dalla dieta, dal ricambio proteico e dai tessuti periferici"
+      ],
+      "answer": 4,
+      "explain": "Il pool di amminoacidi disponibile per la degradazione epatica deriva contemporaneamente dall'alimentazione, dal continuo ricambio delle proteine corporee e dal rilascio da parte di muscolo e altri tessuti. Il fatto che provengano solo dalla dieta è il distrattore più insidioso perché sottovaluta il ruolo del turn-over proteico, che è sempre attivo anche a digiuno. La demolizione dell'emoglobina e la sintesi batterica non sono le fonti principali di questo pool.",
+      "slide": 57
+    },
+    {
+      "id": "d04-b06-q033",
+      "q": "Quale destino può avere lo scheletro carbonioso degli amminoacidi degradati nel fegato?",
+      "choices": [
+        "Può essere ossidato per produrre energia o convertito in glucosio",
+        "Viene sempre eliminato con le urine sotto forma di urea",
+        "Viene esclusivamente convertito in ammoniaca nel fegato",
+        "Viene sempre trasformato in acidi nucleici e proteine",
+        "Viene eliminato con la bile sotto forma di colesterolo"
+      ],
+      "answer": 0,
+      "explain": "Una volta rimosso l'azoto, lo scheletro carbonioso entra nel metabolismo energetico e, nel fegato, può alimentare la gluconeogenesi. Il fatto che venga sempre eliminato come urea è il distrattore più insidioso perché confonde il destino dell'azoto con quello del carbonio: l'urea contiene l'azoto, non lo scheletro carbonioso. Questo scheletro non viene convertito in ammoniaca né in acidi nucleici.",
+      "slide": 57
+    },
+    {
+      "id": "d04-b06-q034",
+      "q": "Quale tessuto è la principale sede di proteolisi, soprattutto in condizioni di digiuno, traumi, ustioni o setticemia?",
+      "choices": [
+        "Il fegato, sede della sintesi dell'urea",
+        "Il muscolo scheletrico",
+        "Il tessuto adiposo, ricco di trigliceridi",
+        "L'osso, sede del rimodellamento calcico",
+        "Il cervello, che consuma glucosio e corpi chetonici"
+      ],
+      "answer": 1,
+      "explain": "Il muscolo scheletrico è la principale sede di proteolisi: in condizioni di stress o digiuno demolisce le proprie proteine per liberare amminoacidi utilizzabili dal resto dell'organismo. Il fegato è il distrattore più insidioso perché è il maggior sito di degradazione degli amminoacidi, ma la proteolisi delle proteine tissutali avviene soprattutto nel muscolo. Il tessuto adiposo, l'osso e il cervello non sono sedi rilevanti di proteolisi.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q035",
+      "q": "Quale ormone, durante il digiuno, stimola la captazione epatica degli amminoacidi plasmatici?",
+      "choices": [
+        "L'aldosterone",
+        "L'insulina",
+        "Il glucagone",
+        "Il cortisolo",
+        "L'ormone della crescita"
+      ],
+      "answer": 2,
+      "explain": "Durante il digiuno il glucagone segnala la necessità di produrre glucosio e favorisce la captazione epatica degli amminoacidi plasmatici, che diventano substrati della gluconeogenesi. L'insulina è il distrattore più insidioso perché è l'ormone dello stato post-prandiale e ha un'azione opposta, favorendo l'anabolismo e l'ingresso degli amminoacidi nelle cellule in un contesto di abbondanza. Aldosterone e ormone della crescita non governano questa tappa del metabolismo azotato.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q036",
+      "q": "In quali condizioni il muscolo aumenta la propria proteolisi per fornire amminoacidi all'organismo?",
+      "choices": [
+        "Durante l'assunzione di una dieta ipercalorica",
+        "Durante la digestione di un pasto ricco di carboidrati",
+        "Durante il riposo notturno in stato post-prandiale",
+        "Durante il digiuno, i traumi, le ustioni e la setticemia",
+        "Durante l'attività fisica leggera dopo un pasto"
+      ],
+      "answer": 3,
+      "explain": "In tutte queste condizioni l'organismo ha bisogno di amminoacidi per la gluconeogenesi e per la risposta di fase acuta, e il muscolo risponde aumentando la proteolisi. Il riposo notturno in stato post-prandiale è il distrattore più insidioso perché in quella fase prevale l'anabolismo e la proteolisi muscolare resta contenuta. Una dieta ipercalorica e l'attività fisica leggera dopo il pasto non attivano la proteolisi muscolare.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q037",
+      "q": "Quale affermazione descrive correttamente il rapporto tra muscolo e fegato nel metabolismo degli amminoacidi?",
+      "choices": [
+        "Il fegato produce proteine muscolari partendo dall'urea",
+        "Il fegato libera amminoacidi che il muscolo degrada",
+        "Entrambi gli organi degradano gli amminoacidi senza scambiarsi substrati",
+        "Il muscolo degrada gli amminoacidi e invia direttamente urea al fegato",
+        "Il muscolo libera amminoacidi che il fegato capta e degrada"
+      ],
+      "answer": 4,
+      "explain": "Esiste un asse metabolico muscolo-fegato: il muscolo produce amminoacidi per proteolisi e il fegato li capta e li degrada. L'affermazione che il muscolo degradi gli amminoacidi inviando urea al fegato è il distrattore più insidioso perché inverte il senso del flusso: l'urea viene sintetizzata nel fegato, non nel muscolo. Il fegato non produce proteine muscolari a partire dall'urea.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q038",
+      "q": "Perché la proteolisi muscolare intensa può essere pericolosa per il paziente critico?",
+      "choices": [
+        "Perché sottrae massa muscolare e aumenta il carico azotato",
+        "Perché blocca completamente la sintesi di urea nel fegato",
+        "Perché impedisce l'assorbimento intestinale degli zuccheri",
+        "Perché trasforma direttamente gli amminoacidi in colesterolo",
+        "Perché aumenta la produzione di insulina da parte del pancreas"
+      ],
+      "answer": 0,
+      "explain": "La demolizione delle proteine muscolari sottrae massa contrattile e libera grandi quantità di azoto che il fegato deve convertire in urea. Il blocco completo della sintesi di urea è il distrattore più insidioso perché in realtà la sintesi aumenta per far fronte al maggior carico azotato. Questa condizione non impedisce l'assorbimento degli zuccheri né trasforma gli amminoacidi in colesterolo.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q039",
+      "q": "Quale amminoacido viene liberato dal muscolo in contrazione vigorosa per trasportare l'azoto al fegato?",
+      "choices": [
+        "Il glutammato",
+        "L'alanina",
+        "L'aspartato",
+        "La glutammina",
+        "La glicina"
+      ],
+      "answer": 1,
+      "explain": "Il muscolo in contrazione vigorosa produce piruvato e ione ammonio, che vengono uniti e inviati al fegato sotto forma di alanina. Il glutammato è il distrattore più insidioso perché è il principale trasportatore di azoto all'interno del fegato, ma dal muscolo il vettore è l'alanina. La glutammina trasporta azoto tra gli organi in altre situazioni, ma non è il vettore descritto in questo contesto.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q040",
+      "q": "Oltre al piruvato, quale specie azotata si forma nel muscolo sottoposto a contrazione vigorosa?",
+      "choices": [
+        "L'acido urico",
+        "L'urea",
+        "Lo ione ammonio",
+        "La creatinina",
+        "Il glutammato"
+      ],
+      "answer": 2,
+      "explain": "La contrazione vigorosa genera piruvato e ione ammonio, che il muscolo combina in alanina per esportare l'azoto in forma non tossica. L'urea è il distrattore più insidioso perché è il prodotto finale dello smaltimento dell'azoto, ma viene sintetizzata nel fegato e non nel muscolo. Acido urico e creatinina derivano da altre vie metaboliche.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q041",
+      "q": "Quale reazione permette al muscolo di formare alanina a partire dal piruvato e dallo ione ammonio?",
+      "choices": [
+        "Una fosforilazione ossidativa del piruvato nel mitocondrio",
+        "Una deaminazione ossidativa diretta del piruvato",
+        "Una decarbossilazione del piruvato ad acetil-CoA",
+        "Una transaminazione che cede l'azoto al piruvato",
+        "Una idrolisi del piruvato con produzione di urea"
+      ],
+      "answer": 3,
+      "explain": "Il piruvato è l'α-chetoacido corrispondente all'alanina: ricevendo un gruppo amminico per transaminazione si trasforma in alanina. La decarbossilazione del piruvato è il distrattore più insidioso perché è una reazione reale del piruvato, ma porta ad acetil-CoA e non ad alanina. La deaminazione ossidativa e la fosforilazione ossidativa non producono alanina.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q042",
+      "q": "Perché la conversione dell'azoto in alanina è vantaggiosa per il muscolo in attività?",
+      "choices": [
+        "Perché impedisce la contrazione muscolare durante lo sforzo",
+        "Perché produce ATP in grande quantità senza consumo di ossigeno",
+        "Perché elimina direttamente l'azoto attraverso le urine",
+        "Perché trasforma l'azoto in urea all'interno del muscolo",
+        "Perché trasporta l'azoto in forma non tossica fino al fegato"
+      ],
+      "answer": 4,
+      "explain": "L'ammoniaca libera è tossica, soprattutto per il sistema nervoso: legarla al piruvato sotto forma di alanina permette di trasportarla al fegato in sicurezza. Il fatto che trasformi l'azoto in urea nel muscolo è il distrattore più insidioso perché il muscolo non possiede il ciclo dell'urea, che è epatico. Il trasporto sotto forma di alanina non produce ATP e non blocca la contrazione.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q043",
+      "q": "Dove viene ulteriormente metabolizzata l'alanina rilasciata dal muscolo in attività?",
+      "choices": [
+        "Nel fegato, dove l'azoto entra nel ciclo dell'urea",
+        "Nel rene, dove viene escreta direttamente",
+        "Nel muscolo stesso, dove diventa urea",
+        "Nel tessuto adiposo, dove diventa trigliceride",
+        "Nel polmone, dove viene eliminata come gas"
+      ],
+      "answer": 0,
+      "explain": "L'alanina raggiunge il fegato, dove per transaminazione restituisce l'azoto e lo convoglia al ciclo dell'urea per l'eliminazione. Il fatto che venga escreta direttamente dal rene è il distrattore più insidioso perché il rene elimina l'urea e non l'alanina. Il muscolo non possiede il ciclo dell'urea e il polmone non elimina azoto in forma gassosa.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q044",
+      "q": "Quale ciclo metabolico descrive lo scambio di azoto tra muscolo e fegato attraverso l'alanina?",
+      "choices": [
+        "Il ciclo dell'urea",
+        "Il ciclo glucosio-alanina",
+        "Il ciclo di Krebs",
+        "Il ciclo di Cori dell'acido lattico",
+        "Il ciclo della glutammina"
+      ],
+      "answer": 1,
+      "explain": "Il ciclo glucosio-alanina descrive il trasporto dell'azoto dal muscolo al fegato sotto forma di alanina e il ritorno del glucosio al muscolo. Il ciclo di Cori dell'acido lattico è il distrattore più insidioso perché è anch'esso uno scambio muscolo-fegato, ma riguarda il carbonio del lattato e non il trasporto dell'azoto. Il ciclo dell'urea avviene solo nel fegato e il ciclo di Krebs è la via ossidativa mitocondriale.",
+      "slide": 59
+    },
+    {
+      "id": "d04-b06-q045",
+      "q": "Quale coenzima è indispensabile per l'attività di tutte le transaminasi?",
+      "choices": [
+        "Il FAD, coenzima delle deidrogenasi",
+        "Il NAD+, coenzima delle deidrogenasi",
+        "Il piridossal fosfato",
+        "Il coenzima A, che attiva gli acili grassi",
+        "La biotina, coenzima delle carbossilasi"
+      ],
+      "answer": 2,
+      "explain": "Tutte le transaminasi dipendono dal piridossal fosfato, un coenzima derivato dalla vitamina B6 che trasporta temporaneamente il gruppo amminico. Il NAD+ è il distrattore più insidioso perché è un coenzima reale del metabolismo degli amminoacidi, ma opera nelle deidrogenasi come la glutammato deidrogenasi, non nelle transaminasi. FAD, coenzima A e biotina intervengono in altre reazioni metaboliche.",
+      "slide": 52
+    },
+    {
+      "id": "d04-b06-q046",
+      "q": "Quale sequenza descrive correttamente il destino dell'azoto di un amminoacido degradato nel fegato?",
+      "choices": [
+        "Transaminazione su piruvato, formazione di creatina, escrezione urinaria",
+        "Decarbossilazione degli amminoacidi, formazione di urea, escrezione biliare",
+        "Deaminazione diretta di tutti gli amminoacidi, escrezione renale di ammoniaca",
+        "Transaminazione su α-chetoglutarato, poi deaminazione e ciclo dell'urea",
+        "Ossidazione completa ad anidride carbonica con perdita dell'azoto come gas"
+      ],
+      "answer": 3,
+      "explain": "L'azoto degli amminoacidi viene prima raccolto sull'α-chetoglutarato per transaminazione, poi liberato come ammoniaca dalla glutammato deidrogenasi e infine convertito in urea. La deaminazione diretta di tutti gli amminoacidi è il distrattore più insidioso perché la deaminazione ossidativa diretta riguarda soprattutto il glutammato. L'azoto non viene perso come gas e la creatina non è un prodotto di questa via.",
+      "slide": 50
+    },
+    {
+      "id": "d04-b06-q047",
+      "q": "Durante il digiuno prolungato, quale insieme di eventi sostiene la produzione epatica di glucosio?",
+      "choices": [
+        "Decarbossilazione degli amminoacidi e sintesi di corpi chetonici nel muscolo",
+        "Sintesi proteica muscolare e glicogenosintesi epatica",
+        "Lipogenesi epatica e sintesi di colesterolo",
+        "Glicolisi epatica e produzione di lattato",
+        "Proteolisi muscolare, trasporto di alanina al fegato e gluconeogenesi"
+      ],
+      "answer": 4,
+      "explain": "Nel digiuno il muscolo demolisce proteine, invia alanina al fegato e il fegato usa lo scheletro carbonioso dell'alanina per produrre glucosio. La lipogenesi epatica è il distrattore più insidioso perché è una via epatica reale, ma è tipica dell'abbondanza energetica e non del digiuno. La sintesi proteica muscolare e la glicogenosintesi sono processi anabolici che il digiuno non favorisce.",
+      "slide": 58
+    },
+    {
+      "id": "d04-b06-q048",
+      "q": "Perché il dosaggio delle transaminasi è utile nel monitoraggio di un paziente con epatite?",
+      "choices": [
+        "Perché il loro aumento riflette la lisi degli epatociti",
+        "Perché misura direttamente la concentrazione di urea nel sangue",
+        "Perché valuta la capacità di coagulazione del plasma",
+        "Perché quantifica la massa muscolare del paziente",
+        "Perché misura la clearance renale dell'ammoniaca"
+      ],
+      "answer": 0,
+      "explain": "Le transaminasi sono enzimi intracellulari: quando gli epatociti sono danneggiati fuoriescono nel plasma e la loro attività aumenta, segnalando l'entità del danno. Il fatto che misurino la concentrazione di urea è il distrattore più insidioso perché l'urea è un marcatore della funzione epatica, ma non è ciò che le transaminasi dosano. La coagulazione si valuta con altri parametri come il tempo di protrombina.",
+      "slide": 55
+    },
+    {
+      "id": "d04-b06-q049",
+      "q": "Un uomo presenta una GOT di trentasei unità per litro: come si interpreta questo valore?",
+      "choices": [
+        "Supera il limite di riferimento tipico degli uomini",
+        "Rientra nell'intervallo di riferimento maschile",
+        "È inferiore a ogni valore di riferimento umano",
+        "Corrisponde al limite di riferimento della GPT",
+        "Indica certamente una necrosi miocardica"
+      ],
+      "answer": 1,
+      "explain": "Negli uomini il limite superiore di riferimento della GOT è quaranta unità per litro, quindi un valore di trentasei rientra nella norma. Il fatto che superi il limite maschile è il distrattore più insidioso perché si applica per errore il limite femminile di trentacinque unità per litro. Un singolo valore nei limiti non dimostra né esclude una necrosi miocardica, che richiede valutazione clinica e altri marker.",
+      "slide": 56
+    },
+    {
+      "id": "d04-b06-q050",
+      "q": "Che cosa indica la definizione di transaminasi come enzimi a bassa affinità per gli amminoacidi?",
+      "choices": [
+        "Che funzionano solo a temperature superiori a quaranta gradi",
+        "Che non riescono a legare il coenzima piridossal fosfato",
+        "Che lavorano meglio quando gli amminoacidi sono abbondanti",
+        "Che degradano gli amminoacidi senza produrre α-chetoacidi",
+        "Che sono attive soltanto nel muscolo scheletrico"
+      ],
+      "answer": 2,
+      "explain": "Una bassa affinità per il substrato fa sì che l'enzima diventi efficiente solo a concentrazioni elevate di amminoacidi, cioè quando serve smaltirne l'eccesso. Il fatto che non riescano a legare il piridossal fosfato è il distrattore più insidioso perché il coenzima è invece essenziale per il loro funzionamento. Questi enzimi non degradano gli amminoacidi senza produrre α-chetoacidi e non sono esclusivi del muscolo.",
+      "slide": 54
+    }
+  ]
+}

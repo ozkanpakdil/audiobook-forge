@@ -1,0 +1,707 @@
+{
+  "deck": 4,
+  "batch": 8,
+  "topic": "Anabolismo degli amminoacidi e metabolismo intermedio",
+  "questions": [
+    {
+      "id": "d04-b08-q001",
+      "q": "Che cosa significa che un amminoacido è essenziale per l'organismo umano?",
+      "choices": [
+        "Può sempre essere sintetizzato dall'organismo a partire da intermedi comuni del metabolismo energetico",
+        "Deve essere introdotto con la dieta, perché l'organismo non lo sintetizza in quantità sufficienti",
+        "È necessario soltanto durante la crescita e non nell'adulto",
+        "Deve essere convertito in urea prima di poter essere utilizzato",
+        "Viene assorbito nell'intestino soltanto in presenza di vitamina C"
+      ],
+      "answer": 1,
+      "explain": "Gli amminoacidi essenziali non possono essere prodotti dall'organismo in quantità adeguata e vanno quindi assunti con le proteine della dieta, mentre quelli non essenziali sono sintetizzabili da intermedi comuni. L'opzione che li considera sempre sintetizzabili confonde le due categorie: in realtà la carenza di un solo amminoacido essenziale limita la sintesi proteica.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q002",
+      "q": "In quali organismi l'azoto atmosferico viene convertito in ammoniaca, primo passo dell'ingresso dell'azoto nei composti organici?",
+      "choices": [
+        "Negli animali superiori, compreso l'uomo, grazie all'enzima nitrogenasi mitocondriale",
+        "Nell'uomo, a livello epatico, durante il ciclo dell'urea",
+        "Nei mammiferi, nel rene, per opera della glutaminasi",
+        "In alcuni batteri e cianobatteri, grazie al complesso della nitrogenasi",
+        "Nei funghi, per opera della nitrato reduttasi"
+      ],
+      "answer": 3,
+      "explain": "Solo i procarioti azotofissatori possiedono la nitrogenasi, che riduce l'azoto molecolare ad ammoniaca; l'azoto così fissato entra nella biosintesi degli amminoacidi e delle basi azotate. L'uomo e gli altri mammiferi non possiedono questo enzima e devono ricavare l'azoto dagli amminoacidi della dieta, non dall'aria.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q003",
+      "q": "Quale coppia di amminoacidi funziona come principale donatore di gruppi amminici nelle reazioni di biosintesi?",
+      "choices": [
+        "Glutammato e glutammina",
+        "Leucina e lisina",
+        "Fenilalanina e triptofano",
+        "Metionina e cisteina",
+        "Valina e isoleucina"
+      ],
+      "answer": 0,
+      "explain": "Glutammato e glutammina sono le riserve mobili del gruppo amminico: il glutammato lo trasferisce nelle transaminazioni e la glutammina lo trasporta in forma non tossica nel sangue. Leucina e lisina sono amminoacidi essenziali e non svolgono questo ruolo di donatori, perché il loro catabolismo è prevalentemente chetogenico.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q004",
+      "q": "Quale vitamina è il precursore del piridossal fosfato, il coenzima necessario alle transaminasi?",
+      "choices": [
+        "Tiamina",
+        "Riboflavina",
+        "Acido folico",
+        "Cobalamina",
+        "Piridossina"
+      ],
+      "answer": 4,
+      "explain": "Il piridossal fosfato deriva dalla piridossina, cioè la vitamina B6, e funge da trasportatore transitorio di gruppi amminici nel sito attivo delle transaminasi. La tiamina e la riboflavina intervengono rispettivamente nelle decarbossilazioni ossidative e nel trasporto di elettroni, non nella transaminazione.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q005",
+      "q": "Quale enzima libera ione ammonio trasformando il glutammato in α-chetoglutarato?",
+      "choices": [
+        "La glutammina sintetasi",
+        "La glutaminasi",
+        "La glutammato deidrogenasi",
+        "L'alanina aminotransferasi",
+        "La glutammato sintasi"
+      ],
+      "answer": 2,
+      "explain": "La glutammato deidrogenasi catalizza la deaminazione ossidativa del glutammato, con produzione di α-chetoglutarato, NAD(P)H e ione ammonio; è la tappa che collega il metabolismo degli amminoacidi al ciclo di Krebs. La glutammina sintetasi compie la reazione opposta di consumo di ammonio, mentre la glutaminasi idrolizza la glutammina liberando glutammato e ammonio.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q006",
+      "q": "Quale reazione catalizza la glutammina sintetasi?",
+      "choices": [
+        "Glutammato più ammonio più ATP danno glutammina, ADP e fosfato",
+        "Glutammina più acqua danno glutammato e ione ammonio con consumo di ATP",
+        "Glutammato più NAD più danno α-chetoglutarato e ammonio",
+        "α-chetoglutarato più alanina danno glutamato e piruvato",
+        "Glutammina più aspartato danno asparagina e glutammato"
+      ],
+      "answer": 0,
+      "explain": "La glutammina sintetasi consuma ATP per legare l'ammonio al glutammato formando glutammina, che è la forma di trasporto non tossica dell'azoto. L'idrolisi della glutammina con liberazione di ammonio è invece opera della glutaminasi e non della sintetasi, quindi la seconda opzione è sbagliata.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q007",
+      "q": "Da quale amminoacido deriva la prolina nella sua via biosintetica?",
+      "choices": [
+        "Serina",
+        "Aspartato",
+        "Alanina",
+        "Glutammato",
+        "Fenilalanina"
+      ],
+      "answer": 3,
+      "explain": "La prolina appartiene alla famiglia del glutammato: questo viene attivato a glutammato semialdeide e poi ciclizzato in prolina, con consumo di NADPH. Serina e aspartato appartengono ad altre famiglie biosintetiche e non sono i precursori della prolina.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q008",
+      "q": "Quale amminoacido è il precursore diretto della tirosina nell'organismo umano?",
+      "choices": [
+        "Triptofano",
+        "Fenilalanina",
+        "Istidina",
+        "Metionina",
+        "Lisina"
+      ],
+      "answer": 1,
+      "explain": "La fenilalanina idrossilasi converte la fenilalanina in tirosina usando la tetraidrobiopterina come cofattore; per questo la tirosina diventa essenziale quando l'enzima è difettoso. Il triptofano è il precursore della serotonina e l'istidina quello dell'istamina, non della tirosina.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q009",
+      "q": "Da quale intermedio della glicolisi prende origine la biosintesi della serina?",
+      "choices": [
+        "Glucosio-6-fosfato",
+        "Fruttosio-1,6-bisfosfato",
+        "Piruvato",
+        "Acetil-coenzima A",
+        "3-fosfoglicerato"
+      ],
+      "answer": 4,
+      "explain": "Il 3-fosfoglicerato viene ossidato e poi transaminato con il glutammato per dare serina, dalla quale derivano successivamente glicina e cisteina. Il piruvato è invece il precursore della famiglia di alanina e degli amminoacidi a catena ramificata.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q010",
+      "q": "Quali due intermedi convergono nella via biosintetica che porta agli amminoacidi aromatici?",
+      "choices": [
+        "Piruvato e ossalacetato, due intermedi del ciclo di Krebs",
+        "α-chetoglutarato e ribosio-5-fosfato",
+        "Fosfoenolpiruvato ed eritrosio-4-fosfato",
+        "Acetil-coenzima A e aspartato",
+        "Succinil-coenzima A e glicina"
+      ],
+      "answer": 2,
+      "explain": "La via dello shikimato, presente nelle piante e nei microrganismi, combina fosfoenolpiruvato ed eritrosio-4-fosfato e conduce a fenilalanina, tirosina e triptofano. Piruvato e ossalacetato danno invece alanina e aspartato, che non sono amminoacidi aromatici.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q011",
+      "q": "Da quale precursore deriva la biosintesi dell'istidina?",
+      "choices": [
+        "Ribosio-5-fosfato, attivato come fosforibosil pirofosfato",
+        "α-chetoglutarato",
+        "Ossalacetato",
+        "3-fosfoglicerato, intermedio a tre atomi di carbonio della glicolisi",
+        "Acetil-coenzima A"
+      ],
+      "answer": 0,
+      "explain": "L'istidina si forma a partire dal fosforibosil pirofosfato, lo stesso intermedio della biosintesi delle purine, e la sua via comprende anche un trasferimento di azoto dal glutammato. Il suo carattere di amminoacido essenziale nell'uomo riflette la lunghezza e il costo energetico di questa via.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q012",
+      "q": "Quale intermedio del ciclo di Krebs è il precursore della famiglia che comprende aspartato e asparagina?",
+      "choices": [
+        "α-chetoglutarato",
+        "Succinil-coenzima A",
+        "Fumarato",
+        "Ossalacetato",
+        "Citrato"
+      ],
+      "answer": 3,
+      "explain": "L'ossalacetato viene transaminato con il glutammato per dare aspartato, dal quale si ottiene l'asparagina; nelle piante e nei batteri dalla stessa famiglia derivano anche metionina, treonina e lisina. L'α-chetoglutarato è invece il precursore della famiglia del glutammato.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q013",
+      "q": "Quale intermedio è il precursore dell'alanina e degli amminoacidi a catena ramificata?",
+      "choices": [
+        "Ossalacetato",
+        "Piruvato",
+        "α-chetoglutarato",
+        "Ribosio-5-fosfato",
+        "3-fosfoglicerato"
+      ],
+      "answer": 1,
+      "explain": "Il piruvato viene transaminato direttamente ad alanina e fornisce lo scheletro carbonioso di valina, leucina e isoleucina. L'ossalacetato è il precursore dell'aspartato e l'α-chetoglutarato quello del glutammato, quindi non appartengono a questa famiglia.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q014",
+      "q": "Da quale amminoacido la cisteina riceve il proprio atomo di zolfo?",
+      "choices": [
+        "Dalla serina, che fornisce lo scheletro carbonioso",
+        "Dalla glicina",
+        "Dalla lisina",
+        "Dall'aspartato",
+        "Dalla metionina, attraverso l'omocisteina"
+      ],
+      "answer": 4,
+      "explain": "Nell'uomo la serina fornisce lo scheletro carbonioso della cisteina, ma lo zolfo proviene dalla metionina attraverso l'omocisteina e la cistationina. La metionina è perciò essenziale e la cisteina diventa condizionatamente essenziale quando l'apporto di metionina è insufficiente.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q015",
+      "q": "Quale reazione produce glicina nella biosintesi degli amminoacidi?",
+      "choices": [
+        "La transaminazione del gliossilato con l'alanina, una via secondaria che porta a glicina e piruvato",
+        "La deaminazione ossidativa del glutammato",
+        "La rimozione di un gruppo monocarbonioso dalla serina, con formazione di tetraidrofolato",
+        "La decarbossilazione dell'istidina",
+        "L'idrolisi della glutammina"
+      ],
+      "answer": 2,
+      "explain": "La serina idrossimetiltransferasi trasferisce un'unità monocarboniosa dalla serina al tetraidrofolato generando glicina; la reazione è reversibile e collega il metabolismo degli amminoacidi a quello dei composti monocarboniosi. La transaminazione del gliossilato è una via secondaria e non la principale fonte di glicina.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q016",
+      "q": "Quali tre amminoacidi compongono il glutatione?",
+      "choices": [
+        "Alanina, glicina e metionina",
+        "Glutammina, cisteina e alanina",
+        "Aspartato, cisteina e lisina",
+        "Glutammato, cisteina e glicina",
+        "Serina, glicina e arginina"
+      ],
+      "answer": 3,
+      "explain": "Il glutatione è un tripeptide formato da glutammato, cisteina e glicina, in cui il gruppo sulfidrilico della cisteina è responsabile dell'azione antiossidante. La sua sintesi richiede ATP e avviene in due tappe, con la γ-glutamilcisteina sintetasi come passaggio limitante.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q017",
+      "q": "Quali amminoacidi forniscono gli scheletri carboniosi per la sintesi della creatina?",
+      "choices": [
+        "Glicina, arginina e metionina",
+        "Alanina, serina e prolina",
+        "Lisina, leucina e valina",
+        "Aspartato, asparagina e glutammina",
+        "Tirosina, triptofano e fenilalanina"
+      ],
+      "answer": 0,
+      "explain": "La creatina si forma a partire da glicina e arginina, mentre la metionina fornisce il gruppo metilico tramite la S-adenosilmetionina. Il fosfato di creatina funge da riserva energetica nel muscolo e la creatinina derivante dal suo catabolismo viene eliminata dal rene.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q018",
+      "q": "Quale reazione avvia la sintesi dell'eme?",
+      "choices": [
+        "La condensazione di due molecole di glicina con perdita di anidride carbonica",
+        "La decarbossilazione del glutammato",
+        "La condensazione della glicina con il succinil-coenzima A",
+        "La transaminazione dell'ossalacetato",
+        "L'idrolisi della glutammina"
+      ],
+      "answer": 2,
+      "explain": "L'enzima δ-aminolevulinato sintasi condensa glicina e succinil-coenzima A formando acido δ-aminolevulinico, con il piridossal fosfato come cofattore. Si tratta di una tappa mitocondriale e limitante, regolata dalla disponibilità di ferro e dal prodotto finale della via.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q019",
+      "q": "Quante molecole di ATP si producono al netto nella glicolisi a partire da una molecola di glucosio?",
+      "choices": [
+        "Una",
+        "Tre",
+        "Quattro",
+        "Sei",
+        "Due"
+      ],
+      "answer": 4,
+      "explain": "Nella glicolisi si consumano due ATP nelle tappe di attivazione e se ne formano quattro nella fase di recupero energetico, con un guadagno netto di due ATP per molecola di glucosio. L'opzione quattro è insidiosa perché indica la produzione lorda e non tiene conto dei due ATP investiti all'inizio.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q020",
+      "q": "Da quale amminoacido derivano le catecolamine adrenalina e noradrenalina?",
+      "choices": [
+        "Dal triptofano",
+        "Dalla tirosina",
+        "Dall'istidina",
+        "Dalla glutammina",
+        "Dalla colina"
+      ],
+      "answer": 1,
+      "explain": "La tirosina viene convertita in diidrossifenilalanina e poi in dopamina, precursore di noradrenalina e adrenalina. La colina è il precursore dell'acetilcolina e non ha alcuna relazione con le catecolamine, mentre il triptofano porta alla serotonina.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q021",
+      "q": "Quale neurotrasmettitore inibitorio si forma per decarbossilazione del glutammato?",
+      "choices": [
+        "La serotonina",
+        "L'istamina, derivata dalla decarbossilazione dell'istidina",
+        "L'acido γ-amminobutirrico",
+        "La dopamina",
+        "La noradrenalina"
+      ],
+      "answer": 2,
+      "explain": "La glutammato decarbossilasi rimuove il carbossile del glutammato formando l'acido γ-amminobutirrico, il principale neurotrasmettitore inibitorio del sistema nervoso centrale. La reazione richiede piridossal fosfato, lo stesso cofattore delle transaminazioni.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q022",
+      "q": "Quale amminoacido è il substrato della ossido nitrico sintasi?",
+      "choices": [
+        "L'arginina",
+        "La glutammina",
+        "La serina",
+        "La metionina",
+        "Il triptofano"
+      ],
+      "answer": 0,
+      "explain": "L'ossido nitrico sintasi converte l'arginina in citrullina liberando ossido nitrico, un mediatore della vasodilatazione e della segnalazione cellulare. La glutammina è invece un trasportatore di azoto e la serina un precursore della glicina, quindi non sono substrati di questo enzima.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q023",
+      "q": "Quale composto è il principale donatore di gruppi metilici nelle biosintesi cellulari?",
+      "choices": [
+        "Il tetraidrofolato, che trasporta unità monocarboniose",
+        "Il coenzima A",
+        "Il piridossal fosfato",
+        "La S-adenosilmetionina",
+        "La biotina"
+      ],
+      "answer": 3,
+      "explain": "La S-adenosilmetionina cede il proprio gruppo metilico in numerose reazioni, tra cui la sintesi di creatina e di fosfatidilcolina e la metilazione del DNA. Il tetraidrofolato trasporta unità monocarboniose a livelli di ossidazione diversi, ma non è il donatore diretto di metili nelle metiltransferasi.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q024",
+      "q": "Quale enzima richiede la vitamina B12 come cofattore nel metabolismo degli amminoacidi?",
+      "choices": [
+        "La glutammato deidrogenasi",
+        "La metionina sintasi",
+        "L'alanina aminotransferasi",
+        "La piruvato carbossilasi",
+        "La glutammina sintetasi"
+      ],
+      "answer": 1,
+      "explain": "La metionina sintasi rigenera metionina dall'omocisteina trasferendo un metile dal metiltetraidrofolato e utilizza la cobalamina come cofattore. La piruvato carbossilasi dipende invece dalla biotina e le transaminasi dal piridossal fosfato.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q025",
+      "q": "Quale difetto enzimatico determina la fenilchetonuria?",
+      "choices": [
+        "La carenza di glutammato deidrogenasi",
+        "Il deficit di metionina sintasi",
+        "Il deficit di cistationina β-sintasi",
+        "La carenza di piruvato carbossilasi, enzima della gluconeogenesi",
+        "Il deficit di fenilalanina idrossilasi"
+      ],
+      "answer": 4,
+      "explain": "Senza fenilalanina idrossilasi la fenilalanina si accumula e viene deviata verso metaboliti tossici per il sistema nervoso, mentre la tirosina diventa un amminoacido essenziale. Un quadro simile si osserva quando manca il cofattore tetraidrobiopterina necessario all'enzima.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q026",
+      "q": "Perché le transaminasi alanina aminotransferasi e aspartato aminotransferasi sono dosate nel sangue come indicatori di danno epatico?",
+      "choices": [
+        "Perché sono enzimi intracellulari che si liberano nel plasma quando gli epatociti sono danneggiati",
+        "Perché sono secrete attivamente dal fegato sano nel plasma e perciò riflettono sempre la funzione epatica",
+        "Perché catalizzano la sintesi dell'urea direttamente nel sangue",
+        "Perché aumentano fisiologicamente dopo ogni pasto proteico",
+        "Perché sono prodotte dal rene e non dal fegato"
+      ],
+      "answer": 0,
+      "explain": "Le transaminasi sono normalmente confinate negli epatociti e la loro presenza aumentata nel plasma segnala la perdita di integrità della membrana cellulare. Non sono secrete fisiologicamente nel sangue e non riflettono semplicemente l'apporto proteico della dieta.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q027",
+      "q": "Che cosa si intende per reazione anaplerotica nel metabolismo intermedio?",
+      "choices": [
+        "Una reazione che consuma intermedi del ciclo di Krebs per la sintesi di glucosio",
+        "Una reazione che trasferisce gruppi amminici da un amminoacido a un chetoacido",
+        "Una reazione che rifornisce di intermedi il ciclo di Krebs",
+        "Una reazione che trasferisce elettroni alla catena respiratoria",
+        "Una reazione che idrolizza l'ATP in AMP e pirofosfato"
+      ],
+      "answer": 2,
+      "explain": "Le reazioni anaplerotiche reintegrano gli intermedi del ciclo di Krebs sottratti per le biosintesi; ne è un esempio la carbossilazione del piruvato ad ossalacetato. Le reazioni che invece svuotano il ciclo sono dette cataplerotiche e devono essere bilanciate dalle prime.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q028",
+      "q": "Quale cofattore è richiesto dalla piruvato carbossilasi, che converte il piruvato in ossalacetato?",
+      "choices": [
+        "Il piridossal fosfato",
+        "La cobalamina",
+        "Il tetraidrofolato",
+        "La tiamina pirofosfato",
+        "La biotina"
+      ],
+      "answer": 4,
+      "explain": "La piruvato carbossilasi è un enzima biotina-dipendente che aggiunge una molecola di anidride carbonica al piruvato formando ossalacetato nel mitocondrio. Questa reazione è essenziale per rifornire il ciclo di Krebs e per avviare la gluconeogenesi.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q029",
+      "q": "In che modo l'aspartato collega la biosintesi degli amminoacidi al ciclo di Krebs?",
+      "choices": [
+        "L'aspartato inibisce la prima tappa del ciclo",
+        "L'aspartato viene transaminato a ossalacetato, che entra nel ciclo, mentre l'ossalacetato viene ritrasformato in aspartato",
+        "L'aspartato viene decarbossilato ad acetil-coenzima A",
+        "L'aspartato viene idrolizzato a urea e fumarato",
+        "L'aspartato cede azoto al glutammato formando citrato"
+      ],
+      "answer": 1,
+      "explain": "Lo shunt aspartato-argininosuccinato collega il ciclo dell'urea al ciclo di Krebs: l'ossalacetato viene transaminato ad aspartato, che entra nel ciclo dell'urea, e il fumarato liberato rientra nel ciclo di Krebs come malato. Questo intreccio permette di smaltire l'azoto senza esaurire gli intermedi del ciclo.",
+      "slide": 71
+    },
+    {
+      "id": "d04-b08-q030",
+      "q": "Che cosa indica un bilancio azotato negativo?",
+      "choices": [
+        "Che l'apporto di azoto supera le perdite e la proteina corporea si accumula, come nella crescita",
+        "Che la sintesi proteica e la degradazione sono esattamente bilanciate",
+        "Che l'organismo assimila più azoto di quanto ne elimini",
+        "Che l'organismo perde più azoto di quanto ne introduca, come nel digiuno o nello stress",
+        "Che l'azoto atmosferico viene fissato a livello intestinale"
+      ],
+      "answer": 3,
+      "explain": "Il bilancio azotato confronta l'azoto introdotto con quello eliminato ed è negativo quando la degradazione proteica supera la sintesi, per esempio nel digiuno protratto o dopo un trauma. Un bilancio positivo caratterizza invece la crescita e la gravidanza.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q031",
+      "q": "Quali sono i tre corpi chetonici prodotti dal fegato?",
+      "choices": [
+        "Citrato, isocitrato e malato",
+        "Piruvato, lattato e alanina",
+        "Acetil-coenzima A, propionil-coenzima A e succinil-coenzima A",
+        "Colesterolo, acidi biliari e acidi grassi",
+        "Acetoacetato, β-idrossibutirrato e acetone"
+      ],
+      "answer": 4,
+      "explain": "Il fegato sintetizza acetoacetato, che può essere ridotto a β-idrossibutirrato e che decade spontaneamente in acetone. Questi composti sono combustibili idrosolubili utilizzati da cervello, muscolo cardiaco e muscolo scheletrico durante il digiuno.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q032",
+      "q": "Perché il fegato produce corpi chetonici ma non li utilizza come combustibile?",
+      "choices": [
+        "Perché non possiede gli enzimi della β-ossidazione necessari a degradare gli acidi grassi",
+        "Perché manca della tioforasi necessaria ad attivare l'acetoacetato in acetoacetil-coenzima A",
+        "Perché non possiede mitocondri",
+        "Perché non è raggiunto dal sangue portale",
+        "Perché esporta tutta l'anidride carbonica prodotta"
+      ],
+      "answer": 1,
+      "explain": "L'enzima succinil-coenzima A acetoacetato coenzima A transferasi, detto tioforasi, è assente nel fegato, che quindi non può riattivare i corpi chetonici per ossidarli. Questa carenza permette al fegato di esportarli agli organi periferici, che li utilizzano come fonte di acetil-coenzima A.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q033",
+      "q": "Che cosa descrive il ciclo di Cori?",
+      "choices": [
+        "Il passaggio di acidi grassi dal tessuto adiposo al fegato",
+        "Il trasporto di urea dal fegato al rene e la sua successiva escrezione con le urine",
+        "La conversione del lattato prodotto dal muscolo in glucosio nel fegato",
+        "La sintesi di proteine plasmatiche da parte del fegato",
+        "Il riciclo dell'azoto tra muscolo e rene"
+      ],
+      "answer": 2,
+      "explain": "Nel ciclo di Cori il muscolo in anaerobiosi riduce il piruvato a lattato, che raggiunge il fegato e viene riconvertito in glucosio per la gluconeogenesi. Il glucosio torna poi al muscolo, mentre il costo energetico netto del ciclo è sostenuto dal fegato.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q034",
+      "q": "Qual è la funzione principale del ciclo glucosio-alanina?",
+      "choices": [
+        "Trasportare in modo non tossico l'azoto dal muscolo al fegato insieme allo scheletro carbonioso del piruvato",
+        "Trasportare ossigeno dal polmone al muscolo durante lo sforzo",
+        "Convertire l'alanina muscolare in creatina fosfato",
+        "Eliminare direttamente l'ammonio con le urine",
+        "Trasferire acidi grassi dal fegato al muscolo"
+      ],
+      "answer": 0,
+      "explain": "Nel muscolo il piruvato accetta un gruppo amminico formando alanina, che viaggia nel sangue fino al fegato; qui l'alanina viene deaminata e lo scheletro carbonioso alimenta la gluconeogenesi. L'azoto raccolto entra nel ciclo dell'urea, evitando il trasporto di ammonio libero, che sarebbe tossico.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q035",
+      "q": "Quali organi sono le sedi principali della gluconeogenesi nell'uomo?",
+      "choices": [
+        "Il muscolo scheletrico e il tessuto adiposo",
+        "Il cervello e i globuli rossi",
+        "Il polmone e la milza",
+        "Il fegato e la corteccia renale",
+        "L'intestino tenue e il pancreas"
+      ],
+      "answer": 3,
+      "explain": "La gluconeogenesi avviene soprattutto nel fegato e, in misura minore, nella corteccia renale, che possiedono la glucosio-6-fosfatasi necessaria a liberare glucosio nel sangue. Il muscolo e il tessuto adiposo ne sono privi e possono soltanto consumare o immagazzinare il glucosio.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q036",
+      "q": "Quale enzima è esclusivo della gluconeogenesi e non compare nella glicolisi?",
+      "choices": [
+        "La fosfofruttochinasi-1, enzima chiave della glicolisi",
+        "Il fosfoenolpiruvato carbossichinasi",
+        "L'esochinasi",
+        "L'aldolasi",
+        "La piruvato chinasi"
+      ],
+      "answer": 1,
+      "explain": "La gluconeogenesi aggira le tappe irreversibili della glicolisi con quattro enzimi dedicati: piruvato carbossilasi, fosfoenolpiruvato carbossichinasi, fruttosio-1,6-bisfosfatasi e glucosio-6-fosfatasi. La fosfofruttochinasi-1 e la piruvato chinasi appartengono invece alla glicolisi e catalizzano reazioni irreversibili in senso opposto.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q037",
+      "q": "Perché gli acidi grassi non possono essere convertiti in glucosio nell'uomo?",
+      "choices": [
+        "Perché non vengono mai ossidati nei mitocondri",
+        "Perché producono troppo NADH",
+        "Perché non possono essere trasportati nel sangue",
+        "Perché danno luogo a corpi chetonici tossici",
+        "Perché la loro ossidazione produce acetil-coenzima A, che non può essere riconvertito in piruvato"
+      ],
+      "answer": 4,
+      "explain": "La decarbossilazione ossidativa del piruvato è irreversibile e l'uomo non possiede una via per trasformare l'acetil-coenzima A in glucosio; per questo gli acidi grassi sono gluconeogenici soltanto attraverso il glicerolo. Il glicerolo, liberato dalla lipolisi, entra nella gluconeogenesi come intermediario a tre atomi di carbonio.",
+      "slide": 72
+    },
+    {
+      "id": "d04-b08-q038",
+      "q": "Quale ruolo svolge il fruttosio-2,6-bisfosfato nella regolazione del metabolismo del glucosio?",
+      "choices": [
+        "È un intermedio della glicolisi consumato dall'aldolasi",
+        "Inibisce la fosfofruttochinasi-1 e attiva la fruttosio-1,6-bisfosfatasi",
+        "Attiva la fosfofruttochinasi-1 e inibisce la fruttosio-1,6-bisfosfatasi",
+        "Trasporta elettroni alla catena respiratoria",
+        "È il donatore di fosfato nella sintesi dell'ATP"
+      ],
+      "answer": 2,
+      "explain": "Il fruttosio-2,6-bisfosfato è un segnale che attiva la glicolisi e frena la gluconeogenesi, perché stimola la fosfofruttochinasi-1 e inibisce la fruttosio-1,6-bisfosfatasi. Nel digiuno la sua concentrazione epatica cala per effetto del glucagone, favorendo così la produzione di glucosio.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q039",
+      "q": "Quale ormone predomina nel periodo postprandiale e favorisce l'accumulo di riserve energetiche?",
+      "choices": [
+        "L'insulina",
+        "Il glucagone",
+        "Il cortisolo",
+        "L'adrenalina",
+        "L'ormone della crescita"
+      ],
+      "answer": 0,
+      "explain": "Dopo il pasto l'insulina stimola l'ingresso del glucosio nelle cellule, la glicogenosintesi, la lipogenesi e la sintesi proteica. Il glucagone agisce invece nel digiuno promuovendo glicogenolisi, gluconeogenesi e chetogenesi, con effetti opposti a quelli dell'insulina.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q040",
+      "q": "Quale effetto ha il glucagone sul fegato durante il digiuno?",
+      "choices": [
+        "Stimola la glicogenosintesi e la lipogenesi",
+        "Inibisce la gluconeogenesi",
+        "Aumenta l'assorbimento intestinale del glucosio",
+        "Stimola la glicogenolisi e la gluconeogenesi",
+        "Favorisce l'ingresso del glucosio nel muscolo"
+      ],
+      "answer": 3,
+      "explain": "Il glucagone, aumentando l'AMP ciclico e l'attività della protein chinasi A, attiva la glicogeno fosforilasi e gli enzimi gluconeogenetici, mantenendo la glicemia nel digiuno. L'insulina ha effetti opposti e prevale nel periodo postprandiale.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q041",
+      "q": "Quali due prodotti principali fornisce la via dei pentoso fosfati?",
+      "choices": [
+        "ATP e piruvato",
+        "NADH e acetil-coenzima A",
+        "NADPH e ribosio-5-fosfato",
+        "FADH2 e ossalacetato",
+        "Glucosio-6-fosfato e fruttosio-6-fosfato"
+      ],
+      "answer": 2,
+      "explain": "La via dei pentoso fosfati produce NADPH per le biosintesi riducenti e ribosio-5-fosfato per la sintesi dei nucleotidi. Nei globuli rossi il NADPH mantiene ridotto il glutatione, proteggendo l'emoglobina e la membrana dallo stress ossidativo.",
+      "slide": 72
+    },
+    {
+      "id": "d04-b08-q042",
+      "q": "Perché la carenza di glucosio-6-fosfato deidrogenasi provoca emolisi?",
+      "choices": [
+        "Perché impedisce la sintesi dell'eme",
+        "Perché blocca la glicolisi e la produzione di ATP necessaria a mantenere i gradienti ionici",
+        "Perché aumenta la produzione di corpi chetonici",
+        "Perché impedisce l'assorbimento intestinale del ferro",
+        "Perché riduce la produzione di NADPH e la capacità antiossidante del globulo rosso"
+      ],
+      "answer": 4,
+      "explain": "La glucosio-6-fosfato deidrogenasi catalizza la tappa limitante della via dei pentoso fosfati: la sua carenza riduce il NADPH disponibile per rigenerare il glutatione ridotto. Il globulo rosso, privo di mitocondri, diventa così vulnerabile allo stress ossidativo e va incontro a emolisi.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q043",
+      "q": "Durante il digiuno prolungato, quale adattamento riduce il consumo di proteine muscolari da parte del cervello?",
+      "choices": [
+        "L'aumento della glicolisi cerebrale",
+        "L'utilizzo dei corpi chetonici come combustibile alternativo da parte del cervello",
+        "La sintesi di glicogeno nel cervello",
+        "L'aumento dell'escrezione renale di glucosio",
+        "La conversione cerebrale degli acidi grassi in glucosio"
+      ],
+      "answer": 1,
+      "explain": "Quando il digiuno si prolunga, il fegato produce corpi chetonici che il cervello può ossidare, riducendo il fabbisogno di glucosio e quindi il catabolismo delle proteine muscolari. Il cervello non accumula glicogeno in quantità utili né converte gli acidi grassi in glucosio.",
+      "slide": 73
+    },
+    {
+      "id": "d04-b08-q044",
+      "q": "In quale modo il ciclo dell'urea contribuisce all'anabolismo degli amminoacidi?",
+      "choices": [
+        "Produce arginina, che viene idrolizzata a urea e ornitina e fornisce anche lo scheletro per altri composti azotati",
+        "Produce direttamente tutti gli amminoacidi essenziali",
+        "Converte l'urea in glucosio nel fegato",
+        "Trasforma l'ornitina in leucina",
+        "Fornisce piruvato per la gluconeogenesi"
+      ],
+      "answer": 0,
+      "explain": "La tappa finale del ciclo dell'urea genera arginina, che oltre a essere idrolizzata ad urea e ornitina rappresenta un amminoacido utilizzabile per la sintesi di creatina e di ossido nitrico. Il ciclo non produce amminoacidi essenziali né converte l'urea in glucosio, perché l'urea è un prodotto di scarto eliminato con le urine.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q045",
+      "q": "Qual è la differenza fondamentale tra transaminazione e deaminazione ossidativa?",
+      "choices": [
+        "La transaminazione libera ammonio, mentre la deaminazione ossidativa non lo libera",
+        "Entrambe richiedono la biotina come cofattore",
+        "La deaminazione ossidativa trasferisce il gruppo amminico a un chetoacido",
+        "La transaminazione trasferisce il gruppo amminico a un chetoacido, mentre la deaminazione ossidativa libera ammonio",
+        "La transaminazione avviene solo nel rene e la deaminazione solo nel muscolo"
+      ],
+      "answer": 3,
+      "explain": "Nella transaminazione il gruppo amminico passa da un amminoacido a un α-chetoacido senza produzione di ammonio libero, mentre la deaminazione ossidativa del glutammato genera direttamente ione ammonio. Proprio per questo la glutammato deidrogenasi è la principale fonte di ammonio destinato al ciclo dell'urea.",
+      "slide": 69
+    },
+    {
+      "id": "d04-b08-q046",
+      "q": "In quale forma l'azoto viene trasportato nel sangue dal muscolo al fegato senza provocare tossicità?",
+      "choices": [
+        "Come ammonio libero",
+        "Come acido urico",
+        "Come alanina e glutammina",
+        "Come urea legata all'albumina",
+        "Come ossido nitrico"
+      ],
+      "answer": 2,
+      "explain": "L'ammonio libero è neurotossico, quindi viene veicolato sotto forma di amminoacidi non tossici, soprattutto alanina e glutammina. L'urea è il prodotto finale del processo e viene trasportata al rene per l'escrezione, non rappresenta il veicolo primario dal muscolo.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q047",
+      "q": "Perché l'acetil-coenzima A è considerato un nodo centrale del metabolismo intermedio?",
+      "choices": [
+        "Perché può essere convertito direttamente in glucosio",
+        "Perché è l'unico precursore degli amminoacidi essenziali",
+        "Perché contiene azoto e può entrare nel ciclo dell'urea",
+        "Perché viene prodotto soltanto nel digiuno",
+        "Perché raccoglie il carbonio di glucidi, grassi e amminoacidi e lo incanala verso il ciclo di Krebs"
+      ],
+      "answer": 4,
+      "explain": "L'acetil-coenzima A è il punto di convergenza del catabolismo di carboidrati, lipidi e molti amminoacidi e alimenta il ciclo di Krebs oppure la sintesi dei corpi chetonici e degli acidi grassi. Non contiene azoto, non è precursore degli amminoacidi e nell'uomo non può essere convertito in glucosio.",
+      "slide": 73
+    },
+    {
+      "id": "d04-b08-q048",
+      "q": "Quale amminoacido è considerato esclusivamente chetogenico nell'uomo?",
+      "choices": [
+        "L'alanina",
+        "La leucina",
+        "Il glutammato",
+        "La serina",
+        "L'aspartato"
+      ],
+      "answer": 1,
+      "explain": "La leucina viene degradata ad acetil-coenzima A e acetoacetato e non fornisce intermedi gluconeogenetici, perciò è l'unico amminoacido puramente chetogenico insieme alla lisina. Alanina, serina, glutammato e aspartato sono gluconeogenici perché danno piruvato o intermedi del ciclo di Krebs.",
+      "slide": 71
+    },
+    {
+      "id": "d04-b08-q049",
+      "q": "Quale ormone stimola la sintesi proteica e l'ingresso degli amminoacidi nelle cellule dopo un pasto?",
+      "choices": [
+        "L'insulina",
+        "Il glucagone",
+        "Il cortisolo",
+        "L'adrenalina",
+        "La somatostatina"
+      ],
+      "answer": 0,
+      "explain": "L'insulina favorisce l'ingresso degli amminoacidi nelle cellule, attiva la sintesi proteica e riduce la degradazione delle proteine. Il cortisolo e il glucagone hanno invece effetto catabolico e stimolano la proteolisi e la gluconeogenesi.",
+      "slide": 70
+    },
+    {
+      "id": "d04-b08-q050",
+      "q": "Quale dei seguenti amminoacidi deve essere introdotto con la dieta perché essenziale?",
+      "choices": [
+        "L'alanina",
+        "Il glutammato",
+        "La serina",
+        "La lisina",
+        "L'aspartato"
+      ],
+      "answer": 3,
+      "explain": "La lisina è un amminoacido essenziale: l'uomo non possiede la via biosintetica per il suo scheletro carbonioso e deve assumerla con le proteine alimentari. Alanina, glutammato, serina e aspartato sono invece sintetizzabili a partire da piruvato, α-chetoglutarato e 3-fosfoglicerato.",
+      "slide": 69
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "deck": 3,
+  "batch": 3,
+  "topic": "Chilomicroni, VLDL, LDL, HDL e lipoproteinlipasi",
+  "questions": [
+    {
+      "id": "d03-b03-q001",
+      "q": "Qual è la funzione principale dei chilomicroni nel trasporto lipidico?",
+      "choices": [
+        "Trasportano il colesterolo in eccesso dai tessuti periferici al fegato",
+        "Trasportano i trigliceridi sintetizzati nel fegato verso il tessuto adiposo",
+        "Trasportano i trigliceridi alimentari dall'intestino ai tessuti",
+        "Trasportano gli acidi grassi liberi legati all'albumina plasmatica",
+        "Trasportano i corpi chetonici dal fegato al sistema nervoso centrale"
+      ],
+      "answer": 2,
+      "explain": "I chilomicroni sono le lipoproteine più ricche di trigliceridi e veicolano i lipidi assorbiti con la dieta dall'intestino tenue ai tessuti periferici. Il trasporto del colesterolo dai tessuti al fegato è invece compito delle HDL, mentre gli acidi grassi liberi viaggiano nel plasma legati all'albumina e non dentro i chilomicroni.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q002",
+      "q": "Quale classe di lipoproteine è la più ricca di trigliceridi e presenta la densità più bassa?",
+      "choices": [
+        "I chilomicroni",
+        "Le VLDL",
+        "Le LDL",
+        "Le HDL",
+        "I chilomicroni remnant"
+      ],
+      "answer": 0,
+      "explain": "I chilomicroni contengono la quota più elevata di trigliceridi e, avendo la maggior proporzione lipidica rispetto alle proteine, sono le lipoproteine meno dense. Le VLDL sono anch'esse ricche di trigliceridi ma hanno densità superiore, mentre LDL e HDL sono progressivamente più dense e più povere di trigliceridi.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q003",
+      "q": "Disponendo le principali lipoproteine in ordine di densità crescente, quale sequenza è corretta?",
+      "choices": [
+        "HDL, LDL, VLDL, chilomicroni",
+        "LDL, VLDL, HDL, chilomicroni",
+        "VLDL, chilomicroni, LDL, HDL",
+        "HDL, chilomicroni, VLDL, LDL",
+        "Chilomicroni, VLDL, LDL, HDL"
+      ],
+      "answer": 4,
+      "explain": "La densità aumenta man mano che diminuisce la proporzione di lipidi e aumenta quella proteica, quindi la sequenza crescente è chilomicroni, VLDL, LDL e HDL. La sequenza inversa, che pone le HDL al primo posto, descrive in realtà l'ordine di densità decrescente e confonde due parametri opposti.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q004",
+      "q": "Quale lipoproteina trasporta il colesterolo dal fegato verso i tessuti periferici?",
+      "choices": [
+        "Le HDL",
+        "Le LDL",
+        "I chilomicroni",
+        "Le VLDL",
+        "L'albumina"
+      ],
+      "answer": 1,
+      "explain": "Le LDL rappresentano il prodotto finale del catabolismo delle VLDL e sono la principale lipoproteina di trasporto del colesterolo dal fegato ai tessuti periferici. Le HDL svolgono il percorso opposto, riportando il colesterolo in eccesso dai tessuti al fegato, quindi non possono essere la risposta corretta.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q005",
+      "q": "Quale lipoproteina è responsabile del trasporto inverso del colesterolo?",
+      "choices": [
+        "Le LDL",
+        "Le VLDL",
+        "I chilomicroni",
+        "Le HDL",
+        "I remnant dei chilomicroni"
+      ],
+      "answer": 3,
+      "explain": "Le HDL prelevano il colesterolo in eccesso dai tessuti periferici e lo riportano al fegato, dove può essere eliminato o convertito in acidi biliari; per questo si parla di trasporto inverso. Le LDL, al contrario, distribuiscono il colesterolo dal fegato ai tessuti e svolgono un ruolo opposto.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q006",
+      "q": "Quale apolipoproteina attiva la lipoproteinlipasi sulla superficie dei chilomicroni e delle VLDL?",
+      "choices": [
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina B-48",
+        "L'apolipoproteina E",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B-100"
+      ],
+      "answer": 0,
+      "explain": "L'apolipoproteina C-II è il cofattore che attiva la lipoproteinlipasi, permettendo l'idrolisi dei trigliceridi trasportati da chilomicroni e VLDL. L'apolipoproteina B-48 ha invece funzione strutturale sul chilomicrone e non attiva l'enzima, quindi non può svolgere questo ruolo.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q007",
+      "q": "Quale apolipoproteina rappresenta la principale proteina strutturale dei chilomicroni?",
+      "choices": [
+        "L'apolipoproteina B-100",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina B-48",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina E"
+      ],
+      "answer": 2,
+      "explain": "L'apolipoproteina B-48 è la proteina strutturale caratteristica dei chilomicroni e resta associata alla particella durante il suo transito plasmatico. L'apolipoproteina B-100 è invece la proteina strutturale delle VLDL e delle LDL, non dei chilomicroni.",
+      "slide": 25
+    },
+    {
+      "id": "d03-b03-q008",
+      "q": "Da quale enzima vengono idrolizzati i trigliceridi contenuti nei chilomicroni?",
+      "choices": [
+        "Dalla lipasi epatica",
+        "Dalla lipoproteinlipasi",
+        "Dalla lecitina colesterolo aciltransferasi",
+        "Dall'acetil-CoA carbossilasi",
+        "Dalla carnitina aciltransferasi I"
+      ],
+      "answer": 1,
+      "explain": "La lipoproteinlipasi, ancorata all'endotelio dei capillari dei tessuti extraepatici, idrolizza i trigliceridi del core dei chilomicroni liberando acidi grassi. La lipasi epatica agisce invece a livello del fegato sui remnant e sulle HDL, e la LCAT è coinvolta nell'esterificazione del colesterolo nel plasma.",
+      "slide": 26
+    },
+    {
+      "id": "d03-b03-q009",
+      "q": "Quali prodotti si formano dall'idrolisi dei trigliceridi dei chilomicroni operata dalla lipoproteinlipasi?",
+      "choices": [
+        "Glicerolo-3-fosfato e colesterolo esterificato",
+        "Acetil-CoA e NADH",
+        "Corpi chetonici e glucosio",
+        "Acidi grassi liberi e glicerolo",
+        "Fosfolipidi e apolipoproteine"
+      ],
+      "answer": 3,
+      "explain": "L'idrolisi enzimatica dei trigliceridi libera acidi grassi e glicerolo, che rappresentano i prodotti diretti dell'attività della lipoproteinlipasi. L'acetil-CoA non è un prodotto della lipolisi ma il risultato della successiva β-ossidazione degli acidi grassi all'interno dei mitocondri.",
+      "slide": 26
+    },
+    {
+      "id": "d03-b03-q010",
+      "q": "Dove avviene principalmente la liberazione dei trigliceridi dai chilomicroni?",
+      "choices": [
+        "Sui capillari del tessuto adiposo e del muscolo, per la lipoproteinlipasi",
+        "Nel lume del piccolo intestino, durante l'assorbimento dei lipidi",
+        "Nel citosol degli epatociti, dopo l'internalizzazione del remnant",
+        "Nel reticolo endoplasmatico degli adipociti, dove si assemblano i lipidi",
+        "Nel sangue, in assenza di qualunque enzima lipolitico plasmatico"
+      ],
+      "answer": 0,
+      "explain": "I chilomicroni cedono i loro trigliceridi a livello dei capillari dei tessuti periferici, dove la lipoproteinlipasi è ancorata all'endotelio e idrolizza i lipidi del core. Nel lume intestinale avviene invece l'assemblaggio dei chilomicroni, non la loro lipolisi.",
+      "slide": 26
+    },
+    {
+      "id": "d03-b03-q011",
+      "q": "Quale dei tre enzimi chiave del metabolismo delle lipoproteine è localizzato nel tessuto adiposo e nel muscolo?",
+      "choices": [
+        "La lipasi epatica",
+        "La lecitina colesterolo aciltransferasi",
+        "La lipasi ormono-sensibile",
+        "L'acetil-CoA carbossilasi",
+        "La lipoproteinlipasi"
+      ],
+      "answer": 4,
+      "explain": "La lipoproteinlipasi è l'enzima associato all'endotelio dei capillari del tessuto adiposo e del muscolo striato, dove idrolizza i trigliceridi delle lipoproteine. La lipasi epatica e la LCAT sono invece enzimi epatici e non svolgono la loro azione principale in questi distretti.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q012",
+      "q": "In quale organo è localizzata la lipasi epatica?",
+      "choices": [
+        "Nel tessuto adiposo",
+        "Nel fegato",
+        "Nel muscolo scheletrico",
+        "Nell'intestino tenue",
+        "Nei macrofagi alveolari"
+      ],
+      "answer": 1,
+      "explain": "La lipasi epatica è un enzima del fegato che contribuisce alla maturazione dei remnant e al rimodellamento delle HDL. La lipoproteinlipasi è invece l'enzima dei tessuti adiposo e muscolare, quindi la sua localizzazione non corrisponde a quella della lipasi epatica.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q013",
+      "q": "Dove viene sintetizzata la lecitina colesterolo aciltransferasi?",
+      "choices": [
+        "Nel tessuto adiposo",
+        "Nel muscolo cardiaco",
+        "Nel pancreas esocrino",
+        "Nel fegato",
+        "Nelle ghiandole surrenali"
+      ],
+      "answer": 3,
+      "explain": "La lecitina colesterolo aciltransferasi è prodotta dal fegato e agisce nel plasma, dove trasferisce un acile dalla lecitina al colesterolo formando esteri del colesterolo. Il tessuto adiposo e il muscolo sono sedi di azione della lipoproteinlipasi, non della sintesi di questo enzima.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q014",
+      "q": "Quale enzima catalizza il trasferimento di un acido grasso dalla lecitina al colesterolo, formando un estere del colesterolo?",
+      "choices": [
+        "La lecitina colesterolo aciltransferasi, che trasferisce un acile al colesterolo",
+        "La lipoproteinlipasi, che idrolizza i trigliceridi delle lipoproteine",
+        "La lipasi epatica, che idrolizza i trigliceridi residui dei remnant",
+        "La colesterolo esterasi pancreatica, che idrolizza gli esteri della dieta",
+        "La fosfolipasi A2, che stacca gli acidi grassi dai fosfolipidi di membrana"
+      ],
+      "answer": 0,
+      "explain": "La lecitina colesterolo aciltransferasi, agendo nel plasma, trasferisce un acile dalla fosfatidilcolina al colesterolo libero e genera colesterolo esterificato. La lipoproteinlipasi idrolizza invece i trigliceridi delle lipoproteine e non esterifica il colesterolo.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q015",
+      "q": "Quali sono i tre enzimi indicati come principali nel metabolismo delle lipoproteine?",
+      "choices": [
+        "Lipoproteinlipasi, acetil-CoA carbossilasi e carnitina aciltransferasi I",
+        "Lipasi epatica, colesterolo esterasi e fosfolipasi A2",
+        "Lipoproteinlipasi, lipasi epatica e lecitina colesterolo aciltransferasi",
+        "Lipoproteinlipasi, lipasi ormono-sensibile e lecitina colesterolo aciltransferasi",
+        "Lipasi epatica, lecitina colesterolo aciltransferasi e acetil-CoA carbossilasi"
+      ],
+      "answer": 2,
+      "explain": "Il metabolismo delle lipoproteine si basa su tre enzimi chiave: la lipoproteinlipasi, la lipasi epatica e la lecitina colesterolo aciltransferasi. L'acetil-CoA carbossilasi e la carnitina aciltransferasi I appartengono invece alla sintesi e all'ingresso mitocondriale degli acidi grassi, non al metabolismo delle lipoproteine.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q016",
+      "q": "Su quali substrati agisce principalmente la lipasi epatica?",
+      "choices": [
+        "Sui trigliceridi dei chilomicroni nascenti nel dotto toracico",
+        "Sui trigliceridi residui dei remnant e sui fosfolipidi delle HDL",
+        "Sui trigliceridi del tessuto adiposo durante il digiuno",
+        "Sul colesterolo libero delle LDL",
+        "Sugli acidi grassi legati all'albumina"
+      ],
+      "answer": 1,
+      "explain": "La lipasi epatica opera nel fegato sui trigliceridi residui dei remnant dei chilomicroni e sui fosfolipidi delle HDL, contribuendo al loro rimodellamento. La lipolisi dei trigliceridi immagazzinati nell'adipocita è invece compito della lipasi ormono-sensibile, attivata nel digiuno.",
+      "slide": 27
+    },
+    {
+      "id": "d03-b03-q017",
+      "q": "Su quali lipoproteine agisce la lipoproteinlipasi idrolizzando i trigliceridi?",
+      "choices": [
+        "Sui chilomicroni e sulle VLDL, le più ricche di trigliceridi",
+        "Sulle LDL e sulle HDL, le lipoproteine povere di trigliceridi",
+        "Sulle HDL e sui remnant, che cedono trigliceridi al fegato",
+        "Sulle LDL e sui chilomicroni, durante il transito plasmatico",
+        "Sulle VLDL e sulle LDL, dopo la loro secrezione epatica"
+      ],
+      "answer": 0,
+      "explain": "La lipoproteinlipasi idrolizza i trigliceridi contenuti nei chilomicroni e nelle VLDL, le due classi più ricche di trigliceridi. LDL e HDL sono povere di trigliceridi, quindi non rappresentano il substrato principale dell'enzima.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q018",
+      "q": "Quali destini possono seguire gli acidi grassi liberati dall'azione della lipoproteinlipasi?",
+      "choices": [
+        "Vengono riesterificati nel plasma e formano nuovi trigliceridi",
+        "Vengono convertiti in colesterolo all'interno del sangue",
+        "Si legano alle HDL e vengono ossidati direttamente nel plasma",
+        "Vengono eliminati per via renale sotto forma di acidi grassi",
+        "Entrano nei tessuti oppure si legano all'albumina del plasma"
+      ],
+      "answer": 4,
+      "explain": "Dopo la lipolisi gli acidi grassi possono essere captati direttamente dalle cellule dei tessuti oppure legarsi all'albumina e raggiungere altri distretti attraverso il circolo. La riesterificazione avviene all'interno delle cellule, per esempio nell'adipocita, e non liberamente nel plasma.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q019",
+      "q": "Nel muscolo scheletrico e cardiaco, quale destino prevalente hanno gli acidi grassi liberati dalla lipoproteinlipasi?",
+      "choices": [
+        "Sono riconvertiti in trigliceridi di riserva",
+        "Sono convertiti in acidi biliari",
+        "Sono esterificati a colesterolo",
+        "Sono ossidati per ricavare energia",
+        "Sono immagazzinati come glicogeno"
+      ],
+      "answer": 3,
+      "explain": "Nel muscolo scheletrico e cardiaco gli acidi grassi sono ossidati per produrre energia, coerentemente con la funzione contrattile di questi tessuti. La riconversione a trigliceridi di riserva è invece tipica del tessuto adiposo e non del muscolo.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q020",
+      "q": "Nel tessuto adiposo, quale destino hanno gli acidi grassi liberati dalla lipoproteinlipasi?",
+      "choices": [
+        "Sono ossidati immediatamente per produrre ATP",
+        "Sono trasformati in corpi chetonici",
+        "Sono riconvertiti in trigliceridi di riserva",
+        "Sono utilizzati per sintetizzare acidi biliari",
+        "Sono escreti come acidi grassi liberi"
+      ],
+      "answer": 2,
+      "explain": "L'adipocita riesterifica gli acidi grassi a trigliceridi, che costituiscono la principale riserva energetica dell'organismo. L'ossidazione immediata per produrre ATP è invece la via prevalente nel muscolo scheletrico e cardiaco.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q021",
+      "q": "Quale proteina plasmatica trasporta gli acidi grassi liberi nel sangue?",
+      "choices": [
+        "L'apolipoproteina B-100",
+        "L'albumina",
+        "La transferrina",
+        "L'emoglobina",
+        "La ceruloplasmina"
+      ],
+      "answer": 1,
+      "explain": "Gli acidi grassi liberi, poco solubili in acqua, viaggiano nel plasma legati all'albumina, che li veicola ai tessuti. Le apolipoproteine trasportano i lipidi all'interno delle lipoproteine, ma non sono il trasportatore degli acidi grassi liberi.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q022",
+      "q": "Per quale motivo gli acidi grassi liberi necessitano di una proteina di trasporto nel plasma?",
+      "choices": [
+        "Perché sono troppo grandi per diffondere nel plasma",
+        "Perché vengono ossidati direttamente nel sangue",
+        "Perché devono essere attivati a carnitina nel plasma",
+        "Perché sono carichi positivamente a pH fisiologico",
+        "Perché sono molecole apolari e praticamente insolubili in acqua"
+      ],
+      "answer": 4,
+      "explain": "Gli acidi grassi hanno una catena idrocarburica apolare che li rende quasi insolubili nel plasma, quindi devono essere legati all'albumina per essere trasportati. La loro dimensione molecolare è piccola e non rappresenta il motivo del legame con l'albumina.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q023",
+      "q": "Qual è il prodotto immediato dell'azione della lipoproteinlipasi sui trigliceridi?",
+      "choices": [
+        "La liberazione di acidi grassi dal glicerolo",
+        "La sintesi di nuovi trigliceridi",
+        "La formazione di corpi chetonici",
+        "La conversione degli acidi grassi in glucosio",
+        "La sintesi di colesterolo"
+      ],
+      "answer": 0,
+      "explain": "La lipoproteinlipasi catalizza l'idrolisi del legame estere dei trigliceridi, liberando acidi grassi e glicerolo. La sintesi di trigliceridi è una reazione opposta, catalizzata da altri enzimi all'interno delle cellule.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q024",
+      "q": "La lipoproteinlipasi svolge la sua azione idrolitica a livello di quale compartimento?",
+      "choices": [
+        "Nel citosol degli epatociti, dove avviene la sintesi degli acidi grassi",
+        "Nel lume del piccolo intestino, dove si assemblano i chilomicroni",
+        "Nella matrice mitocondriale del muscolo, sede della β-ossidazione",
+        "Sulla superficie luminale dell'endotelio dei capillari extraepatici",
+        "Nel nucleo delle cellule adipose, dove si trascrivono i geni"
+      ],
+      "answer": 3,
+      "explain": "La lipoproteinlipasi è ancorata alla superficie luminale dell'endotelio dei capillari, dove entra in contatto con i chilomicroni e le VLDL circolanti. Nel fegato l'enzima è assente e la matrice mitocondriale è la sede della β-ossidazione, non della lipolisi intravascolare.",
+      "slide": 28
+    },
+    {
+      "id": "d03-b03-q025",
+      "q": "In quali tessuti la lipoproteinlipasi è maggiormente rappresentata?",
+      "choices": [
+        "Nel fegato e nel rene, dove prevale la lipasi epatica",
+        "Nel polmone e nella milza, ricchi di macrofagi tissutali residenti",
+        "Nel tessuto adiposo e nel muscolo striato, la sede principale",
+        "Nel pancreas e nella tiroide, dove si producono ormoni",
+        "Nel cervello e nel midollo osseo, distretti non lipolitici"
+      ],
+      "answer": 2,
+      "explain": "La lipoproteinlipasi è sintetizzata in molti tessuti, ma la sua presenza maggiore si riscontra nel tessuto adiposo e nel muscolo striato, dove regola la captazione dei lipidi. Il fegato ne è privo, quindi non può essere annoverato tra le sedi principali dell'enzima.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q026",
+      "q": "In quale organo la lipoproteinlipasi è assente?",
+      "choices": [
+        "Nel tessuto adiposo",
+        "Nel fegato",
+        "Nel muscolo cardiaco",
+        "Nel muscolo scheletrico",
+        "Nei macrofagi"
+      ],
+      "answer": 1,
+      "explain": "La lipoproteinlipasi è espressa in numerosi tessuti, compresi i macrofagi, ma è assente nel fegato, che utilizza la lipasi epatica. Indicare il tessuto adiposo come sede di assenza dell'enzima è errato, perché proprio l'adipocita è una delle sue sedi principali.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q027",
+      "q": "Oltre al tessuto adiposo e al muscolo striato, in quali cellule è stata dimostrata la presenza della lipoproteinlipasi?",
+      "choices": [
+        "Negli eritrociti maturi",
+        "Nei linfociti T citotossici",
+        "Nelle piastrine",
+        "Nei neuroni del sistema nervoso centrale",
+        "Nei macrofagi"
+      ],
+      "answer": 4,
+      "explain": "La lipoproteinlipasi è una glicoproteina sintetizzata in molti tessuti e la sua presenza è documentata anche nei macrofagi. Gli eritrociti maturi sono privi di nucleo e di ribosomi e non sintetizzano questa glicoproteina.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q028",
+      "q": "Che cosa indica la definizione di glicoproteina riferita alla lipoproteinlipasi?",
+      "choices": [
+        "Che l'enzima è una proteina con catene glucidiche legate",
+        "Che l'enzima è costituito soltanto da residui glucidici",
+        "Che l'enzima utilizza il glucosio come substrato della reazione",
+        "Che l'enzima richiede glicogeno per svolgere la sua azione",
+        "Che l'enzima trasferisce glucidi ai trigliceridi del core"
+      ],
+      "answer": 0,
+      "explain": "Una glicoproteina è una molecola proteica che porta catene oligosaccaridiche legate covalentemente, come nel caso della lipoproteinlipasi. Il glucosio non è il substrato dell'enzima, che agisce invece sui trigliceridi delle lipoproteine.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q029",
+      "q": "Nel tessuto adiposo, quale ormone induce l'attività della lipoproteinlipasi?",
+      "choices": [
+        "Il glucagone",
+        "L'adrenalina",
+        "Il cortisolo",
+        "L'insulina",
+        "L'ormone della crescita"
+      ],
+      "answer": 3,
+      "explain": "Nel tessuto adiposo l'insulina induce la lipoproteinlipasi, favorendo dopo il pasto la captazione degli acidi grassi e la loro deposizione come trigliceridi. Il glucagone e l'adrenalina sono ormoni del digiuno e stimolano piuttosto la mobilizzazione dei lipidi.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q030",
+      "q": "Come varia l'attività della lipoproteinlipasi nel tessuto adiposo dopo un pasto?",
+      "choices": [
+        "Diminuisce, perché prevale il glucagone",
+        "Resta invariata rispetto al digiuno",
+        "Aumenta, per effetto dell'induzione insulinica",
+        "Aumenta solo nel muscolo, non nell'adiposo",
+        "Si annulla completamente per qualche ora"
+      ],
+      "answer": 2,
+      "explain": "Dopo un pasto la secrezione di insulina induce la lipoproteinlipasi del tessuto adiposo, la cui attività diventa elevata e permette di immagazzinare i lipidi assorbiti. L'aumento dell'attività nel digiuno caratterizza invece il muscolo, non il tessuto adiposo.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q031",
+      "q": "Come varia l'attività della lipoproteinlipasi nel muscolo scheletrico e cardiaco dopo un pasto?",
+      "choices": [
+        "Aumenta in modo marcato",
+        "Diminuisce",
+        "Resta costante",
+        "Si annulla e poi raddoppia",
+        "Aumenta solo nel muscolo liscio"
+      ],
+      "answer": 1,
+      "explain": "Nel periodo post-prandiale l'attività della lipoproteinlipasi aumenta nel tessuto adiposo e diminuisce nel muscolo scheletrico e cardiaco, così i lipidi vengono preferenzialmente depositati. Nel muscolo l'attività dell'enzima aumenta invece in condizioni di digiuno.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q032",
+      "q": "In condizioni di digiuno, l'attività della lipoproteinlipasi nel muscolo tende a:",
+      "choices": [
+        "Aumentare",
+        "Diminuire fino ad annullarsi",
+        "Rimanere invariata",
+        "Diventare uguale a quella del fegato",
+        "Essere indotta dall'insulina"
+      ],
+      "answer": 0,
+      "explain": "Nel digiuno l'attività della lipoproteinlipasi muscolare aumenta, favorendo la captazione degli acidi grassi a scopo ossidativo da parte del muscolo. L'induzione insulinica riguarda invece l'enzima del tessuto adiposo nel periodo post-prandiale.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q033",
+      "q": "Nel paziente diabetico, a che cosa è dovuta l'ipertrigliceridemia?",
+      "choices": [
+        "A un aumento dell'attività della lipoproteinlipasi nel muscolo",
+        "A un eccesso di lipasi epatica che idrolizza i remnant nel fegato",
+        "A un aumento dell'attività della LCAT plasmatica circolante",
+        "A una maggiore sintesi epatica di chilomicroni ricchi di trigliceridi",
+        "A una ridotta attività della lipoproteinlipasi adiposa per carenza di insulina"
+      ],
+      "answer": 4,
+      "explain": "Nel diabete l'insulina non esercita la sua azione, quindi la lipoproteinlipasi del tessuto adiposo è poco attiva e i trigliceridi restano nel plasma determinando ipertrigliceridemia. Un aumento dell'attività della lipoproteinlipasi muscolare non spiegherebbe l'accumulo plasmatico di trigliceridi.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q034",
+      "q": "Per quale motivo, nel diabetico, la lipoproteinlipasi del tessuto adiposo risulta scarsamente attiva?",
+      "choices": [
+        "Perché l'enzima viene degradato dai chilomicroni in circolo",
+        "Perché il pH del tessuto adiposo diventa troppo acido",
+        "Perché l'enzima viene trasferito al fegato e degradato",
+        "Perché manca l'induzione insulinica dell'enzima",
+        "Perché aumenta la sintesi della lipasi epatica nel fegato"
+      ],
+      "answer": 3,
+      "explain": "L'attività della lipoproteinlipasi adipocitaria dipende dall'induzione insulinica, che nel diabetico è carente; da qui deriva la ridotta idrolisi dei trigliceridi delle lipoproteine. La lipasi epatica è un enzima diverso e il suo aumento non ripristina l'attività dell'enzima adipocitario.",
+      "slide": 29
+    },
+    {
+      "id": "d03-b03-q035",
+      "q": "Quale recettore media l'ingresso delle LDL nelle cellule?",
+      "choices": [
+        "Il recettore per l'insulina, che segnala l'ingresso del glucosio",
+        "Il recettore per le LDL, che lega l'apolipoproteina B-100",
+        "Il recettore per l'apolipoproteina A-I, tipico delle HDL",
+        "Il recettore per l'albumina, che capta gli acidi grassi",
+        "Il recettore per il glucagone, che mobilita il glicogeno"
+      ],
+      "answer": 1,
+      "explain": "Le LDL vengono riconosciute dal recettore per le LDL, che lega l'apolipoproteina B-100 presente sulla loro superficie. Il recettore per l'apolipoproteina A-I appartiene invece al sistema delle HDL e non media l'ingresso delle LDL.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q036",
+      "q": "Con quale meccanismo la cellula internalizza le particelle di LDL?",
+      "choices": [
+        "Con l'endocitosi mediata da recettore",
+        "Con la diffusione semplice attraverso la membrana",
+        "Con il trasporto attivo primario",
+        "Con la fagocitosi mediata da anticorpi",
+        "Con l'osmosi"
+      ],
+      "answer": 0,
+      "explain": "Le LDL si legano a un recettore specifico di membrana e vengono internalizzate in vescicole attraverso l'endocitosi mediata da recettore. La diffusione semplice non è compatibile con una particella lipoproteica di grandi dimensioni.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q037",
+      "q": "Dopo l'internalizzazione, in quale compartimento cellulare le LDL vengono degradate?",
+      "choices": [
+        "Nel nucleo",
+        "Nel reticolo endoplasmatico liscio",
+        "Nell'apparato di Golgi",
+        "Nel citosol libero",
+        "Nei lisosomi"
+      ],
+      "answer": 4,
+      "explain": "Le vescicole di endocitosi si fondono con i lisosomi, dove gli enzimi idrolitici degradano le LDL e liberano colesterolo utilizzabile dalla cellula. Il reticolo endoplasmatico e l'apparato di Golgi sono sedi di sintesi e modificazione delle proteine, non della degradazione delle lipoproteine.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q038",
+      "q": "Quando il colesterolo intracellulare è abbondante, quale enzima della sintesi del colesterolo viene inibito?",
+      "choices": [
+        "La lipoproteinlipasi",
+        "La lecitina colesterolo aciltransferasi",
+        "L'HMG-CoA reduttasi",
+        "La carnitina aciltransferasi I",
+        "La lipasi ormono-sensibile"
+      ],
+      "answer": 2,
+      "explain": "L'HMG-CoA reduttasi catalizza la tappa limitante della sintesi endogena del colesterolo e viene inibita quando la cellula dispone già di colesterolo sufficiente. La lipoproteinlipasi e la lecitina colesterolo aciltransferasi operano nel metabolismo delle lipoproteine e non nella biosintesi del colesterolo.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q039",
+      "q": "Quale apolipoproteina presente sulle LDL è riconosciuta dal recettore delle LDL?",
+      "choices": [
+        "L'apolipoproteina B-100",
+        "L'apolipoproteina B-48",
+        "L'apolipoproteina C-II",
+        "L'apolipoproteina A-I",
+        "L'apolipoproteina E"
+      ],
+      "answer": 0,
+      "explain": "Il recettore per le LDL lega l'apolipoproteina B-100, la proteina strutturale delle LDL e delle VLDL. L'apolipoproteina B-48 è invece tipica dei chilomicroni e non è il ligando principale di questo recettore.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q040",
+      "q": "L'ipercolesterolemia familiare è causata da un difetto ereditario di quale funzione?",
+      "choices": [
+        "Della lipoproteinlipasi",
+        "Della lecitina colesterolo aciltransferasi",
+        "Della carnitina aciltransferasi I",
+        "Del recettore per le LDL",
+        "Dell'acetil-CoA carbossilasi"
+      ],
+      "answer": 3,
+      "explain": "Un difetto del recettore per le LDL impedisce la captazione epatica e periferica delle LDL, che restano in circolo e determinano ipercolesterolemia. Il deficit di lipoproteinlipasi causa invece ipertrigliceridemia, perché il difetto riguarda il metabolismo dei trigliceridi.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q041",
+      "q": "Quale effetto ha l'aumento del colesterolo intracellulare sull'espressione dei recettori per le LDL?",
+      "choices": [
+        "La aumenta, favorendo l'ingresso di ulteriore colesterolo LDL",
+        "Ne riduce l'espressione, limitando l'ingresso di LDL",
+        "Non modifica l'espressione dei recettori di membrana",
+        "La aumenta solo nelle cellule muscolari striate",
+        "La rende indipendente dall'apporto di colesterolo esogeno"
+      ],
+      "answer": 1,
+      "explain": "Il colesterolo in eccesso riduce la sintesi dei recettori per le LDL, realizzando un controllo a retroazione che limita l'ulteriore ingresso di colesterolo nella cellula. Un aumento dei recettori produrrebbe un accumulo ancora maggiore, contrario alle esigenze della cellula.",
+      "slide": 30
+    },
+    {
+      "id": "d03-b03-q042",
+      "q": "Che cosa accade al chilomicrone remnant una volta raggiunto il fegato?",
+      "choices": [
+        "Viene riesportato intatto nel circolo sistemico",
+        "Viene convertito in HDL direttamente nel plasma",
+        "Viene ossidato direttamente nel sangue come acidi grassi",
+        "Viene escreto nella bile senza subire modifiche",
+        "Viene internalizzato e idrolizzato negli epatociti"
+      ],
+      "answer": 4,
+      "explain": "Nel fegato il chilomicrone remnant viene internalizzato e completamente idrolizzato, liberando i lipidi residui nell'epatocita. La sua riesportazione intatta nel circolo non corrisponde al destino metabolico del remnant.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q043",
+      "q": "Quali componenti del chilomicrone remnant sono rilasciati nell'epatocita?",
+      "choices": [
+        "L'albumina plasmatica e gli acidi grassi liberi",
+        "L'apolipoproteina A-I e la LCAT plasmatica",
+        "I trigliceridi residui e il colesterolo alimentare",
+        "Il glicogeno epatico e il glucosio plasmatico",
+        "I corpi chetonici e l'acetone del plasma"
+      ],
+      "answer": 2,
+      "explain": "Dall'idrolisi del remnant all'interno dell'epatocita vengono liberati i trigliceridi residui e il colesterolo proveniente dalla dieta. L'albumina non fa parte del remnant e la LCAT è un enzima plasmatico, non una componente lipidica del remnant.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q044",
+      "q": "I trigliceridi che entrano nel fegato attraverso la via dei remnant possono essere utilizzati per:",
+      "choices": [
+        "Costituire direttamente il glicogeno muscolare di riserva",
+        "Formare acidi biliari senza ossidazione mitocondriale",
+        "Essere escreti tal quali nella bile senza modifiche",
+        "Generare precursori per la sintesi dei corpi chetonici",
+        "Diventare immunoglobuline del sistema immunitario"
+      ],
+      "answer": 3,
+      "explain": "Nel fegato i trigliceridi provenienti dai remnant possono essere ossidati per ricavare energia oppure fornire precursori per la sintesi dei corpi chetonici. La conversione in glicogeno non è possibile, perché gli acidi grassi non sono precursori diretti del glicogeno.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q045",
+      "q": "Il colesterolo presente nell'epatocita può essere convertito in quali molecole?",
+      "choices": [
+        "In acidi biliari",
+        "In acidi grassi liberi",
+        "In glucosio attraverso la gluconeogenesi",
+        "In corpi chetonici",
+        "In amminoacidi essenziali"
+      ],
+      "answer": 0,
+      "explain": "L'epatocita converte il colesterolo in acidi biliari, che favoriscono la digestione e l'assorbimento dei lipidi. Gli acidi grassi e i corpi chetonici derivano invece dal metabolismo energetico dei lipidi e non dalla conversione del colesterolo.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q046",
+      "q": "Oltre a essere convertito in acidi biliari, quale destino può avere il colesterolo nell'epatocita?",
+      "choices": [
+        "Può essere trasformato in glucosio e immesso nel torrente circolatorio",
+        "Può essere degradato ossidativamente ad anidride carbonica e acqua",
+        "Può essere convertito in acidi grassi a catena molto lunga",
+        "Può essere incorporato nelle VLDL oppure esterificato negli adipociti",
+        "Può essere escreto nella bile senza subire alcuna modifica"
+      ],
+      "answer": 3,
+      "explain": "Il colesterolo epatico può essere incorporato nelle VLDL per essere esportato oppure esterificato e accumulato in goccioline lipidiche. La degradazione ossidativa ad anidride carbonica e acqua è una via propria degli acidi grassi, mentre il colesterolo non viene utilizzato come combustibile.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q047",
+      "q": "In quale lipoproteina sintetizzata dal fegato viene incorporato il colesterolo destinato ai tessuti periferici?",
+      "choices": [
+        "Nei chilomicroni",
+        "Nelle VLDL",
+        "Nelle LDL nascenti",
+        "Nelle HDL",
+        "Nell'albumina"
+      ],
+      "answer": 1,
+      "explain": "Il fegato incorpora colesterolo nelle VLDL, che una volta in circolo vengono progressivamente trasformate in LDL e distribuiscono il colesterolo ai tessuti. I chilomicroni sono invece prodotti dall'intestino e contengono lipidi della dieta.",
+      "slide": 31
+    },
+    {
+      "id": "d03-b03-q048",
+      "q": "Qual è l'emivita dei trigliceridi contenuti nell'adipocita?",
+      "choices": [
+        "Pochi minuti, con turnover nullo",
+        "Alcune settimane, con turnover scarso",
+        "Alcuni mesi, con turnover minimo",
+        "Un anno, con turnover assente",
+        "Pochi giorni, con un elevato turnover"
+      ],
+      "answer": 4,
+      "explain": "I trigliceridi dell'adipocita hanno un'emivita di pochi giorni e sono caratterizzati da un elevato turnover, cioè vengono continuamente sintetizzati e mobilizzati. Un'emivita di mesi o anni indicherebbe una riserva statica, che non corrisponde al dinamismo del tessuto adiposo.",
+      "slide": 32
+    },
+    {
+      "id": "d03-b03-q049",
+      "q": "Come si comportano i trigliceridi di riserva nel muscolo scheletrico?",
+      "choices": [
+        "Se ne accumula una piccola quantità, destinata al consumo locale",
+        "Si accumulano in grande quantità come principale riserva dell'organismo",
+        "Non sono mai presenti nel muscolo scheletrico",
+        "Vengono esportati nel plasma come chilomicroni",
+        "Costituiscono la sede principale dell'emivita di pochi giorni"
+      ],
+      "answer": 0,
+      "explain": "Nel muscolo scheletrico si accumula solo una piccola quantità di trigliceridi, utilizzata localmente per il consumo energetico del tessuto. La grande riserva dell'organismo è invece depositata nel tessuto adiposo, che presenta un turnover molto elevato.",
+      "slide": 32
+    },
+    {
+      "id": "d03-b03-q050",
+      "q": "Che cosa significa che i trigliceridi del tessuto adiposo presentano un elevato turnover?",
+      "choices": [
+        "Che restano immodificati per tutta la vita",
+        "Che aumentano di numero senza essere degradati",
+        "Che vengono continuamente sintetizzati e degradati",
+        "Che vengono convertiti in proteine strutturali",
+        "Che sono inerti dal punto di vista metabolico"
+      ],
+      "answer": 2,
+      "explain": "L'elevato turnover indica un continuo ricambio: i trigliceridi vengono sintetizzati e contemporaneamente idrolizzati per liberare acidi grassi. Considerarli metabolicamente inerti contraddice proprio il concetto di turnover elevato e l'emivita di pochi giorni.",
+      "slide": 32
+    }
+  ]
+}

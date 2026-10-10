@@ -1,0 +1,66 @@
+# Deck 2 — Metabolismo energetico e metabolismo dei carboidrati (2025-10-22)
+# Batch 4 — argomento: Assorbimento intestinale del glucosio e trasportatori SGLT1 e GLUT
+# Slide da 22 a 30
+
+### Slide 22
+ASSORBIMENTO del GLUCOSIO
+[Nelson D.L., Cox M.M. I principi di biochimica di Lehninger 8E, 2022, Zanichelli editore S.p.A.]
+
+### Slide 23
+TRASPORTO di GLICIDI
+lattasi galattoso
+lattoso glucoso ATP K+
+maltasi 2 Na+ Na+ Na+
+maltoso glucoso
+SGLT1 ADP
+isomaltasi +P
+isomaltoso glucoso
+K+
+maltotrioso alfa-glicosidasi
+destrina  -limite glucoso
+saccarasi glucoso galattoso
+saccaroso fruttoso GLUT5 GLUT2 glucoso
+fruttoso
+lume intestinale enterocita capillare
+
+### Slide 24
+GLUCOSE METABOLISM
+➢ Although the brain represents only 2% of the body
+weight, it receives 15% of the cardiac output, and
+consumes the 20% of total body oxygen and the
+25% of glucose at rest (120 g/die)
+
+### Slide 25
+(slide senza testo: contiene solo immagini)
+
+### Slide 26
+GLICOLISI
+
+### Slide 27
+(slide senza testo: contiene solo immagini)
+
+### Slide 28
+GLICOLISI
+Principale fonte di ENERGIA per:
+• cervello
+• eritrociti
+• testicolo
+• midollare renale
+• cornea
+• cristallino
+• tessuti embrionali
+Perché GLUCOSIO?
+➢ L’assorbimento di glucosio nel sangue è un
+❑ aerobica
+processo rapido. ❑ anaerobica
+
+### Slide 29
+La GLICOLISI presenta
+2 FASI:
+1. FASE PREPARATORIA
+2. FASE di RECUPERO
+ENERGETICO
+[Berg J.M. et al. Biochimica 8E, 2020, Zanichelli editore S.p.A.]
+
+### Slide 30
+(slide senza testo: contiene solo immagini)
