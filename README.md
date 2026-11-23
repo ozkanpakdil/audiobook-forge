@@ -1,6 +1,6 @@
-# Seven free books, read aloud — and the pipeline that reads them
+# Eight free books, read aloud — and the pipeline that reads them
 
-This repository holds the complete text of seven educational books written for
+This repository holds the complete text of eight educational books written for
 listening rather than reading, together with the cross-platform pipeline that
 turns any of them into MP3 audiobooks on your own machine.
 
@@ -25,7 +25,8 @@ Every book lives in its own folder under `books/`, with the same shape:
 | Emergency Wound and Trauma Care | `books/emergency-trauma-care/` | English | 49 chapters, 1 of 4 appendices | 221,822 | ~21.7 h |
 | Anatomy: A Narrated Question and Answer Bank | `books/anatomy-question-bank/` | English | 116 chapters, 11,600 questions | 737,942 | ~72.4 h |
 | Fractures and Dislocations: A Practical Course | `books/fractures-and-dislocations/` | English | 66 chapters, 4 appendices | 298,543 | ~29.3 h |
-| **Total** | | | | **2,525,656** | **~248 h** |
+| Clinical Case Studies: Twenty Cases That Went Wrong Before They Went Right | `books/clinical-case-studies/` | English | 20 chapters, 2 appendices | 89,797 | ~8.8 h |
+| **Total** | | | | **2,615,453** | **~256 h** |
 
 The books are written to be understood by ear: no tables, no bullet points, no
 symbols, acronyms spelled out letter by letter, and a plain summary at the end of
@@ -79,7 +80,7 @@ git clone <this repository> && cd <this repository>
 
 The launcher guides you through four steps before it spends any of your CPU:
 
-1. **Which book** — it lists the seven, with the words and the hours of audio in each.
+1. **Which book** — it lists the eight, with the words and the hours of audio in each.
 2. **Which engine** — it lists them and marks the ones installed on your machine.
 3. **Which voice and accent** — it lists the accents that engine has, can play the
    voices one by one so you can hear them, and takes a name you type. Choosing the
@@ -133,6 +134,7 @@ list of one brief per section named `OUTLINE.md`:
   `books/clinical-diagnosis/content/`, `books/emergency-trauma-care/content/`
 - `books/anatomy-question-bank/content/` — the narrated question and answer bank
 - `books/fractures-and-dislocations/content/` — the fractures and dislocations course
+- `books/clinical-case-studies/content/` — the narrated clinical case studies
 
 The contracts fix the length of a section, the vocabulary, the numbers that must not
 appear, the acronyms allowed as spoken short forms, and the rules each genre needs.
@@ -171,6 +173,7 @@ books/
   emergency-trauma-care/     Emergency Wound and Trauma Care
   anatomy-question-bank/     Anatomy, the narrated question and answer bank
   fractures-and-dislocations/  Fractures and Dislocations
+  clinical-case-studies/     Clinical Case Studies, twenty narrated cases
 quiz-src/                    how the biochemistry quiz was built: per-slide text,
                              the writing briefs, the validators and the self-test
 docs/                        the quiz web app itself, served by GitHub Pages

@@ -6,3 +6,4 @@ clinical-diagnosis	en	manual	CT,MRI,ECG,ENT,ICU,CPR,PPE	Clinical Diagnosis: A Pr
 emergency-trauma-care	en	manual	CT,MRI,CPR,PPE,ICU,ABCDE	Emergency Wound and Trauma Care	trauma,emergency,wound
 anatomy-question-bank	en	question bank	CT,MRI	Anatomy: A Narrated Question and Answer Bank	anatomy,anatomy-bank,anatomy-qa,questions
 fractures-and-dislocations	en	course	CT,MRI,CPR,PPE,ICU,ABCDE	Fractures and Dislocations: A Practical Course	fractures,dislocations,orthopedics,ortho
+clinical-case-studies	en	collection	CT,MRI,ECG,ICU	Clinical Case Studies: Twenty Cases That Went Wrong Before They Went Right	cases,case-studies,casebook,cases-studies
